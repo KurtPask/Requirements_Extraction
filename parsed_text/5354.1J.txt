@@ -1,0 +1,3058 @@
+[PAGE 1]
+DEPARTMENT OF THE NAVY 
+O FFICE OF THE CHIEF OF NA VAL OPERATIONS 
+2000 NAVY PENTAGON 
+W ASHINGTON, DC 20350-2000 
+OPNA V INSTRUCTION 5354, 1J 
+From: Chief of Naval Operations 
+OPNAVINST 5354,IJ 
+Nl 
+5 Jun 2025 
+Subj: NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY 
+PROGRAM 
+Ref: 
+See appendix A 
+l, Purpose 
+a, To issue policies and standards to aid in the prevention of and response to, harassment 
+and prohibited discrimination throughout the Navy, define requirements and assign responsibility 
+for implementation of the Navy's Harassment Prevention and Military Equal Opportunity 
+(MEO) Program per references (a) through (n). 
+b. This is an expedited revision to ensure compliance with Executive Orders released by the 
+President of the United States. A summary of changes to this instruction are outlined in 
+subparagraphs 1 b(l) and 1 b(2). 
+(1) Aligns with Executive Order 14151, Ending Radical and Wasteful Government DEi 
+Programs and Preferencing. 
+(2) Removes gender identity as a basis for prohibited discrimination and discriminatory 
+harassment complaints. 
+c. The policies in paragraphs lc(l) through lc(4) are still effective. 
+(1) Secretary of the Navy Policy Statement of June 24, 2022, Department of the Navy No 
+Wrong Door Policy. 
+(2) NA V AD MIN 022/24, Implementation of Confidential Reporting Option for Sexual 
+Harassment. 
+(3) Secretary of the Navy Memorandum of July 17, 2024, Misconduct Report Incident 
+Tracker Policy. 
+(4) ALNAV 001/25, Policy Governing Investigation and Handling of Formal Sexual 
+Harassment Complaints Starting January I, 2025, Under 10 U.S.C. 
+2. Cancellation. OPNAVINST 5354. lH. 
+
+
+[PAGE 2]
+3. Scope and Applicability 
+OPNA VINST 5354. lJ 
+5 Jun 2025 
+a. This instruction applies to all active-duty Navy personnel, both active and reserve 
+components; cadets and midshipmen of the United States Naval Academy and the Naval Reserve 
+Officers Training Corps; Navy Reserve personnel when performing active or inactive duty for 
+training or engaging in any activity directly related to the perfonnance of a Department of 
+Defense (DoD) Reserve duty or function; and members of other Services when assigned or 
+attached to a Navy unit. 
+b. Civilian employees who raise allegations of harassment or prohibited discrimination must 
+be referred to the appropriate servicing Equal Employment Opportunity (EEO) office. 
+4. Records Management 
+a. Records created as a result of this instruction, regardless of format or media, must be 
+maintained and dispositioned per the records disposition schedules found on Directives and 
+Records Management Division portal page at 
+https://portal.secnav.navy.mil/orgs/DUSNM/DONAA/DRM/Records-and-lnfonnation-
+Management/ Approved%20Record%20Schedules/Fonns/ Allltems.aspx. 
+b. For questions concerning the management of records related to this instruction or the 
+records disposition schedules, please contact the local records manager or the OPNA V Records 
+Management Program (DNS-16). 
+5. Review and Effective Date. Per OPNA VIN ST 5215.17 A, the Office of the Chief of Naval 
+Operations, Navy Culture and Force Resilience Office (OPNA V N 17), will review this 
+instruction rumually of its issuance date to ensure applicability, currency, and consistency with 
+Federal, DoD, Secretary of the Navy and Navy policy and statutory authority using OPNA V 
+5215/40 Review of Instruction. This instruction will be in effect for 10 years, unless revised or 
+cancelled in the interim and will be reissued by the 10-year anniversary date if it is still required, 
+unless it meets one of the exceptions in OPNAVINST 5215.17 A, paragraph 9. Otherwise, if the 
+instruction is no longer required, it will be processed for cancellation as soon as the need for 
+cancellation is known following the guidance in OPNAV Manual 5215.1 of May 2016. 
+6. Forms or Infonnation Management Control 
+a. Forms. The forms listed in subparagraphs 6a(l) through 6a(4) may be obtained from 
+Navy Fonns Online website at: https://forms.documentservices.dla.mil/order/. 
+(1) NA VPERS 5354/2 Navy Equal Opportunity (EO) and Sexual Harassment Report. 
+(2) NAVPERS 1626/7 Report and Disposition of Offense(s). 
+2 
+
+
+[PAGE 3]
+OPNA VINST 5354. lJ 
+5 Jun 2025 
+(3) OPNA V 5354/3 Command Climate Specialist Formal Harassment or Unlawful 
+Discrimination Report Sufficiency Review. 
+(4) OPNAV 5354/4 Command Climate Specialist Formal Harassment or Unlawful 
+Discrimination Report Higher Level Review. 
+(5) NA VPERS 15600E Equal Opportunity Information Poster, stock number 0500-LP-
+117-64 71, is available through the Navy Logistics Library website at: 
+https://nll.navsup.navy.mil/default.cfm. 
+b. Information Management Control. The data collection contained within this instruction 
+are exempt from control symbols per SECNAV M-5214.1 of December 2005, part IV, 
+subparagraphs 7g and 7n. 
+Releasability and distribution: 
+~ 
+J. CHEESEMAN, JR 
+Deputy Chief of Naval Operations 
+(Personnel, Manpower, and Training) 
+This instruction is cleared for public release and is available electronically only via Department 
+of the Navy Issuances website, https://www.secnav.navy.mil/doni/default.aspx. 
+3 
+
+
+[PAGE 4]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+TABLE OF CONTENTS 
+Chapter I 
+GENERAL INFORMATION 
+I. Purpose 
+1-1 
+2. Policy 
+1-1 
+3. Effective Communication in the Workplace 
+1-3 
+Chapter 2 
+DESTRUCTIVE BEHAVIORS COVERED BY THIS INSTRUCTION 
+I. Harassment 
+2-1 
+2. Prohibited Discrimination 
+2-6 
+3. Wrongful Broadcast or Distribution oflntimate Visual Images 
+2-6 
+Chapter 3 
+RESPONSIBILITIES 
+I. Deputy ChiefofNaval Operations (Personnel, Manpower, and Training) 
+3-1 
+2. Navy Harassment Prevention and Military Equal Opportunity Office 
+3-1 
+(OPNAV NI 70C) 
+3. Naval Inspector General and Echelon 2 Inspectors General 
+3-3 
+4. NETC 
+3-3 
+5. Commander, Commanding Officer, Officer in Charge and Civilian Equivalents 
+3-4 
+6. Command Resilience Team 
+3-7 
+7. Command Climate Specialist 
+3-8 
+8. Command Managed Equal Opportunity Program Manager 
+3-10 
+9. Service Member 
+3-12 
+Chapter4 
+PROCEDURES FOR SUBMITTING, HANDLING AND RESOLVING 
+INFORMAL HARASSMENT AND PROHIBITED DISCRIMINATION 
+COMPLAINTS 
+1. General Guidelines 
+4-1 
+2. Complainant Responsibilities 
+4-1 
+3. Conunand Responsibility 
+4-2 
+Figure 4-1: Informal Complaint Process Flow Chart 
+4-3 
+Chapter 5 
+PROCEDURES FOR SUBMITTING, HANDLING, APPEALING AND 
+REPORTING FORMAL AND ANONYMOUS HARASSMENT AND 
+PROHIBITED DISCRIMINATION COMPLAINTS 
+I. General Procedures 
+2. Complaint Processing 
+3. Complainant Responsibilities 
+4. Anonymous Complaints 
+5. Command Responsibility 
+6. Appeal Process 
+7. Appeal Compliance Review 
+5-1 
+5-1 
+5-3 
+5-4 
+5-5 
+5-11 
+5-12 
+
+
+[PAGE 5]
+Figure 5-1: Formal Complaint Process Flow Chart 
+Chapter 6 
+RETALIATION RESPONSE PROCEDURES 
+1. Purpose 
+2. Discussion 
+3. Procedures 
+Chapter 7 
+TRAINING 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+5-13 
+6-1 
+6-1 
+6-1 
+I. Common Training Requirements 
+7-1 
+2. Orientation Training 
+7-1 
+3. Common Military Training 
+7-1 
+4. Professional Military Education and Leadership Development Training 
+7-1 
+5. Harassment Prevention and MEO Training at Pre-Commissioning Programs 
+7-2 
+6. CMEO Program Manager Training 
+7-3 
+7. Sustaimnent Training 
+7-3 
+8. Annual CCS Training 
+7-3 
+9. Leadership Training Awareness Seminar (LT AS) 
+7-3 
+APPENDICES 
+Appendix A 
+-
+References 
+A-1 
+Appendix B 
+-
+Definitions 
+C-1 
+Appendix C 
+-
+Abbreviations and Acronyms 
+D-1 
+Appendix D 
+-
+Data Collection Requirements 
+E-1 
+Appendix E 
+-
+Command Managed Equal Opportunity Program Manager 
+F-1 
+Designation Letter 
+Appendix F 
+-
+Command Climate Specialist Checklist 
+G-1 
+Appendix G 
+-
+Command Managed Equal Opportunity Program Checklist 
+H-1 
+Appendix H 
+-
+Command Climate Assessment Process 
+I-1 
+Appendix I 
+-
+Equal Opportunity Annual Climate Assessment 
+J-1 
+Appendix J 
+-
+Military Equal Opportunity Resources 
+K-1 
+Appendix K 
+-
+Command Resilience Team Non-Disclosure Document 
+L-1 
+Appendix L 
+-
+Informal Resolution System 
+M-1 
+Appendix M -
+Harassment or Prohibited Discrimination Complaint Retaliation 
+N-1 
+Awareness 
+11 
+
+
+[PAGE 6]
+CHAPTER I 
+GENERAL INFORMATION 
+OPNA VINST 5354. lJ 
+5 Jun 2025 
+I. Purpose. To implement references (a) through (n) that direct DON policy on harassment 
+prevention and Military Equal Opportunity including sexual harassment, discriminatory 
+harassment, hazing, bullying and stalking, hereafter referred to as harassment, prohibited 
+discrimination and wrongful broadcast or distribution of intimate visual images, provide 
+guidance on administering command climate assessments, implement retaliation prevention and 
+response procedures, implement primary prevention and response procedures and assign related 
+responsibilities. Commanders, commanding officers, officers in charge and civilian equivalents 
+(hereafter referred to as Commanders) must take action and be held accountable for 
+implementation and enforcement of the provisions of this instruction. Interpretation of this 
+instruction must be governed by the definitions in appendix B. The abbreviations and acronyms 
+used throughout this instruction are outlined in appendix C. 
+2. Policy 
+a. The Navy is comprised of men and women who work together to accomplish the mission. 
+Each member of the Navy is entitled to be treated with dignity and respect and to work in an 
+environment free of harassment and prohibited discrimination. Additionally, each member is 
+expected to abide by the Navy core values of honor, courage and commihnent. An effective 
+MEO program is critical to fostering a positive command climate, organizational effectiveness 
+and military readiness. Harassment and prohibited discrimination are fundamentally at odds 
+with the obligation of Service Members to treat others with dignity and respect and must never 
+be ignored or condoned. 
+b. The chain of command is the primary and preferred channel for identifying and 
+correcting destructive behaviors. This includes the processing and resolving of harassment and 
+prohibited discrimination complaints and ensuring that human relations and MEO matters are 
+taken seriously and acted upon as necessary. The chain of command is responsible for creating 
+and maintaining an environment that incorporates the policies set out in this instruction. 
+Leadership will strive to create a climate in which persons feel free to raise concerns about 
+harassment or prohibited discrimination and are confident that those concerns will be addressed 
+with safeguards against retaliation. 
+c. The objective of the Navy's MEO program is to promote an environment free from 
+personal, social or institutional barriers that prevent Service Members from rising to the highest 
+level of responsibility possible. Commanders are responsible for ensuring MEO for all assigned 
+personnel. The command managed equal opportunity (CMEO) program is one of many of the 
+commander's tools for the prevention of unprofessional behavior and for ensuring MEO goals 
+are obtained. Leadership has the authority and responsibility to ensure that the Navy Core 
+Values are integrated into our daily business. Service Members must be evaluated only on 
+individual merit, fitness, capability and perfonnance. 
+1-1 
+
+
+[PAGE 7]
+OPNA VINST 5354. lJ 
+5 Jun 2025 
+d. As stated in references (b) and (c), it is DoD policy and, as stated in references (d) and 
+(e), it is DON policy to prohibit harassment and prohibited discrimination. This applies to, but is 
+not limited to, recruitment, recruitment advertising, training, advancement and promotion, job 
+assignments, collateral duties, transfers and all other aspects of employment. The Navy is 
+committed to maintaining a work environment that is free of harassment and prohibited 
+discrimination. 
+e. The Navy has zero tolerance for harassment and prohibited discrimination. Acts of 
+harassment and prohibited discrimination are contrary to the Navy's Core Values of Honor, 
+Courage and Commitment. Service Members who model the Navy's Core Values do not engage 
+in demeaning or destructive behaviors nor condone these actions in others. Incidents of 
+harassment and prohibited discrimination cover a wide range of behaviors and can be subtle or 
+overt. The full range of administrative and punitive disciplinary actions is available to address 
+substantiated harassment or prohibited discrimination allegations. These include, but are not 
+limited to, informal counseling, formal counseling, comments in fitness reports and evaluations, 
+non-judicial punishment, courts-martial and administrative separation. This instruction and the 
+prohibition of harassment and prohibited discrimination are considered lawful general orders 
+effective without further implementation. A violation of these provisions by military personnel 
+who engage in any of the destructive behaviors enumerated in chapter 2 of this instruction may 
+be punishable as stated in reference (f). 
+(1) In line with reference (e), military personnel of the Navy must be processed for 
+administrative separation following a substantiated incident of sexual harassment involving any 
+of the circumstances listed in subparagraphs 2e(l)(a) and 2e(l)(b). For the purpose of this 
+subparagraph, an incident is substantiated either if there has been a court-martial conviction or if 
+the commander detennines that sexual harassment has occurred. 
+(a) Action, threats or attempts to influence another's career or job in exchange for 
+sexual favors or rewards in exchange for sexual favors. 
+(b) Physical contact of a sexual nature which, if charged as a violation of reference 
+(g), could result in punitive discharge. 
+(2) Commanders are not precluded from initiating administrative separation proceedings 
+for reasons set forth in the appropriate service regulations for individuals whose conduct, not 
+covered in subparagraphs 2e(l)(a) and 2e(l)(b), warrants separation. 
+f. 
+Prevention is the best tool to eliminate harassment and prohibited discrimination. 
+Commanders and supervisors at every level must clearly communicate that harassment and 
+prohibited discrimination will not be tolerated and must reinforce, through both words and 
+actions, a climate that does not condone this behavior. 
+1-2 
+
+
+[PAGE 8]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+g. Any Service Member who believes they have been subjected to harassment or prohibited 
+discrimination is encouraged to seek resolution. The Service Member should contact the 
+command climate specialist (CCS) or CMEO program manager to determine available resolution 
+options. Policy guidance or assistance is also available by contacting the Navy Harassment and 
+MEO Advice Line at (800) 253-0931 or MILL_Navy_EO_Advice@us.navy.mil. All complaints 
+must be treated sensitively. Feedback will be provided to all affected individuals consistent with 
+the requirements of the Privacy Act, Freedom of Infonnation Act and other pertinent laws, 
+regulations and negotiated agreements. 
+h. Individuals must not: 
+(1) Actively participate in criminal gangs and in other organizations that advocate 
+supremacist, extremist or criminal gang doctrine, ideology or causes including those that attempt 
+to create illegal discrimination based on race, color, religion, sex (including pregnancy), national 
+origin or sexual orientation advocates the use of force or violence against the govennnent of the 
+United States, the government of any State, territory, district or possession thereof or the 
+govennnent of any subdivision therein or otherwise engages in efforts to deprive individuals of 
+their civil rights. 
+Note: The term "actively participate" includes acts or conduct performed alone or in 
+concert with another, such as demonstrating, rallying, fundraising, recruiting, training, 
+organizing or leading such organizations. The term "participate" also includes engaging 
+in any other activities in relation to such organizations or in furtherance of the objectives 
+of such organizations, when such activities are detrimental to good order, discipline or 
+mission accomplishment. Further guidance is provided in reference (g). 
+(2) Retaliate, as defined in reference (h) and in this policy, against a person who provides 
+information on an incident of alleged harassment or prohibited discrimination. 
+(3) Knowingly make a false allegation of harassment or prohibited discrimination. 
+(4) Condone or ignore harassment or prohibited discrimination. 
+i. 
+This instruction and the prohibition against supremacist and extremist activities found in 
+reference (i), article 1167, are lawful general orders effective without further implementation. 
+3. Effective Communication in the Workplace. The operational language of the Navy is 
+English. Navy personnel must maintain sufficient proficiency in English to perform their official 
+duties. All operational communications must be understood by everyone who has a need to 
+know their content and, therefore, must normally be in English. However, commanders may not 
+require Navy personnel to use English unless such use is clearly necessary and proper for the 
+performance of military functions. Accordingly, commanders may not require the use of English 
+for personal communications that are unrelated to military functions 
+1-3 
+
+
+[PAGE 9]
+CHAPTER2 
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+DESTRUCTIVE BEHAVIORS COVERED BY THIS INSTRUCTION 
+1. Harassment. Behavior that is unwelcome or offensive to a reasonable person, whether oral, 
+written or physical that creates an intimidating, hostile or offensive environment. In line with 
+reference (c), harassment may include, but is not limited to, unwanted physical contact, offensive 
+jokes, epithets or name-calling, ridicule or mockery, insults or put-downs, displays of offensive 
+objects or imagery, non-verbal gestures, stereotyping, intimidating acts, veiled threats of 
+violence, threatening or provoking remarks, racial or other slurs, derogatory remarks about a 
+person's accent or displays of racially offensive symbols. Types ofharassment include, but are 
+not limited to, discriminatory harassment, sexual harassment, hazing, bullying and stalking. 
+Harassment can be oral, written or physical. Harassment can occur through electronic 
+communications, including social media, other forms of communication and in person. 
+Activities or actions undertaken for a proper military or govermnental purpose, such as combat 
+survival training, making work assigmnents or conducting performance counseling, are not 
+considered harassment. 
+a. Discriminatory Harassment. Unwelcome conduct based on race, color, religion, sex 
+(including pregnancy), national origin or sexual orientation. Discriminatory harassment occurs 
+when the conduct is severe or pervasive enough to create a work enviromnent that a reasonable 
+person would consider intimidating, hostile or abusive. Discriminatory harassment can be 
+conducted through the use of electronic devices or communications and by other means 
+including social media, as well as in person. 
+b. Sexual Harassment 
+(1) Sexual harassment is conduct that: 
+(a) Involves unwelcome sexual advances, requests for sexual favors and deliberate or 
+repeated offensive comments or gestures of a sexual nature when: 
+(1) Submission to such conduct is made either explicitly or implicitly a tenn or 
+condition of a person's job, pay or career. 
+(2) Submission to or rejection of such conduct by a person is used as a basis for 
+career or employment decisions affecting that person. 
+(3) Such conduct has the purpose or effect of unreasonably interfering with an 
+individual's work performance or creates an intimidating, hostile or offensive working 
+enviromnent. 
+(b) Is so severe or pervasive that a reasonable person would perceive, and the victim 
+does perceive the enviromnent as hostile or offensive. 
+2-1 
+
+
+[PAGE 10]
+OPNAVINST 5354.JJ 
+5 Jun 2025 
+( 1) Any use or condonation, by any person in a supervisory or command position, 
+of any form of sexual behavior to control, influence or affect the career, pay or job of a member 
+of the armed forces or a civilian employee of the DoD. 
+(2) Any deliberate or repeated unwelcome verbal comment or gestures of a sexual 
+nature by any member of the Military Services or civilian employee of the DoD. 
+(3) There is no requirement for concrete psychological harm to the complainant 
+for behavior to constitute sexual harassment. Behavior is sufficient to constitute sexual 
+harassment if it is so severe or pervasive that a reasonable person would perceive, and the 
+complainant does perceive the environment as hostile or offensive. 
+(4) While it is not possible to list all of those additional circumstances that may 
+constitute sexual harassment, subparagraphs 2b(5)(a) through 2b(5)(g) provide some examples of 
+conduct, which, if unwelcome, constitutes sexual harassment. 
+(a) Sexual epithets or jokes, written or oral references to sexual conduct, comments 
+regarding one's own or another person's sex life, sexual activity, experiences, deficiencies or 
+prowess or sexually suggestive comments regarding one's own or another person's body. 
+(b) The display of inappropriate sexually oriented material (i.e., displaying sexually 
+suggestive objects, pictures, cartoons, images on a computer, phone or other electronic device, 
+etc.). 
+( c) Leering, whistling, sexual gestures, suggestive or insulting comments, threats or 
+innuendos of a sexual nature. The person observing such behavior need not be the object of such 
+conduct for this to constitute sexual harassment. 
+(d) Physical contact such as touching, hugging, brushing against a person's body, 
+impeding or blocking movements. Depending on the circumstances, any unwanted physical 
+contact could elevate the offense. 
+(e) Persistent requests for dates, inappropriate letters, telephone calls, messages via 
+social media applications or messaging platfonns, e-mail, text messages, graphics and other 
+communications or gifts. 
+(f) Direct or implied threats that indicate that submission to sexual advances will be a 
+condition of employment, work status, promotion, grades or letters of recommendation. 
+(g) Sexually explicit statements, questions, jokes or anecdotes regardless of the 
+means of communication (oral, written, e-mail, text messages, social media, etc.). 
+2-2 
+
+
+[PAGE 11]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+c. Hazing. A form of harassment that includes conduct through which Service members or 
+DoD employees, without a proper military or other governmental purpose but with a nexus to 
+military service, physically or psychologically injure or create a risk of physical or psychological 
+injury to Service members for the purpose of: initiation into, admission into, affiliation with, 
+change in status or position within or continued membership in any military or DoD civilian 
+organization. Hazing can be conducted through the use of electronic devices or communications 
+and by other means including social media, as well as in person. 
+(I) Hazing is evaluated by a reasonable person standard and includes, but is not limited 
+to, the behaviors listed in subparagraphs lc(l)(a) through lc(l)(i) when performed without a 
+proper military or other governmental purpose. 
+(a) Any form of initiation or congratulatory act that involves physically striking 
+another person in any manner or threatening to do the same. 
+(b) Pressing any object into another person's skin, regardless of whether it pierces the 
+skin, such as "pinning" or "tacking on" of rank insignia, aviator wings, jump wings, diver 
+insignia, badges, medals or any other object. 
+( c) Oral or written berating of another person with the purpose of belittling or 
+humiliating. 
+( d) Encouraging another person to engage in illegal, harmful, demeaning or 
+dangerous acts. 
+( e) Playing abusive or malicious tricks. 
+( f) Branding, handcuffing, duct taping, tattooing, shaving, greasing or painting 
+another person. 
+(g) Subjecting another person to excessive or abusive use of water. 
+(h) Forcing another person to consume food, alcohol, drugs or any other substance. 
+(i) Soliciting, coercing or knowingly permitting another person to solicit or coerce 
+acts of hazing. 
+(2) Hazing does not include properly directed command or organizational activities that 
+serve a proper military or other governmental purpose, or the requisite training activities required 
+to prepare for such activities (i.e. administrative corrective measures, extra military instruction or 
+command-authorized physical training). 
+2-3 
+
+
+[PAGE 12]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+(3) Service members may be responsible for an act of hazing even if there was actual or 
+implied consent from the victim and regardless of the grade or rank, status or service of the 
+victim. 
+( 4) Hazing is prohibited in all circumstances and environments including off-duty or 
+"unofficial" unit functions and settings. 
+d. Bullying. A form of harassment that includes acts of aggression by Service members or 
+DoD civilian employees, with a nexus to military service, with the intent of harming a Service 
+member either physically or psychologically, without a proper military or other governmental 
+purpose. Bullying may involve the singling out of an individual from his or her coworkers or 
+unit, for ridicule because he or she is considered different or weak. It often involves an 
+imbalance of power between the aggressor and the victim. Bullying can be conducted through 
+the use of electronic devices or communications and by other means including social media, as 
+well as in person. 
+(1) Bullying is evaluated by a reasonable person standard and includes but is not limited 
+to the behaviors listed in subparagraphs ld(l)(a) through ld(l)(j) when performed without a 
+proper military or other governmental purpose. 
+(a) Physically striking another person in any manner or threatening to do the same. 
+(b) Intimidating, teasing or taunting another person. 
+( c) Oral or written berating of another person with the purpose of belittling or 
+humiliating. 
+( d) Encouraging another person to engage in illegal, harmful, demeaning or 
+dangerous acts. 
+( e) Playing abusive or malicious tricks. 
+(f) Branding, handcuffing, duct taping, tattooing, shaving, greasing or painting 
+another person. 
+(g) Subjecting another person to excessive or abusive use of water. 
+(h) Forcing another person to consume food, alcohol, drugs or any other substance. 
+(i) Degrading or damaging another's property or reputation. 
+(j) Soliciting, coercing or knowingly permitting another person to solicit or coerce 
+acts of bullying. 
+2-4 
+
+
+[PAGE 13]
+OPNA VINST 5354. lJ 
+5 Jun 2025 
+(2) Bullying does not include properly directed command or organizational activities that 
+serve a proper military or other governmental purpose, or the requisite training activities required 
+to prepare for such activities (i.e., command-authorized physical training). 
+(3) Service members may be responsible for an act of bullying even ifthere was actual or 
+implied consent from the victim and regardless of the grade or rank, status or service of the 
+victim. 
+(4) Bullying is prohibited in all circumstances and enviromnents, including off-duty or 
+"unofficial" unit functions and settings. 
+e. Stalking. Conduct that is: 
+(1) A wrongful course of conduct directed at a specific person that would cause a 
+reasonable person to fear death or bodily harm, including sexual assault, to himself or herself, to 
+a member of his or her immediate family or to his or her intimate partner. 
+(2) Carried out by someone who has knowledge or should have knowledge, that the 
+specific person will be placed in reasonable fear of death or bodily harm, including sexual 
+assault, to himself or herself, to a member of his or her immediate family or to his or her intimate 
+partner; and 
+(3) When the conduct induces reasonable fear in the specific person of death or bodily 
+harm, including sexual assault, to himself or herself, to a member of his or her immediate family 
+or to his or her intimate partner. 
+(4) Subparagraphs le(4)(a) through le(4)(e) define tenns utilized in subparagraph le of 
+this chapter. 
+(a) Conduct. Means conduct of any kind, including use of surveillance, the mails, an 
+interactive computer service, an electronic communication service or an electronic 
+communication system. 
+(b) Course of Conduct. A repeated maintenance of visual or physical proximity to a 
+specific person; a repeated conveyance of verbal threat, written threats or threats implied by 
+conduct or a combination of such threats, directed at or toward a specific person; or a pattern of 
+conduct composed of repeated acts evidencing a continuity of purpose. 
+( c) Repeated. With respect to conduct, means two or more occasions of such 
+conduct. 
+2-5 
+
+
+[PAGE 14]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+( d) Immediate Family. In the case of a specific person, means that person's spouse, 
+parent, brother or sister, child or other person to whom he or she stands in loco parentis; or any 
+other person living in his or her household and related to him or her by blood or marriage. 
+(e) Intimate Partner. In the case ofa specific person, means a former spouse of the 
+specific person, a person who shares a child in common with the specific person or a person who 
+cohabits with or has cohabited as a spouse with the specific person; or a person who has been in 
+a social relationship of a romantic or intimate nature with the specific person, as determined by 
+the length of the relationship, the type ofrelationship and the frequency of interaction between 
+the persons involved in the relationship. 
+( 5) Stalking must be reported to the appropriate Military Criminal Investigative 
+Organization. 
+2. Prohibited Discrimination. Discrimination, including disparate treatment, of an individual or 
+group on the basis ofrace, color, national origin, religion, sex (including pregnancy), or sexual 
+orientation that is not otherwise authorized by law or regulation and detracts from military 
+readiness. 
+3. Wrongful Broadcast or Distribution oflntimate Visual Images. Service members that 
+perpetrate the actions outlined in subparagraphs 3a through 3d are guilty of wrongful distribution 
+of intimate visual images or visual images of sexually explicit conduct. 
+a. Who knowingly and wrongfully broadcasts or distributes an intimate visual image of 
+another person or a visual image of sexually explicit conduct involving a person who: 
+(I) Is at least 18 years of age at the time the intimate visual image or visual image of 
+sexually explicit conduct was created. 
+(2) Is identifiable from the intimate visual image or visual image of sexually explicit 
+conduct itself or from information displayed in connection with the intimate visual image or 
+visual image of sexually explicit conduct. 
+(3) Does not explicitly consent to the broadcast or distribution of the intimate visual 
+image or visual image of sexually explicit conduct. 
+b. Who knows or reasonably should have known that the intimate visual image or visual 
+image of sexually explicit conduct was made under circumstances in which the person depicted 
+in the intimate visual image or visual image of sexually explicit conduct retained a reasonable 
+expectation of privacy regarding any broadcast or distribution of the intimate visual image or 
+visual image of sexually explicit conduct. 
+2-6 
+
+
+[PAGE 15]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+c. Who knows or reasonably should have known that the broadcast or distribution of the 
+intimate visual image or visual image of sexually explicit conduct is likely: 
+(I) To cause hann, harassment, intimidation, emotional distress or financial loss for the 
+person depicted in the intimate visual image or visual image of sexually explicit conduct; or 
+(2) To harm substantially the depicted person with respect to that person's health, safety, 
+business, calling, career, financial condition, reputation or personal relationships. 
+d. Whose conduct, under the circumstances, had a reasonably direct and palpable 
+connection to a military mission or military enviromnent. 
+e. Subparagraphs 3e(l) through 3e(7) define terms utilized in paragraph 3 of this chapter. 
+(1) Broadcast. Electronically transmit a visual image with the intent that it be viewed by 
+a person or persons. 
+(2) Distribute. To deliver to the actual or constructive possession of another person, 
+including transmission by mail or electronic means. 
+(3) Intimate Visual Image. A visual image that depicts a private area of a person. 
+( 4) Private Area. The naked or underwear-clad genitalia, anus, buttocks or female areola 
+or nipple. 
+(5) Reasonable Expectation of Privacy. Circumstances in which a reasonable person 
+would believe that a private area of the person or sexually explicit conduct involving the person, 
+would not be visible to the public. 
+(6) Sexually Explicit Conduct. Actual or simulated genital-genital contact oral-genital 
+contact, anal-genital contact or oral-anal contact, whether between persons of the same or 
+opposite sex, bestiality, masturbation or sadistic or masochistic abuse. 
+(7) Visual Image. As defined in subparagraphs 3e(7)(a) through 3e(7)(c). 
+(a) Any developed or undeveloped photograph, picture, film or video. 
+(b) Any digital or computer image, picture, film or video made by any means, 
+including those transmitted by any means, including streaming media, even if not stored in a 
+permanent fonnat. 
+(c) Any digital or electronic data capable of conversion into a visual image. 
+2-7 
+
+
+[PAGE 16]
+CHAPTER3 
+RESPONSIBILITIES 
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+1. Deputy Chief of Naval Operations (Personnel, Manpower, and Training) (CNO Nl) 
+a. Ensure leaders at all levels are held appropriately accountable for fostering a climate free 
+from harassment and prohibited discrimination and does not tolerate retaliation for reporting 
+harassment or prohibited discrimination allegations. 
+b. Establish and maintain a robust harassment prevention and MEO program by maintaining 
+sufficient full-time staff positions and allocating sufficient resources to provide oversight. 
+c. Report Navy wide climate assessment results to the Fleet. 
+d. Ensure that all military personnel, including command selectees, flag officers and Senior 
+Executive Service (SES) officials, receive adequate training in MEO, primary prevention, human 
+relations and the command climate assessment on a recurring basis and at all levels of 
+professional military education. 
+e. Ensure that all personnel may participate equally in all occupational areas and warfare 
+specialties within legal bounds. 
+f. 
+Ensure leadership opportunities and an equitable assignment process exists for all 
+personnel. 
+g. Ensure Equal Opportunity (EO) for promotion and advancement exists for all personnel. 
+h. Delegate exception to policy approval authority to OPNAV NI 7, as appropriate. 
+2. OPNAV NI 70C 
+a. Monitor the Navy's progress toward accomplishing MEO goals and a positive command 
+climate as directed by references (b) through (e). 
+b. Develop and implement standards for holding leaders accountable for promoting, 
+supporting and enforcing MEO policies, plans and programs. 
+c. Develop results oriented performance measures to assess effectiveness and impacts of 
+MEO policies and programs. 
+d. Provide reports via appropriate channels as required to the Office of Civil Rights and 
+Equal Opportunity Policy at the Office of the Secretary of Defense. 
+3-1 
+
+
+[PAGE 17]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+e. Annually provide an EO climate assessment to the OPNA V NI 7 using the data collected 
+from Naval Inspector General (NAVINSGEN), fleet commanders and echelon 2 commands. 
+f. 
+Use the annual EO climate assessment results to gauge the effectiveness and impact of 
+MEO initiatives. 
+g. Provide overall direction, guidance, support and advice for the management of command 
+climates assessments. 
+h. Provide overall direction, guidance, support and oversight to CCSs and CMEO program 
+managers. 
+i. 
+Serve as Program Manager and Community Advisor for CCSs, Navy enlisted 
+classification code 809 A. 
+j. Recognize the unique characteristics of the reserve component when establishing 
+programs and procedures for processing harassment and prohibited discrimination complaints 
+involving Selected Reserve (SELRES) personnel. 
+k. Maintain an official toll-free Navy harassment and MEO advice line. Ensure any 
+personnel responding to inquiries are fully trained to address situations involving members of the 
+reserve component in addition to active duty personnel. 
+I. 
+Coordinate with the Defense Equal Opportunity Management Institute (DEOMI) to 
+develop and maintain Navy service specific training. 
+m. Coordinate with Naval Education and Training Command (NETC) to develop and 
+maintain CMEO program manager training. 
+n. Conduct a Navy MEO brief to Navy service specific classes at the DEOMI to answer 
+concerns and questions and inform students of programmatic updates as well as systemic MEO 
+trends, issues and best practices within the Navy. 
+o. Conduct annual face-to-face CCS training. This summit must be used to reinforce this 
+instruction, provide programmatic and instruction updates, share best practices and leverage data 
+analytics to illustrate trends, programmatic impacts and data driven recommendations. While the 
+preferred delivery method is face-to-face, this training may be conducted virtually as needed. 
+p. Maintain an official Navy MEO website. 
+3. NAVINSGEN and echelon 2 Inspectors General (IG) 
+3-2 
+
+
+[PAGE 18]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+a. NA VINSGEN provides a summary of allegations against flag officers or SES officials 
+relating to harassment and prohibited discrimination by 15 December annually to OPNA V 
+N 170C via Flag Matters (N00F). Summary must include the total number of complaints and the 
+data requirements outlined in appendix D for each complaint. NA VINSGEN is the investigative 
+authority for all harassment and prohibited discrimination complaints against flag officers and 
+SES officials except those under investigation by the DoD IG. 
+b. Provide a summary of hotline allegations involving harassment and prohibited 
+discrimination by 15 December annually to OPNA V NI 70C. Summary must include the total 
+number of complaints and the data requirements outlined in appendix D for each complaint. 
+c. Include specific assessments of MEO programs in all command inspections and area 
+visits and ensure that subordinate IGs include MEO program assessments in their own unit-level 
+inspection programs. Provide copies of all MEO program findings, to include specific MEO 
+questions or issues, the unique insights of local CCSs, CMEO program managers and others 
+regarding MEO program performance and the concerns of individual Sailors, to OPNAV NI 70C 
+quarterly. 
+4. NETC 
+a. Function as Navy MEO training manager and developer of overall Navy training 
+strategies from entry through executive levels in coordination with OPNA V NI 70C and DEOMI, 
+when applicable. 
+b. Develop, conduct and maintain formal CMEO program manager training (approved by 
+OPNAV NI 70C) for CMEO program manager students. 
+c. Ensure that all MEO training is up-to-date with current policy. Training must include 
+instructions on understanding accountability and complaint processing responsibility, infonnal 
+and formal resolution options, characteristics and prevention of harassment and prohibited 
+discrimination and the relationship between leadership and a professional command climate. 
+d. Ensure Common Military Training (CMT) is current with policy. 
+e. Ensure MEO training at Navy Leadership and Ethics Center and the Senior Enlisted 
+Academy includes the infonnation contained in subparagraphs 4e(l) through 4e(6). 
+(I) The relationship between leadership and a professional command climate. 
+(2) Instruction in understanding accountability and responsibility and harassment and 
+prohibited discrimination prevention strategies. 
+3-3 
+
+
+[PAGE 19]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+(3) The commander's role with the Command Resilience Team (CRT) and the command 
+climate assessment. 
+( 4) The role of the CCS and CMEO program manager. 
+(5) The methods for filing complaints, what must occur when a complaint is filed, an 
+explanation of the complaint timelines and other external methods to seek redress. 
+(6) The harassment and prohibited discrimination investigation process and potential 
+disciplinary actions based on substantiated allegations. 
+f. 
+Ensure all applicable training meets the terminal learning objectives outlined in reference 
+(b) and requirements outlined in reference (c). 
+5. Commander, Commanding Officer, Officer in Charge and Civilian Equivalents 
+a. Within 60 days of assuming command and along with the deputy, executive officer (XO) 
+or assistant officer in charge and senior enlisted leader, obtain an MEO and command climate 
+brief from their CRT. 
+b. Promote a positive command climate. 
+c. All echelon 2 commands and echelon 3 commands that have subordinate commands, 
+must establish a CCS billet to provide enhanced oversight of their command and subordinate 
+command's harassment prevention and MEO programs and command climates. The type of 
+commander CCS will retain administrative responsibility for tracking and continuity of ships 
+deployed with the carrier strike group or amphibious readiness group. 
+Note: Aircraft carriers must have two CCS billets and at least one of the CCSs 
+assigned should be an E-7 or above. CCSs assigned to aircraft carriers and amphibious 
+assault ships must be used as the carrier strike group or amphibious readiness group 
+subject matter expert on all matters relating to harassment prevention and MEO and 
+command climate while the strike group or amphibious readiness group commander is 
+embarked. 
+d. Ensure members assigned as CMEO program managers complete the CMEO manager 
+course prior to appointment (unless they previously completed the course). The CMEO program 
+manager assignment must not create a conflict of interest with other duty assigmnents (i.e. 
+member of the command triad, CCS, legal officer, etc.). The CMEO program manager must 
+have a designation letter signed by the commander, sample letter provided in appendix E. 
+Note: All commands must be staffed with a minimum of one CMEO program 
+manager. The CMEO program manager must be an E-6 or above with at least 24 months 
+3-4 
+
+
+[PAGE 20]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+remaining in the command at the time of assigmnent. CMEO program managers must 
+serve in this position for a minimum of 24 months. Any deviations from this instruction 
+for assigmnent of a CMEO program manager need to be approved, in writing, by the 
+Immediate Superior in Command (!SIC). 
+e. Develop, disseminate and enforce harassment prevention and MEO policy statement(s) 
+which must include expectations regarding EO and procedural compliance. 
+f. 
+Ensure that a comprehensive visual inspection throughout the command is conducted on 
+a regular basis, not less than annually to ensure all workplaces and common access spaces are 
+free from materials that create a degrading, hostile or offensive work enviromnent. Document 
+completion on a Memorandum for the Record (MFR) and maintain in the command continuity 
+folder. 
+g. Monitor their command and subordinate command's command climates. 
+h. Ensure the command's harassment prevention and MEO program complies with all items 
+cited in appendices G and H, as applicable. 
+1. 
+Assist subordinate commands as necessary in their implementation of this instruction. 
+j. Ensure assessments and inspections of subordinate commands' CCS and CMEO 
+programs are being conducted every 2years using appendices G and H, as applicable. Echelon 2 
+commanders report compliance to OPNAV NI 70C quarterly. 
+k. Ensure establishment of a CRT. 
+I. 
+Complete and ensure subordinate commanders complete, a command climate assessment 
+within 120 days after assumption of command and annually as follow-up assessments during 
+their command tenure. A minimum of one climate assessment must be completed each fiscal 
+year. The command climate assessment process is outlined in appendix H. Echelon 2 
+commanders report command climate assessment compliance to OPNA V Nl 70C quarterly. 
+Note: Commands must include attached civilian personnel in the administration of 
+the command climate assessment ( contractors and local foreign nationals are not 
+authorized to take the survey). Supported commands must include their SELRES 
+personnel in the administration of their command climate assessment. SELRES 
+personnel attached to voluntary training units and operational support units will be 
+included in the Navy Operational Support Center (NAVOPSPTCEN) command climate 
+assessment. All SELRES attached to a commissioned unit must participate in the 
+command climate assessment with their supported command. 
+3-5 
+
+
+[PAGE 21]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+m. Include a statement in the commander's perfonnance evaluation or annual fitness report 
+annotating if the commander has conducted the required command climate assessment. Failure 
+of a commander to conduct the required command climate assessment must be noted in the 
+commander's performance evaluation or annual fitness report. 
+n. Ensure demographics for command-appointed collateral duty assignments, retention, 
+discipline, advancement and awards are reviewed semi-annually by race, ethnicity, sex, paygrade 
+and rank. This data is available within the command (i.e., legal and administrative offices). 
+Command demographics must be reviewed by the CRT and maintained in the command 
+continuity folder for 3 years. Demographic data is available from the Fleet Management and 
+Planning System. 
+Note: The maintenance and frequent review of statistical data relating to personnel 
+can alert commanders to the development of trends, and patterns that may affect the 
+command's climate. 
+o. Ensure the anonymity and confidentiality ofresponses to interviews, focus groups, 
+surveys, etc., in support of an assessment. However, this does not extend to comments that are in 
+violation ofreference (f). Personnel in the command triad must not facilitate focus groups or 
+interviews during the command climate assessment process. 
+p. Maintain a copy of all subordinate command executive summaries for 3 years. 
+q. Submit by 15 November annually, an annual climate assessment using appendix I. 
+Echelon 2 commands must submit to OPNA V Nl 70C, echelon 3 commands must submit to their 
+respective echelon 2 command and echelon 4 and lower commands must submit to their 
+respective echelon 3 command or ISIC. The annual climate assessment will reflect the command 
+climate assessments of all commands within the enterprise. 
+r. Ensure DON procedures for processing harassment and prohibited discrimination 
+complaints are prominently displayed. NA VPERS l 5600E Equal Opportunity Infonnation 
+Poster, stock number 0500-LP-117-6471, must be displayed and include the name and telephone 
+number of the command's points of contact (CCS, CMEO program manager and the appropriate 
+servicing EEO office) for EO issues. See appendix J for additional details. 
+s. Ensure all individuals are familiar with their right to submit an informal, formal or 
+anonymous harassment or prohibited discrimination complaint and the methods for submission. 
+t. 
+Ensure personnel are aware of the policies and procedures for filing a report of retaliation 
+in line with reference (h). 
+u. Promote the chain of command as the primary and preferred channel to identify, process 
+and resolve complaints of harassment and prohibited discrimination. 
+3-6 
+
+
+[PAGE 22]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+v. Use chapter 4 for the processing of informal complaints and chapter 5 for the processing 
+of formal and anonymous complaints. 
+w. Use chapter 6 for the procedures when approached by a Service member who alleges 
+retaliation related to a harassment or prohibited discrimination complaint. 
+x. Consult the servicing CCS to provide analysis and recommendations regarding all 
+informal, formal and anonymous harassment and prohibited discrimination complaints as well as 
+any other issues that affect the climate of a unit. 
+y. Track and monitor the reporting and status of their command and subordinate command's 
+harassment and prohibited discrimination complaints. 
+z. Ensure substantiated harassment or prohibited discrimination complaints are annotated on 
+the offender's performance evaluation or service record. 
+aa. Upon turnover, provide the incoming commander with a written report of all command 
+and subordinate commands open harassment and prohibited discrimination complaint 
+investigations. 
+ab. Ensure that harassment and prohibited discrimination is absent in all administrative and 
+disciplinary proceedings. 
+ac. Ensure personnel receive awards and recognition and are assigned jobs, education 
+opportunities and special programs based on merit, fitness, capability and performance. 
+ad. EO, Harassment and Resolution Options GMT should be delivered to the appropriate 
+audience at an appropriate periodicity as determined by the local command. The frequency of 
+periodic training will be no less than every 2 years. SELRES personnel receive training from 
+their Navy Reserve Activity (NRA). All SELRES personnel assigned to a commissioned unit 
+receive training from their supported command. This provides an opportunity for leaders to 
+personally interact with their Sailors to share insight on the issues affecting warfighting 
+readiness. 
+6. CRT 
+a. CRT members must have a letter of designation signed by the commander and sign the 
+CRT non-disclosure agreement document, appendix K. 
+b. Administer the command climate assessment. The CRT must use the Command 
+Resilience Team Guide when conducting a climate assessment. Required CRT membership is 
+outlined in this guide. 
+3-7 
+
+
+[PAGE 23]
+OPNAVINST 5354.11 
+5 Jun 2025 
+c. Prior to initiating a command climate assessment, the CRT should contact their servicing 
+CCS. When requested, the CCS will provide oversight and guidance to the CRT on the 
+facilitation and interpretation of the Defense Organizational Climate Survey (DEOCS), 
+conducting focus groups and interviews, data analysis throughout the command climate 
+assessment process, use of primary prevention and human factors process resources by CRT and 
+the development of the command climate assessment executive summary and Plan of Action and 
+Milestones (POA&M). 
+d. To improve insight into command climate, the commander must leverage the CRT to 
+facilitate and promote signature behaviors and an enviromnent of dignity and respect. In doing 
+so, the CRT will be a powerful tool to help preserve unit cohesion, good order and discipline and 
+mission readiness. 
+e. The CRT must meet, at a minimum, quarterly. CRTs will develop best practices and 
+implement primary prevention measures. These meetings must be documented via an MFR and 
+the documentation maintained in the command continuity folder. 
+f. 
+Provide commanders, their deputy, XO or assistant officer in charge and senior enlisted 
+leader an MEO and command climate brief within 60 days of assuming command. 
+7. ccs 
+a. Inform the commander and CMEO program manager of all changes to this instruction. 
+b. Provide analysis and recommendations to the commander regarding all infonnal, formal 
+and anonymous harassment and prohibited discrimination complaints, as requested. 
+c. Conduct on-site or virtual assessments and inspections of immediate subordinate 
+commands' CCSs and CMEO programs every 2years using appendices G and H, as applicable. 
+d. Provide MEO program oversight, assist visits and training to the command and 
+subordinate commands as requested or required. 
+e. Maintain the information contained in subparagraphs 7 e( 1) through 7 e( 6) for all 
+subordinate commands. 
+(1) Command climate assessment supporting documentation, to include the executive 
+summary and POA&M, for the last 3 years. 
+(2) Results of the comprehensive visual inspections for the last 3 years. 
+(3) Results of the last three on-site or virtual assessments and inspections. 
+3-8 
+
+
+[PAGE 24]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+( 4) Complaint log of all harassment, prohibited discrimination complaints and allegations 
+of wrongful broadcast or distribution of intimate visual images for the last 3 years. 
+( 5) Documentation of all administered MEO training outlined in chapter 7, for the last 3 
+years. 
+(6) A copy of the NAVPERS 5354/2 Naval Equal Opportunity and Sexual Harassment 
+Report Form documenting infonnal complaints of harassment and prohibited discrimination for 
+the last 3 years. 
+f. 
+When requested, provide oversight and guidance to the command and subordinate 
+command's CRT throughout the command climate assessment process. 
+g. Track and monitor the command and subordinate command's command climate 
+assessment. 
+h. Review the command climate assessment executive summary, POA&M and DEOCS and 
+provide a report to the ISIC prior to a commander's face-to-face debrief. 
+i. 
+Collaborate and coordinate with the CRT to provide advice and guidance to the 
+commander on all matters and issues that may affect the command's climate. 
+j. Provide assistance, advice and training regarding conflict resolution and grievance and 
+redress procedures. 
+k. Serve as the central point of contact for all MEO and command climate issues. Provide 
+guidance and training to CMEO program managers regarding the processing of infonnal, formal 
+and anonymous harassment and prohibited discrimination complaints using chapter 4 and 
+chapter 5. 
+I. 
+Use chapter 4 for the processing of infonnal complaints and chapter 5 for the processing 
+of formal and anonymous complaints. 
+m. Use chapter 6 for the appropriate procedures when approached by a Service member who 
+alleges retaliation related to a harassment or prohibited discrimination complaint. 
+n. Track and monitor the reporting and status of their command and subordinate commands' 
+harassment and prohibited discrimination complaints. The data elements outlined in appendix D 
+are required to be captured and forwarded to OPNAV NI 70C. 
+3-9 
+
+
+[PAGE 25]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+o. Track allegations of wrongful broadcast or distribution of intimate visual images. The 
+data elements outlined in appendix D are required to be captured and forwarded to OPNA V 
+Nl70C. 
+p. Collaborate with the investigating officer, the judge advocate supporting the staff and the 
+echelon 2 CCS in the chain of command, as necessary. This includes, but is not limited to, the 
+judge advocate conducting a legal sufficiency review, consultation throughout the complaint 
+investigative process and conducting an appeal review when a member exercises his or her right 
+to appeal the decision on a formal harassment or prohibited discrimination complaint. The judge 
+advocate supporting the staff is responsible for following up on all legal sufficiency reviews. 
+q. Provide commanders a quarterly verbal brief and written report of the status of 
+subordinate command's harassment and prohibited discrimination complaints. 
+r. 
+Provide semi-annual MEO training to subordinate command CCSs and CMEO program 
+managers. This may be accomplished by symposium attendance, virtually, through 
+teleconferences, etc. CCSs are responsible for the sustainment training of their subordinate 
+command CMEO program managers. 
+s. Maintain a current point of contact listing of subordinate command CCSs and CMEO 
+program managers. 
+t. 
+Liaise between the command, respective echelon 2 command and OPNA V Nl 70C as 
+needed. 
+u. Collaborate with other CCSs and CMEO program managers on the installation. 
+8. CMEO Program Manager 
+a. Contact their respective CCS within 30 days of being designated as the CMEO program 
+manager. 
+b. Function as the single point of contact when a CCS is not assigned to the command for 
+MEO matters at the command. 
+c. Assess the CMEO program using appendix G upon designation as the CMEO program 
+manager and annually thereafter. 
+d. Maintain a command continuity folder. This folder will contain the information listed in 
+subparagraphs Sd(l) through 8d(6). 
+(1) Command climate assessment supporting documentation, to include the executive 
+summary and POA&M, for the last 3 years. 
+3-10 
+
+
+[PAGE 26]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+(2) Results of the comprehensive visual inspections for the last 3 years. 
+(3) Results of the last 3 on-site or virtual assessments and inspections. 
+( 4) Complaint log of all harassment and prohibited discrimination complaints and 
+allegations of wrongful broadcast or distribution of intimate visual images for the last 3 years. 
+( 5) Documentation of all administered MEO training outlined in chapter 7 for the last 3 
+years. 
+(6) A copy of the NAVPERS 5354/2 documenting informal complaints of harassment 
+and prohibited discrimination for the last 3 years. 
+e. Serve as the coordinator for the command climate assessment. 
+f. 
+Ensure NA VPERS l 5600E is prominently displayed in the command. Ensure the poster 
+includes the name and telephone number of the command's points of contact (CCS, CMEO 
+program manager and the appropriate servicing EEO office) for EO issues. 
+g. Use chapter 4 for the processing of informal complaints and chapter 5 for the processing 
+of formal and anonymous complaints. 
+h. Use chapter 6 for the appropriate procedures when approached by a Service member who 
+alleges retaliation related to a harassment or prohibited discrimination complaint. 
+i. 
+Track, monitor, report and provide status updates on harassment and prohibited 
+discrimination complaints to the respective CCS from submission through resolution of the 
+complaint. The data elements outlined in appendix D are required to be captured and forwarded 
+to OPNA V NI 70C. 
+j. Track allegations of wrongful broadcast or distribution of intimate visual image. The 
+data elements outlined in appendix D are required to be captured and forwarded to OPNA V 
+Nl70C. 
+k. Coordinate and monitor MEO training when directed by the commander. 
+I. 
+Attend semi-annual MEO sustainment training provided by the servicing CCS. 
+m. Closely collaborate with the staff, regional, strike group, installation and command CCSs, 
+as applicable. 
+n. Perfonn other MEO related duties as mandated by the commander. 
+3-11 
+
+
+[PAGE 27]
+9. Service Member 
+a. Treat others with dignity and respect. 
+OPNA VINST 5354. lJ 
+5 Jun 2025 
+b. Promote a positive command climate within the Navy through personal example. 
+c. Report acts of harassment and prohibited discrimination as directed by reference (i), 
+article 1137. 
+d. Use Navy grievance and redress procedures as applicable. 
+e. Be aware of the policies and procedures for filing a complaint in line with this 
+instruction. 
+f. 
+Prevent destructive behaviors and promote an environment of professionalism, trust, 
+dignity and respect for all. 
+3-12 
+
+
+[PAGE 28]
+CHAPTER4 
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+PROCEDURES FOR SUBMITTING, HANDLING AND RESOLVING INFORMAL 
+HARASSMENT AND PROHIBITED DISCRIMINATION COMPLAINTS 
+I. General Guidelines 
+a. An infonnal complaint is an allegation of harassment or prohibited discrimination 
+submitted orally or in writing to a member in a position of authority in the chain of command for 
+resolution (i.e., the leading petty officer, chief petty officer, division officer, department head, 
+etc.). 
+b. The chain of command is the primary and preferred channel to identify, process and 
+resolve harassment and prohibited discrimination complaints. The infonnal complaint process 
+allows CCSs or CMEO program managers to maintain awareness of all complaints and ensures 
+they are properly handled and resolved. The chain of command must submit the informal 
+complaint to the CCS or CMEO program manager for resolution without the command being 
+required to conduct an investigation. There is no admission of guilt or substantiation of infonnal 
+complaints. Any informal complaint that results in punitive disciplinary action by the chain of 
+command intended to hold an alleged offender accountable must be processed in line with 
+chapter 5. 
+c. The CCS or CMEO program manager must ensure proper documentation of all informal 
+complaints using NAVPERS 5354/2. 
+d. Any complaint submitted to the commander directly by the complainant for resolution 
+must be processed in line with chapter 5. 
+e. Complaints involving sexual assault allegations must be reported to a Sexual Assault 
+Response Coordinator (SARC) for victim support services. These complaints must also be 
+reported for investigation to the appropriate military criminal investigative organization. 
+2. Complainant Responsibilities 
+a. Complainants are encouraged to inform the alleged offender directly that the conduct is 
+unwelcome and must stop; however, this is not required. If the behavior does not stop, if 
+possible, the complainant should report the behavior to leadership at the lowest appropriate level. 
+b. A Service member who desires to resolve a complaint informally, may notify a member 
+in a position of authority in the chain of command, the CCS or the CMEO program manager of 
+their complaint orally or in writing. Service members should specify that they wish to handle 
+their complaint informally, both to the individual to which they make their initial complaint and 
+also on the NA VPERS 5354/2. 
+4-1 
+
+
+[PAGE 29]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+c. At any time the complainant can stop this process and submit a formal complaint to the 
+CCS or CMEO program manager. 
+3. Command Responsibility 
+a. The member in a position of authority in the chain of command receiving the complaint 
+must infonn the CCS or CMEO program manager within 24 hours. 
+b. The CCS or CMEO program manager will initiate infonnal resolution procedures, 
+appendix M, within 3 duty days to resolve the informal complaint. 
+c. The informal complaint must be documented on the NAVPERS 5354/2. 
+d. It is critical that once the CCS or CMEO program manager is informed of an informal 
+complaint that action is taken quickly to resolve the complaint. The complaint must be resolved 
+within 30 duty days. If the complaint is not or cannot be resolved within 30 duty days or the 
+complainant is not satisfied with the outcome, the complainant may file a fonnal complaint. 
+e. The CCS or CMEO program manager must conduct a follow-up debrief with the 
+complainant to ensure that retaliation has not occurred within 45 days after the complaint is 
+closed. This follow-up must be annotated on the NAVPERS 5354/2. 
+f. 
+Forward a copy of the completed NAVPERS 5354/2 to the echelon 2 CCS. The data 
+elements outlined in appendix D are required to be captured and forwarded to OPNA V NJ 70C. 
+g. All documents pertinent to an infonnal complaint must be maintained in the command 
+continuity folder for 3 years. After 3 years, destroy records in line with reference (a) and local 
+records disposition policy. 
+4-2 
+
+
+[PAGE 30]
+30 
+days 
+Complaint made to a member 
+in the chain of command 
+24 hours 
+Inform CCS or CMEO 
+program manager 
+CCS or CMEO program 
+manager use informal 
+resolution system 
+CCS or CMEO program 
+manager provided resolution, 
+detennine if further action is 
+needed 
+Complaint 
+resolved 
+t 
+Yes 
+C 
+Complaint closed 
+.----.. 
+No 
+) 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+Document on 
+NA VPERS 5354/2 
+Option to submit fo rmal 
+complaint 
+Conduct follow-up debrief with 
+complainant within 45 days after 
+complaint closed 
+Figure 4-1 lnfonnal Complaint Process Flow Chart 
+Note: At any time the complainant can stop this process and submit a formal complaint. 
+4-3 
+
+
+[PAGE 31]
+CHAPTERS 
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+PROCEDURES FOR SUBMITTING, HANDLING, APPEALING AND REPORTING 
+FORMAL AND ANONYMOUS HARASSMENT AND PROHIBITED DISCRIMINATION 
+COMPLAINTS 
+1. General Procedures 
+a. A fonnal complaint is an allegation of harassment or unlawful discrimination that is 
+submitted in writing via NAVPERS 5354/2; reference (i), article 1150; reference (f), article 138; 
+communication to NA VINSGEN or elected officials; NA VPERS 1626/7 Report and Disposition 
+ofOffense(s); and any other communication the commander deems appropriate. 
+b. The chain of command is the primary and preferred channel identify, process and resolve 
+harassment and prohibited discrimination complaints. Commanders have direct responsibility 
+for managing the complaint process. They must ensure that the complaint resolution system is 
+clearly communicated and well understood by all personnel. 
+c. Individuals who experience or observe harassment or prohibited discrimination are 
+encouraged to report the incident to the chain of command, CCS or CMEO program manager. 
+Formal complaints submitted to a cognizant commander or supervisor or, inspector general's 
+office will be referred to a CCS or CMEO program manager for processing. 
+d. Formal complaint investigations will be conducted at the local command in line with 
+reference (j). 
+2. Complaint Processing 
+a. In a joint military environment, when the complainant and alleged offender are assigned 
+to different organizations and the commander of the joint military enviromnent does not have 
+command or supervisory authority over the alleged offender, complaints will be processed in line 
+with the procedures outlined in subparagraphs 2a(l) trough 2a(6). 
+(1) Complaints must be processed by the organization that has administrative control 
+over the complainant. 
+(2) Joint commanders must forward the complaint, with a detailed description of the facts 
+and circumstances, to the next superior officer in the alleged offender's chain of command who 
+is authorized to convene a general court martial. 
+(3) The complainant's commander or supervisor is responsible for providing notice and 
+sending updates to the alleged offender's commander or supervisor, upon receipt and final 
+resolution of a complaint. 
+5-1 
+
+
+[PAGE 32]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+(4) The complainant's commander or supervisor is responsible for ensuring the 
+completed complaint fonns are provided to the alleged offender's commander or supervisor. 
+(5) When an administrative finding substantiates an allegation of harassment or 
+prohibited discrimination, the alleged offender's commander or supervisor is responsible for 
+administering appropriate corrective or disciplinary action. 
+(6) If the complainant is assigned to the Navy the complainant's command is responsible 
+for sending the initial and final Operational Report (OPREP) ii). line with reference (k). 
+b. When the complainant and alleged offender are assigned to different services (when all 
+parties are not assigned to a joint military enviromnent), the complaint must be processed in line 
+with the procedures outlined in subparagraphs 2b(l) through 2b(5). 
+(1) Complaints must be processed by the organization that has administrative control 
+over the complainant. 
+(2) The complainant's commander or supervisor is responsible for providing notice and 
+sending updates to the alleged offender's commander or supervisor, upon receipt and final 
+resolution of a complaint. 
+(3) The complainant's commander or supervisor is responsible for ensuring the 
+completed complaint forms are provided to the alleged offender's commander or supervisor. 
+(4) When an administrative finding substantiates an allegation of harassment or 
+prohibited discrimination, the alleged offender's commander or supervisor is responsible for 
+administering appropriate corrective or disciplinary action. 
+(5) If the complainant is assigned to the Navy the complainant command is responsible 
+for sending the initial and final OPREP in line with reference (k). 
+c. When the complainant and alleged offender are assigned to different Navy commands the 
+complaint must be processed in line with the procedures outlined in subparagraphs 2c(l) through 
+2c(3). 
+(1) Complaints must be processed by the organization that has administrative control 
+over the alleged offender. 
+(2) The complainant's command is responsible for ensuring parts I and II ofNAVPERS 
+5354/2 are complete and provided to the alleged offender's commander. 
+(3) The alleged offender's command is responsible for sending OPREPS, in line with 
+reference (k), upon initial receipt through case resolution. If the complainant or alleged offender 
+5-2 
+
+
+[PAGE 33]
+OPNA VINST 5354. lJ 
+5 Jun 2025 
+requests an appeal, update OPREPS must be sent every 30 days; every 14 days for sexual 
+harassment complaints, throughout the appeal process. 
+Note: Coordination between CCSs or CMEO program managers across command or 
+service lines is critical. The commanders of both the complainant and alleged offender 
+must collaborate to resolve the complaint. 
+d. When the complaint includes both military and civilian personnel, it must be processed in 
+line with the procedures applicable to the complainant. Coordination between CCSs or CMEO 
+program managers, civilian EEO personnel and the Office of General Counsel is critical. The 
+military member's command is responsible for sending OPREPS, in line with reference (k), upon 
+initial receipt through case resolution. 
+e. SELRES personnel attached to commissioned units must submit complaints via the 
+operational chain of command. SELRES personnel attached to a voluntary training unit or an 
+operational support unit must submit complaints via their NA VOPSPTCEN. SELRES personnel 
+attached to non-commissioned units must submit complaints via the active duty supported 
+command. 
+f. 
+When the complainant is a foreign military Service member, to include international 
+military students and the alleged offender is assigned to a Navy command, the complaint must be 
+processed in line with the procedures outlined in subparagraphs 2f(l) through 2f( 4). 
+(1) Complaints must be processed by the organization that has administrative control 
+over the alleged offender. Notification of initiation of a processed complaint must be made to 
+Navy International Programs Office and Naval Education and Training Security Assistance Field 
+Activity given responsibility for Foreign Military Sales training and education participants under 
+SECNAVINST 4950.4B. 
+(2) When an administrative finding substantiates an allegation of harassment or 
+prohibited discrimination, the alleged offender's commander or supervisor is responsible for 
+administering appropriate corrective or disciplinary action. 
+(3) The alleged offender's command is responsible for ensuring the NA VPERS 5354/2 is 
+complete. 
+(4) The alleged offender's command is responsible for sending the initial and final 
+OPREP in line with reference (k). 
+g. A harassment or prohibited discrimination complaint filed via reference (i), article 1150 
+or reference (f), article 138, must be processed in line with reference G). 
+5-3 
+
+
+[PAGE 34]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+h. Complaints involving sexual assault allegations must be reported to a SARC for victim 
+support services. These complaints must also be reported for investigation to the appropriate 
+military criminal investigative organization. 
+i. 
+Any allegations of harassment or prohibited discrimination made against a contract 
+employee must be submitted to the contracting officer's representative in coordination with the 
+Office of General Counsel for appropriate action. 
+j. Follow procedures for processing sexual harassment complaints, including anonymous 
+complaints, occurring in confinement facilities and involving military inmates, per Section 
+15601 of Title 42, U.S.C., also known as the "Prison Rape Elimination Act of2003." 
+3. Complainant Responsibilities 
+a. The preferred method of filing a formal complaint is by submitting a NAVPERS 5354/2. 
+Other complaint options include (but are not limited to) those in subparagraphs 3a(l) through 
+3a(6). 
+(1) Filing a reference (i), article 1150, Redress of Wrong Committed by a Superior (other 
+than the Commander). 
+(2) Filing a reference (f), article 138, Complaints of Wrongs against the Commander. 
+(3) Filing a NAVPERS 1626/7. 
+(4) Contacting the IG which includes echelon 2 IGs and the NAVINSGEN. 
+(5) Communicating with elected officials, reference (i), article 1155. 
+(6) Any other means of communication that the commander deems appropriate ( e.g.; 
+notes in the commanding officers suggestion box, comments on the DEOCS, etc.). 
+b. A complaint should be made within 60 days of the offending incident or in the case of a 
+series of incidents, within 60 days of the most recent incident. Commanders may accept 
+complaints beyond this time frame if, in their judgment, circumstances warrant. 
+c. Complaints of harassment (not to include hazing and bullying) and prohibited 
+discrimination complaints may not be joined with the complaints of other individuals. Similarly, 
+each complainant may seek redress for the wrong( s) of only one alleged offender. If the 
+complainant believes more than one alleged offender has committed a wrong, the complainant 
+must submit a separate complaint against each alleged offender, not against a group such as "the 
+chain of command." 
+5-4 
+
+
+[PAGE 35]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+4. Anonymous Complaints. Action taken regarding an anonymous complaint will depend upon 
+the extent of information provided by the complainant. 
+Note: Service Members cannot identify themselves to the command and then elect to 
+submit the complaint anonymously. 
+a. If the content of the complaint includes allegations of sexual assault and if continued 
+communication is possible, the CCS or CMEO program manager must refer the Service member 
+to a SARC, Deployed Resiliency Counselor (DRC), sexual assault prevention and response 
+(SAPR) Victim Advocate (VA), unit SAPR VA, Victim's Legal Counsel (VLC) or healthcare 
+personnel. 
+b. The command CCS or CMEO program manager must be notified of anonymous 
+complaints within 24 hours of receipt and must consult with the commander to determine further 
+actions regarding the allegations. 
+c. If the complaint contains sufficient information to permit the initiation of an 
+investigation, it must be processed as outlined in this chapter. It must be documented on the 
+NAVPERS 5354/2, and that form must be forwarded to OPNAV Nl 70C via the echelon 2 CCS 
+within 72 hours after complaint resolution. 
+d. If the anonymous complaint does not contain sufficient infonnation to pennit the 
+initiation of an investigation the infonnation must be documented on the NA VPERS 5354/2 and 
+maintained in the command continuity folder for 3 years. The NA VPERS 5354/2 must contain 
+the date and time the information was received, a detailed description of the facts and 
+circumstances included in the complaint, date the complaint was closed and by whom and other 
+pertinent information. 
+5. Command Responsibility 
+a. Personnel receiving a formal complaint must notify the commander or other designated 
+authority within 3 duty days of receipt. 
+b. Upon receipt of a formal complaint, the commander with jurisdiction over the subject of 
+the complaint has 1 duty day to evaluate the complaint and determine to either dismiss, refer or 
+accept the complaint for appropriate action. 
+(1) Dismissed Complaints. A commander with jurisdiction over the alleged offender of 
+the complaint, in consultation with the supporting CCS and judge advocate, may detennine that 
+dismissal ofa complaint is appropriate under one of the bases in subparagraphs 5b(l)(a) through 
+5b(l)(f). A previously accepted complaint may be dismissed if, at any point following 
+acceptance of the complaint, the commander deems it appropriate to dismiss the complaint under 
+one of the bases outlined in subparagraphs 5b(l)(a) through 5b(l)(f). If the c01runander 
+5-5 
+
+
+[PAGE 36]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+dismisses a complaint, a justification for the commander's decision will be documented on an 
+MFR and a copy provided to the complainant. The original NAVPERS 5354/2 and the MFR 
+will be retained in the command continuity folder for 3 years. No OPREP is required for 
+dismissed complaints unless there was an initial OP REP prior to the determination of dismissal. 
+The reasons for dismissal are included in subparagraphs 5b(l)(a) through 5b(l)(f). 
+(a) A claim that fails to allege facts that, if true, would constitute a violation under 
+this instruction. 
+(b) If the complainant's claims are identical to claims that were previously filed or 
+resolved, the complaint may be dismissed. In cases where an informal complaint was submitted 
+but not satisfactorily resolved, a complaint should not be automatically dismissed as duplicative. 
+The commander must assess if the infonnal complaint was appropriately resolved before 
+rendering decision to accept, refer or dismiss complaints submitted in such cases. 
+( c) Complaints of institutional discrimination. 
+( d) A complaint that has been accepted for investigation may be dismissed at any 
+stage of processing if the complainant fails to cooperate with the investigation or with repeated 
+requests for information. The initial submission of an anonymous complaint does not constitute 
+a failure to cooperate. 
+( e) A complaint received after 60 days; 120 days in the case of a Reserve complaint, 
+is considered late. Late reporting may impact a commander's ability to gather evidence and 
+interview witnesses. A commander in consultation with the servicing CCS and supporting judge 
+advocate may determine that an investigation cannot be undertaken due to the lateness of the 
+complaint. 
+(f) A complainant may voluntarily withdraw their complaint at any time during the 
+administrative process. However, the commander may continue to take actions necessary to 
+maintain good order and discipline within the command. 
+(2) Referred Complaints. Complaints submitted by persons not covered by this 
+instruction or of which neither the command nor the Navy has jurisdiction or the authority to 
+remedy, will be referred to the relevant agency or agencies with personnel and subject matter 
+jurisdiction to adjudicate the case, if applicable. A justification for the commander's decision to 
+refer the complaint and the organization to which it is referred will be documented on an MFR 
+and a copy provided to the complainant. The original NAVPERS 5354/2 and the MFR will be 
+retained in the command continuity folder for 3 years. No OPREP is required for referred 
+complaints. 
+(3) Accepted Complaints. If the commander accepts a fonnal complaint, it must be 
+processed in line with this chapter. 
+5-6 
+
+
+[PAGE 37]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+c. Refer all complaints against flag officers or SES officials to NAVINSGEN. 
+d. Ensure all personnel are aware of command and shore based assistance available to those 
+who need help in processing complaints. This assistance includes access to legal counsel, CCSs, 
+CMEO program managers and the Navy Harassment Prevention and MEO Advice Line. 
+e. Identify available counseling support or referral services for all personnel involved in 
+incidents of harassment and prohibited discrimination. These services include, but are not 
+limited to, access to mental health counseling, medical, legal counsel, family advocacy 
+personnel, fleet and family support center personnel, chaplains, CCSs, CMEO program 
+managers, Victim and Witness Assistance Personnel and the Navy Harassment Prevention and 
+MEO Advice Line. Personnel should notify the CCS or CMEO program manager if they would 
+like to be referred to support services. 
+f. 
+Commanders have the discretion to initiate an investigation without a complainant; i.e., 
+complaints submitted anonymously, if the aggrieved party does not want to paiiicipate in the 
+complaint process, concerns identified during the climate assessment or if possible harassment or 
+prohibited discrimination violations are identified during an investigation of other misconduct. 
+In such cases, if an investigation is initiated, the commander will process and report the violation 
+and subsequent outcomes in line with this chapter. Commanders will use the NA VPERS 5354/2 
+to document the issue and actions taken. No signature from a complainant is required; however, 
+the data elements outlined in appendix D are required to be captured and forwarded to OPNA V 
+Nl70C. 
+g. The commander must initiate a preliminary inquiry or command investigation, as 
+appropriate in line with reference (j). The CCS or CMEO prograin manager must not be the 
+preliminary inquiry or command investigation officer. 
+Note: If the complaint is against the commander it must be forwarded to the officer 
+exercising general court-martial jurisdiction over the commander. 
+(1) To the extent practicable the inquiry or investigation must commence within 72 hours 
+of the commander accepting the complaint. Whenever practical, the inquiry or investigating 
+officer must be senior to the complainant and the alleged offender and a CCS must serve as a 
+resource to the investigator. The complainant and alleged offender will be notified by the 
+investigating officer that the investigation has begun and will acknowledge this notification on 
+the original NA VPERS 5354/2. Commands that do not have a CCS assigned within their 
+reporting chain of command or when the CCS is unavailable or conflicted, must contact OPNA V 
+NI 70C for a list of CCSs. Before making a final determination the commander who convenes 
+the investigation into the complaint, in line with this instruction and reference (1), will submit the 
+investigating officer's completed report to a staff judge advocate in the chain of command or 
+assigned to support the command and the CCS. The judge advocate and CCS will provide the 
+commander with a written legal sufficiency review and CCS sufficiency review, respectively and 
+5-7 
+
+
+[PAGE 38]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+recommendations, if any, within 10 days. The CCS sufficiency review will be conducted using 
+OPNAV 5354/3 Command Climate Specialist Formal Harassment or Unlawful Discrimination 
+Report Sufficiency Review. 
+Note: When other formal complaint options are used to report allegations of 
+harassment or prohibited discrimination, the CCS or CMEO program manager will use 
+the NAVPERS 5354/2 to document the issue and actions taken. No signature from a 
+complainant is required; however, the data elements outlined in appendix D are required 
+to be captured and forwarded to OPNAV Nl 70C. Ensure a copy of the NA VPERS 
+5354/2 is forwarded to OPNAV NI 70C via the echelon 2 CCS within 72 hours after final 
+detennination. The appeals process outlined in paragraph 6 of this chapter only applies 
+to formal complaints submitted via the NA VPERS 5354/2. 
+(2) Voice reports must be made as outlined in reference (k). 
+(3) An OPREP describing the situation must be sent in line with reference (k), no later 
+than 72 hours after receipt and acceptance of the complaint. 
+(4) Upon receipt and acceptance of a formal complaint, ensure a copy of the NAVPERS 
+5354/2, with parts I through III completed, is forwarded to OPNAV Nl 70C via the echelon 2 
+CCS or CMEO program manager in the absence of a CCS within 72 hours. The data elements 
+outlined in appendix D are required to be captured and forwarded to OPNA V NI 70C. 
+( 5) Upon receipt and acceptance of a formal complaint, ensure appendix M, is reviewed 
+and signed by the chain of command of the complainant, the chain of command of the alleged 
+offender, complainant, alleged offender, witnesses and the CCS or CMEO program manager. 
+(6) To the extent practicable, the inquiry or investigation of a fonnal sexual harassment 
+complaint must be completed no later than 14 days from the date the investigation commenced. 
+The commander receiving the complaint must submit an initial OPREP upon receipt of the 
+complaint and a final OPREP, in line with reference(]), section 1561 (Complaints of Sexual 
+Harassment: Investigation by Commanding Officers), of the results of the investigation, 
+including any action taken as a result of the investigation, to the ISIC within 20 days after the 
+date the investigation commenced. When a sexual harassment complaint is not resolved within 
+20 days of the commencement of the investigation, submit an OPREP on the progress within 20 
+days after the date the investigation commenced and every 14 days thereafter until final 
+resolution. Upon final resolution of the complaint, submit a final OPREP on the results of the 
+investigation including any action taken as a result of the investigation. The alleged offender's 
+command is responsible for sending OPREPS upon initial complaint receipt through complaint 
+resolution, including any subsequent appeal( s ). If the alleged offender belongs to another 
+service, the complainant's command is responsible for sending the OPREPS upon initial 
+complaint receipt through complaint resolution, including any subsequent appeal(s). 
+5-8 
+
+
+[PAGE 39]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+(7) For harassment (not to include sexual harassment) and prohibited discrimination 
+complaints, the alleged offender's command is responsible for sending the initial and final 
+OPREP upon initial complaint receipt and final resolution, including any subsequent appeals. If 
+the alleged offender belongs to another service, the complainant's command is responsible for 
+sending the initial and final OPREP upon initial complaint receipt and final resolution, including 
+any subsequent appeal(s). 
+(8) To the extent practicable, the investigation of a formal harassment (not to include 
+sexual harassment) and prohibited discrimination complaint must be completed no later than 30 
+days from the date the investigation commenced. If, due to extenuating circumstances, it 
+becomes impossible to conduct a complete investigation within 30 days, the commander may 
+obtain an extension in writing from the next higher commander for usually not more than 30 
+calendar days. Upon receipt of an approved extension, the commander must inform the 
+complainant and alleged offender of the extension, its duration and the reasons for which it was 
+requested. The commander must provide progress reports every 14 calendar days thereafter until 
+the investigation is completed and a determination has been made. The investigating officer 
+must update the commander and CCS or CMEO program manager on the status of the 
+investigation every 14 days. 
+(9) The CCS or CMEO program manager must ensure that the complainant and alleged 
+offender are updated every 14 days on the status of the complaint through resolution. 
+(10) After final determination, the commander must debrief the complainant and alleged 
+offender consistent with the requirements of the Privacy Act, Freedom oflnformation Act and 
+other applicable laws, regulations and negotiated agreements. The complainant and the alleged 
+offender must be notified of the results once the complaint has been resolved and informed of 
+their right to appeal the decision. This must be documented on part IV of the NAVPERS 5354/2. 
+The complainant and the alleged offender must be informed that the appeal must be selected and 
+submitted within 30 duty days of notification. Every effort must be made to notify SELRES 
+personnel within 30 calendar days of complaint determination. If notification in person has not 
+occurred, member notification and signature must be obtained via certified mail. SELRES 
+personnel will have one drill cycle from the date ofreceipt of the certified mail to appeal the 
+decision. 
+( 11) When requested, the command must provide a redacted copy of the inquiry or 
+investigating officer's final report (as directed by the Privacy Act of 1974 and other applicable 
+laws and regulations) to the individual that requested the redacted copy within 14 days after the 
+request. Information about specific adverse actions taken against an individual generally is not 
+disclosed unless such infonnation is a matter of public record (e.g., court-martial proceedings) or 
+when otherwise required to be released by statute. 
+5-9 
+
+
+[PAGE 40]
+OPNA VINST 5354. IJ 
+5 Jun 2025 
+Note: If the complainant or alleged offender request a redacted copy of the 
+investigating officer's final report during the 30-day appeal timeframe, they get 30 days 
+to appeal starting from the date they receive the redacted copy of the report. 
+(12) Commanders must conduct a follow-up debrief with the complainant within 45 days 
+following the final determination of the complaint. For complaints involving a SELRES 
+complainant, follow-up debriefs must continue for a period of I year following resolution. 
+Command follow-up will include a determination of level of satisfaction with the resolution of 
+the complaint, satisfaction with the effectiveness of corrective action, timeliness, present 
+command climate and a review to ensure retaliation did not occur. This debrief must be 
+documented on the NA VPERS 5354/2 or an MFR. Ensure a copy of the NAVPERS 5354/2 or 
+MFR is forwarded to OPNA V NI 70C via the echelon 2 CCS or the CMEO program manager in 
+the absence of a CCS within 72 hours of debrief completion. 
+(13) Forward a copy of all completed complaint investigations, with endorsements, to the 
+respective echelon 2 or echelon 3 commander via the ISIC. All command investigations and all 
+documents pertinent to the formal complaint, must be retained by the convening authority, 
+General Court-Martial Convening Authority (GCMCA) or by the last commander to whom they 
+are routed for a period of 2 years from the time that they are received. An electronic copy of the 
+entire command investigation must be sent to OPNA V NI 70C. 
+h. If the complaint alleges a hostile work environment determination, commanders will, 
+when possible, temporarily relocate the complainant or alleged offender, without prejudice, 
+during the course of the investigation. However, commanders should give consideration to the 
+complainant's preference, when possible. Transfer of the complainant or alleged offender 
+involved must not be considered by the commander to be a resolution of the complaint. 
+i. 
+Regardless of the outcome of the investigation (substantiated or unsubstantiated), leaders 
+at all levels must not tolerate acts of retaliation, intimidation or discrimination in response to the 
+filing of a harassment or prohibited discrimination complaint and will take immediate action to 
+identify, prevent and stop all fonns of retaliation within their command. Monitor for potential 
+retaliation by checking on work center climate and ensuring perfonnance appraisals document 
+job performance accurately (i.e., downgrades must be supported by written counseling and not 
+related to the complaint). 
+j. In the event a complaint is initially reported as a sexual assault incident and is later re-
+characterized as a sexual harassment incident, the reporting and processing requirements of 
+handling a sexual harassment complaint will begin once the incident is so re-characterized. In 
+this event, if the matter was already investigated, a new investigation is not required, although 
+the investigation may need to be reopened and amended to inquire into sexual harassment-
+specific issues that may not have been addressed. 
+5-10 
+
+
+[PAGE 41]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+Note: In this event the NA VPERS 5354/2 is still required to be filled out and 
+forwarded to OPNAV NI 70C via the echelon 2 CCS, but may be dated to reflect the date 
+which the report was re-characterized. 
+k. Part IV of the NAVPERS 5354/2 must be used to document actions taken by the 
+commander to resolve the complaint and notification of involved parties. Ensure a copy of the 
+NA VPERS 5354/2 is forwarded to OPNA V NI 70C via the echelon 2 CCS or the CMEO 
+program manager in the absence of a CCS, within 72 hours. 
+I. 
+Commanders will determine whether a climate assessment is warranted or additional unit 
+training is required. 
+6. Appeal Process 
+a. The administrative appeal process is not applicable to findings rendered pursuant to 
+command action under reference (a), (i.e., non-judicial punislnnent or court-martial). 
+b. An administrative finding concerning a complaint resolved through the fonnal process 
+may be appealed by the complainant or alleged offender within 30 duty days of receiving the 
+notice of the finding. 
+c. Either the complainant or the alleged offender may appeal the decision on a formal 
+complaint. There are two levels of appeal, neither automatic. Each appeal must be affirmatively 
+requested by either the complainant or the alleged offender. In addition to the NA VPERS 
+5354/2, documentation such as statements of witnesses, personnel record entries, etc., that may 
+be helpful in resolving an appeal, may be submitted to the appellate authority by the party 
+requesting the appeal. The appellant must submit a statement detailing the reason for the appeal. 
+Both parties must initial the NA VPERS 5354/2, as applicable, to declare or decline the request 
+for a review. 
+Note: The appeal must be requested and all documentation submitted within 30 duty 
+days after receiving the notice of finding. 
+d. The first level of appeal will be at least two organizational levels above the level at which 
+the appellant is assigned, when practicable. For SELRES personnel, the request for an appeal 
+must be made within one drill cycle or the complaint will be considered closed. The echelon 2 
+CCS must collaborate on the appeal review using OPNAV 5354/4 Command Climate Specialist 
+Formal Harassment or Unlawful Discrimination Report Higher Level Review. Commands that 
+do not have a CCS assigned within their reporting chain of command or where the CCS is 
+unavailable or conflicted, must contact OPNA V NI 70C for a list of CCSs. The review of the 
+initial appeal must be completed within 60 calendar days of receipt. 
+5-11 
+
+
+[PAGE 42]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+Note: The CCS that conducted the sufficiency review must not conduct the appeal 
+review when a member exercises his or her right to appeal the decision on a fonnal 
+complaint. 
+e. If a further appeal is requested, the final resolution will rest with SECNA V or his or her 
+designee. Once requested, the appellant's commander will forward the complaint and all 
+documents pertinent to the complaint to SECNAV, via OJAG Administrative Law (Code 13), for 
+final review. The final appeal to SECNA V must be requested within 30 days of receipt of the 
+GCMCA's decision on the initial appeal. For SELRES personnel the request for the final appeal 
+must be made within one drill cycle from the receipt of the decision on the first appeal or the 
+complaint will be considered closed. An appeal requested after 30 days, may be returned as 
+untimely, unless unusual circumstances justify the delay. Commands, not designated as appeal 
+authority, must forward the appeal up their respective chain of cmmnand within 14 days of 
+receipt. 
+f. 
+An appeal may be submitted on any legal or equitable grounds based upon a perception 
+that existing DoD or DON regulations were incorrectly applied in the case, that facts were 
+ignored or weighed incorrectly or on any other good faith basis. 
+g. Commanders and supervisors are not required to withhold appropriate administrative or 
+disciplinary action while an appeal is pending. 
+7. Appeal Compliance Review. When a complainant or offender appeals the administrative 
+finding concerning a complaint, the questions outlined on the OPNAV 5354/4 should also be 
+answered by commanders, supervisors, CCSs and the judge advocate. 
+5-12 
+
+
+[PAGE 43]
+30 
+days 
+30 
+days 
+Submit formal complaint to 
+CCS or CMEO program 
+manager 
+24 hours 
+i 
+Provide to commander 
+3 duty days • 
+Commence investigation 
+• 
+CCS and legal sufficiency 
+review 
+J. 
+Commander determination 
+Debrief complainant and 
+alleged offender 
+Appeal 
+Yes 
+Appeal review and 
+determination 
+-
+No 
+-
+i-
+L 
+~ 
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+Review retaliation 
+awareness 
+Voice reports and OPREP 
+Notify the CCS (24 hours) 
+Notify complainant and 
+alleged offender 
+Complaint closed; submit 
+final OPREP and 5354/2 
+Conduct follow-up with 
+complainant within 45 days (1 
+year for reserve complaints) after 
+complaint closed 
+Figure 5-1: Formal Complaint Process Flow Chart 
+Note: There are two levels ofreview. The first will be at least two organizational 
+levels above the level at which the appellant is assigned, when practicable. The final will 
+be to SECNAV. 
+5-13 
+
+
+[PAGE 44]
+CHAPTER6 
+OPNA VINST 5354. IJ 
+5 Jun 2025 
+RETALIATION RESPONSE PROCEDURES 
+1. Purpose. To provide commanders standardized procedures to respond to allegations of 
+retaliation related to complaints or intentions to submit a complaint of harassment or prohibited 
+discrimination. No person may restrict a Service member to use the informal or formal 
+complaint process and in the review or investigative process, no person may restrict a Service 
+Member through interference, coercion, discrimination or retaliation during all facets of the 
+submission and processing of a grievance or any time thereafter. These procedures also apply to 
+uniformed witnesses, bystanders and first responders related to complaints who also perceive 
+some kind of retaliation for their involvement. Retaliation may be reported to a supervisor, CCS, 
+CMEO program manager, the commander or an IG, who must act upon the report. 
+Note: Allegations of reprisal or various forms of retaliation made by civilian 
+employees are beyond the scope of this instruction. Civilian personnel are not covered in 
+this policy and are covered under separate policies and statutes. 
+2. Discussion. No person may restrict a Service member from making a protected 
+communication to a member of Congress; an IG; a member of a DoD audit, inspection, 
+investigation or law enforcement organization; any person or organization in the chain of 
+command; a court-martial proceeding; or any other person or organization designated pursuant to 
+command regulations or other established administrative procedures for such communications. 
+No person may restrict a Service member from providing testimony or otherwise participating in 
+or assisting or planning to assist with an investigation or proceeding involving a protected 
+communication. Navy regulations and instructions contain provisions that pennit or require 
+DON personnel to report suspected impropriety, including criminal offenses. The use of social 
+media, texting and e-mailing to engage or plan to engage, in retaliatory behavior is a fonn of 
+online misconduct that undermines good order and discipline of the organization. 
+3. Procedures 
+a. If a complainant, witness, bystander or first responder related to a harassment or 
+prohibited discrimination complainant perceives subsequent retaliation, they may seek support 
+from a CCS or CMEO program manager. Individuals can also report to an IG, the command, a 
+Military Criminal Investigation Organization (MCIO) or law enforcement for investigation. 
+b. Subparagraphs 3b(I) through 3b(8) outline the CCS or CMEO program manager intake 
+procedures for allegations of perceived retaliation. While the response process is not complete 
+until case disposition is final, the purpose is to understand the full process; to include the 
+retaliation report intake process, the commencement of the investigation or other command 
+action. 
+(1) Discuss what the Service member is experiencing concerning perceived retaliation. 
+6-1 
+
+
+[PAGE 45]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+(2) Explain the types ofretaliation and investigative entities ( e.g., command, MCIO, 
+Service IG, DoD IG or law enforcement) and provide a copy of appendix M. 
+(3) Explain that the Service member can go to an IG at any time during the process. 
+Visits to the IG may range from consultation to filing a report. 
+(4) Assist and support the Service member in line with references (c) and (m). The 
+Service member must be provided adequate protection and care and informed about available 
+support resources, to include those outlined in subparagraphs 3b(4)(a) through 3b(4)(c). 
+(a) Military and civilian emergency medical and support services. 
+(b) Public and private programs that are available to provide counseling, treatment 
+and other support. 
+( c) Organizations and entities on-and off-base that provide victim and witness 
+services and support. 
+(5) Discuss with the Service member the options to consult with an IG or a legal 
+assistance attorney concerning retaliatory behavior, reporting options and the investigative and 
+military justice processes, as appropriate, prior to engaging an investigative entity or seeking 
+alternative means for resolving the retaliatory behavior allegation. 
+(6) Follow-up with the Service member to ask if the Service member proceeded to file a 
+retaliation report after speaking with the legal assistance attorney (if the Service member elected 
+to speak with a Special Victim's Counsel, VLC or legal assistance attorney). 
+(7) Record the report in the harassment and prohibited discrimination complaint log. The 
+information in subparagraphs 3b(8)(a) through 3b(8)(o) will be documented for each retaliation 
+report and must be provided to OPNAV Nl 70C. The command of the Service member 
+submitting the retaliation report is responsible for sending an OPREP upon initial receipt and 
+final resolution of the report. 
+(a) Organization providing case information. 
+(b) Harassment or prohibited discrimination complaint number. 
+(c) Reporter's name, DoD ID number and type. 
+Note: An OPREP must not contain personally identifiable information. 
+( d) Type ofreporter ( complainant, witness, bystander or first responder). 
+6-2 
+
+
+[PAGE 46]
+( e) Date ofretaliation report. 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+(f) Nature ofretaliation allegation (reprisal, restriction, ostracism or maltreatment). 
+(g) Individual to whom the report ofretaliation was made (CCS, SARC, IG, etc.) 
+(h) The alleged retaliator's working relationship to the retaliation reporter at the time 
+of the alleged incident. 
+(i) The alleged retaliator's working relationship to the alleged offender at the time of 
+the alleged incident. 
+(i) Sex of the retaliation reporter and alleged retaliator. 
+(k) Paygrade of the retaliation reporter and alleged retaliator at the time of the alleged 
+incident. 
+(1) Date of the associated harassment or prohibited discrimination complaint. 
+(m)Name of the complainant in the associated harassment or prohibited 
+discrimination complaint if different than the retaliation reporter. 
+(n) Type of investigative entity ( command, MCIO, Service IG, DoD IG or law 
+enforcement). 
+( o) Command action regarding the alleged retaliation and if no action taken the 
+reason why. 
+c. Subparagraphs 3c(l) through 3c(4) outline the procedures for resolving a retaliation 
+report. 
+( 1) The CCS or CMEO program manager will inform the retaliation reporter's 
+commander if the reporter wishes to pursue action relating to reported conduct that does not fall 
+under the jurisdiction of the IG or MCIO. Allegations of restriction or reprisal fall within the 
+jurisdiction of the IG in line with reference (1) section 1034 (Protected Communications; 
+Prohibition of Retaliatory Personnel Actions) and as such, an investigative detennination will be 
+made by the IG. Depending on the facts of the case, ostracism, maltreatment or other retaliatory 
+behavior may fall within the jurisdiction of the IG if, for example, it is detennined that they are 
+inextricably linked to restriction or reprisal. 
+(a) The commander will then decide whether to refer the report for investigation by 
+law enforcement or address it through other appropriate investigative means. 
+6-3 
+
+
+[PAGE 47]
+OPNA VINST 5354. IJ 
+5 Jun 2025 
+(b) When referred to command for investigation, an individual independent of the 
+originating unit or organization of the alleged retaliation will investigate the retaliation reports. 
+(c) The chain of command will ensure that the SARC, CCS or CMEO program 
+manager and retaliation reporter all remain informed throughout the process. This will include 
+any delays of the process and the date when the investigation is complete. 
+(2) The CCS or CMEO program manager will notify the appropriate level of command 
+of the retaliation report unless the retaliation report is against the immediate commander; then 
+the next level of command will be notified and assume responsibility for the case. 
+(3) The CCS or CMEO program manager, in coordination with the SARC, will make 
+every effort to provide updates to commanders whose personnel are involved in a retaliation 
+report, retaliation investigation or both. 
+( 4) Commander(s) of the Service member(s), who is a subject of a retaliation report, will 
+provide in writing a case status and all disposition data, to include any administrative or judicial 
+action taken, stemming from a retaliation investigation to the SARC. 
+d. The CCS or CMEO program manager will notify Service members who allege retaliation 
+associated with a harassment or prohibited discrimination complaint, that they have the 
+opportunity to communicate with a flag officer in their chain of command regarding career-
+related impacts and administrative separation actions they perceive to be associated with the 
+report or involvement in the incident. 
+6-4 
+
+
+[PAGE 48]
+CHAPTER 7 
+TRAINING 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+1. General Training Requirements. Commanders detennine how best to accomplish harassment 
+prevention and MEO training. The most effective method to conduct training is through small 
+group discussions and scenario based training with the CCS or CMEO program manager as a 
+facilitator. The training facilitator must promote the chain of command as the primary channel 
+for addressing complaints, while providing information regarding reporting options, procedures 
+and applicable timelines to submit harassment and prohibited discrimination complaints 
+(including anonymous complaints and complaints involving a Service member's commander or 
+supervisor) to the appropriate commander or supervisor, inspector general's office, CCS or 
+CMEO program manager. The training content will be appropriate to the Service member's 
+grade and commensurate with their level of responsibility. 
+2. Orientation Training. Harassment and MEO training must be provided to all newly assigned 
+Service members. The training will encompass the entire cycle of harassment and prohibited 
+discrimination prevention, reporting, response, accountability procedures and processes through 
+which Service members may report harassment, prohibited discrimination or retaliation. 
+Training must be administered within 60 calendar days. 
+3. CMT. Facilitator led, small group training that includes how to identify, define and report all 
+fonns of harassment and prohibited discrimination. Specifically, it is important to educate 
+members on the delineation of the various forms of harassment, illustrate the destructive impact 
+of these behaviors and ensure Sailors are equipped with the tools to intervene, when necessary. 
+Training will include leadership roles and responsibilities for MEO programs, complaints 
+processing, retaliation prevention and detection, methodologies, options for obtaining assistance 
+when the alleged offender is the commander or in the complainant's chain of command and 
+witnesses and bystander intervention protection. In line with reference (f), all DON personnel, 
+military and civilian, must be educated and trained upon accession and periodically thereafter 
+(including throughout professional military education systems) in the areas of identification, 
+prevention, resolution and elimination of sexual harassment. The frequency of periodic training 
+will be no less than every 2 years. Periodic training will include the application of pertinent, 
+anonymous reporting as well as informal and formal resolution procedures. 
+4. Professional Military Education and Leadership Development Training. This training is 
+critical to ensure personnel fully understand the importance of identifying and eliminating 
+harassment and prohibited discrimination and how it undennines our leadership abilities and 
+impacts command climate. These training sessions should stress how to build and maintain 
+professional working relationships and how fairness and unbiased actions are part of the Navy's 
+core values and signature behaviors. Instruction should be appropriate to the rank and 
+experience of the attendees and should include: 
+a. An overview of the harassment prevention and MEO program. 
+7-1 
+
+
+[PAGE 49]
+(]) The definition of harassment and prohibited discrimination. 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+(2) The consequences of harassing and prohibited discriminatory behaviors. 
+(3) Available resources to discuss concerns on addressing actions potentially perceived as 
+harassment or prohibited discrimination. 
+b. The commander's and senior enlisted Service Member's role in the harassment 
+prevention and MEO program. 
+c. Information on retaliation. 
+(1) Available resource(s) regarding retaliation. 
+(2) Chain of command responsibilities for allegations ofretaliation. 
+(3) Incidents and negative behaviors that can affect command climate. 
+d. Continuing education and training to ensure mastery and competency in the MEO field. 
+e. A training module for new or prospective commanders at all levels of command. The 
+training will be tailored to the responsibilities and leadership requirements of Service members 
+as they are assigned to command positions. The training will address fostering a climate that 
+does not tolerate harassment or prohibited discrimination, encourages Service member 
+intervention to prevent potential incidents of harassment and prohibited discrimination and 
+encourage reporting incidents of harassment and prohibited discrimination. 
+f. 
+Training topics for understanding the needs of and the resources available to, the 
+complainant, assigning investigating officers for alleged incidents of harassment and prohibited 
+discrimination and understanding available disciplinary options, including court-martial, non-
+judicial punishment and administrative action. 
+5. Harassment Prevention and MEO Training at Pre-Commissioning Programs. A CCS or 
+CMEO program manager will provide initial training and annually thereafter. The training will 
+include, at minimum: 
+a. Instruction on the Navy Harassment Prevention and MEO Program policy and reporting 
+options and processes (informal, fonnal or anonymous) through which a harassment or 
+prohibited discrimination or retaliation complaint may be filed. 
+b. A brief history of the problem(s), nature and consequences of harassment and prohibited 
+discrimination in the military services and retaliation (including use of social media and 
+7-2 
+
+
+[PAGE 50]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+electronic communications), to effectively identify, report and eradicate harassment and 
+prohibited discrimination. 
+6. CMEO Program Manager Training. All assigned CMEO program managers must attend the 
+CMEO Manager course (A-500-0009) delivered by NETC. This training is designed to provide 
+CMEO program managers the general skills for managing the command's MEO objectives for 
+their commander. 
+7. Sustaimnent Training. All CCSs and CMEO program managers must receive semi-annual 
+sustaimnent training conducted by a CCS. Echelon 2 CCSs will provide semi-annual training to 
+echelon 3 and 4 CCSs. This training will be used to reinforce this instruction, provide MEO 
+objectives updates and examine command trends. 
+8. Annual CCS Training. All CCSs will attend annual training conducted face-to-face by 
+OPNA V NI 70C. This training must be used to reinforce this instruction, provide programmatic 
+and instruction updates, share best practices and, leverage data analytics to illustrate trends, 
+programmatic impacts and data driven recommendations. 
+9. Leadership Training Awareness Seminar (LTAS). Senior leaders may consider attending the 
+I-week, unit-funded LTAS at DEOMI. LTAS is designed to present senior leaders with an 
+orientation on the intrapersonal, interpersonal and organizational aspects of human relations, EO 
+and EEO in order to gain an understanding of their impacts on unit cohesion and mission 
+effectiveness. Seats for the DEOMI LTAS are limited. For enrollment infonnation please 
+contact DEOMI student services at (321) 494-4617/5874, Defense Switched Network (854) or 
+by e-mail to deomiss@us.af.mil. 
+7-3 
+
+
+[PAGE 51]
+APPENDIX A 
+REFERENCES 
+1. References 
+(a) SECNAV M-5210.1 of23 September 2019 
+(b) DoD Instruction 1350.02 of 4 September 2020 
+(c) DoD Instruction 1020.03 of 17 January 2025 
+(d) SECNAVINST 5350.16A 
+(e) SECNAVINST 5300.26E 
+(f) Uniform Code of Military Justice 
+(g) DoD Instruction 1325.06 of 20 December 2021 
+(h) SECNAVINST 5370.7E 
+(i) U.S. Navy Regulations, 1990 
+(j) JAGINST 5800.7F 
+(k) OPNA VINST F3100.6K (NOTAL) 
+(I) 10 U.S.C. 
+(m)DoD Instruction 6400.07 of6 July 2018 
+(n) DoD Directive 7050.06 of 12 October 2021 
+2. Additional References. Refer to appendix J, paragraph 9. 
+A-1 
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+Appendix A 
+
+
+[PAGE 52]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+APPENDIXB 
+DEFINITIONS 
+1. Alleged Offender. Anyone who is alleged to have committed a violation of this instruction 
+and is the subject of an informal, fonnal or anonymous complaint. 
+2. Appropriate Authority. To qualify for protection under reference (h), a protected 
+communication must be made to: 
+a. a member of Congress; 
+b. an IG, as defined in reference (h); 
+c. a member of a DoD audit, inspection, investigation or law enforcement organization; 
+d. any person or organization in the chain of command; 
+e. a court-martial proceeding; 
+f. 
+any other person or organization designated following regulations or other established 
+administrative procedures for such communications; or 
+g. any person conducting an investigation or proceeding related to a protected 
+communication. 
+3. Climate Assessment. A systematic procedure used to gather, synthesize and report key 
+perceptions, attitudes and behaviors within an organization, all which can affect unit readiness. 
+A complete assessment includes a DEOCS in addition to using data gathered from interviews, 
+observations and existing records or reports in order to fonn a complete and actionable picture of 
+organizational climate. 
+4. Color. Skin tone or complexion. Even though race and color clearly overlap, they are not 
+synonymous. Thus, color harassment or discrimination can occur between persons of different 
+races or ethnicities or between persons of the same race or ethnicity. 
+5. CCS Sufficiency Review. A review of the investigation, by the CCS, to ensure: 
+a. All accepted allegations were thoroughly addressed in the investigation. 
+b. The investigation included a thorough review of the circumstances under which the 
+alleged behavior occurred. 
+B-1 
+Appendix B 
+
+
+[PAGE 53]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+c. There is no evidence of bias (a highly personal and unreasoned distortion of judgment) by 
+the investigating officer. 
+d. There is no evidence the complainant rather than the alleged behavior was investigated. 
+6. CMEO Program Manager. Command member (must be an E6 or above with at least 8 years 
+of service) appointed in writing by the commander, who functions as the single point of contact 
+when a CCS is not assigned to the command for MEO matters within the command. 
+7. 
+CCS. Member who has completed the DEOMI Equal Opportunity Advisor Course, to 
+include the Navy Service Specific Course and has been assigned the Navy enlisted classification 
+code 809A. CCSs provide oversight, training and assist visits to subordinate and area command 
+CCSs and CMEO program managers. A CCS is the subject matter expert for the commander on 
+the DEOCS, command climate assessments and the handling and processing of harassment and 
+prohibited discrimination complaints. Assigned CCSs strengthen the chain of command by 
+keeping the leadership team aware of existing or potential MEO related matters as well as 
+procedures and practices that affect the mission, readiness, welfare and morale of all Sailors in 
+the command. CCSs are assigned to major shore commands, nuclear aircraft carriers, 
+amphibious assault ships and instructor billets. 
+8. Complaint. An allegation of harassment or prohibited discrimination submitted by a Service 
+member. 
+a. Informal Complaint. An allegation submitted orally or in writing to a member in a 
+position of authority in the chain of command for resolution (i.e., the leading petty officer, chief 
+petty officer, division officer, department head, etc.). 
+b. Formal Complaint. An allegation that is submitted in writing via NA VPERS 5354/2; 
+reference (i), article 1150; reference (f), article 138; communication to NAVINSGEN or elected 
+officials; NA VPERS 1626/7; and any other communication the commander deems appropriate. 
+c. Anonymous Complaint. An allegation received by the commander, regardless of the 
+means of transmission, from an unknown or unidentified source, alleging harassment or 
+prohibited discrimination. The individual is not required to divulge any personally identifiable 
+information. 
+9. Complainant. A Service member who submits an allegation of harassment or prohibited 
+discrimination. 
+10. Criminal Offense. An act or omission punishable under reference (f) or other Federal, State 
+or local criminal law. 
+B-2 
+AppendixB 
+
+
+[PAGE 54]
+OPNA VINST 5354. IJ 
+5 Jun 2025 
+11. DEOMI. A DoD institution used to enhance combat and operational readiness by enhancing 
+unit and organizational leadership and cohesion. This is accomplished by developing and 
+conducting education and training in the administration of MEO, EEO and human relations. 
+12. DEOCS. A commander's management tool that allows him or her to proactively assess 
+critical organizational climate dimensions that can impact the organization's mission. This 
+voluntary survey is designed to assess the "shared perceptions" of respondents about formal or 
+informal policies or practices. The questionnaire focuses on the following primary areas: MEO, 
+civilian EEO organizational effectiveness, perceptions of discrimination and sexual harassment 
+and sexual assault prevention and response. 
+13. Destructive Behaviors. Self-directed or prohibitive, abusive and hannful acts that are 
+counterproductive to Sailor readiness and may cause harm to others. 
+14. Determination. Decision made on a formal or anonymous harassment or prohibited 
+discrimination complaint; substantiated or unsubstantiated. 
+15. EO. The right of all persons to participate in and benefit from, programs and activities for 
+which they are qualified. These programs and activities must be free from social, personal or 
+institutional barriers that prevent people from rising to the highest level ofresponsibility 
+possible. Persons will be evaluated on individual merit, fitness, capability and performance, 
+regardless of race, color, religion, sex (including pregnancy), national origin or sexual 
+orientation. 
+16. Ethnicity. A group socially distinguished or set apart by others or itself, primarily on the 
+basis of culture or nationality characteristics. Classifications of ethnicity include: Hispanic or 
+Latino, defined as an individual of Cuban, Mexican, Puerto Rican, South or Central American or 
+other Spanish culture or origin, regardless ofrace; and not Hispanic or Latino. 
+17. Executive Summary of a Command Climate Assessment. Formal correspondence 
+summarizing a completed command climate assessment to include significant findings 
+organizational strengths, areas of concern and recommended corrective actions. 
+18. Extremist Group. An organization that espouses supremacist causes; attempts to create 
+illegal discrimination based on race, creed, color, ethnicity, national origin, sex, sexual 
+orientation or religion; advocates using force or violence; or otherwise engages in efforts to 
+deprive individuals of their civil rights. 
+19. Harassment or Prohibited Discrimination Formal Complaint Appeal Review. A level of 
+review initiated when a member exercises his or her right to appeal the decision on a formal 
+harassment or prohibited discrimination complaint. The initial review will be conducted by 
+echelon 2 commander of the command where the complaint was investigated and adjudicated. 
+B-3 
+AppendixB 
+
+
+[PAGE 55]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+20. Hostile Work Environment. An environment which prevents members from functioning to 
+their full capacity, free of harassment and prohibited discrimination. A hostile work 
+environment unreasonably interferes with an individual's work performance. It need not result 
+in concrete psychological harm to the victim but need only be perceived by a reasonable person 
+and is perceived by the victim, as hostile or offensive. Behavior does not need to occur in the 
+physical workplace in order to create a hostile work environment. 
+21. Informal Resolution System. A recommended technique for resolving informal harassment 
+and prohibited discrimination complaints. 
+22. Joint Service Environment. A locality from which operations of two or more of the military 
+departments are projected or supported and which is manned by significant elements of two or 
+more military departments or in which significant elements of two or more military departments 
+are located. Includes joint commands, joint bases, defense agencies and joint field activities that 
+involve more than one branch of military service. 
+23. Legal Sufficiency Review. A written review of an investigation into a fonnal or anonymous 
+complaint of harassment or prohibited discrimination by a judge advocate, prior to the 
+commander's determination, to determine whether: 
+a. The investigation complies with all applicable legal and administrative requirements. 
+b. The investigation adequately addresses the complaint. 
+c. The evidence supports the administrative findings concerning the complaint. 
+Commanders will direct the investigating officer to obtain additional information if the finding is 
+not supported. 
+d. The investigation conclusions and recommendations are consistent with the findings. 
+e. Any errors or irregularities exist and, if so, their legal effect, if any. 
+f. 
+The complainant and alleged offender were informed, in writing, of the results of the 
+investigation, including whether the complaint was substantiated, unsubstantiated or dismissed. 
+g. The complainant and alleged offender were advised of their right to appeal. 
+24. MEO. The right of all Service members to serve and be evaluated based on only individual 
+merit, fitness, capability and perfonnance in an environment free from harassment and prohibited 
+discrimination on the basis of race, color, religion, sex (including pregnancy), national origin or 
+sexual orientation. 
+B-4 
+AppendixB 
+
+
+[PAGE 56]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+25. MEO Program. The DoD-wide military program ofEO that is accomplished through efforts 
+by the DoD Components. It provides an environment in which Service Members are ensured an 
+opportunity to rise to the highest level of responsibility possible in the military profession, 
+dependent only on merit, fitness and capability. 
+26. National Origin. An individual's or ancestor's place of origin. Also applies to a person who 
+has the physical, cultural or linguistic characteristics of a national group. 
+27. National Origin Discrimination. Treating people unfavorably because they are from a 
+particular country or part of the world, because of ethnicity or accent or because they appear to 
+be ofa certain ethnic background (even if they are not). 
+28. Protected Communication 
+a. A communication protected under reference (h) and this instruction is: 
+(I) A lawful communication by a Service member to a member of Congress or an IG or 
+(2) A communication by a Service member to a member of Congress; the IG; a member 
+of a DoD audit, inspection, investigation or law enforcement organization; any person or 
+organization in the chain of command; a court-martial proceeding or any other person or 
+organization pursuant to regulations or other established administrative proceedings to receive 
+such communication, in which the Service member communicates information that he or she 
+reasonably believes evidences of any of the situations in subparagraphs 28a(2)(a) through 
+28a(2)(c). 
+(a) Any violation oflaw or regulation, including a law or regulation prohibiting rape, 
+sexual assault or other sexual misconduct in violation ofreference (f), sections 920, 902b, 920c 
+or 930; harassment or prohibited discrimination. 
+(b) Gross mismanagement, a gross waste of funds, an abuse of authority or a 
+substantial and specific danger to public health or safety. 
+(c) A threat by another Service member or employee of the Federal Government that 
+indicates a determination or intent to kill or cause serious bodily injury to a Service member or 
+civilian or damage to military, Federal or civilian property. 
+(3) Providing testimony or otherwise participating or assisting in an investigation or 
+proceeding related to a protected communication as defined in subparagraphs 28a(l) and 28a(2) 
+or filing, causing to be filed, participating in or otherwise assisting in an action brought under 
+references (h); (]), sections I 034, 1552 and 1552 and (n). 
+B-5 
+Appendix B 
+
+
+[PAGE 57]
+OPNA VINST 5354. lJ 
+5 Jun 2025 
+b. A protected communication will not be excluded from the protections provided in 
+references (h); (I), sections 1034, 1552 and 1553; and (n) because: 
+(I) The communication was made to a person who participated in an activity that the 
+member reasonably believed to be covered by subparagraph 28a of this enclosure. 
+(2) The communication revealed information that had previously been disclosed. 
+(3) Of the member's motive for making the communication. 
+( 4) The communication was not made in writing. 
+(5) The communication was made while the member was off duty. 
+( 6) The communication was made during the member's normal course of duties of the 
+member. 
+29. Race. A division ofhuman beings identified by the possession of traits that are transmissible 
+by descent and that are sufficient to characterize persons possessing these traits as a distinctive 
+human genotype. Classifications of race include American Indian or Alaskan Native, Asian, 
+Black or African American, Native Hawaiian or Other Pacific Islander and White. 
+30. Race Discrimination. Treating someone unfavorably because he or she is of a certain race or 
+because of personal characteristics associated with race (such as hair texture, skin color or 
+certain facial features). 
+31. Reasonable Person Standard. An objective test used to detennine if behavior meets the legal 
+test for harassment or prohibited discrimination. The test requires a hypothetical exposure of a 
+reasonable person to the same set of facts and circumstances as reported in the complaint. The 
+reasonable person standard considers the complainant's perspective and does not rely upon 
+stereotyped notions of acceptable behavior within that particular work environment. 
+32. Religion. A personal set or institutionalized system of attitudes, moral or ethical beliefs and 
+practices that are held with the strength of traditional religious views, characterized by ardor and 
+faith and generally evidenced through specific religious observances. 
+33. Religious Discrimination. Treating a person unfavorably because of his or her religious 
+beliefs and practices. 
+34. Restrict (Restriction). Preventing or attempting to prevent a Service Member from making or 
+preparing to make, a lawful communication to a member of Congress or an IG. 
+B-6 
+Appendix B 
+
+
+[PAGE 58]
+OPNAVINST 5354.!J 
+5 Jun 2025 
+35. Retaliation. Any illegal, impermissible or hostile actions taken by a Service Member's chain 
+of command, peers or coworkers with the intent to retaliate against that person for reporting or 
+planning to report a criminal offense or for making or planning to make a protected 
+communication. Retaliatory behaviors are defined in subparagraphs 35a through 35c. 
+a. Reprisal. The most severe form of retaliation. Taking or threatening to take an 
+unfavorable personnel action or withholding or threatening to withhold a favorable personnel 
+action for reporting or planning to report a criminal offense or for making or planning to make a 
+protected communication. Reference(!), sections 1034, 1552 and 1553, also prohibits the 
+following personnel actions: making or threatening to make a significant change in the duties or 
+responsibilities of a Service member not commensurate with the member's grade; the failure of a 
+superior to respond to any retaliatory action or harassment ( of which the superior had actual 
+knowledge) taken by one or more subordinates; or conducting a retaliatory investigation of a 
+Service member. 
+b. Ostracism. The exclusion of a military member from social acceptance or membership in 
+or association with a group of which such military member was a part or a reasonable person 
+would conclude wanted to be a part, with the intent to inflict emotional distress on the military 
+member, discourage reporting of a criminal offense or otherwise discourage the due 
+administration of justice. Ostracism requires a nexus to military service. 
+c. Maltreatment. Treatment by peers or by other persons, that, when viewed objectively 
+under all the circumstances, is abusive or otherwise unwarranted, unjustified and unnecessary for 
+any lawful purpose, that is done with intent to discourage reporting of a criminal offense or 
+otherwise discourage the due administration of justice and that results in physical or mental hann 
+or suffering or reasonably could have caused, physical or mental harm or suffering. 
+Maltreatment under this instruction does not require a senior-subordinate relationship as is 
+required for maltreatment under reference (g), article 93. 
+36. Sex. The biological distinction between males and females. 
+37. Sex Discrimination. Treating someone unfavorably because of the person's sex. 
+Discrimination based on pregnancy is a form of sex discrimination. 
+38. Sexual Assault. Intentional sexual contact characterized by use of force, threats, intimidation 
+or abuse of authority or when the victim does not or cannot consent. The term includes a broad 
+category of sexual offenses consisting of the following specific UCMJ offenses: rape, sexual 
+assault, aggravated sexual contact, abusive sexual contact, forcible sodomy (forced oral or anal 
+sex) or attempts to commit these acts. 
+39. Sexual Orientation. Heterosexuality, homosexuality or bisexuality, whether the orientation is 
+real or perceived, including association with another individual of a particular sexual orientation. 
+B-7 
+AppendixB 
+
+
+[PAGE 59]
+OPNAVINST 5354.JJ 
+5 Jun 2025 
+40. Sexual Orientation Discrimination. Treating someone unfavorably because of the person's 
+sexual orientation. 
+41. Social Media. Web-based tools, websites, applications and media that connect users and 
+allows them to engage in dialogue, share information, collaborate and interact. This includes 
+using social media on-duty and off-duty through the use of government or personal devices in a 
+manner that meets any of those definitions. 
+42. Substantiated. A substantiated finding occurs when a preponderance of the evidence 
+supports (more likely to have occurred than not occurred) the complainant's allegation of a 
+violation oflaw, regulation or Navy policy or standards. The documented facts indicate that a 
+violation occurred. 
+43. Supervisor. Anyone who has subordinates, regardless ofpaygrades or ranks who is 
+approached by a complainant, alleged offender or third party or who himself or herself observes 
+harassment, prohibited discrimination or unacceptable behavior. 
+44. Third Party. An individual who witnesses conduct constituting harassment or prohibited 
+discrimination, but who is not a complainant as defined in this instruction. 
+45. Witness. General term referring to an individual who has observed an instance of possible 
+harassment or prohibited discrimination. This includes third parties and may include some 
+complainants as defined in this instruction. 
+46. Work Environment. The workplace or any other place that is work-connected, as well as the 
+conditions or atmosphere under which people are required to work. Examples of work 
+environment include, but are not limited to: an office; an entire office building; a Navy or DoD 
+base or installation; DoD ships, aircraft or vehicles; anywhere when engaged in official Navy 
+business; as well as command-sponsored social, recreational and sporting events, regardless of 
+location. 
+B-8 
+Appendix B 
+
+
+[PAGE 60]
+APPENDIXC 
+ABBREVIATIONS AND ACRONYMS 
+CCS 
+Command Climate Specialist 
+CMEO 
+Command Managed Equal Opportunity 
+CMG 
+Case Management Group 
+CRT 
+Command Resilience Team 
+CMT 
+Common Military Training 
+DEOCS 
+Defense Organizational Climate Survey 
+DEOMI 
+Defense Equal Opportunity Management Institute 
+DoD 
+Department of Defense 
+DON 
+Department of the Navy 
+DRC 
+Deployed Resiliency Counselor 
+EO 
+Equal Opportunity 
+EEO 
+Equal Employment Opportunity 
+FL TMPS Fleet Training Management and Planning System 
+GCMCA General Courts-Martial Convening Authority 
+IG 
+MCIO 
+MEO 
+MFR 
+Inspector General 
+Immediate Superior in Command 
+Military Criminal Investigative Organization 
+Military Equal Opportunity 
+Memorandum for the Record 
+NAVINSGEN 
+Naval Inspector General 
+C-1 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+Appendix C 
+
+
+[PAGE 61]
+NA VOPSPTCEN 
+Navy Operational Support Center 
+NETC 
+Naval Education and Training Command 
+NJP 
+Non-Judicial Punishment 
+NRA 
+Navy Reserve Activity 
+NROTC 
+Naval Reserve Officer Training Corps 
+OJAG 
+Office of the Judge Advocate General 
+OPREP 
+Operational Report 
+POA&M Plan of Action and Milestones 
+SAPR 
+SARC 
+SECNAV 
+SELRES 
+SES 
+USNA 
+VA 
+VLC 
+VTC 
+XO 
+Sexual Assault Prevention and Response 
+Sexual Assault Response Coordinator 
+Secretary of the Navy 
+Selected Reserve 
+Senior Executive Service 
+United States Naval Academy 
+Victim Advocate 
+Victim's Legal Counsel 
+Video Teleconference 
+Executive Officer 
+C-2 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+Appendix C 
+
+
+[PAGE 62]
+APPENDIXD 
+DATA COLLECTION REQUIREMENTS 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+1. Purpose. In an attempt to better understand the prevalence and subsequently eradicate 
+harassment and prohibited discrimination from occurring in our Navy, this section of data 
+collection applies to informal, formal and anonymous complaints. 
+2. Data Collection. OPNA V NI 70C will collect and maintain data concerning harassment and 
+prohibited discrimination complaints. This data will include information pertaining to informal, 
+formal and anonymous complaints. Such data will be reported annually (and as needed) to the 
+Director, Office of Civil Rights and Equal Opportunity Policy, through a DoD-approved 
+automated data collection interface. Co1mnanders are required capture all data elements in 
+subparagraphs 2a through 2p for harassment and prohibited discrimination as well as allegations 
+of wrongful broadcast or distribution of intimate visual images. These must be provided to 
+NI 70C via the echelon 2 CCS. 
+a. The type of complaint (i.e., informal, formal or anonymous). 
+b. The type of alleged behavior; prohibited discrimination, discriminatory harassment, 
+harassment, hazing, bullying, sexual harassment, stalking or wrongful broadcast or distribution 
+of intimate visual images. 
+(1) If prohibited discrimination or discriminatory harassment provide the basis; race, 
+color, religion, sex (including pregnancy), national origin, sexual orientation or a combination 
+thereof. 
+(2) If hazing or bullying provide whether the behavior was physical, psychological, 
+written, verbal, non-verbal or a combination thereof. 
+(3) If sexual harassment provide whether the behavior was crude or offensive behavior, 
+unwanted sexual attention, sexual coercion or a combination thereof. 
+c. The date the complaint was received by the commander and the date the commander 
+reported receipt to the GCMCA. 
+d. The DoD ID number, Service, component (active, reserve or civilian) grade, sex, 
+ethnicity (Hispanic or non-Hispanic), race, age and religion of the complainant(s) and alleged 
+offender(s). 
+e. The UIC for the assigned command of the complainant(s) and alleged offender(s) at the 
+time of the alleged incident(s). 
+f. 
+The location of the alleged incident(s). 
+D-1 
+AppendixD 
+
+
+[PAGE 63]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+g. The duty status; on-duty, off-duty or both, of the complainant(s) and alleged offender(s) 
+at the time of the aUeged incident( s ). 
+h. The alleged offender's working relationship to the complainant at the time of the alleged 
+incident( s ). 
+i. 
+A narrative description of the a1leged incident(s), to include if the use of social media or 
+other electronic communications were involved. 
+j. Whether the a1leged offender has prior substantiated harassment or prohibited 
+discrimination complaints documented in his or her personnel file. 
+k. The final determination of the complaint. Substantiated or unsubstantiated for formal and 
+anonymous complaints and resolved or unresolved for infonnal complaints. 
+I. 
+The disposition of substantiated complaints, including no action, non-judicial 
+punishment, discharge in lieu of court-martial or other adverse action, adverse administration 
+action, court-martial. 
+m. Paygrade and title of the investigating and adjudicating officers. 
+n. The name, command name and contact information for the judge advocate that was 
+consulted. 
+o. Whether or not an a11egation of retaliation related to the harassment or prohibited 
+discrimination complaint was submitted. 
+p. The timeline of events from the date of complaint to final disposition and reason(s) for 
+any delays. 
+D-2 
+AppendixD 
+
+
+[PAGE 64]
+APPENDIXE 
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+COMMAND MANAGED EQUAL OPPORTUNITY PROGRAM MANAGER 
+DESIGNATION LETTER 
+From: Commanding Officer, (Name of Command) 
+To: 
+AMC You R. Sailor, USN 
+5354 
+SerN00/ 
+DDMmYY 
+Subj: DESIGNATION AS COMMAND MANAGED EQUAL OPPORTUNITY 
+PROGRAM MANAGER 
+Ref: 
+(a) OPNAVINST 5354. IJ 
+I. This letter designates that you have completed the Command Managed Equal Opportunity 
+(CMEO) Manager course. Per reference (a), you are hereby designated as the (name of 
+command) CMEO program manager. You are directed to contact the command climate 
+specialist responsible for providing oversight and assistance to our command within 30 days of 
+this letter. 
+2. Our people continue to be the Navy's most precious resource. To ensure mission readiness, 
+every member of the Department of the Navy must be afforded an equal opportunity to become a 
+productive and valued member of the Navy team. Unprofessional behavior destroys trust and 
+confidence among leaders and shipmates, erodes unit cohesion and combat readiness and is 
+contrary to our core values of honor, courage and commitment. 
+3. In the execution of these duties you will report directly to the commanding officer and 
+provide program efficiency reviews as required to the chief of staff, executive officer, command 
+master chief and any other designated personnel. 
+J.M. COMMANDER 
+E-1 
+Appendix E 
+
+
+[PAGE 65]
+APPENDIXF 
+OPNA VINST 5354. lJ 
+5 Jun 2025 
+COMMAND CLIMATE SPECIALIST CHECKLIST 
+EO is an essential element of continual process improvement to enhance quality oflife. To 
+ensure the basic systems are in place at the echelon 2 level and below, this checklist is provided 
+as a tool to assist in the evaluation of the CCS in the execution of his or her responsibilities. 
+1. Does the CCS inform the commander and CMEO program manager on all changes to the 
+OPNA VIN ST 5354. IJ? 0 Yes O No O NI A 
+2. Does the CCS provide analysis and recommendations to the commander regarding all 
+informal, fonnal and anonymous harassment and prohibited discrimination complaints? 
+□Yes □No □NIA 
+3. Does the CCS conduct onsite or virtual assessments and inspections of immediate 
+subordinate commands' CCSs and CMEO programs every 2 years? Is compliance reported to 
+OPNAVN170C? □Yes □No □NIA 
+4. Does the CCS provide CMEO program oversight, assist visits and training to the command 
+and subordinate commands as requested or required? D Yes D No D NIA 
+5. Does the CCS maintain items identified in subparagraphs 5a through 5f for subordinate 
+commands: 
+a. Command climate assessment supporting documentation, to include the executive 
+summary and POA&M for the"last 3 years D Yes D No 
+b. Results of the comprehensive visual inspections for the last 3 years. D Yes D No 
+c. Results of the last three on-site or virtual assessments and inspections. D Yes D No 
+d. Complaint log of all harassment, prohibited discrimination complaints and allegations of 
+wrongful broadcast or distribution of intimate visual images for the last 3 years. 
+□Yes □No □NIA 
+e. Documentation of all administered MEO training outlined in chapter 7, for the last 3 
+years. 0Yes 0No □NIA 
+f. 
+A copy of the NAVPERS 5354/2 documenting informal complaints of harassment and 
+prohibited discrimination for the last 3 years. D Yes D No D NI A 
+6. Does the CCS track and monitor the commands and subordinate commands command 
+climate assessments? D Yes D No D NIA 
+F-1 
+AppendixF 
+
+
+[PAGE 66]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+7. Does the CCS review the command climate assessment executive summary, POA&M and 
+DEOCS and provide a report to the ISIC prior to a commander's face-to-face debrief? 
+□Yes □No □NIA 
+8. Does the CCS provide assistance, advice and training regarding conflict resolution and 
+grievance and redress procedures? D Yes D No D NIA 
+9. Does the CCS serve as the central point of contact for all MEO and command climate issues 
+and provide guidance and training to CMEO program managers regarding the processing of 
+harassment and prohibited discrimination complaints? D Yes D No D NI A 
+I 0. Does the CCS use chapters 4 and 5 of OPNA VIN ST 5354. lJ for the processing of infonnal, 
+formal and anonymous complaints, respectively? D Yes D No D NIA 
+11. Does the CCS use chapter 6 of OPNA VINST 5354.1 J for the appropriate procedures when 
+approached by a Service Member who alleges retaliation related to a harassment or prohibited 
+discrimination complaint? D Yes D No D NIA 
+12. Does the CCS track and monitor the reporting and status of their command and subordinate 
+commands' harassment and prohibited discrimination complaints? Are all data elements 
+outlined in appendix D ofOPNAVINST 5354.IJ are collected and forwarded to OPNAV 
+Nl70C? □Yes □No □NIA 
+13. Does the CCS track allegations of wrongful broadcast or distribution of intimate visual 
+images? Are all data elements outlined in appendix D of OPNA VINST 5354. 1J are collected 
+andforwardedtoOPNAVN170C? □Yes □No □NIA 
+14. Does the CCS provide the commander a quarterly verbal brief and written report of the status 
+of subordinate command's harassment and prohibited discrimination complaints? 
+□Yes □No □NIA 
+15. Does the CCS provide semi-annual MEO training to subordinate command CCSs and CMEO 
+program managers? 
+□Yes □No □NIA 
+16. Does the CCS maintain a current point of contact listing of subordinate command CCSs and 
+CMEO program managers? D Yes D No D NI A 
+F-2 
+Appendix F 
+
+
+[PAGE 67]
+APPENDIXG 
+OPNA VINST 5354. IJ 
+5 Jun 2025 
+COMMAND MANAGED EQUAL OPPORTUNITY PROGRAM CHECKLIST 
+MEO is an essential element of continual process improvement to enhance quality oflife. To 
+ensure the basic systems are in place at the unit to promote a positive command climate, this 
+checklist is provided as a tool to assist in the evaluation of the CMEO program. 
+1. Did the commander, along with the deputy, XO or assistant officer in charge and senior 
+enlisted leader, obtain a one-on-one MEO and command climate brief from their CRT within 60 
+days of the commander assuming command? D Yes D No 
+2. Does the commander promote a positive command climate? D Yes D No 
+3. Did the commander establish CCS billets at the echelon 2 and echelon 3 commands with 
+subordinate commands? D Yes D No D NIA 
+4. Did the commander assign a CMEO program manager? Did that assignment meet the 
+requirements outlined in OPNA VINST 5354. IJ? D Yes D No 
+5. Did the commander develop, disseminate and enforce harassment prevention and MEO 
+policy statements which include expectations regarding procedural compliance? D Yes D No 
+6. Did the commander ensure comprehensive visual inspections throughout the command are 
+conducted on a regular basis, not less than annually? D Yes D No 
+7. Does the commander monitor their command and subordinate command's command 
+climates? D Yes D No 
+8. Does the commander ensure assessments and inspections of subordinate commands' MEO 
+programs were being conducted every 2 years? D Yes D No D NIA 
+9. Did the commander establish a CRT? D Yes D No 
+10. Did the commander complete and ensure subordinate commanders completed, a command 
+climate assessment in line with OPNA VIN ST 5354. IJ? D Yes D No 
+11. Does the commander ensure command demographics for collateral duty assigmnents, 
+retention, discipline, advancement and awards are reviewed quarterly? D Yes D No 
+12. Did the commander ensure the Equal Opportunity Infonnation Poster was prominently 
+displayed and included the name and telephone numbers of the command's point of contact? 
+OYes ONo 
+G-1 
+Appendix G 
+
+
+[PAGE 68]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+13. Did the commander ensure all individuals are familiar with their right to submit an informal, 
+formal or anonymous complaint and a report of retaliation and the methods for submission? 
+0Yes 0No 
+14. Did the commander promote the chain of command as the primary and preferred channel to 
+identify, process and resolve complaints of harassment and prohibited discrimination? 
+0Yes 0No 
+15. Did the commander use chapters 4 and 5 ofOPNAVINST 5354.IJ for the processing of 
+informal, formal and anonymous complaints and chapter 6 of OPNA VINST 5354. 1J for 
+retaliation response procedures? D Yes D No D NI A 
+16. Did the commander consult a CCS to provide analysis and recommendations regarding all 
+informal, formal and anonymous harassment and prohibited discrimination complaints as well as 
+any other issues that affect the command climate of a unit? D Yes D No D NI A 
+17. Did the commander track and monitor the reporting and status of their command and 
+subordinate command's harassment and prohibited discrimination complaints? 
+□Yes 0No □NIA 
+18. Does the commander ensure substantiated harassment or prohibited discrimination 
+complaints are annotated on the offender's performance evaluation or service record? 
+□Yes 0No □NIA 
+19. Does the commander ensure harassment and prohibited discrimination are absent in all 
+administrative and disciplinary proceedings? D Yes D No 
+20. Does the commander ensure personnel receive awards and recognition and are assigned jobs, 
+education opportunities and special programs based on merit, fitness, capability and 
+performance? D Yes D No 
+21. Did the CMEO program manager contact their respective CCS within 30 days of being 
+designated as the CMEO program manager? D Yes D No 
+22. Did the CMEO program manager assess the CMEO program upon designation as CMEO 
+program manager and annually thereafter? D Yes D No 
+23. Does the command continuity folder contain the information listed in subparagraphs 23a 
+through 23f: 
+a. The command climate assessment supporting documentation, to include the executive 
+summary and POA&M for the last 3 years. D Yes D No 
+G-2 
+Appendix G 
+
+
+[PAGE 69]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+b. Results of the comprehensive visual inspections for the last 3 years. D Yes D No 
+c. Results of the last three on-site assessments and inspections. D Yes D No 
+d. Complaint log of all harassment and prohibited discrimination complaints and allegations 
+of wrongful broadcast or distribution of intimate visual images for the last 3 years. 
+□Yes 0No □NIA 
+e. Documentation of all administered MEO training for the last 3 years. D Yes D No 
+f. 
+Copies of the NA VPERS 535412 documenting infonnal harassment and prohibited 
+discrimination complaints for the last 3 years. D Yes D No D NIA 
+24. Does the CMEO program manager track, monitor, report and provide status updates on 
+harassment and prohibited discrimination complaints to the respective CCS from submission 
+through resolution of the complaint? Were the data elements outlined in appendix D of 
+OPNA VINST 5354. lJ to OPNAV NI 70C? 
+□Yes 0No □NIA 
+25. Does the CMEO program manager coordinate and monitor MEO training when directed by 
+the commander? D Yes D No 
+26. Does the CMEO program manager attend semi-annual MEO sustaimnent training provided 
+by the servicing CCS or a CCS in the geographic region? D Yes D No 
+G-3 
+Appendix G 
+
+
+[PAGE 70]
+APPENDIXH 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+COMMAND CLIMATE ASSESSMENT PROCESS 
+1. Command Climate Assessment. To determine the overall health and effectiveness of an 
+organization, the command climate assessment provides an opportunity for Service members and 
+civilian employees to express opinions regarding the manner and extent to which leaders, 
+including commanders and supervisors, respond to allegations of problematic behaviors, 
+including sexual assault, sexual harassment, harassment and prohibited discrimination. 
+Note: Contractors and local foreign nationals are considered members of the public. 
+Commanders must not collect infonnation from the public without first obtaining 
+approval from the Office of Management and budget and may not seek to enforce or 
+request compliance with disapproved or expired collections of infonnation. 
+a. Both active and reserve commanders, commanding officers, officers in charge and 
+directors (hereafter referred to as commanders) will complete a command climate assessment 
+within 120 days after assumption of command and annually as follow-up assessments during 
+their command tenure. 
+Note: Navy reserve units not listed on the Standard Navy Distribution List will be 
+included in the supported command's command climate assessment. Voluntary training 
+units and operational support units will be included in the NA VOPSPTCEN command 
+climate assessment. 
+b. Each unit, with a commander, commanding officer, officer-in-charge billet or civilian 
+equivalent, regardless of size, is required to complete a command climate assessment. 
+c. Units with fewer than 50 survey participants must be surveyed with a larger unit in the 
+command to ensure anonymity and to provide the opportunity for all military personnel to 
+participate in the climate assessment process. Commanders of these units are still required to 
+complete a command climate assessment by conducting nnit level focus groups, interviews, 
+observations and reviewing command records and reports. 
+d. The command climate assessment must be completed using the DEOCS, focus groups, 
+interviews, observations and reviewing command records and reports. The command climate 
+assessment must not take longer than 60 days, 110 days for NRA, from the start of the DEOCS 
+to the commander's debrief of the command. An example of a command climate assessment 
+timeline is outlined in subparagraphs ld(l) through ld(6). 
+(1) DEOCS: 21 days, one drill cycle for NRAs. 
+(2) Request and receive report: 7 days. 
+H-1 
+Appendix H 
+
+
+[PAGE 71]
+(3) CRT review of the report: 10 days, 25 days forNRAs. 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+( 4) Conduct focus groups and interviews: 10 days, 30 days for NRAs. 
+(5) Preparation of the executive summary and POA&M: 7 days, 10 days forNRAs. 
+( 6) Commanders must debrief their commands no later than 5 days after receipt of the 
+executive summary from the CRT. 
+e. Records and reports must be maintained and reviewed quarterly. 
+f. 
+The CCSs and CMEO program managers in the absence of a CCS will track and provide 
+oversight of the command climate assessment process for subordinate commands. 
+g. The !SIC must include a statement in the commander's performance evaluation or annual 
+fitness report annotating if the commander has conducted the required command climate 
+assessment. Failure of a commander to conduct the required command climate assessment must 
+be noted in the commander's performance evaluation or annual fitness report. 
+2. Enhanced Commander Accountability 
+a. Commanders must conduct a face-to-face debrief of their command climate assessment 
+executive summary using the DEOCS to include a POA&M, with their !SIC. Debriefs may 
+occur virtually for commanders not located in the same geographic region as their !SIC. 
+Commanders must provide their !SIC with a face-to-face debrief at the first opportunity either in 
+person or virtually. This process will provide the !SIC an opportunity to mentor the commander 
+and will happen within 60 days of completion of the command climate assessment, unless 
+otherwise approved by the echelon 2 commander. The POA&M and executive summary must 
+be forwarded to the !SIC no later than 30 days after completion of the command climate 
+assessment. 
+b. Commanders must include the !SIC commander contact information in their initial 
+DEOCS request to enable automatic !SIC visibility of the command climate survey process. 
+Commanders must also validate the !SIC contact information when closing the DEOCS and 
+requesting the DEOCS report to enable the !SIC to receive automatic notification and directly 
+access the DEOCS results and report. 
+c. The Chief of Naval Operations has directed that echelon 2 commanders list the Vice 
+Chief of Naval Operations (VCNO) as their !SIC. The VCNO is authorized to further delegate 
+this to any of the Deputy Chiefs of Na val Operations or Director, Navy Staff as appropriate. 
+d. ISi Cs at each level must issue guidance to their respective commanders on scheduling the 
+face-to-face debriefs and provide the !SIC contact infonnation for ordering the DEOCS. 
+H-2 
+Appendix H 
+
+
+[PAGE 72]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+e. Debriefs must cover significant findings, areas of strength, areas of concern, an 
+explanation of the validation process, actions taken and plans developed to improve command 
+climate. Brief format will be determined by the echelon 2 commander. 
+H-3 
+AppendixH 
+
+
+[PAGE 73]
+APPENDIX I 
+OPNA VINST 5354. lJ 
+5 Jun 2025 
+EQUAL OPPORTUNITY ANNUAL CLIMATE ASSESSMENT 
+From: Commander, (Name of Command) 
+To: 
+(Immediate Superior in Command) 
+5354 
+SerN00/ 
+Subj: FYXX (NAME OF COMMAND) EQUAL OPPORTUNITY CLIMATE 
+ASSESSMENT 
+Ref: 
+(a) OPNAVINST 5354.lJ 
+Encl: (1) List all enclosures, if any 
+1. Background. Per reference (a), (Command Name) is providing an annual equal opportunity 
+climate assessment based on input from echelon 3 and subordinate commands. 
+2. Assessment Methodology. Data used in compiling this report was extracted from 
+subordinate command's command climate assessment executive summaries, the harassment and 
+prohibited discrimination complaint log command climate specialist and command managed 
+equal opportunity program assessments and inspector general inspections. 
+3. Significant findings (consistent feedback, positive or negative, list all). 
+a. 
+b. 
+4. Organizational Strengths. 
+a. 
+b. 
+5. Areas of Concern. 
+a. 
+b. 
+I-1 
+Appendix I 
+
+
+[PAGE 74]
+6. Recommended Corrective Actions (address areas of concern). 
+a. 
+b. 
+7. Conclusion and Summary. 
+I. M. COMMANDER 
+I-2 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+Appendix I 
+
+
+[PAGE 75]
+APPENDIXJ 
+EQUAL OPPORTUNITY RESOURCES 
+OPNAVINST 5354. lJ 
+5 Jun 2025 
+1. Navy EO website: https://www.mynavyhr.navy.mil/Support-Services/Culture-Resilience/Equal-
+Opportunity/. 
+2. Address: 
+Harassment Prevention and Military Equal Opportunity Office 
+5720 Integrity Drive 
+Building 457 Room 202 
+Millington, TN 38055 
+3. DoD Issuances: https://www.esd.whs.mil/Directives/issuances/dodi/. 
+4. DON Issuances: https://www.secnav.navy.mil/doni/default.aspx. 
+5. Survey Tools 
+a. DEOCS. This survey is available to commanders from the Office of People Analytics 
+and may be obtained through their website at 
+https://surveysdrc.corn/deocs portal/(S(bp4eunm41 so5vv3tmnx0hh4p))/EnterEmail.aspx. 
+b. Command Resilience Team Guide 
+6. Equal Opportunity Information Poster. NAVPERS 15600E, SIN 0500-LP-117-6471 , 
+available through the Navy Logistics Library. 
+7. The Navy Harassment Prevention and MEO Advice Line. Provides information on how and 
+where to file complaints and what kinds of behaviors constitute harassment and prohibited 
+discrimination. This is also an avenue to file anonymous harassment and prohibited 
+discrimination complaints. The line is anonymous, toll-free and may be used by members of the 
+DON. Toll free telephone number is (800) 253-0931 and the commercial number is (901) 874-
+2507, Defense Switched Network (DSN): 882. The advice line can also be reached by e-mail: 
+Mill Navy EO Advice@us.navy.mil. DON civilians are advised to consult the appropriate 
+servicing EEO office 
+8. DEOMI website. Provides support materials designed to assist with sexual harassment 
+prevention training, EO related publications, guidance and various website links. The DEOMI 
+website can be accessed at https://www.defenseculture.mil. 
+9. List of Applicable and Helpful References 
+a. DoD Instruction 1300.17, Religious Liberty in the Military Services of 1 September 2020 
+J-1 
+Appendix J 
+
+
+[PAGE 76]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+b. SECNAVINST 1730.8B, Accommodation of Religious Practices. 
+c. SECNAV M-5200.35O, Deparhnent of the Navy Managers' Internal Control Manual, 29 
+Mar 2019. 
+d. SECNAV M-5210.2, Department of the Navy Standard Subject Identification Code 
+(SSIC) Manual, 29 August 2018. 
+e. SECNA VINST 5350. l 5D, Department of the Navy Core Values Charter and Ethics 
+Training, 18 April 2018. 
+f. 
+OPNAVINST 3120.32D, Standard Organization and Regulations of the U.S. Navy, 15 
+May 2017. 
+g. Command Resilience Team Guide 
+h. 62 FR 58782, Office of Management and Budget, Revisions to the Standards for the 
+Classification of Federal Data on Race and Ethnicity. 
+J-2 
+Appendix J 
+
+
+[PAGE 77]
+APPENDIXK 
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+COMMAND RESILIENCE TEAM NON-DISCLOSURE AGREEMENT 
+1. I understand that by serving on the (cmmnand name) Command Resilience Team (CRT) I am 
+expected to participate in the analysis of the DEOCS, focus groups, interviews, observations and 
+the review of command records and reports in support of the command climate assessment and 
+that I will incur certain obligations enumerated in paragraphs 2 through 6. 
+2. I understand that in the execution of my CRT duties I am a confidential agent of ( command 
+name) for obtaining uninhibited self-analysis and self-criticism of the internal management, 
+operation and administration of the command. 
+3. The purpose ofmy participation is to assist in clarifying and validating infonnation brought 
+forward during the command climate assessment. Reports of the (command name) are internal 
+memoranda and constitute privileged infonnation which is for official use only and is not 
+releasable outside this command without the specific approval of the commander, (command 
+name). 
+4. I understand that the direct or indirect unauthorized disclosure, unauthorized retention or 
+negligent handling of information obtained in the course of my duties with the ( command name) 
+CRT, including either oral or written information, could cause injury to naval operations or naval 
+personnel and may subject me to disciplinary action or other legal process. 
+5. I agree that I will not divulge any information gained from my involvement with the 
+(command name) CRT outside this command unless I have the specific written approval from 
+the commander, commanding officer, officer in charge or director. 
+Note: Service members must be free to make a protected communication in line with 
+Military Whistleblower Protection, SECNA VINST 53 70. 7E. 
+6. Unless and until I am released in writing by an authorized representative of the United States 
+government, I understand that all conditions and obligations imposed upon me apply during all 
+times I am assigned to the ( command name) and at all times thereafter without limitation. 
+Service Member, Date 
+CRT Lead, Date 
+K-1 
+Appendix K 
+
+
+[PAGE 78]
+APPENDIXL 
+INFORMAL RESOLUTION SYSTEM 
+OPNA VINST 5354.lJ 
+5 Jun 2025 
+1. Background. The informal resolution system was developed to facilitate resolution of 
+interpersonal conflicts at the lowest appropriate level. Conflict can be defined as a disagreement 
+between two or more people that raises serious concerns and needs to be resolved. 
+Note: Commanders, commanding officers, officers in charge and civilian equivalents 
+(hereafter referred to as commanders) must be infonned immediately, within 24 hours, of 
+any formal harassment or prohibited discrimination complaint in their command 
+2. Infonnal Resolution System Concept and Goals 
+a. The infonnal resolution system provides the necessary information and skills to 
+encourage and facilitate resolving interpersonal conflicts in the workplace at the lowest 
+appropriate level. 
+b. Emphasizes the Navy core values of honor, courage and commitment. 
+c. Emphasizes each person's responsibility to be a role model of acceptable behavior and 
+confront unacceptable behavior when observed or brought to his or her attention. 
+3. Infonnal Resolution System Options 
+(1) In person by approaching the alleged offender(s) involved. Stay focused on the 
+behavior and its impact. Use common courtesy and ensure the approach is not disrespectful. 
+Consider writing down thoughts prior to approaching the alleged offender(s) involved. 
+(2) In writing, to the alleged offender(s) stating the facts and feelings about the behavior 
+and the expected resolution. 
+b. Infonnal Third Party. Request assistance from another person. Ask another person to 
+talk with alleged offender(s) involved, to accompany while using the direct approach or to 
+intervene to help resolve the conflict. 
+c. Training 
+(]) Request training or resource materials for presentation to the workplace in the area of 
+harassment or prohibited discrimination. Using training is a good method of communicating to 
+the alleged offender(s) and other individuals in the workplace, in a non-threatening way that the 
+behavior is unacceptable. 
+L-1 
+Appendix L 
+
+
+[PAGE 79]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+(2) Training resources can include videos, books, lesson plans, posters and other 
+materials. 
+4. Responsibilities 
+a. Complainant 
+(1) Evaluate. What exactly happened? What was the impact of the behavior? Did it 
+disrupt your work performance or work environment? What are the responsibilities and options? 
+(2) Take Action 
+(a) If the behavior is unacceptable, infonn the chain of command of actions taken or 
+needed. Determine whether taking formal action is appropriate or whether the informal 
+resolution system can resolve the concern. 
+(b) If the behavior is acceptable, no action is required. 
+b. Alleged Offender 
+(1) Evaluate. What exactly happened? What was the impact of the behavior? Did it 
+disrupt the work environment? Would it have offended a reasonable person? Was the behavior 
+acceptable or unacceptable? What are the responsibilities and options? 
+(2) Take Action 
+(a) If the behavior is or seems unacceptable, stop immediately. 
+(b) If the behavior seems acceptable, clarify with another person or a supervisor that 
+the behavior is acceptable. Ask a co-worker or supervisor for assistance in approaching the 
+complainant or to intervene. Talk with the complainant about ways to communicate more 
+effectively. 
+c. Third Party 
+(1) Evaluate. What exactly happened? What was the impact of the behavior? Did it 
+disrupt the work environment? Would it have offended a reasonable person? Was the behavior 
+acceptable or unacceptable? What are the responsibilities and options? If unsure how to proceed 
+seek advice. 
+(2) Take Action (when approached by a complainant). 
+L-2 
+Appendix L 
+
+
+[PAGE 80]
+OPNA VINST 5354. IJ 
+5 Jun 2025 
+(a) If the behavior is unacceptable, encourage the complainant to detennine whether 
+taking fonnal action is appropriate or whether the informal resolution system can resolve the 
+problem. Inform the chain of command and refer all parties to support services. 
+(b) If the behavior is acceptable, advise the complainant that the behavior is 
+acceptable and explain why. 
+(3) Take Action (when approached by an alleged offender). 
+(a) If the behavior is unacceptable, advise the alleged offender to stop the behavior. 
+Inform the chain of command and refer all parties to support services. 
+(b) After confinning with a supervisor that the behavior is acceptable, advise the 
+alleged offender that the behavior is acceptable and explain why. Encourage the alleged 
+offender to talk with the complainant and discuss the situation. 
+(4) Take Action (when observing harassing or offending behavior). 
+(a) Stop it if possible and infonn the chain of command if appropriate. Encourage 
+the complainant to use the formal complaint system if the informal resolution system cannot 
+resolve the concern. Refer all parties to appropriate support services. 
+(b) If the behavior is acceptable, no action is required. 
+d. Supervisor 
+(1) Evaluate. What exactly happened? What was the impact of the behavior? Did it 
+disrupt the work environment? Would it have offended a reasonable person? Was the behavior 
+acceptable or unacceptable? What are the responsibilities and options? 
+(2) Take Action (when approached by a complainant). 
+(a) If the behavior is unacceptable, take corrective action. Encourage the 
+complainant to determine whether the infonnal resolution system can resolve the problem or to 
+use the formal complaint process. Inform the chain of command and refer all parties to support 
+services. 
+(b) If the behavior is acceptable, advise the complainant that the behavior is 
+acceptable and explain why. 
+(3) Take Action (when approached by an alleged offender). 
+L-3 
+AppendixL 
+
+
+[PAGE 81]
+OPNAVINST 5354.IJ 
+5 Jun 2025 
+(a) If the behavior is unacceptable, advise the alleged offender to stop the behavior 
+and advise that corrective action may result. Detennine whether the informal resolution system 
+can resolve the concern. Inform the chain of command and refer all parties to support services. 
+(b) If the behavior is acceptable, advise the alleged offender it was acceptable and 
+explain why. 
+(4) Take Action (when approached by a third party). 
+(a) If the behavior is unacceptable, instruct the observer on the need for awareness. 
+Take corrective action and notify the chain of command. Discuss the infonnal resolution system 
+and formal complaint process to detennine the best course of action for the complainant. 
+(b) If the behavior is acceptable, no action is required. 
+(5) Take Action (when observing harassing or offending behavior). 
+(a) If the behavior is unacceptable, stop the behavior and take corrective action. 
+Notify the chain of command and advise the complainant of the informal resolution system and 
+formal complaint options. 
+(b) If the behavior is acceptable, no action is required. 
+5. Commander's Responsibilities under the Infonnal Resolution System 
+a. Set the example. 
+b. Establish a command climate that allows and encourages individuals to resolve conflicts 
+between themselves without fear ofretaliation. 
+c. Keep an open mind. Listen and do not filter. 
+d. Do not ignore the behavior. 
+e. Know when to get involved and when not to. If the informal resolution system is 
+working, give it a chance to resolve the conflict. 
+(1) Determine if the infonnal resolution system has been used, if not, encourage its use if 
+appropriate. 
+(2) Do not intervene when conflict is being appropriately resolved by those involved. 
+(3) Intervene when necessary. Get involved when: 
+L-4 
+Appendix L 
+
+
+[PAGE 82]
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+(a) Unacceptable behavior is observed and 
+(b) Made aware of a situation that cannot be resolved. 
+( 4) Take or support actions to reach resolutions. Provide resource materials as 
+appropriate. 
+(5) In all cases, follow-up and provide feedback to the individuals involved. 
+(6) Report and take action on all collateral misconduct that is discovered in addition to 
+harassment or prohibited discrimination and inform the appropriate authorities. 
+(7) Avoid further traumatizing the complainant, e.g., if you need to physically separate 
+personnel, whenever feasible move the alleged offender, not the complainant. 
+(8) Make referrals to support services as warranted. 
+L-5 
+Appendix L 
+
+
+[PAGE 83]
+APPENDIXM 
+OPNAVINST 5354.lJ 
+5 Jun 2025 
+HARASSMENT OR PROHIBITED DISCRIMINATION COMPLAINT RETALITIATION 
+AWARENESS 
+1. This retaliation awareness document is for a harassment or prohibited discrimination 
+complaint. The chain of command of the complainant, the chain of command of the alleged 
+offender, the complainant, the alleged offender and any witnesses must be made aware of this 
+retaliation awareness document. 
+2. All Service members and Department of the Navy personnel who make a protected 
+communication must be free from retaliation as defined in appendix B of OPNA VINST 5354. lJ. 
+The CCS or CMEO program manager must ensure Service members understand the types of 
+retaliatory defined in OPNA VINST 5354. lJ. 
+3. The chain of command of the complainant and the chain of command of the alleged offender 
+will not: 
+a. Initiate any contact with the complainant, any witness or potential witness or the alleged 
+offender in this investigation outside of that required by their official duties; and 
+b. Solicit others to act on their behalf to contact the complainant, any witness or potential 
+witness or the alleged offender in this investigation outside of that required by their official 
+duties. 
+4. The complainant should notify the Naval Inspector General, (800) 522-3451, immediately if, 
+during the course of this investigation he or she believes they are suffering a reprisal as a result 
+of this complaint. The complainant should notify his or her supervisor, command climate 
+specialist, command managed equal opportunity program manager or commander, commanding 
+officer, officer in charge or civilian equivalent immediately if, during the course of this 
+investigation, he or she believes they are suffering a form of retaliation other than reprisal as a 
+result of this complaint. 
+Complainant, Date 
+Alleged Offender, Date 
+M-1 
+Appendix M 

@@ -1,0 +1,71 @@
+[PAGE 1]
+CLASSIFICATION: UNCLASSIFIED/ 
+ROUTINE 
+R 041720Z SEP 25 MID180002016066U 
+FM CNO WASHINGTON DC 
+TO NAVADMIN 
+INFO CNO WASHINGTON DC 
+BT 
+UNCLAS 
+PASS TO OFFICE CODES: 
+FM CNO WASHINGTON DC//N1// 
+INFO CNO WASHINGTON DC//N1// 
+ 
+NAVADMIN 188/25 
+ 
+MSGID/GENADMIN/CNO WASHINGTON DC/N1/SEP// 
+ 
+SUBJ/CHANGE TO NUCLEAR OFFICER BONUS AND INCENTIVE PAY ELIGIBILITY// 
+ 
+REF/A/DOC/OPNAV/20FEB24 
+ 
+AMPN/REF A IS OPNAVINST 7220.11K, NUCLEAR OFFICER BONUS AND INCENTIVE PAY.// 
+ 
+RMKS/1.  This NAVADMIN announces a modification to the Nuclear Officer Bonus 
+and Incentive Pay (NOBIP) Nuclear Officer Accession Bonus (NOAB) eligibility 
+of reference (a). 
+ 
+2.  Navy leadership remains committed to recruiting top-performing nuclear-
+trained Sailors for the nuclear-trained Limited Duty Officer program.  NOAB 
+is a monetary incentive that focuses on improving these recruitment efforts. 
+ 
+3.  The following changes were effective July 24, 2025, for nuclear- trained 
+Limited Duty Officers (LDO(N)): 
+     a.  NOAB eligibility will be extended to those selected for 
+commissioning as an LDO(N) starting in Fiscal Year (FY) 2027. 
+     b.  Prospective officers must complete and pass technical screening by 
+Naval Reactors to determine suitability for qualification and continued duty 
+in connection with the supervision, operation and maintenance of naval 
+nuclear propulsion plants. 
+     c.  The NOAB rate is $30K for selectees that complete their technical 
+interviews and are screened to commission as a nuclear trained officer. 
+     d.  LDO(N) NOAB will first be available for Sailors selected at the FY27 
+Nuclear Limited Duty Officer In-Service Procurement Board conducted in 
+February 2026. 
+     e.  Request for payment will be submitted to Navy Personnel Command, 
+Submarine and Nuclear Officer Distribution (PERS-42) utilizing enclosure (3) 
+of reference (a) as an example.  Payment will be made on the date of 
+commission once PERS-42 has accepted the request. 
+ 
+4.  The extended eligibility for NOAB in paragraph 2 modifies the NOAB 
+eligibility of reference (a). 
+ 
+5.  All other bonus and incentive pays authorized by reference (a) remain 
+unchanged. 
+ 
+6.  For questions regarding nuclear officer bonus incentive pay, nuclear-
+trained LDOs should contact PERS-422S at (901) 874-3936/DSN 
+884 or via e-mail at mosha.d.williams.civ@us.navy.mil. 
+
+
+[PAGE 2]
+ 
+7.  This NAVADMIN will remain in effect until reference (a) has been revised. 
+ 
+8.  Released by Vice Admiral Jeffrey J. Czerewko, N1.// 
+ 
+BT 
+#0001 
+NNNN 
+CLASSIFICATION: UNCLASSIFIED/ 
+ 

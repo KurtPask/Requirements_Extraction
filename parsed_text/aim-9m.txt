@@ -1,0 +1,7898 @@
+[PAGE 1]
+APPROVED
+NAVY TRAINING PLAN
+FOR THE
+AIM-9M SIDEWINDER MISSILE SYSTEM
+(FOR MODELS THROUGH AIM-9M-8)
+A-50-8105B/A
+JANUARY 1997
+
+
+[PAGE 2]
+ii
+AIM-9M SIDEWINDER MISSILE SYSTEM
+A-50-8105B/A
+TABLE OF CONTENTS
+Executive Summary...................................................... 
+iii
+Introduction ......................................................... 
+iv
+List of Acronyms....................................................... 
+v
+PART I - TECHNICAL PROGRAM DATA
+A. Title-Nomenclature-Program............................... 
+I-1
+B. Security Classification.................................. 
+I-1
+C. NTP Principals........................................... 
+I-1
+D. Operational Uses......................................... 
+I-2
+E. Technical and/or Operational Evaluation.................. 
+I-2
+F. Equipment/System/Subsystem Replaced...................... 
+I-2
+G. Description.............................................. 
+I-2
+H. New Features, Configuration, or Material................. 
+I-4
+I. Concepts................................................. 
+I-4
+J. Logistics................................................ 
+I-5
+K. Schedules................................................ 
+I-6
+L. Manpower Requirements.................................... 
+I-7
+M. Training Concept......................................... 
+I-8
+N. On-Board Training........................................ I-18
+O. List of Related Navy Training Plans and Applicable
+Documents................................................ I-19
+PART II   -  BILLET AND PERSONNEL REQUIREMENTS......................... II-1
+PART III  -  TRAINING REQUIREMENTS..................................... III-1
+PART IV   -  TRAINING LOGISTICS SUPPORT REQUIREMENTS................... IV-1
+PART V    -  MAJOR MILESTONES.......................................... 
+V-1
+PART VI   -  ACTION AND/OR DECISIONS................................... VI-1
+PART VII  -  POINTS OF CONTACT......................................... VII-1
+
+
+[PAGE 3]
+iii
+A-50-8105B/A
+AIM-9M SIDEWINDER MISSILE SYSTEM
+EXECUTIVE SUMMARY
+The AIM-9 series Sidewinder Missile is a short-range, air-to-air missile
+whose mission is to detect, home-in, intercept, and destroy enemy aircraft. 
+The AIM-9L missile evolved because of a combined Navy and Air Force effort to
+develop an air-to-air missile with a greater tracking rate and tighter turn
+capability than earlier series missiles.  The missile featured an improved
+target detector that enhanced its effectiveness in short range combat
+scenarios.
+The AIM-9M missile evolution has been driven by the AIM-9L Product
+Improvement Program (PIP) and developed into full-scale development, test, and
+evaluation program during FY78/79.  The first AIM-9M variant, the AIM-9M-1,
+was fielded in FY 82.  The Guidance Control Section (GCS) is the only
+component unique to the AIM-9M, which, prior to the AIM-9M-8, has three Navy
+variants: AIM-9M-1 or AIM-9M-3 (both use the same GCS), AIM-9M-4, and AIM-9M-
+6.  The AIM-9M-8 contains the latest GCS variant which improves Navy
+warfighting capability over earlier AIM-9M variants to counter infrared (IR)
+countermeasures (CM) from aerial threats.  The first AIM-9M-8 was fielded in
+FY 95.
+The AIM-9M-8 upgrade affects only the AIM-9M GCS through the replacement
+of five circuit cards and the associated parentboard.  Based on the nature of
+this change, there is no impact to organizational or intermediate level
+maintenance with regard to manpower level, personnel skills, or training. 
+All-Up-Round (AUR) depot level maintenance is not impacted with regard to
+manpower level or personnel skills, but is impacted with regard to training by
+the associated test set upgrade, the AN/DSM-152B.  The AN/DSM-152 Operation
+and Maintenance course has been updated to reflect the AN/DSM-152B.  Aircrew
+and operators are not impacted with regard to manpower level or personnel
+skills, but are impacted with regard to training by the additional missile
+status tones.  The Naval Air Warfare Center, Weapons Division (NAWCWD) China
+Lake, developed a familiarization video to introduce the new capability to
+squadrons, and PMA205 and TOPGUN are developing Interactive Courseware (ICW)
+to support missile status tone training.
+The improved AIM-9M-8 Sidewinder will not alter the manning requirements
+at organizational, intermediate, or Weapon Stations maintenance activities. 
+Existing skills are adequate to maintain the AIM-9M-8.  No new Navy Enlisted
+Classifications (NEC) or Marine Corps Military Occupational Specialties (MOS)
+will be needed to support the AIM-9M-8.  There is no manpower impact related
+to AIM-9M-8.
+
+
+[PAGE 4]
+iv
+A-50-8105B/A
+AIM-9M SIDEWINDER MISSILE SYSTEM
+INTRODUCTION
+This Navy Training Plan (NTP) was developed to update the previous
+version of AIM-9 Sidewinder Missile System NTP, A-50-8105A dated 9 Nov 89, and
+to identify the lifecycle Manpower, Personnel, and Training (MPT) requirements
+associated with the AIM-9 Sidewinder Missile System.  This edition identifies
+the training impacts caused by the modification of the AIM-9M to the AIM-9M-8.
+Information was obtained as a result of fleet comments received in July
+1995 that have been incorporated into this document.
+
+
+[PAGE 5]
+v
+LIST OF ACRONYMS
+ACNO
+Assistant Chief Of Naval Operations
+AIMD
+Aviation Intermediate Maintenance Department
+AO
+Aviation Ordnanceman
+AT 
+Aviation Electronics Technician
+AUR
+All-Up-Round
+BCM
+Beyond the Capability of Maintenance
+BUPERS
+Bureau of Personnel
+CATM
+Captive Air Training Missile
+CCM
+Counter-countermeasures
+CEST
+Classroom EOD System Trainer
+CNO
+Chief of Naval Operations
+CV
+Aircraft Carrier
+CVN
+Aircraft Carrier, Nuclear
+DATM
+Dummy Air Training Missile
+DMSO
+Director, Major Staff Office
+DRP
+Designated Repair Point
+EOD
+Explosive Ordnance Disposal
+EODTEU
+Explosive Ordnance Disposal Technical Evaluation Unit
+ETS
+Engineering and Technical Services
+FMS
+Foreign Military Sales
+FREST
+Fleet Replacement Enlisted Skills Training
+FRS
+Fleet Readiness Squadron
+FY
+Fiscal Year
+GCS
+Guidance Control Section
+ICW
+Interactive Courseware
+ILSP
+Integrated Logistics Support Plan
+IR
+Infrared
+IRCM
+Infrared Countermeasures
+IUT
+Instructor Under Training
+MALS
+Marine Aviation Logistics Squadron
+MATMEP
+Maintenance Aviation Training Management and Evaluation
+Program
+MCAF
+Marine Corps Air Facility
+MCAS
+Marine Corps Air Station
+MOS
+Military Occupational Specialty
+MTIP
+Maintenance Training Improvement Program
+MTU
+Maintenance Training Unit
+NAMTG
+Naval Air Maintenance Training Group
+NAS
+Naval Air Station
+NATM
+Special Test Air Training Missile
+
+
+[PAGE 6]
+vi
+LIST OF ACRONYMS (Continued)
+NAVAIRSYSCOM
+Naval Air Systems Command
+NAVSCOLEOD
+Navy Explosive Ordnance Disposal School
+NAVWPNSUPPCEN
+Naval Weapons Support Center
+NAWCWD
+Naval Air Warfare Center Weapons Division
+NAWCWPNS
+Naval Air Warfare Weapons Center
+NAWMP
+Naval Airborne Weapons Maintenance Program
+NAWMU
+Naval Airborne Weapons Maintenance Unit
+NEC
+Navy Enlisted Classification
+NFO
+Navy Flight Officer
+NSAWC
+Naval Strike Air Warfare Center
+NSWC-IH
+Naval Surface Warfare Center - Indian Head
+NOBC
+Navy Officer Billet Code
+NTP
+Navy Training Plan
+NWS
+Naval Weapons Station
+OJT
+On the Job Training
+PDA
+Principal Development Activity
+PEST
+Practical EOD Systems Trainer
+PIP
+Product Improvement Program
+PMA
+Program Manager, Air
+S-A
+Safety-Arming
+SELRES
+Selected Reserves
+SFTI
+Strike Fighter Tactics Instructor
+SFTS
+Strike Fighter Training System
+SFWSL
+Strike Fighter Weapons School Atlantic
+SFWSP
+Strike Fighter Weapons School Pacific
+SFWT
+Strike Fighter Weapons and Tactics
+TA
+Training Agent
+TBD
+To Be Determined
+TD
+Training Device
+TTE
+Technical Training Equipment
+TSA
+Training Support Agent
+USAF
+United States Air Force
+USN
+United States Navy
+USMC
+United States Marine Corps
+
+
+[PAGE 7]
+I-1
+PART I - TECHNICAL PROGRAM DATA
+NTP Number:  A-50-8105B/A
+Date: January 1997
+A.
+TITLE-NOMENCLATURE-PROGRAM
+    
+1.
+Title-Nomenclature-Acronym.  AIM-9M Sidewinder Missile System.
+2.
+Program Element.  64354N.
+B.
+SECURITY CLASSIFICATION.  Security documents are developed in accordance
+with OPNAVINST C5513.2B dated 15 October 1992.
+1.
+Missile - Secret
+2.
+Missile Avionics - Secret
+3.
+NTP - Unclassified
+C.
+NTP PRINCIPALS
+1.
+Assistant Chief of Naval Operations (ACNO)/
+Director Major Staff Office (DMSO) Program
+Sponsor .................................... CNO (N88)
+2.
+ACNO/DMSO Resource Sponsor ................. CNO (N88OC)
+3.
+Principal Development Activity (PDA) ....... NAVAIRSYSCOM (PMA259)
+4.
+Training Agents (TA) ....................... CINCLANTFLT
+ CINCPACFLT
+ CNET (T4525)
+ MCCDC
+5.
+Training Support Agent (TSA) ............... NAVAIRSYSCOM (PMA205-5)
+6.
+Manpower and Personnel (M&P) Mission
+Sponsor..................................... CNO (N1)
+7.
+Director of Naval Training ................. CNO (N7)
+8.
+Bureau of Naval Personnel (BUPERS).......... BUPERS (PERS-4,
+ PERS-40)
+9.
+Commandant of the Marine Corps
+Manpower Management (CMC MM) ............... CMC (ASM)
+
+
+[PAGE 8]
+I-2
+D.
+OPERATIONAL USES
+1.
+Purpose.  The AIM-9 series Sidewinder Missile is a short-range
+air-to-air missile.  The missile is used to track, home-in on, intercept, and
+destroy enemy aircraft.
+The AIM-9M-8/9 upgrade retrofits Sidewinder Missiles from the AIM-9M-
+1/3/4/6 to the AIM-9M-8 configuration for the Navy and the AIM-9M-9 for the
+United States Air Force (USAF).  For the purpose of this Navy Training Plan
+(NTP), only the AIM-9M-8 is addressed.  The change incorporates electronics
+processing modifications to improve the tracking capabilities against modern
+infrared Countermeasures (IRCM). 
+2.
+Foreign Military Sales (FMS) and Other Source Procurement.  The AIM-
+9M-8/9 is approved for FMS to Britain, Canada, and Australia.  For detailed
+FMS information, contact PMA259.
+E.
+TECHNICAL/OPERATIONAL EVALUATION (TECHEVAL/OPEVAL).  Developmental
+testing for the AIM-9M-8 was conducted during third quarter FY91 by Naval Air
+Warfare Center, Weapons Division, Point Mugu (NAWCWD PM).  Operational testing
+for the AIM-9M-8 began in the fourth quarter FY92 and was decertified in the
+first quarter of FY93.  An operational test and readiness review was conducted
+in the second quarter of FY93, and operational testing resumed in the third
+quarter of FY93.  The Operational assessment (OT-IIA) was conducted by VX-4. 
+Operational evaluation (OT-IIB) was conducted by VX-5.
+F.
+EQUIPMENT/SYSTEM/SUBSYSTEM REPLACED.  The AIM-9M-8 modification replaces
+circuit card assemblies in the electronics assembly of the guidance control
+section.
+G.
+DESCRIPTION.  The AIM-9M and the AIM-9M-8 Sidewinder Missiles are
+similar.  The only significant difference between the two missiles is the
+Guidance Control Section (GCS).  The AIM-9M-8 features improved tracking
+capabilities against modern IRCMs.  The AIM-9M-8 modification changes the
+electronics assembly of the GCS. 
+1.
+Functional Description.  Sidewinder is a supersonic, air-to-air,
+guided missile that contains an Infrared (IR), passive homing target detector,
+proportional navigational guidance, and a torque-balance control system.  The
+missile is propelled by a solid-propellant rocket motor.  The AIM-9M is
+configured with an annular blast fragmentation warhead.  Aerodynamic lift and
+stability for the missile are provided by four wings.  Rollerons on each wing
+reduce the roll rate and flutter.  Airframe maneuvering is accomplished by
+four fins mounted in line with and forward of the wings and is activated by
+the torque-balance servo system.  The AIM-9 Sidewinder Missile is comprised of
+the following components:
+a.
+Guidance Control Section (GCS).  All AIM-9M GCS are comprised of
+three major assemblies; a seeker assembly for detecting and tracking the
+target; an electronics assembly for processing detected target information;
+and a servo assembly that transforms electrical tracking signals to mechanical
+movement of the fins.  An umbilical cable assembly provides electrical
+interface between the missile GCS and the aircraft launcher.  The umbilical
+
+
+[PAGE 9]
+I-3
+cable also allows the flow of coolant from the LAU-7 to the missile GCS.  AIM-
+9M GCS versions include the WGU-4A/B used in the AIM-9M-1 and AIM-9M-3, the
+WGU-4C/B used in the AIM-9M-4, the WGU-4D/B used in the AIM-9M-6, and the WGU-
+4E/B GCS used in the AIM-9M-8.  The WGU-4E/B GCS uses advanced technology that
+has evolved through the WGU-4D/B development, while expanding the potential of
+the IRCM detection circuitry and improving the missile's capability with
+respect to tactical IRCM deployment.
+b.
+Target Detectors, DSU-15/B, DSU-15A/B, DSU-15B/B.  These target
+detectors are narrow-beam, active optical-proximity fuze systems designed to
+detect the presence of a target and initiate warhead detonation.  Major
+components within the target detectors are a transmitter that emits four
+narrow fan-shaped beams through four lenses, a laser receiver that detects
+reflected energy, signal processing circuitry to initiate detonation, and a
+thermal battery to provide internal power after missile launch.  All target
+detectors are interchangeable in the AIM-9M design; however, only the DSU-
+15B/B and DSU-15/B are compatible with the Special Test Air Training Missile
+(NATM)-9M-2, NATM-9M-3, and NATM-9M-4 configurations, because they feature a
+communication tube that allows routing of the telemetry cable assembly.
+c.
+Safety-Arming (S-A) Device, MK 13 Mod 2.  The S-A device is
+designed to arm the Sidewinder Missile at a safe distance from the launch
+aircraft and to detonate the warhead upon command from the Target Detector or
+GCS.  The major components of the S-A device are an interrupted explosive
+train, an acceleration arming device and associated electrical switches.  The
+S-A device has two windows: the forward window allows viewing of the launch
+latch to verify proper engagement, while the aft window allows viewing of the
+SAFE/ARM indicator.
+d.
+Warhead, WDU-17/B.  The warhead provides the destructive force
+of the missile.  The warhead consists of a case assembly, two booster plates,
+high explosives, an initiator, and fragmentation rods.  Exercise Warheads
+(smoke/flash) WDU-9A/B, are used in NATMs.
+e.
+Rocket Motor, Mk 36 Mods 7/8/9/10/11 .  The rocket motor
+provides the propulsion for sustained flight of the missile.  The Mk 36 Mods 7
+through 11 are solid-propellant, high-thrust rocket motors that comprise the
+aft end of the AIM-9M.
+f.
+Wings, Mk 1 Mods 0/1/2.  Four wings, attached to the aft end of
+the rocket motor, provide aerodynamic lift and stability for the missile
+during flight.  Each wing has a rolleron assembly that is uncaged during free
+flight to provide roll (rate) stabilization.
+g.
+Fins, BSU-32/B.  Four fins, attached to the GCS, provide a lift
+force on the forward airframe proportional to the input signal from the
+seeker, missile velocity, and altitude.  The fins are electrically actuated
+and pneumatically controlled by a servo system in the aft portion of the GCS.
+2.
+Physical Description.  The physical and electrical characteristics
+of the Sidewinder missile are as follows:
+Length (AIM-9M).................... 113.1 inches
+Diameter ..........................   5.0 inches
+Wing Span .........................  25.2 inches
+Weight (AIM-9M).................... 188.2 pounds
+Power Requirements (external) ..... 115 VAC 400 HZ and 28 VDC
+
+
+[PAGE 10]
+I-4
+Power Requirements (internal) ..... 27 VDC thermal battery
+3.
+Introduction.  The AIM-9M-8 missile is being introduced into the
+Navy inventory through an AIM-9M retrofit program.  The Navy began receiving
+WGU-4E/B GCSs in fourth quarter FY94 and had AIM-9M-8 All Up Rounds (AUR)
+available for issue by second quarter FY95.
+4.
+Significant Interfaces.   N/A
+H.
+NEW FEATURES, CONFIGURATION, OR MATERIAL.  The AIM-9M-8 features
+improved tracking capabilities against modern IRCM and provides new missile
+status tones (audio cues) to the operator (pilot).
+I.
+CONCEPTS
+1.
+Maintenance Concept.  The AIM-9 maintenance objective is to assure
+that AURs are available to fulfill commitments of operational activities, and
+to provide the means to restore unserviceable missiles to serviceable
+condition with minimal downtime.  Maintenance functions are allocated to three
+levels of maintenance as defined in the Naval Airborne Weapons Maintenance
+Program (NAWMP), OPNAVINST 8600.2(Series) Volume II.
+a.
+Organizational Level Maintenance.  Organizational level
+maintenance, performed at the squadron, is limited to visual inspections,
+launcher functional checks, replacement of launcher nitrogen receiver
+assemblies, loading and downloading of the missile, installation and removal
+of accessory items such as safety and protection devices, performance of the
+IR source test and tracking and recording of captive flight time.  Missiles
+requiring maintenance are returned to the intermediate level maintenance
+activity for maintenance or disposition.
+b.
+Intermediate Level Maintenance.  Intermediate level maintenance,
+performed at the Aviation Intermediate Maintenance Department (AIMD), by Naval
+Airborne Weapons Maintenance Units (NAWMUs), and by Marine Aviation Logistics
+Squadrons (MALS) is limited to packing and unpacking inspections, cleaning,
+paint touch-up, preservation, removal and installation of wings and fins,
+replacement of specified parts, and servicing of the nitrogen receiver. 
+Tactical missiles and training components which are Beyond the Capability of
+Maintenance (BCM) of the intermediate level are returned to AUR depot level
+maintenance for repair or disposition.
+c.
+AUR Depot Level Maintenance.  AUR depot level maintenance,
+performed at Naval Weapons Stations (NWS) Fallbrook and Yorktown and by NAWMU-
+1, is intended to provide repair capability for missile components BCM at the
+intermediate level.  Maintenance includes AUR packing and unpacking, AUR
+assembly and disassembly, missile processing, wings and fins maintenance, S-A
+device maintenance and Sidewinder container maintenance.
+d.
+Section/Component Maintenance.  The Sidewinder program has
+implemented depot level repair capabilities at appropriate Designated Repair
+Points (DRP) within the joint services' missile maintenance activities.  This
+approach takes full advantage of existing capabilities.  The Navy DRP function
+for the Sidewinder GCS is Letterkenny Army Depot.  The Naval Surface Warfare
+Center Indian Head (NSWC-IH) provides DRP functions for the propulsion
+
+
+[PAGE 11]
+I-5
+section.  Naval Weapon Stations (NWS) Fallbrook and Yorktown are the DRPs for
+the mechanical items such as wings, fins, and containers.   Naval Weapons
+Support Center (NAVWPNSUPPCEN) Crane is the DRP for the Target Detector and
+the S-A device.
+e.
+Technical Assistance.  Naval Air Warfare Center Weapons Division
+(NAWCWD) Engineering and Technical Services (ETS) personnel will provide
+AIM-9M-8 technical assistance as required to organizational and intermediate
+activities.   NAWCWD ETS personnel will also provide On-the-Job Training (OJT)
+for organizational level and intermediate level maintenance personnel.
+Operational updates and briefings for flight crews are provided by Naval
+Strike Air Warfare Center (NSAWC) TOPGUN personnel.
+f.
+Interim Depot Maintenance Support.  Commercial Repair Basic
+Ordering Agreements with Raytheon and Loral are being prepared to augment AIM-
+9M-8 GCS repair workload until Letterkenny Army Depot attains the capability
+to handle the aggregate United States Navy (USN), USAF, FMS AIM-9M-8 GCS
+repair workload.  It is estimated that the interim commercial repair support
+will not be needed after FY97.
+2.
+Operational Concept.  The AIM-9M-8 is designed to be deployed with
+Navy and Marine Corps tactical aircraft.  The AIM-9M-8 is intended for use by
+F-14, F/A-18, and AV-8B aircraft.  The missile is also compatible with the
+AH-1 aircraft.  The Sidewinder Missile is used during air-to-air combat
+evolutions.  The missile is launched from an aircraft after target detection
+to home-in, intercept, and destroy enemy aircraft. 
+3.
+Manning Concept.  The AIM-9M-8 Sidewinder Missile will not alter the
+manning requirements at organizational, intermediate, or depot level
+maintenance activities.  Manning requirements are based on total workload
+requirements for a specific work center, and the skills needed to perform
+maintenance on the systems supported by that work center's personnel.  The
+retrofit of the AIM-9M-8 GCS will not alter the workload of activities
+involved with the Sidewinder Missile.  Existing skills are adequate to
+maintain the AIM-9M-8.  No new Navy Enlisted Classification (NEC) or Military
+Occupational Specialty (MOS) will be required.
+J.
+LOGISTICS
+1.
+Manufacturer/Contract Number.  Seven procurable components comprise
+the Sidewinder Missile as shown in Table I-1:
+PART
+MANUFACTURER
+CONTRACT NUMBER
+Guidance Control Section
+Raytheon
+N00019-93-C-0169
+Loral
+N00019-94-C-0138
+Target Detector
+Raytheon
+N00019-90-C-0243
+Safety-Arming Device
+Piqua
+N00019-90-C-0235
+Raymond
+N00019-94-C-0271
+
+
+[PAGE 12]
+I-6
+Warhead Section
+Ensign Bickford
+N00019-95-C-0084
+Propulsion Section
+Thiokol
+N00019-94-C-0045
+Wings
+DRI
+N00019-94-C-0031
+Fins
+Lockley
+N00019-95-C-0188
+Table I-1.  Sidewinder Component Manufacturers.
+2
+Integrated Logistics Support Plan (ILSP) Development.  The
+Sidewinder ILSP (ILSP-MS-059), dated 15 December 1993 has been updated to
+include AIM-9M-8 information.
+3.
+Technical Data Plan.  Existing AIM-9 publications have been updated
+to include AIM-9M requirements.  Because of the similarity between the AIM-9M
+and the AIM-9M-8, data pertaining to the AIM-9M-8 will be incorporated into
+the existing manuals.  Source data was acquired from NAWCWD.  A complete list
+of all publications requiring update can be found in the Technical Manual List
+NA 01-AIM9-0.
+4.
+Special Test Sets, Tools, and Test Equipment.  The introduction of
+the AIM-9M-8 to Navy and Marine Corps operational units and activities will
+not require any new test sets, tools, or test equipment.  The existing AN/DSM-
+152A Test Set received software modifications enabling it to recognize the
+AIM-9M-8 configuration.  The modified test set is designated the AN/DSM-152B.
+5.
+Repair Parts.  Supply support for the AIM-9M is provided by the
+Naval Ordnance Center Inventory Management and Systems Division (NOC IMSD),
+Mechanicsburg, PA.  This network will be used to procure all AIM-9M-8 missile
+components that are common to earlier versions of the AIM-9M missile.
+6.
+Contractor Engineering and Technical Services (CETS).  N/A.
+K.
+SCHEDULES
+1.
+Schedule of Events.
+a.
+Installation Schedule.  As of the end of FY96, Raytheon has
+delivered approximately 2,330 AIM-9M-8/9 GCSs on the Basic and Option 1
+contracts.  Another 200 are expected in the first quarter of FY97 to complete
+the Option 1 contract.  The Option 2 contract was never awarded, however, the
+Option 3 contract will begin GCS deliveries in the third quarter of FY97. A
+total of 1,200 AIM-9M-8/9 GCSs will be delivered through the second quarter of
+FY98 to complete the Option 3 contract.  A new contract was awarded to
+Raytheon at the end of FY96 and deliveries against this new contract will
+begin following the Option 3 deliveries.  Once GCSs are received by the Navy
+at NWSs Yorktown and Fallbrook, they must be tested and assembled with other
+AIM-9M components into AUR missiles prior to issue for fleet use.
+b.
+Ready for Operational Use (RFOU).  AIM-9M-8 was deployed to
+operational units in the third quarter of FY95.
+c.
+Foreign Military Sales.  To be determined (TBD).  For further
+information contact PMA259.
+
+
+[PAGE 13]
+I-7
+d.
+Training Device (TD) and Technical Training Equipment (TTE)
+Delivery Schedule.
+(1)
+Classroom Explosive Ordnance Disposal (EOD) System Trainer
+(CEST).  CEST versions of the Sidewinder are currently used by Navy School EOD
+(NAVSCOLEOD) as training devices.  A CEST peculiar to the AIM-9M-8 is not
+required.
+(2)  Practical EOD System Trainer (PEST).  PEST versions of the
+Sidewinder are used by NAVSCOLEOD for training render safe procedures.  A PEST
+peculiar to the AIM-9M-8 is not required.
+(3)
+Special Air Training Missiles (NATM).  Some AIM-9M-8 will
+be configured to the NATM configuration when ordered from the supply system.
+A firing version of the Sidewinder tactical missile with the warhead replaced
+by telemetry section.  The NATM is used for test, evaluation, and specialized
+aircrew tactical training on instrumented firing ranges.  Telemetered data is
+analyzed to determine captive flight target acquisition and tracking, missile
+launch, and target intercept missile performance characteristics.
+(4)
+Captive Air Training Missile (CATM).  Approximately 835
+CATM-9Ms in various configurations currently exist.  Components for another
+400 CATM-9Ms have been procured.  As the Navy receives WGU-4E/B GCSs, some of
+the CATM-9Ms will be retrofitted with this GCS and be designated CATM-9M-12s.
+Approximately 350 CATM-9M-12 will be built-up by December 1996.  The Navy will
+maintain a total inventory mix of approximately 982 CATM-9Ms, which will be
+proportionate to the tactical inventory mix.  See section IV.A.5.(a).
+(5)
+Dummy Air Training Missile (DATM).  Existing DATM-9M-1 and
+DATM-9M-2 will be used to support the training of USN and United States Marine
+Corps (USMC) ground maintenance technicians in assembly, disassembly, loading,
+transportation, and stowage procedures and techniques for the Sidewinder AIM-
+9M and AIM-9M-8.  These DATMs are currently on-hand at AIM-9 training
+activities and are not certified for flight.  See section IV.A.5.(b).
+2.
+Time Required to Install.  N/A.
+L.
+MANPOWER REQUIREMENTS
+1.
+Equipment, Systems, and Subsystems.  N/A.
+2.
+Aircraft Equipment, Systems, and Subsystems.
+a.
+Aircrew Requirements.  The AIM-9M-8 does not impact aircrew
+manpower.
+b.
+Estimated Direct Maintenance Man-Hours per Flight Hour
+(DMMH/FH).  N/A.
+ 
+c.
+Proposed Utilization.  The AIM-9M-8 missile is compatible with
+many aircraft.  Utilization rates for those aircraft will not change as a
+result of the AIM-9M-8.  Aircraft utilization rates may be found in the
+aircraft's Weapons System Planning Document.
+
+
+[PAGE 14]
+I-8
+d.
+Recommended Quantitative/Qualitative Manpower Requirements.
+(1)
+Manpower Requirements, Fleet Squadrons.  Manning for Navy
+and Marine Corps fleet squadrons is based on the total assigned workload in
+each work center.  Ordnance support in the Armament/Weapons Branch (Work
+Center 230) is provided by Aviation Ordnancemen (AO).  Like the AIM-9M
+Sidewinder Missile, the AIM-9M-8 is designed and employed as an AUR missile. 
+Because of identical maintenance tasks between the different models, the
+AIM-9M-8 Sidewinder will not impact the work center's workload.  There are no
+changes to existing fleet squadron manpower.
+(2)  Manpower Requirements, Fleet Readiness Squadron  (FRS). 
+FRS manning levels, like the fleet squadron, are based on the total assigned
+workload.  No change to current FRS workload in the Armament/Weapons Branch
+(Work Center 230) will result from the AIM-9M-8.  Existing FRS manpower will
+not change.
+(3)
+Intermediate Level Maintenance (CV/CVN, NAS, MALS, NAWMUs,
+and "L" Class Ships).  Weapons Departments and Divisions manning levels aboard
+these commands are based on total assigned workload.  The AIM-9M-8 Sidewinder
+Missile will not impact the workload at these activities.  No change in the
+existing manpower requirements will result from the AIM-9M-8.
+(4)
+AUR Depot Maintenance (NWSs Fallbrook and Yorktown and
+NAWMU-1).  The AIM-9M-8 Sidewinder Missile will not alter the workload at
+these activities after the initial retrofit is performed.  Workload increase
+for the AIM-9M-8 version will be offset by a corresponding decrease in
+workload to existing AIM-9M missiles.
+M.
+TRAINING CONCEPT
+1.Training Applicable to Military, Civilian, and Foreign Personnel.  
+a.
+Initial Training.  Initial training is funded by the TSA until
+the TA has attained the capability to conduct follow-on training.  NAWCWD and
+TOPGUN developed Aircrew Familiarization packages for AIM-9M-8 initial
+training.  The packages include a briefing and a classified indoctrination
+video.  Video tapes were distributed separately by the Joint Visual
+Information Activity in Tobyhanna, Pennsylvania.  VX-9 and TOPGUN personnel
+began initial aircrew training in September 1994.  NAWCWD has revised the
+AN/DSM-152 Test Set Operator Course (CIN N-100-0483) to include AN/DSM-152B
+maintenance procedures.  NAWCWD personnel provided initial training packages
+to NWS Yorktown, NWS Fallbrook and NAWMU-1 Guam.
+(1)
+Operator.  VX-9 and TOPGUN began AIM-9M-8 initial training
+presentations in fourth quarter FY94.
+(2)
+Maintenance.
+(a)
+Organizational.  N/A. 
+(b)
+Intermediate.  N/A. 
+(c)
+Depot. 
+
+
+[PAGE 15]
+I-9
+1 AN/DSM-152B Test Set Operation and Maintenance
+Course Number.....
+N-100-0483
+Course Length.....
+4 days
+RFT Date..........
+Apr 96
+Location..........
+NWS Yorktown, NWS Fallbrook,
+NAWMU-1
+TD/TTE............
+AN/DSM-152B
+Note..............
+Request from NAVAIRSYSCOM PMA205-
+5C
+(3)
+Team.  N/A.
+(4)
+Officer.  Discussed under paragraph I.M.1.a.(1).
+(5)
+Industrial Personnel.  N/A. 
+b.
+Follow-On Training.  Training on the existing Sidewinder AIM-9M
+Missile is in place.  Operator (aircrew) training courses are being updated to
+include AIM-9M-8 Sidewinder information.  Organizational level maintenance and
+intermediate level maintenance training courses required minimal updating to
+include the AIM-9M-8 nomenclature.
+(1)
+Operator.  Aircrew training courses are being modified to
+include AIM-9M-8 data.  Modifications do not change course length.  Operators
+will utilize a video tape to learn tone differences created by the AIM-9M-8
+configuration.  Also, interactive courseware (ICW) for the Strike Fighter
+Training Systems (SFTS) will be distributed in March 1997.  OJT for operators
+is accomplished by using the Sidewinder CATM-9 series training missile.
+(a)
+CATM-9M.  Captive Air Training Missiles (CATM)-9M are
+captive carry missiles and are used for pilot training in aerial target
+acquisition and use of aircraft controls and displays. CATM-9M may consist of
+a combination of tactical and training (inert) components or all training
+components.  See Table I-2 for further CATM-9M configuration details.
+(b)
+Strike Fighter Weapons and Tactics (SFWT) Curricula. 
+NSAWC TOPGUN, in conjunction with the various Weapons Schools, is developing
+post-Fleet Replacement Squadron (FRS) training at the squadron level.  The
+Strike Fighter Weapons and Tactics (SFWT) curricula will be taught by each
+squadron's Strike Fighter Tactics Instructor (SFTI).  The SFTI will be
+supported by SFTS, a multimedia computer-based training system that will host
+ICW.  TOPGUN and NAVAIRSYSCOM PMA205-5 are developing AIM-9M-8 Aircrew ICW
+that is anticipated to be ready for training by the second quarter FY97.
+1
+Sidewinder AIM-9M-8 Aircrew ICW.
+Course number.....
+TBD
+Course length.....
+TBD
+RFT date..........
+Mar 97
+Location..........
+Fleet squadrons as deemed
+appropriate by TOPGUN and
+associated Weapons Schools
+Source rating.....
+None
+Skill identifier..
+Various aircrew AQDs
+TD/TTE............
+SFTS or compatible system
+
+
+[PAGE 16]
+I-10
+Prerequisites.....
+Group I Naval Aviator or Naval
+Flight Officer Designation, Secret
+clearance
+AIM-9
+CONFIGURATION
+NALC
+CORRESPONDING
+CATM-9
+CONFIGURATION
+NALC
+GCS COMMON TO
+BOTH
+CONFIGURATIONS
+NALC
+AIM-9M-1
+ or
+AIM-9M-3
+PB55/
+PV66
+PC47/
+PV67
+CATM-9M-6
+(slick)
+or
+CATM-9M-8 (W&F)
+or
+CATM-9M-1
+(NAR'd)
+or
+CATM-9M-2
+(slick)
+or
+CATM-9M-4 (W&F)
+BWBS
+BWBT
+PC60
+PC61
+PV44
+NOT APPLICABLE
+INERTED TACTICAL
+GCS
+WGU-4A(T-2)/B
+NOT APPLICABLE
+INERTED TACTICAL
+GCS
+WGU-4A(T-2)/B
+WGU-4A/B
+WGU-4A/B
+WGU-4A/B
+1W11
+1W11
+PM55
+PM55
+PM55
+AIM-9M-4
+PV74
+NOT APPLICABLE
+WGU-4C/B
+PM66
+AIM-9M-6
+PV76
+NOT APPLICABLE
+WGU-4D/B
+PM67
+AIM-9M-8
+PV89
+CATM-9M-12 (W&F)
+or
+CATM-9M-14
+(slick)
+PU70
+PU71
+WGU-4E/B
+WGU-4E/B
+PM69
+PM69
+slick= without wings and fins
+NALC = Navy Ammunition
+W&F= with wings and fins
+       Logistics Code
+Table I-2.  SIDEWINDER CATM-9M INFORMATION
+(c)
+F-18 Aircraft.  The following list of courses have
+AIM-9M-8 source material incorporated, which caused no
+change in student throughput or chargeable student
+billets.  These courses are listed for reference only
+and will not appear in Parts II and III of this
+document.  See NTP A-50-7703 for course details.
+1 F/A-18 Fleet Replacement Pilot Category (Cat) I
+
+
+[PAGE 17]
+I-11
+Course number........... D/E-2A-0601
+RFT date................ November 94
+2 F/A-18 Fleet Replacement Pilot Cat IIA
+Course number........... D/E-2A-0602
+RFT date................ November 94
+3 F/A-18 Fleet Replacement Pilot Cat IIH
+Course number........... D/E-2A-0603
+RFT date................ November 94
+4 F/A-18 Fleet Replacement Pilot Cat IIF
+Course number........... D/E-2A-0605
+RFT date................ November 94
+5 F/A-18 Fleet Replacement Pilot Cat III
+Course number........... D/E-2A-0604
+RFT date................ November 94
+6 F/A-18 Fleet Replacement Pilot Cat IV
+Course number........... D/E-2A-0606
+RFT date................ November 94
+7 F/A-18 Fleet Replacement Pilot Basic and Transition
+Course number........... M13P4B3
+RFT date................ November 94
+8 F/A-18 Fleet Replacement Pilot Refresher
+Course number........... M13P3V3
+RFT date................ November 94
+9 F/A-18 Fleet Replacement Pilot Modified Refresher
+Course number........... M13P3W3
+RFT date................ November 94
+10 F/A-18 Weapon Sensor Operator (WSO) Basic and
+Transition
+Course number........... M13P4C3
+RFT date................ November 94
+11 F/A-18 WSO Refresher
+Course number........... M13P3R3
+RFT date................ November 94
+12 F/A-18 WSO Modified Refresher
+
+
+[PAGE 18]
+I-12
+Course number........... M13P3S3
+RFT date................ November 94
+(d)
+F-14 Aircraft. The following list of courses have AIM-
+9M-8 source material incorporated, which caused no
+change in student throughput or chargeable student
+billets.  These courses are listed for reference only
+and will not appear in Parts II and III of this
+document. See NTP A-50-8511 for course details.
+1 F-14 Fleet Replacement Pilot Cat I
+Course number........... D-2A-1601
+RFT date................ November 94
+2 F-14 Fleet Replacement Pilot Cat II
+Course number........... D-2A-1602
+RFT date................ November 94
+3 F-14 Fleet Replacement Pilot Cat III
+Course number........... D-2A-1603
+RFT date................ November 94
+4 F-14 Fleet Replacement Pilot Cat IV
+Course number........... D-2A-1604
+RFT date................ November 94
+5 F-14 Fleet Replacement Pilot Cat V
+Course number........... D-2A-1605
+RFT date................ November 94
+6 F-14 Naval Flight Officer (NFO) Cat I
+Course number........... D-2D-1601
+RFT date................ November 94
+7 F-14 NFO Cat II
+Course number........... D-2D-1602
+RFT date................ November 94
+8 F-14 NFO Cat III
+Course number........... D-2D-1603
+RFT date................ November 94
+
+
+[PAGE 19]
+I-13
+9 F-14 NFO Cat IV
+Course number........... D-2D-1604
+RFT date................ November 94
+10 F-14 NFO Cat V
+Course number........... D-2D-1605
+RFT date................ November 94
+(e)
+AV-8B Aircraft.  The following list of courses have
+AIM-9M-8 source material incorporated, which caused no
+change in student throughput or chargeable student
+billets.  These courses are listed for reference only
+and will not appear in Parts II and III of this
+document.  See NTP A-50-8210 for course details.
+1 AV-8B Fleet Replacement Pilot Basic and Transition
+Course number........... M04P4H4
+RFT date................ November 94
+2 AV-8B Fleet Replacement Pilot Refresher
+Course number........... M04P4Q4
+RFT date................ November 94
+3 AV-8B Fleet Replacement Pilot Modified Refresher
+Course number........... M04P4R4
+RFT date................ November 94
+(f)
+AH-1 Aircraft. The following list of courses have AIM-
+9M-8 source material incorporated, which caused no
+change in student throughput or chargeable student
+billets.  These courses are listed for reference only
+and will not appear in Parts II and III of this
+document.  See NTP A-50-8520 for course details.
+1 AH-1 Fleet Replacement Pilot Basic and Transition
+Course number........... M23P4N1
+RFT date................ November 94
+2 AH-1 Fleet Replacement Pilot Refresher
+Course number........... M23P3M1
+RFT date................ November 94
+3 AH-1 Fleet Replacement Pilot Modified Refresher
+Course number........... M23P3X1
+RFT date................ November 94
+
+
+[PAGE 20]
+I-14
+(2) Maintenance.
+(a)
+DATM-9M.  Dummy Air Training Missiles (DATM)-9M are
+used to train organizational and intermediate level maintenance personnel in
+AIM-9M assembly, disassembly, loading, transportation, and stowage procedures
+and techniques.  All components are training items (completely inert) except
+for wings, fins, and tactical umbilical cable.  The DATM-9M-1 and DATM-9M-2
+simulate both the AIM-9L and AIM-9M tactical missiles for training purposes
+and are not certified for flight.
+(b)
+Initial Skill Training.  The modification of the AIM-
+9M to the AIM-9M-8 configuration did not affect the training course content or
+course length at the AO A1 school, and therefor there were no changes in
+student throughput or chargeable student billets.  These courses are listed
+for reference only and will not appear in Parts II and III of this document.
+1 Aviation Ordnance “Class A1” School (Core)
+Course number........... C-646-2011
+RFT date................ On line
+2 Aviation Ordnance “Class A1” School (Airwing Strand)
+Course number........... C-646-2012
+RFT date................ On line
+3 Aviation Ordnance “Class A1” School (Ship/Shore
+Strand)
+Course number........... C-646-2013
+RFT date................ On line
+(c)
+Organizational.  The modification of the AIM-9M to the
+AIM-9M-8 configuration did not affect the maintenance,
+release and control checks, or conventional weapons
+loading at organizational-level maintenance
+activities. Associated training course content and
+course lengths were not affected, and therefor there
+were no changes in student throughput or chargeable
+student billets.  These courses are listed for
+reference only and will not appear in Parts II and III
+of this document. See NTPs A-50-7703, A-50-8511, A-50-
+8210, and A-50-8520 for course details.
+1 AV-8B Conventional Weapons Loading
+Course number........... C-646-3893
+RFT date................ On line
+
+
+[PAGE 21]
+I-15
+2 AV-8B Aircraft Ordnance Technician Integrated
+Organizational Maintenance
+Course number........... C-646-9888
+RFT date................ On line
+3 F-14 Conventional Weapons Loading
+Course number........... D-646-1642
+RFT date................ On line
+4 F-14A/B Armament Systems Organizational Maintenance
+(Initial)
+Course number........... D-646-9962
+RFT date................ On line
+5 F-14A/B Armament Systems Organizational Maintenance
+(Career)
+Course number........... D-646-9963
+RFT date................ On line
+6 F-14D Armament Systems Organizational Maintenance
+(“D” Difference Training)
+Course number........... D-646-9906
+RFT date................ On line
+7 F/A-18 Conventional Weapons Loading
+Course number........... D/E-646-0640
+RFT date................ On line
+8 F/A-18 Conventional Release Systems Test
+Course number........... D/E-646-0647
+RFT date................ On line
+9 F/A-18 Stores Management Integrated Organizational
+Maintenance (Initial)
+Course number........... C-646-9973
+RFT date................ On line
+10 F/A-18 Stores Management Integrated Organizational
+Maintenance (Initial)
+Course number........... C-646-9974
+RFT date................ On line
+
+
+[PAGE 22]
+I-16
+11 H-1 Armament Repair Integrated Organizational
+Maintenance
+Course number........... C-646-9361
+RFT date................ On line
+(d)
+Intermediate.  The modification of the AIM-9M to the AIM-
+9M-8 configuration did not affect the intermediate-level maintenance of the AIM-9
+missile, therefore training course content and course lengths were not impacted.
+The AIM-9 Sidewinder is taught in the following intermediate-level maintenance
+training courses.
+1
+Air Launched Guided Missiles Intermediate Maintenance.
+Course number .... C-122-3111
+Course length .... 11 days
+RFT date ......... Nov 94
+Locations ........ NAMTG Mayport, FL, MTU 4030
+NAMTG Norfolk, VA, MTU 4032
+NAMTG North Is, CA, MTU 4033
+Source rating .... AO
+TD/TTE ........... See Part IV
+Skill identifier . NEC 6801 upon completion of track
+Prerequisites .... AO A1 or equivalent
+2
+Strike Armament Intermediate Maintenance Repair.
+Course number..... C-646-3118
+Course length..... 61 days
+RFT date.......... Nov 94
+Location.......... NAMTG Mayport, FL, MTU 4030
+NAMTG North Is, CA MTU 4033
+Source rating..... AO
+Skill identifier.. NEC 6802 upon completion of track
+TD/TTE............ See Part IV
+Prerequisites..... AO A1 or equivalent
+3
+Aviation Ordnance Intermediate Maintenance Technician.
+Course number .... C-646-3105
+Course length .... 95 days
+RFT date ......... Oct 96
+Locations ........ VMAT-203 FREST, MCAS Cherry Point, NC
+Source rating .... AO
+Skill identifier.. MOS 6541 upon completion of track
+TD/TTE ........... See Part IV
+Prerequisite ..... MOS 6511
+Note ............. Part of M-646-7023 track, replaces C-
+646-3126 and C-646-4107
+4
+Weapons Department General Aviation Ordnance
+Supervisor.
+Course number .... C-646-4108
+Course length .... 19 days
+RFT date ......... Oct 95
+
+
+[PAGE 23]
+I-17
+Location ......... NAMTG Mayport, FL, MTU 4030
+NAMTG Norfolk, VA, MTU 4032
+NAMTG North Is, CA, MTU 4033
+Source rating .... AO
+TD/TTE ........... See Part IV
+Skill identifier . None
+Prerequisites .... AO A1 or equivalent
+5
+Weapons Department General Aviation Ordnance.
+Course number..... C-646-4109
+Course length..... 19 days
+RFT date.......... Oct 95
+Location.......... NAMTG Mayport, FL, MTU 4030
+NAMTG Norfolk, VA, MTU 4032
+NAMTG North Is, CA, MTU 4033
+Source rating..... AO
+Skill identifier.. None
+TD/TTE............ See Part IV
+Prerequisites..... AO A1 or equivalent
+Confidential clearance
+(e)
+Depot.
+1
+AN/DSM-152B Test Set Operation and Maintenance
+Course Number..... N-100-0483
+Course Length..... 4 days
+RFT Date.......... Apr 96
+Location.......... NWS Yorktown, NWS Fallbrook, NAWMU-1
+TD/TTE............ AN/DSM-152B
+Note.............. Request from NAVAIRSYSCOM PMA205-5C
+(3)
+Team/Proficiency.  N/A.
+(4)
+Officer.  Aircrew follow-on training courses for aircraft
+utilizing the AIM-9 Sidewinder Missile will be modified to reflect the AIM-9M-8
+data.  Refer to paragraph I.M.1.b.(1) for affected courses.
+(5)
+Industrial Personnel.  N/A.
+2.
+New Training Pipelines or Tracks.  N/A
+3.
+Explosive Ordnance Disposal Training.  The EOD Phase II Navy course
+will be modified to include AIM-9M-8 information.  The modification will not
+affect course length.
+a.
+Explosive Ordnance Disposal Phase II Navy.
+Course number ... A-431-0011
+Course length ... 77 days
+RFT date ........ Nov 94
+Location ........ NAVSCOLEOD, NSWC-IH
+Source rating ... General (Enlisted and Officer)
+Skill identifier. NEC 5332, NOBC 9230
+TD/TTE .......... See Part IV
+Prerequisites ... Comply with BUPERSMAN Article 1410380,
+
+
+[PAGE 24]
+I-18
+Course A-433-0022, Course A-431-0069.
+Secret clearance.
+b.
+Explosive Ordnance Disposal Phase II.
+Course number ... A-431-0012
+Course length ... 156 days
+RFT date ........ Nov 94
+Location ........ NAVSCOLEOD, NSWC-IH
+Source rating ... General (Enlisted and Officer)
+Skill identifier. NEC 5332, NOBC 9230
+TD/TTE .......... See Part IV
+Prerequisites ... Comply with BUPERSMAN Article 1410380,
+Course A-433-0022, Course A-431-0069.
+Secret clearance.
+c.
+Navy Explosive Ordnance Team Readiness Improvement Training.
+Course number ... G-431-0001
+Course length ... 22-27 days
+RFT date ........ Nov 94
+Location ........ EODTEU ONE, NAS Barbers Point, HI
+EODTEU TWO, Fort Story, VA
+ 
+Source rating ... General
+Skill identifier. NEC 5331
+TD/TTE .......... See Part IV
+Prerequisites ... Confidential clearance, Completed A-433-0022/23
+4.
+NEC Assignable to Selected Reserves (SELRES).  SELRES personnel will
+receive their AIM-9M-8 training in the same manner that they received predecessor
+Sidewinder system training.
+N.
+ON-BOARD TRAINING
+1.
+Proficiency or Other Training Organic to New Development.  The
+Maintenance Training Improvement Program (MTIP) is used to establish an effective
+and efficient training system that is responsive to fleet training requirements.
+2.
+Operator/Maintenance Personnel Qualification Standards
+Requirements.  N/A.
+3.
+Maintenance Training Improvement Program (MTIP) Requirements.  The
+MTIP, established by OPNAVINST 4790.2 for aircraft programs, is used to establish
+an effective and efficient training system that is responsive to fleet training
+requirements.  MTIP is a training management tool that, through diagnostic
+testing, identifies individual training deficiencies at the organizational and
+intermediate levels of maintenance.  MTIP allows increased effectiveness in the
+application of training resources through identification of skill and knowledge
+deficiencies at the activity, work center, or individual technician level. 
+Remedial training is concentrated where needed to correct identified skill and
+knowledge shortfalls.  An MTIP for weapon programs is in development by NAMTRA.
+4.
+Other On-Board Training.  The Conventional Ordnance Handling
+Qualification and Certification Program requires all ordnance personnel to be
+
+
+[PAGE 25]
+I-19
+qualified and certified in accordance with OPNAVINST 8023.2 and MCO 8023.2 series
+instruction.
+O.
+LIST OF RELATED NAVY TRAINING PLANS AND APPLICABLE DOCUMENTS
+DOCUMENT/
+ PDA
+NTP/DOCUMENT TITLE
+NTP NUMBER
+ CODE
+  STATUS
+Navy and Air Force
+ILSP MS-059
+ AIR-4.1.1
+  Approved
+ILSP for Sidewinder
+  12/93
+AIM-9M Missile System
+Operational Logistics
+OLSP MS-061
+ AIR-4.1.1
+  Approved
+Support Plan for Side-
+Revision C
+  12/89
+winder AIM-9 Missile
+Systems
+AH-1 Aircraft
+A-50-8520D/A
+ PMA276
+  Approved
+  3/96
+F/A-18 Weapon System
+A-50-7703G/D
+ PMA265
+  Draft
+  09/96
+AV-8B Harrier II
+A-50-8210D/A
+ PMA257
+  Approved
+Weapons System
+  08/93
+F-14A/B/D Aircraft
+A-50-8511A/A
+ PMA241
+  Approved
+  10/93
+
+
+[PAGE 26]
+II-1
+PART II - BILLET AND PERSONNEL REQUIREMENTS
+    The following elements are not affected by the AIM-9M-8 Sidewinder Missile System and, therefore, are not included
+in  Part II of this NTP:
+II.A.        BILLET REQUIREMENTS
+II.A.2.b.   Military Billets per Fleet Operational Unit [Including Fleet Readiness Squadrons (FRS)] and/or Activity - 
+ 
+  Old
+II.B.        PERSONNEL REQUIREMENTS
+II.B.3.      Foreign, Other Service, and Non-Military Personnel Annual Training Input Requirement       
+        NOTE 1: This section of the AIM-9M-8 Sidewinder Missile System NTP is a compilation of two intermediate level
+NEC's and two intermediate level MOS's with associated billets.
+     
+The addition of the AIM-9M-8 Sidewinder Missile System to the intermediate level workload is only a
+small percentage of the required workload for that MOS or NEC.  The NEC/MOS is not dedicated to AIM-9M-8
+Sidewinder Missile System and therefore the training requirements will remain the same.                
+                     
+        NOTE 2: This section of the AIM-9M-8 Sidewinder Missile System NTP is presented by NEC and MOS for ease of
+understanding.  It was developed to establish the total intermediate level maintenance requirements for
+the ordnance community.  The requirements are to train ordnance personnel in the USN and USMC to receive
+an NEC or MOS to fill a billet. 
+
+
+[PAGE 27]
+II-2
+II.A.  BILLET REQUIREMENTS
+II.A.1.a  Ready for Operational and Fleet Support Use - New Development Introduction Schedule
+                                                                                   Date:  Nov 95
+UNIT/ACTIVITY/SQUADRON/HULL NO./UIC       FY96       FY97       FY98       FY99       FY00
+LHD-5/USS Bataan/21879                                 1
+CV-64/USS Constellation/03364                                     1
+
+
+[PAGE 28]
+II-3
+II.A.1.b.  Military Billets per Fleet Operational Unit (Including Fleet Readiness Squadrons (FRS)) and/or
+           Activities - New
+AIRCRAFT
+SQUADRON/
+EQUIPMENT/    TOTAL PER
+SYSTEM/       SQUADRON/          OPERATION/                                                  
+SUBSYSTEM     E/S/S              AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+DESIGNATION   OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6802
+  ACDU         
+VFA-203    
+   0      2           0      0      0      2      0      0      0      0   AO      6802
+VFC-12          0      1           0      0      0      1      0      0      0      0   AO      6802            
+VFA-204         0      1           0      0      0      1      0      0      0      0   AO      6802            
+VMFAT-101       0      2           0      0      0      2      0      0      0      0   AO      6802            
+VFC-13          0      1           0      0      0      1      0      0      0      0   AO      6802    
+TOTAL:          0      7           0      0      0      7      0      0      0      0  
+                                                                                                          
+NEC 6802          
+ SELRES  
+VF-201          0      2           0      0      0      2      0      0      0      0   AO      6802    
+TOTAL:          0      2           0      0      0      2      0      0      0      0  
+NEC 6802 TOTAL: 0      9           0      0      0      9      0      0      0      0
+MOS 6521        
+  USMC         
+VMAT-203        0      2           0      0      0      2      0      0      0      0           6521
+VMFA-115        0      5           0      0      0      5      0      0      0      0           6521    
+VMFA-122        0      5           0      0      0      5      0      0      0      0           6521      
+VMFA-251        0      5           0      0      0      5      0      0      0      0           6521    
+VMFA-451        0      5           0      0      0      5      0      0      0      0           6521
+VMFA-142        0      2           0      0      0      2      0      0      0      0           6521
+VMFA-321        0      2           0      0      0      2      0      0      0      0           6521
+MALS Augment
+(Beaufort)      0      5           0      0      0      5      0      0      0      0           6521
+VMFAAW-224      0      5           0      0      0      5      0      0      0      0           6521
+VMFAAW-332      0      5           0      0      0      5      0      0      0      0           6521
+
+
+[PAGE 29]
+II-4
+II.A.1.b.  Military Billets per Fleet Operational Unit (Including Fleet Readiness Squadrons (FRS)) and/or
+           Activities - New (Cont.)
+AIRCRAFT
+SQUADRON/
+EQUIPMENT/    TOTAL PER
+SYSTEM/       SQUADRON/          OPERATION/                                                  
+SUBSYSTEM     E/S/S              AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+DESIGNATION   OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6521 (Continued)        
+  USMC (Continued)        
+VMFAAW-533      0      5           0      0      0      5      0      0      0      0           6521
+VMA-223         0      7           0      0      0      7      0      0      0      0           6521
+VMA-231         0      7           0      0      0      7      0      0      0      0           6521
+VMA-542         0      7           0      0      0      7      0      0      0      0           6521
+HMLA-167        0      9           0      0      0      9      0      0      0      0           6521
+HMLA-269        0      9           0      0      0      9      0      0      0      0           6521
+HMLA-773        0      2           0      0      0      2      0      0      0      0           6521
+MAWTS-1
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+6521
+VMFAT-101
+0     15
+0
+0
+0     15
+0
+0
+0
+0
+6521
+HMT-303
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6521
+VMFA-212
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6521
+VMFA-232
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6521
+VMFA-314
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6521
+VMFA-323
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6521
+VMFA-134
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6521
+VMFA-112
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+6521
+MALS Augment
+(El Toro)
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6521
+VMFAAW-121
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6521
+VMFAAW-225
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6521
+VMFAAW-242
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6521
+VMA-211
+0
+7
+0
+0
+0
+7
+0
+0
+0
+0
+6521
+VMA-214
+0
+7
+0
+0
+0
+7
+0
+0
+0
+0
+6521
+VMA-311
+0
+7
+0
+0
+0
+7
+0
+0
+0
+0
+6521
+VMA-513
+0
+7
+0
+0
+0
+7
+0
+0
+0
+0
+6521
+HMLA-169
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+6521
+HMLA-267
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+6521
+HMLA-367
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+6521
+
+
+[PAGE 30]
+II-5
+II.A.1.b.  Military Billets per Fleet Operational Unit (Including Fleet Readiness Squadrons (FRS)) and/or
+           Activities - New (Cont.)
+AIRCRAFT
+SQUADRON/
+EQUIPMENT/    TOTAL PER
+SYSTEM/       SQUADRON/          OPERATION/                                                  
+SUBSYSTEM     E/S/S              AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+DESIGNATION   OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6521 (Continued)        
+  USMC (Continued)
+HMLA-369
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+6521
+HMLA-775
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+6521
+HMLA-775
+Det A           0      1           0      0      0      1      0      0      0      0           6521  
+TOTAL:          0    222           0      0      0    222      0      0      0      0
+MOS 6521 
+Active Reserve (AR)
+VMFA-142        0      3           0      0      0      3      0      0      0      0           6521
+VMFA-321        0      3           0      0      0      3      0      0      0      0           6521
+VMA-131         0      5           0      0      0      5      0      0      0      0           6521
+HMLA-773
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6521
+VMFA-112
+0
+3
+0
+0
+0
+3
+0
+0
+0
+0
+6521
+VMFA-124
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6521
+HMLA-775
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6521
+HMLA-775
+Det A           0      2           0      0      0      2      0      0      0      0           6521
+TOTAL:
+0     29
+0
+0
+0     29
+0 
+0
+0
+0
+MOS 6521 TOTAL: 0    251           0      0      0    251      0      0      0      0
+MOS 6541
+  USMC
+VFA-106
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+6541
+VMAT-203
+0
+3
+0
+0
+0
+3
+0
+0
+0
+0
+6541
+
+
+[PAGE 31]
+II-6
+II.A.1.b.  Military Billets per Fleet Operational Unit (Including Fleet Readiness Squadrons (FRS)) and/or
+           Activities - New (Cont.)
+AIRCRAFT
+SQUADRON/
+EQUIPMENT/    TOTAL PER
+SYSTEM/       SQUADRON/          OPERATION/                                                  
+SUBSYSTEM     E/S/S              AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+DESIGNATION   OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6541 (Continued)
+  USMC (Continued)
+VMFA-115
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMFA-122
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMFA-251
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMFA-451
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMFA-142
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+6541
+VMFA-321
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+6541
+MALS Augment
+                                                         
+(Beaufort)
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+6541
+VMFAAW-224
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+6541
+VMFAAW-332
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+6541
+VMFAAW-533
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+6541
+VMA-223
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMA-542
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMA-231
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+HMLA-167
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+6541
+HMLA-269
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+6541
+HMLA-773
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+6541
+VFA-125
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+6541
+VMFAT-101
+0
+3
+0
+0
+0
+3
+0
+0
+0
+0
+6541
+HMT-303
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+6541
+VMFA-212
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMFA-232
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMFA-314
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMFA-323
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMFA-134
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+6541
+VMFA-112
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+6541
+MALS Augment
+(Miramar)
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6541
+VMFAAW-121
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+6541
+
+
+[PAGE 32]
+II-7
+II.A.1.b.  Military Billets per Fleet Operational Unit (Including Fleet Readiness Squadrons (FRS)) and/or
+           Activities - New (Cont.)
+AIRCRAFT
+SQUADRON/
+EQUIPMENT/    TOTAL PER
+SYSTEM/       SQUADRON/          OPERATION/                                                  
+SUBSYSTEM     E/S/S              AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+DESIGNATION   OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6541 (Continued)        
+  USMC (Continued)
+VMFAAW-225
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+6541
+VMFAAW-242
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+6541
+VMA-211
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMA-214
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMA-311
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+VMA-513
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+HMLA-169
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+6541
+HMLA-267
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+6541
+HMLA-367
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+6541
+HMLA-369
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+6541
+HMLA-775
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+6541
+HMLA-775
+Det A
+0      2
+0      0
+0      2
+0      0
+0      0
+6541
+TOTAL:
+0    195
+0
+0
+0    195
+0
+0
+0
+0
+MOS 6541  
+   AR
+VMFA-142
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6541
+VMFA-321
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6541
+VMA-131
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+HMLA-773
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6541
+VMFA-134
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6541
+VMFA-112
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6541
+VMFA-124
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+HMLA-775
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6541
+HMLA-775
+Det A
+0      1
+0      0
+0      1
+0      0
+0      0
+6541
+TOTAL:
+0     35
+0
+0
+0     35
+0
+0
+0
+0
+
+
+[PAGE 33]
+II-8
+II.A.1.b.  Military Billets per Fleet Operational Unit (Including Fleet Readiness Squadrons (FRS)) and/or
+           Activities - New (Cont.)
+AIRCRAFT
+SQUADRON/
+EQUIPMENT/    TOTAL PER
+SYSTEM/       SQUADRON/          OPERATION/                                                  
+SUBSYSTEM     E/S/S              AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+DESIGNATION   OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6541 (Continued)  
+   AR (Continued)
+MOS 6541 TOTAL: 0    230           0      0      0    230      0      0      0      0
+USN TOTAL:
+0      9
+0
+0
+0      9
+0
+0
+0
+0
+USMC TOTAL:
+0    481
+0
+0
+0    481
+0
+0
+0
+0
+GRAND TOTAL:    0    490           0      0      0    490      0      0      0      0
+Note:  This section indicates Fleet requirements for intermediate level maintenance AO's
+
+
+[PAGE 34]
+II-9
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6801     
+  ACDU
+NAWCAD
+Patuxent
+River/00421     0      2           0      0      0      2      0      0      0      0   AO      6801     
+                0      2           0      0      0      2      0      0      0      0   AO      6801  8345
+CVN-65/USS
+Enterpeise/
+03365     
+0     11           0      0      0     11      0      0      0      0   AO      6801      
+CV-66/USS
+America/03366
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+AO
+6801
+CV-67/USS
+Kennedy/03367
+0
+12
+0
+0
+0
+12
+0
+0
+0
+0
+AO
+6801
+CVN-69/USS
+Eisenhower/
+03369
+0
+7
+0
+0
+0
+7
+0
+0
+0
+0
+AO
+6801
+LPH-9/USS
+Guam/07178
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+LPH-7/USS
+Guadalcanal/
+07352
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+LHA-2/USS  
+Saipan/20632
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+LHA-4/USS
+Nassau/20725
+0
+ 2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+
+
+[PAGE 35]
+II-10
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6801 (Continued)     
+  ACDU (Continued)
+CVN-71/USS
+Roosevelt/
+21247
+0
+11
+0
+0
+0
+11
+0
+0
+0
+0
+AO
+6801
+CVN-73/USS
+Washington/
+21412
+0
+11
+0
+0
+0
+11
+0
+0
+0
+0
+AO
+6801
+CVN-74/USS
+Stennis/21847
+0
+11
+0
+0
+0
+11
+0
+0
+0
+0
+AO
+6801
+CVN-75/USS
+Truman/21853
+0
+11
+0
+0
+0
+11
+0
+0
+0
+0
+AO
+6801
+AVORD/MTT
+Norfolk/48764
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+AO
+6801
+COMNAVAIRLANT/
+57012
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+AIMD
+Brunswick/
+60087
+0
+8
+0
+0
+0
+8
+0
+0
+0
+0
+AO
+6801
+AIMD Oceana/
+60191
+0
+10
+0
+0
+0
+10
+0
+0
+0
+0
+AO
+6801
+AIMD Cecil
+Field/60200
+0
+20
+0
+0
+0
+20
+0
+0
+0
+0
+AO
+6801
+
+
+[PAGE 36]
+II-11
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6801 (Continued)     
+  ACDU (Continued)
+AIMD
+Keflavik/
+63032
+0
+7
+0
+0
+0
+7
+0
+0
+0
+0
+AO
+6801
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6801
+9502
+AIMD
+Memphis/
+00639
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6801
+6802
+CV-61/USS
+Ranger/03361
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6801
+CV-62/USS
+Independence/
+03362
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+AO
+6801
+CV-63/USS
+Kitty Hawk/
+03363
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+AO
+6801
+CV-64/USS
+Constellation/
+03364
+0
+11
+0
+0
+0
+11
+0
+0
+0
+0
+AO
+6801
+CVN-68/USS
+Nimitz/03368
+0
+11
+0
+0
+0
+11
+0
+0
+0
+0
+AO
+6801
+NAWCWDPoint
+Mugu/63126
+0
+7
+0
+0
+0
+7
+0
+0
+0
+0
+AO
+6801
+0
+1
+0
+0
+0
+ 1
+0
+0
+0
+0
+AO
+6801
+8342
+
+
+[PAGE 37]
+II-12
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                     
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6801 (Continued)     
+  ACDU (Continued)
+LPH-10/USS
+Triploi/07198
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+LPH-11/USS
+New Orleans/
+07202
+0
+ 2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+LHA-1/USS
+Tarawa/20550
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+LHA-3/USS
+Belleau Wood/
+20633
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+LHA-5/USS
+Peleliu/20748
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+CVN-70/USS
+Vinson/20993
+0
+11
+0
+0
+0
+11
+0
+0
+0
+0
+AO
+6801
+CVN-72/USS
+Lincoln/21297
+0
+11
+0
+0
+0
+11
+0
+0
+0
+0
+AO
+6801
+AIMD Fallon/
+44317
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6801
+NAVAIRWP-
+MAINTUN/
+52821
+0
+23
+0
+0
+0
+23
+0
+0
+0
+0
+AO
+6801
+AIMD Lemoore/
+44321
+0
+3
+0
+0
+0
+3
+0
+0
+0
+0
+AO
+6801
+
+
+[PAGE 38]
+II-13
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6801 (Continued)     
+  ACDU (Continued)
+NAWCAD Point
+Mugu/63126      0      1           0      0      0      1      0      0      0      0   AO      6801      
+NEC 6801 TOTAL: 0    253           0      0      0    253      0      0      0      0 
+NEC 6802     
+  ACDU
+NAWCAD
+Patuxent
+River/00421     0      7           0      0      0      7      0      0      0      0   AO      6802     
+     
+0      2           0      0      0      2      0      0      0      0   AO      6802  6803
+CVN-65/USS
+Enterprise/
+03365     
+0      8           0      0      0      8      0      0      0      0   AO      6802       
+CV-66/USS
+America/03366
+0
+8
+0
+0
+0
+8
+0
+0
+0
+0
+AO
+6802
+CV-67/USS
+Kennedy/03367
+0
+ 8
+0
+0
+0
+ 8
+0
+0
+0
+0
+AO
+6802
+CVN-69/USS
+Eisenhower/
+03369
+0
+8
+0
+0
+0
+8
+0
+0
+0
+0
+AO
+6802
+
+
+[PAGE 39]
+II-14
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6802 (Continued)     
+  ACDU (Continued)
+LPH-9/USS
+Guam/07178
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+LPH-7/USS
+Guadalcanal/
+07352
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+MCS-12/USS
+Inchon/20009
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+LHA-2/USS  
+Saipan/20632
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+LHA-4/USS
+Nassau/20725
+0
+ 1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+CVN-71/USS
+Roosevelt/                                                                                         
+21247
+0
+ 8
+0
+0
+0
+ 8
+0
+0
+0
+0
+AO
+6802
+CVN-73/USS
+Washington/
+21412
+0
+ 8 
+0
+0
+0
+ 8  
+0
+0
+0
+0
+AO
+6802
+LHD-2/USS
+Essex/21533
+0
+ 2
+0
+0
+0
+ 2
+0
+0
+0
+0
+AO
+6802
+LHD-1/USS
+Wasp/21560
+0
+ 2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6802
+
+
+[PAGE 40]
+II-15
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6802 (Continued)     
+  ACDU (Continued)
+LHD-3/USS
+Kearsarge/21700 0
+ 2
+0
+0
+0
+ 2
+0
+0
+0
+0
+AO
+6802
+LHD-4/USS
+Boxer/21808
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6802
+CVN-74/USS
+Stennis/21847
+0
+ 8
+0
+0
+0
+ 8
+0
+0
+0
+0
+AO
+6802
+CVN-75/USS
+Truman/21853
+0
+ 6
+0
+0
+0
+ 6
+0
+0
+0
+0
+AO
+6802
+LHD-5/USS
+Bataan/21879
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6802
+A/C OPDET
+Cecil Field/
+35670
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+A/C OPDET
+Oceana/35672
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+AO
+6802
+A/C OPDET
+Roosevelt
+Roads/35682
+0
+1
+0
+0
+0
+ 1
+0
+0
+0
+0
+AO
+6802
+AIMD Cecil
+Field/44315
+0
+14
+0
+0
+0
+14
+0
+0
+0
+0
+AO
+6802
+
+
+[PAGE 41]
+II-16
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6802 (Continued)     
+  ACDU (Continued)
+AIMD Key
+West/44320
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6802
+AIMD Oceana/
+60191
+0
+26
+0
+0
+0
+26
+0
+0
+0
+0
+AO
+6802
+AIMD
+Roosevelt
+Roads/35682     0      5 
+0
+0
+0
+5
+0
+0
+0
+0
+AO
+6802
+SEAOPDET
+Cecil Field/
+46961
+0
+15
+0
+0
+0
+15
+0
+0
+0
+0
+AO
+6802
+SEAOPDET
+Oceana/
+46963
+0
+16
+0
+0
+0
+16
+0
+0
+0
+0
+AO
+6802
+COMNAVAIRLANT/
+57012
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+NAS North
+Island/00246
+0
+3
+0
+0
+0
+3
+0
+0
+0
+0
+AO
+6802
+AIMD Memphis/
+00639
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+CV-61/USS
+Ranger/03361
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6802
+
+
+[PAGE 42]
+II-17
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6802 (Continued)     
+  ACDU (Continued)
+CV-62/USS
+Independence/
+03362
+0
+15
+0
+0
+0
+15
+0
+0
+0
+0
+AO
+6802
+CV-63/USS
+Kitty Hawk/
+03363
+0
+8
+0
+0
+0
+8
+0
+0
+0
+0
+AO
+6802
+CV-64/USS
+Constellation/
+03364
+0
+11
+0
+0
+0
+11
+0
+0
+0
+0
+AO
+6802
+CVN-68/USS
+Nimitz/
+03368
+0
+8
+0
+0
+0
+8
+0
+0
+0
+0
+AO
+6802
+LPH-10/USS
+Tripoli/
+07198 
+0
+ 1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+LPH-11/USS
+New Orleans/
+07202
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+LHA-1/USS
+Tarawa/
+20550
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+LHA-3/USS
+Belleau Wood/
+20633
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+
+
+[PAGE 43]
+II-18
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6802 (Continued)     
+  ACDU (Continued)
+LHA-5/USS
+Peleliu/20748
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+CVN-70/USS
+Vinson/20993
+0      8
+0
+0 
+0
+ 8
+0
+0
+0 
+0
+AO
+6802
+CVN-72/USS
+Linclon/21297
+0
+ 8
+0
+0
+0
+ 8
+0
+0
+0
+0
+AO
+6802
+A/C OPDET/
+Whidbey Island/
+35674
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6802
+AIMD Fallon/
+44317
+0
+3
+0
+0
+0
+3
+0
+0
+0
+0
+AO
+6802
+AIMD Miramar/
+44322
+0
+21
+0
+0
+0
+21
+0
+0
+0
+0
+AO
+6802
+AIMD Atsugi/
+44323
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+AO
+6802
+AIMD North
+Island/44326
+0
+14
+0
+0
+0
+14
+0
+0
+0
+0
+AO
+6802
+AIMD Whidbey
+Island/44329
+0
+20
+0
+0
+0
+20
+0
+0
+0
+0
+AO
+6802
+SEAOPDET
+Miramar/46962
+0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+AO
+6802
+
+
+[PAGE 44]
+II-19
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6802 (Continued)     
+  ACDU (Continued)
+SEAOPDET
+Lemoore/46964
+0
+11
+0
+0
+0
+11
+0
+0
+0
+0
+AO
+6802
+SEAOPDET
+Whidbey
+Island/46967
+0
+19
+0
+0
+0
+19
+0
+0
+0
+0
+AO
+6802
+SEAOPDET
+North Island/
+46968
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+AO
+6802
+NAVAIRWPMAINTUN/
+52821
+0
+ 5
+0
+0
+0
+5
+0
+0
+0
+0
+AO
+6802
+NAWCWD Point
+Mugu/63126      0      8           0      0      0      8      0      0      0      0                       
+TOTAL:
+0    361
+0
+0
+0    361
+0
+0
+0
+0
+NEC 6802         
+  TAR
+RAIMD Atlanta/
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+AO
+6802
+44486    
+RAIMD Willow
+Grove/44493
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+AO
+6802
+NAVAIRES
+Jacksonville/
+63099
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+
+
+[PAGE 45]
+II-20
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+NEC 6802 (Continued)     
+   TAR (Continued)
+NAVAIRES
+Norfolk/
+63102
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+RAIMD Dallas/
+44487
+0
+3
+0
+0
+0
+3
+0
+0
+0
+0
+AO
+6802
+RAIMD New
+Orleans/44490   0      2           0      0      0      2      0      0      0      0   AO    
+6802        
+TOTAL:
+0     15           0      0      0     15      0      0      0      0              
+NEC 6802
+ SELRES
+CV-62/USS
+Independence/
+03362
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+AO
+6802
+CV-64/USS
+Constellation/
+03364           0      3           0      0      0      3      0      0      0      0   AO      6802        
+TOTAL:
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+NEC 6802
+TOTAL:
+0    380
+0
+0
+0    380
+0
+0
+0
+0
+
+
+[PAGE 46]
+II-21
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6521
+  USMC
+H&HS Cherry
+Point/02002
+0
+15
+0
+0
+0
+15
+0
+0
+0
+0
+  
+6521
+H&HS New
+River/02021
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+  
+6521
+H&HS Beaufort/
+02031
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+  
+6521
+2nd MAW/Cherry
+Point/00201
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+  
+6521
+MASD Andrews/
+04801
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+  
+6521
+MALS-14/
+Cherry Point/
+09114
+0
+22
+0
+0
+0
+22
+0
+0
+0
+0
+  
+6521
+MALS-31/
+Beaufort/
+09131
+0
+22
+0
+0
+0
+22
+0
+0
+0
+0
+6521
+MALS-26/
+New River/
+09167
+0
+ 6
+0
+0
+0
+ 6
+0
+0
+0
+0
+  
+6521
+MALS-29/
+New River/
+52841
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+6521
+
+
+[PAGE 47]
+II-22
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6521 (Continued)
+  USMC (Continued)
+MALS-49/
+Stewart NY/
+55555
+0
+3
+0
+0
+0
+3
+0
+0
+0
+0
+  
+6521
+H&HS Iwakuni/
+02501
+0
+7
+0
+0
+0
+7
+0
+0
+0
+0
+ 
+6521
+H&HS Futenma/
+02601
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0  
+6521
+MCAF Kaneohe/
+02303
+0
+7
+0
+0
+0
+7
+0
+0
+0
+0
+  
+6521
+H&HS El Toro/
+02201
+0
+8
+0
+0
+0
+8
+0
+0
+0
+0
+  
+6521
+H&HS Yuma/
+02230
+0
+16
+0
+0
+0
+16
+0
+0
+0
+0
+  
+6521
+H&HS Camp
+Pendleton/02208 0
+9
+0
+0
+0
+9
+0
+0
+0
+0
+  
+6521
+1st MAW/
+Futenma/00101
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+  
+6521
+3rd MAW/
+El Toro/00300
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+  
+6521
+4th MAW/
+New Orleans/
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+  
+6521
+00400
+
+
+[PAGE 48]
+II-23
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6521 (Continued)
+  USMC (Continued)
+MALS-11/El
+Toro/09111
+0
+22
+0
+0
+0
+22
+0
+0
+0
+0
+  
+6521
+MALS-12/
+Iwakuni/09112
+0
+22
+0
+0
+0
+22
+0
+0
+0
+0
+  
+6521
+MALS-13/Yuma/
+55585
+0
+22
+0
+0
+0
+22
+0
+0
+0
+0
+  
+6521
+MALS-41/Fort
+Worth/03007
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+  
+6521
+MALS-46/
+Miramar/03028
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+  
+6521
+MALS-16/Tustin/
+55583
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+  
+6521
+MALS-36/
+Futenma/09136
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+  
+6521
+MALS-39/Camp
+Pendleton/09808 0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+  
+6521
+MALSE Kaneohe/
+02300           0      2           0      0      0      2      0      0      0      0           6521        
+TOTAL:
+0    227
+0
+0
+0    227
+0
+0
+0
+0
+
+
+[PAGE 49]
+II-24
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6521
+   AR
+Blount Island/
+38450
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+  
+6521
+MALS-42/
+Marietta Ga/
+09513
+0
+6
+0
+0
+0
+6
+0
+0
+0
+0
+  
+6521
+MALS-49/
+Stewart NY/
+55555
+0
+3
+0
+0
+0
+3
+0
+0
+0
+0
+  
+6521
+MALS-41/Fort
+Worth/03007
+0
+20
+0
+0
+0
+20
+0
+0
+0
+0
+  
+6521
+MALS-46/Miramar/
+03028           0     20           0      0      0     20      0      0      0      0           6521        
+TOTAL:
+0     50
+0
+0
+0
+50
+0
+0
+0
+0
+MOS 6521
+TOTAL:
+0    277
+0
+0
+0    277
+0
+0
+0
+0
+MOS 6541
+  USMC
+MAD/Patuxent
+River/06040
+0
+ 1
+0
+0
+0
+ 1
+0
+0
+0
+0
+6541
+MALS-14/Cherry
+Point/09114
+0
+21
+0
+0
+0
+21
+0
+0
+0
+0
+6541
+
+
+[PAGE 50]
+II-25
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6541 (Continued)
+  USMC (Continued)
+MALS-31/
+Beaufort/09131
+0
+21
+0
+0
+0
+21
+0
+0
+0
+0
+6541
+MALS-26/New
+River/09167
+0
+ 6
+0
+0
+0
+ 6
+0
+0
+0
+0
+6541
+MALS-29/New
+River/52841
+0
+ 6
+0
+0
+0
+ 6
+0
+0
+0
+0
+6541
+MALS-42/
+Marietta Ga/
+09513
+0
+ 2
+0
+0
+0
+ 2
+0
+0
+0
+0
+6541
+MALS-49/
+Stewart NY/
+55555
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+6541
+MAD China
+Lake/06117
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+6541
+MALS-11/El
+Toro/09111
+0
+21
+0
+0
+0
+21
+0
+0
+0
+0
+6541
+MALS-12/
+Iwakuni/09112
+0
+21
+0
+0
+0
+21
+0
+0
+0
+0
+6541
+MALS-13/Yuma/
+55585
+0
+21
+0
+0
+0
+21
+0
+0
+0
+0
+6541
+MALS-41/Fort
+Worth/03007
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+6541
+
+
+[PAGE 51]
+II-26
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MOS 6541 (Continued)
+  USMC (Continued)
+MALS-16/Tustin/
+55583
+0
+ 6
+0
+0
+0
+ 6
+0
+0
+0
+0
+6541
+MALS-36/
+Futenma/09136
+0
+ 6
+0
+0
+0
+ 6
+0
+0
+0
+0
+6541
+MALS-39/Camp
+Pendleton/
+09808
+0
+ 6
+0
+0
+0
+ 6
+0
+0
+0
+0
+6541
+MALSE Kaneohe/
+02300
+0      2
+0      0
+0      2
+0      0
+0      0
+6541
+TOTAL:
+0    145         
+0
+0
+0    145     0
+0
+0
+0
+MOS 6541
+   AR
+Blount Island/
+38450
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+6541
+MALS-42/
+Marietta Ga/
+09513
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+6541
+MALS-49/
+Stewart NY/
+55555
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+6541
+MALS-41/Fort
+Worth/03007
+0
+19
+0
+0
+0
+19
+0
+0
+0
+0
+6541
+
+
+[PAGE 52]
+II-27
+II.A.1.c.  Total Number of Billets Required by Fleet Support Units and/or Activities - New (Cont.)
+FLEET
+SUPPORT       TOTAL              OPERATION/                                                    
+UNIT/         PER UNIT           AIRCREW       MAINTENANCE   O&M/OTHER     TEAM         DESIG/  PNEC  SNEC
+UIC           OFF    ENL         OFF    ENL    OFF    ENL    OFF    ENL    OFF    ENL   RATING  PMOS  SMOS
+MALS-46/
+0
+21
+0
+0
+0
+21
+0
+0
+0
+0
+6541
+Miramar/03028
+MOS 6541
+TOTAL:
+0    195
+0
+0
+0    195
+0
+0
+0
+0
+6541
+USN TOTAL:
+0    633
+0
+0
+0    633
+0
+0
+0
+0
+USMC TOTAL:
+0    472
+0
+0
+0    472
+0
+0
+0
+0
+GRAND TOTAL:
+0   1105
+0
+0
+0   1105
+0
+0
+0
+0
+
+
+[PAGE 53]
+II-28
+II.1.d.  Total Fleet and Fleet Support Billets for New System
+                   
+            DESIG/  PNEC  SNEC      FY96        FY97        FY98        FY99        FY00
+            RATING  PMOS  SMOS    OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL
+OPERATOR/AIRCREW...NA
+OPERATION & MAINT...NA
+TEAM................NA
+MAINTENANCE
+  USN Fleet....NA
+  USN Fleet Support
+            AO    6802                              2(LHD-5)                                                           
+    
+            AO    6802                                          6(CV-64)                                     
+            NOTE: This section indicates future AO intermediate level maintenance requirements.
+
+
+[PAGE 54]
+II-29
+II.A.2.a  Fleet and Fleet Support Replacement - Phase Out Schedule
+                                                                                                           Date: Nov 95
+          UNIT/ACTIVITY/SQUADRON/HULL NO/UIC        FY96        FY97        FY98        FY99        FY00
+          LPH-9/USS Guam/07178                                    1
+          LPH-11/USS New Orleans/07202                                        1
+          CV-67/USS Kennedy/03367                                             1
+
+
+[PAGE 55]
+II-30
+II.A.2.c   Total Number of Billets to be Replaced in Fleet Support Units and/or Activities - Old
+                     TOTAL       OPER/                          O & M/                     RANK/       NOBC/
+FLEET SUPPORT      PER UNIT     AIRCREW       MAINTENANCE       OTHER          TEAM        RATE/       PNEC      SNEC/
+UNIT/UIC           OFF  ENL     OFF  ENL      OFF     ENL      OFF  ENL      OFF  ENL      RATING      PMOS      SMOS  
+LPH-9/USS Guam       0    2       0    0        0       2        0    0        0    0        A0        6801
+                     0    1       0    0        0       1        0    0        0    0        AO        6802
+LPH-11/USS New       0    2       0    0        0       2        0    0        0    0        AO        6801 
+Orleans              0    1       0    0        0       1        0    0        0    0        AO        6802
+CV-67/USS Kennedy    0    2       0    0        0       2        0    0        0    0        AO        6802
+          TOTALS:    0    8       0    0        0       8        0    0        0    0   
+
+
+[PAGE 56]
+II-31
+II.A.2.d.  Total Fleet and Fleet Support Billets for Old/Replaced System
+                   
+            DESIG/  PNEC  SNEC      FY96        FY97        FY98        FY99        FY00
+            RATING  PMOS  SMOS    OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL
+OPERATOR/AIRCREW....NA
+OPERATION & MAINT....NA
+TEAM.................NA                                                                                                
+  MAINTENANCE
+  USN Fleet..........NA 
+  USN Fleet Support
+            AO      6801                             2(LPH-9)
+            AO      6801                                        2(LPH-11)
+            AO      6802                             1(LPH-9)
+          
+            AO      6802                                        2(CV-67)
+            AO      6802                                        1(LPH-11)
+NOTE:  This section indicates AO intermediate maintenance billets going away.
+
+
+[PAGE 57]
+II-32
+II.A.3.  Net Total Officer and Enlisted Fleet and Support Billet Requirements
+              RANK/     NAVY/             FY96       FY97       FY98       FY99       FY00
+              RATING    MARINE CORPS    OFF  ENL   OFF  ENL   OFF  ENL   OFF  ENL   OFF ENL
+               AO        USN              0    0     0   -1     0   +1     0    0     0   0
+                         USMC             0    0     0    0     0    0     0    0     0   0
+
+
+[PAGE 58]
+II-33
+II.A.4.  Training Activities Staff (Instructors/Support) Billet Requirements
+COURSE/TYPE        SCHOOL          Previous FYs  FY96     FY97     FY98     FY99    DESIG/  PNEC/  SNEC/               
+  OF TRAINING/CIN    LOCATION/UIC      OFF ENL    OFF ENL  OFF ENL  OFF ENL  OFF ENL  RATING  PMOS   SMOS
+INSTRUCTORS - Maintenance
+D-646-7007/        MTU-4032/    ACDU   0   6                                         AO     6801   9502
+General Shipboard/ NAMTG NAS   SELRES  0   2                                         AO     6801   9502
+NAS Weapons        Norfolk/
+Department AVORD   66046
+Maintenance
+                   MTU-4030/    ACDU   0   1                                         AO     6801   9502
+                   NAMTG NAS
+                   Mayport/
+                   66069
+E-646-7007/        MTU-4033/    ACDU   0   4                                         AO     6801   9502
+General Shipboard/ NAMTG NAS
+NAS Weapons        North
+Department AVORD   Island/
+Maintenance        66065
+D-646-7001/        MTU-4030/    ACDU   0   4                                         AO     6802   9502
+Strike Armament    NAMTG NAS
+Systems            MAYPORT/
+Intermediate       66069
+Maintenance
+E-646-7001/        MTU-4033/    ACDU   0   4                                         AO     6802   9502
+Strike Armament    NAMTG NAS
+Systems            North
+Intermediate       Island/
+Maintenance        66065
+NOTE:  All instructors are in place.
+
+
+[PAGE 59]
+II-34
+II.A.4.  Training Activies Staff (Instructors/Support) Billet Requirements (Cont.)
+  COURSE/TYPE        SCHOOL          Previous FYs  FY96     FY97     FY98     FY99    DESIG/  PNEC/  SNEC/               
+  OF TRAINING/CIN    LOCATION/UIC      OFF ENL    OFF ENL  OFF ENL  OFF ENL  OFF ENL  RATING  PMOS   SMOS
+INSTRUCTORS - Maintenance (Continued)
+M-646-7023/        VMAT-203/     USMC  0  11                                                  6541
+Aviation           MCAS Cherry
+Ordnance           Point/
+Intermediate       45483
+Maintenance
+Technician
+AO "A" School/     MATSG/NAS          0   5                                                   6541
+                   Pensacola/
+                   67389
+                 
+                    USN TOTALS:       0  21
+                    USMC TOTALS:      0  16
+NOTE:  All instructors are in place.
+
+
+[PAGE 60]
+II-35
+II.A.5  Chargeable Student Billet Requirements
+                                 FY96       FY97       FY98       FY99       FY00
+ACTIVITY/LOCATION/UIC          OFF  ENL   OFF  ENL   OFF  ENL   OFF  ENL   OFF  ENL
+MTU-4032/NAS Norfolk/    USN     0    5     0    5     0    5     0    5     0    5
+66046
+MTU-4030/NAS Mayport/    USN     0   13     0   13     0   13     0   13     0   13
+66069
+MTU-4033/NAS North       USN     0   17     0   17     0   18     0   17     0   17
+Island/66065
+VMAT-203/MCAS Cherry     USMC    0   40     0   40     0   40     0   40     0   40
+Point/45483
+                 USN TOTAL:      0   35     0   35     0   35     0   35     0   35
+                 USMC TOTAL:     0   40     0   40     0   40     0   40     0   40
+                 GRAND TOTAL:    0   75     0   75     0   75     0   75     0   75
+
+
+[PAGE 61]
+II-36
+II.A.6  Net Annual Incremental and Cumulative Billet Increase/Decrease - USN
+                                  Billet      FY96         FY97         FY98         FY99         FY00
+                                   BASE     +/- | CUM    +/- | CUM    +/- | CUM    +/- | CUM    +/- | CUM
+a.  OFFICER  NA
+b.  ENLISTED
+    Fleet Billets     ACDU/TAR        7         |   7        |   7        |   7        |   7        |   7
+                       SELRES         2         |   2        |   2        |   2        |   2        |   2
+    Fleet Support     ACDU/TAR      629         | 629      -1| 628      +1| 629        | 629        | 629
+    Billets            SELRES         4         |   4        |   4        |   4        |   4        |   4
+  
+    Staff Billets     ACDU/TAR       19         |  19        |  19        |  19        |  19        |  19
+    (Instructor        SELRES         2         |   2        |   2        |   2        |   2        |   2
+    Support)
+    Chargeable
+    Student Billets   ACDU/TAR       35         |  35      +1|  36        |  36      -1|  35      +1|  36
+
+
+[PAGE 62]
+II-37
+II.A.6  Net Annual Incremental and Cumulative Billet Increase/Decrease - USMC
+                                  Billet      FY96         FY97         FY98         FY99         FY00
+                                   BASE     +/- | CUM    +/- | CUM    +/- | CUM    +/- | CUM    +/- | CUM
+a.  OFFICER  NA
+b.  ENLISTED
+    Fleet Billets     USMC/AR       418         | 418        | 418        | 418        | 418        | 418
+                       SMCR           0         |   0        |   0        |   0        |   0        |   0
+    Fleet Support     USMC/AR       134         | 134        | 134        | 134        | 134        | 134
+    Billets            SMCR           0         |   0        |   0        |   0        |   0        |   0
+    Staff Billets     USMC/AR        37         |  37        |  37        |  37        |  37        |  37
+    (Instructor        SMCR           0         |   0        |   0        |   0        |   0        |   0
+    Support)  
+    Chargeable        USMC/AR        44         |  44        |  44        |  44        |  44        |  44              
+ 
+
+
+[PAGE 63]
+II-38
+II.B.  PERSONNEL REQUIREMENTS
+II.B.1.  Fleet and Fleet Support Adjusted Annual Training Input Requirements - Class "A" School Training
+         RATING/MOS          FY96            FY97            FY98            FY99            FY00
+            AO                 0              -1              +1               0               0                       
+ 
+
+
+[PAGE 64]
+II-39
+II.B.2.  Fleet and Fleet Support Adjusted Annual Training Input Requirements - Skill Progression and Functional
+         Training
+COURSE/             ACDU/TAR DESIG/  PNEC  SNEC              FY96       FY97       FY98       FY99       FY00
+TYPE OF TRAINING    SELRES   RATING  PMOS  SMOS    CIN     OFF  ENL   OFF  ENL   OFF  ENL   OFF  ENL   OFF  ENL
+OPERATOR/AIRCREW ............N/A
+OPERATION & MAINTENANCE .....Training   
+TEAM ........................NA 
+MAINTENANCE
+Weapons Department  ACDU     AO      6801        646-7007    0   94     0   95     0   94     0   94     0   95
+General Aviation
+Ordnance
+Course Length:   6.0 weeks   Course Attrition Factor: 10%   Sea Tour Length:  36.0 months   Backout Factor: 0.12
+Strike Armament     ACDU     AO      6802        646-7001    0  139     0  141     0  143     0  139     0  141
+Intermediate
+Maintenance Repair  TAR      AO      6802        646-7001    0    5     0    6     0    5     0    5     0    6
+Course Length:   9.8 weeks   Course Attrition Factor: 10%   Sea Tour Length:  36.0 months   Backout Factor:  0.20
+Aviation Ordnance   USMC             6541
+646-7023    0  170
+  0  170     0  170     0  170     0  170
+Intermediate
+Maintenance         AR               6541        646-7023    0   27     0   27     0   28     0   27     0   27
+Technician
+Course Length: 14.0 weeks   Course Attrition Factor: 0%   Sea Tour Length:  48.0 months   Backout Factor:  0.14
+  USN Totals:  ACDU       0  233     0  236     0  237     0  233     0  236
+                                                   TAR       0    5     0    6     0    5     0    5     0    6
+                                     USMC Totals: ACDU       0  170     0  170     0  170     0  170     0  170
+                                                    AR       0   27     0   27     0   27     0   27     0   27
+
+
+[PAGE 65]
+II-40
+II.B.4.  Reserve Personnel Mobilization Adjusted Annual Training Input Requirements
+COURSE/TYPE      RESERVE     RANK     PNEC   SNEC             FY96      FY97      FY98      FY99      FY00
+OF TRAINING      ACTIVITY    RATING   PMOS   SMOS    CIN     OFF ENL   OFF ENL   OFF ENL   OFF ENL   OFF ENL
+OPERATOR/AIRCREW.......NA
+OPERATION & MAINTENANCE
+AND/OR TEAM............NA
+MAINTENANCE
+Strike Armament   VF-201/      AO     6802         646-7001    0   2     0   2     0   2     0   2     0   2           
+Intermediate      CV-62/
+Maintenance       CV-64
+Repair
+                                                   USN TOTAL:  0    2    0   2     0   2     0   2     0   2 
+        
+
+
+[PAGE 66]
+II-41
+II.B.5.  Total Number of Instructor and Support Personnel Required for Training Activities
+                            OPER/                 OPER &
+SCHOOL/           REQUIRED  AIRCREW    MAINT      MAINT      TEAM       SUPPORT    ACDU/
+LOCATION/         ON BOARD  COURSE     COURSE     COURSE     COURSE     PERSONNEL  TAR/    DESIG/  PNEC  SNEC
+UIC               DATE      OFF  ENL   OFF  ENL   OFF  ENL   OFF  ENL   OFF  ENL   SELRES  RATING  PMOS  SMOS
+MTU-4032/NAMTG    On-board    0    0     0    6     0    0     0    0     0    0   ACDU    AO      6801  9502
+NAS Norfolk/      On-board    0    0     0    2     0    0     0    0     0    0   SELRES  AO      6801  9502
+66046
+MTU-4030/NAMTG    On-board    0    0     0    1     0    0     0    0     0    0   ACDU    AO      6801  9502
+NAS Mayport/
+66069
+MTU-4033/NAMTG    On-board    0    0     0    4     0    0     0    0     0    0   ACDU    AO      6801  9502
+NAS North Island/
+66065
+MTU-4030/NAMTG    On-board    0    0     0    4     0    0     0    0     0    0   ACDU    AO      6802  9502
+NAS Mayport/66069
+MTU-4033/NAMTG    On-board    0    0     0    4     0    0     0    0     0    0   ACDU    AO      6802  9502
+NAS North Island/
+66065
+VMAT-203/MCAS     On-board    0    0     0   11     0    0     0    0     0    0   USMC            6521
+Cherry Point/
+45483
+HMT-303/MCAS
+  On-board    0    0     0    2     0    0     0    0     0    0   USMC
+   6541
+Camp Pendleton/
+55176
+VMAT-203/MCAS
+  On-board    0    0     0   10      0   0     0    0     0    0   USMC            6541
+Cherry Point/
+45483
+MATSG/NAS         On-board    0    0     0    5      0   0     0    0     0    0   USMC            6541
+Pensacola/
+67389
+
+
+[PAGE 67]
+II-42
+II.B.6.  Total Annual Training Input Requirements to Attain and Sustain Fleet, Fleet Support, Industrial, Foreign,
+         Non-Military, Reserve, Instructor, and Support Requirements
+                                          ACDU/
+COURSE/             SOURCE                TAR/    PNEC  SNEC     FY96        FY97        FY98        FY99        FY00
+TYPE OF TRAINING    OF REQUIREMENT        SELRES  PMOS  SMOS   OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL
+OPERATION/AIRCREW....NA 
+OPERATION & MAINT....NA
+TEAM.................NA
+MAINTENANCE
+646-7007/           Fleet Support         ACDU    6801           0   94      0   95      0   94      0   94      0   95
+Weapons Department  Instructor            ACDU    6801  9502     0    4      0    3      0    4      0    4      0    3
+General Aviation    Instructor            SELRES  6801  9502     0    1      0    1      0    0      0    1      0    1
+Ordnance                                                                                    
+646-7001/           Fleet                 ACDU    6802           0    2      0    3      0    2      0    2      0    3
+Strike Armament     Fleet                 SELRES  6802           0    1      0    1      0    1      0    1      0    1
+Intermediate        Fleet Support         ACDU    6802           0  137      0  138      0  141      0  137      0  138
+Maintenance Repair  Fleet Support         TAR     6802           0    5      0    6      0    5      0    5      0    6
+                    Fleet Support         SELRES  6802           0    1      0    1      0    1      0    1      0    1
+                    Instructor            ACDU    6802  9502     0    3      0    3      0    2      0    3      0    3
+646-7023/Aviation   Fleet                 USMC    6521           0   91      0   91      0   91      0   91      0   91
+Ordnance            Fleet                 AR      6521           0   10      0   11      0   11      0   10      0   11
+Intermediate        Fleet Support         USMC    6521           0   79      0   79      0   79      0   79      0   79
+Maintenance         Fleet Support         AR      6521           0   17      0   16      0   17      0   17      0   16
+Technician          Instructor            USMC    6521           0    4      0    3      0    4      0    4      0    3
+                                          USN ACDU TOTALS:       0  240      0  242      0  243      0  240      0  242
+                                               TAR TOTALS:       0    5      0    6      0    5      0    5      0    6
+                                            SELRES TOTALS:       0    3      0    3      0    2      0    3      0    3
+                                              USMC TOTALS:       0  174      0  173      0  174      0  174      0  173
+                                                AR TOTALS:       0   27      0   27      0   28      0   27      0   27
+
+
+[PAGE 68]
+III-1
+PART III - TRAINING REQUIREMENTS
+III.A.  TRAINING COURSE AND TRAINING INPUT REQUIREMENTS
+III.A.1.  Initial Training
+* Initial training has been completed.
+
+
+[PAGE 69]
+III-2
+III.A.2. Follow-on Training (Operation, Maintenance, Operation and Maintenance, Team, and Prerequisite) NAVY
+                                    DATE BEGIN/
+TRAINING                             COURSE LENGTH/       
+ACTIVITY/         COURSE/            MAX CLASS SIZE/    FY96        FY97        FY98        FY99        FY00
+LOCATION/UIC      TYPE OF TRAINING   ACDU/TAR/SELRES  OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL
+MTU-4032/         D-646-7007/          On Line/         0   49      0   48      0   49      0   49      0   48 (Total)
+NAMTG NAS         Weapons Department   40 days/         0   49      0   48      0   49      0   49      0   48 (N Input)
+Norfolk/          General Aviation     10/              0   44      0   43      0   44      0   44      0   43 (N Output)
+66046             Ordnance             ACDU           0.0  5.1    0.0  5.0    0.0  5.1    0.0  5.1    0.0  5.0 (N AOB)      
+                                                     0.0  5.1    0.0  5.0    0.0  5.1    0.0  5.1    0.0  5.0 (N Chargeable)
+MTU-4030          D-646-7007/          On Line/         0    8      0    9      0    8      0    8      0    9 (Total Input)
+NAMTG NAS         Weapons Department   40 days/         0    8      0    9      0    8      0    8      0    9 (N Input)
+Mayport/          General Aviation     10/              0    7      0    8      0    7      0    7      0    8 (N Output)
+66069             Ordnance             ACDU           0.0  0.8    0.0  0.9    0.0  0.8    0 0  0.8    0.0  0.9 (N AOB)
+                                                     0.0  0.8    0.0  0.9    0.0  0.8    0.0  0.8    0.0  0.9 (N Chargeable)
+MTU-4033/         E-646-7007/           On Line/        0   41      0   41      0   41      0   41      0   41 (Total Input)
+NAMTG NAS         Weapons Department    40 days/        0   41      0   41      0   41      0   41      0   41 (N Input)
+North Island/     General Aviation      10/             0   37      0   37      0   37      0   37      0   37 (N Output)
+66065             Ordnance              ACDU          0.0  4.3    0.0  4.3    0.0  4.3    0.0  4.3    0.0  4.3 (N AOB)
+                                                     0.0  4.3    0.0  4.3    0.0  4.3    0.0  4.3    0.0  4.3 (N Chargeable)
+MTU-4030          D-646-7001/           On Line/        0   72      0   73      0   70      0   72      0   73 (Total Input)
+NAMTG NAS         Strike Armament       65 days/        0   69      0   69      0   67      0   69      0   69 (N Input)
+Mayport/          Intermediate          8/              0   62      0   62      0   60      0   62      0   62 (N Output)
+66069             Maintenance           ACDU          0.0 11.7    0.0 11.7    0.0 11.3    0.0 11.7    0.0 11.7 (N AOB)
+                 Repair                              0.0 11.7    0.0 11.7    0.0 11.3    0.0 11.7    0.0 11.7 (N Chargeable)
+     On Line/                                                               (Total Input)
+                                       65 days/        0    3      0    4      0    3      0    3      0    4 (N Input)
+                                       8/              0    3      0    4      0    3      0    3      0    4 (N Output)
+                                       TAR           0.0  0.5    0.0  0.7    0.0  0.5    0.0  0.5    0.0  0.7 (N AOB)
+                                                     0.0  0.5    0.0  0.7    0.0  0.5    0.0  0.5    0.0  0.7 (N Chargeable)
+
+
+[PAGE 70]
+III-3
+III.A.2.  Follow-on Training (Operation, Maintenance, Operation and Maintenance, Team, and Prerequisite) NAVY
+                                    DATE BEGIN/
+TRAINING                             COURSE LENGTH/       
+ACTIVITY/         COURSE/            MAX CLASS SIZE/    FY96        FY97        FY98        FY99        FY00
+LOCATION/UIC      TYPE OF TRAINING   ACDU/TAR/SELRES  OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL
+MTU-4033/         E-646-7001/           On line/        0   77      0   79      0   82      0   77      0   79 (Total Input)
+NAMTG NAS/        Strike Armament       65 days/        0   73      0   75      0   78      0   73      0   75 (N Input)
+North Island/     Systems               8/              0   66      0   67      0   70      0   66      0   67 (N Output)
+66065             Intermediate          ACDU          0.0 12.4    0.0 12.6    0.0 13.2    0.0 12.4    0.0 12.6 (N AOB)
+                 Maintenance                         0.0 12.4    0.0 12.6    0.0 13.2    0.0 12.4    0.0 12.6 (N Chargeable)
+                                       On line/                                                               (Total Input)
+                                       65 days/        0    2      0    2      0    2      0    2      0    2 (N Input)
+                                       8/              0    2      0    2      0    2      0    2      0    2 (N Output)
+                                       TAR           0.0  0.4    0.0  0.4    0.0  0.4    0.0  0.4    0.0  0.4 (N AOB)
+                                                     0.0  0.4    0.0  0.4    0.0  0.4    0.0  0.4    0.0  0.4 (N Chargeable)
+                                       On line/                                                                (Total Input)
+                                       65 days/        0    2      0    2      0    2      0    2      0    2 (N Input)  
+                                       8/              0    2      0    2      0    2      0    2      0    2 (N Output)
+                                       SELRES        0.0  0.4    0.0  0.4    0.0  0.4    0.0  0.4    0.0  0.4 (N AOB) 
+                                                     0.0  0.0    0.0  0.0    0.0  0.0    0.0  0.0    0.0  0.0 (N Chargeable)
+                           TOTAL NAVY AOB:           0.0 35.6    0.0 36.0    0.0 36.0    0.0 35.6    0.0 36.0     
+                           TOTAL NAVY CHARGEABLE:    0.0 35.2    0.0 35.6    0.0 35.6    0.0 35.2    0.0 35.6
+
+
+[PAGE 71]
+III-4
+III.A.2.  Follow-on Training (Operation, Maintenance, Operation and Maintenance, Team, and Prerequisite) USMC
+                                    DATE BEGIN/
+TRAINING                             COURSE LENGTH/       
+ACTIVITY/         COURSE/            MAX CLASS SIZE/    FY96        FY97        FY98        FY99        FY00
+LOCATION/UIC      TYPE OF TRAINING   ACDU/TAR/SELRES  OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL    OFF  ENL
+VMAT-203/         M-646-7023/          On line/         0  201      0  200      0  202      0  201      0  200 (Total Input)
+MCAS Cherry       Aviation             47 days/         0  174      0  173      0  174      0  174      0  173 (M Input)
+Point/            Ordnance             10/              0  174      0  173      0  174      0  174      0  173 (M Output)
+45483             Intermediate         USMC           0.0 22.4    0.0 22.3    0.0 22.4    0.0 22.4    0.0 22.3 (M AOB)
+                 Maintenance                         0.0 22.4    0.0 22.3    0.0 22.4    0.0 22.4    0.0 22.3 (M Chargeable)
+  Technician
+                                      On line/                                                                (Total Input)
+                                      47 days/         0   27      0   27      0   28      0   27      0   27 (M Input)
+                                      10/              0   27      0   27      0   28      0   27      0   27 (M Output)
+                                      AR             0.0  3.5    0.0  3.5    0.0  3.6    0.0  3.5    0.0  3.5 (M AOB)
+                                                     0.0  3.5    0.0  3.5    0.0  3.6    0.0  3.5    0.0  3.5 (M Chargeable)
+
+
+[PAGE 72]
+IV-1
+PART IV - TRAINING LOGISTIC SUPPORT REQUIREMENTS
+Note:  The following elements are not affected at this time by the Sidewinder Missile System and, therefore, are not included
+in this NTP.
+IV.A.
+TRAINING HARDWARE REQUIREMENTS
+IV.A.1
+Technical Training Equipment
+IV.A.2.
+Test Equipment - General Purpose/Special Purpose/Special Tools
+IV.A.3.
+Electronic Test Equipment - General Purpose/Special Purpose
+IV.A.4.
+Repair Parts for Technical Training Equipment
+IV.B.
+INITIAL TRAINING REQUIREMENTS
+IV.B.1.
+Training Services
+IV.C.
+FACILITY SUPPORT REQUIREMENTS
+IV.C.1.
+Facility Requirements Summary (Space/Support) by Activity
+IV.C.2.
+Facility Requirements Detailed by Activity by Course
+IV.C.3.
+Facility Project Summary by Program
+
+
+[PAGE 73]
+IV-2
+IV.A.  TRAINING HARDWARE REQUIREMENTS
+IV.A.5.(a)  Training Device - Captive Air Training Missile (CATM)
+Description of Device: CATMs will be used for hands-on training and practice for actual weapon capabilities.
+Manufacturer ......... N/A
+Contract Number....... N/A
+TDRD Status........... N/A
+TEE Status............ N/A
+COURSE/TYPE
+QTY.
+DATE
+OF TRAINING
+SQUADRON
+DEVICE
+REQ'D
+REQ'D
+None/Proficiency
+VFA-22
+A-50-8105B-001
+10
+On-hand
+VFA-25
+A-50-8105B-001
+10
+On-hand
+VFA-27
+A-50-8105B-001
+10
+On-hand
+VFA-94
+A-50-8105B-001
+10
+On-hand
+VFA-97
+A-50-8105B-001
+10
+On-hand
+VFA-113
+A-50-8105B-001
+10
+On-hand
+VFA-116
+A-50-8105B-001
+10
+On-hand
+VFA-125 (FRS)
+A-50-8105B-001
+20
+On-hand
+VFA-147
+A-50-8105B-001
+10
+On-hand
+VFA-151
+A-50-8105B-001
+10
+On-hand
+SFWS/P
+A-50-8105B-001
+10
+On-hand
+VFA-137
+A-50-8105B-001
+10
+On-hand
+VFA-192
+A-50-8105B-001
+10
+On-hand
+VFA-195
+A-50-8105B-001
+10
+On-hand
+VFA-15
+A-50-8105B-001
+10
+On-hand
+VFA-37
+A-50-8105B-001
+10
+On-hand
+VFA-81
+A-50-8105B-001
+10
+On-hand
+VFA-82
+A-50-8105B-001
+10
+On-hand
+VFA-83
+A-50-8105B-001
+10
+On-hand
+VFA-86
+A-50-8105B-001
+10
+On-hand
+VFA-87
+A-50-8105B-001
+10
+On-hand
+VFA-105
+A-50-8105B-001
+10
+On-hand
+VFA-106 (FRS)
+A-50-8105B-001
+20
+On-hand
+VFA-131
+A-50-8105B-001
+10
+On-hand
+VFA-136
+A-50-8105B-001
+10
+On-hand
+SFWS/L
+A-50-8105B-001
+10
+On-hand
+VFA-203 (R)
+A-50-8105B-001
+10
+On-hand
+VFA-204 (R)
+A-50-8105B-001
+10
+On-hand
+STRIKE U
+A-50-8105B-001
+10
+On-hand
+VMFA-115
+A-50-8105B-001
+10
+On-hand
+VMFA-122
+A-50-8105B-001
+10
+On-hand
+
+
+[PAGE 74]
+IV-3
+IV.A.5.(a)  Training Device - CATM (Continued)
+COURSE/TYPE
+QTY.
+DATE
+OF TRAINING
+SQUADRON
+DEVICE
+REQ'D
+REQ'D
+VMFA-251
+A-50-8105B-001
+10
+On-hand
+VMFA-451
+A-50-8105B-001
+10
+On-hand
+VMFA-142 (R)
+A-50-8105B-001
+10
+On-hand
+VMFA-321 (R)
+A-50-8105B-001
+10
+On-hand
+VMFAT-101
+A-50-8105B-001
+20
+On-hand
+VMFA-212
+A-50-8105B-001
+10
+On-hand
+VMFA-232
+A-50-8105B-001
+10
+On-hand
+VMFA-314
+A-50-8105B-001
+10
+On-hand
+VMFA-323
+A-50-8105B-001
+10
+On-hand
+VMFA-134 (R)
+A-50-8105B-001
+10
+On-hand
+VMFA-112 (R)
+A-50-8105B-001
+10
+On-hand
+VMFAAW-224
+A-50-8105B-001
+10
+On-hand
+VMFAAW-332
+A-50-8105B-001
+10
+On-hand
+VMFAAW-533
+A-50-8105B-001
+10
+On-hand
+VMFAAW-121
+A-50-8105B-001
+10
+On-hand
+VMFAAW-225
+A-50-8105B-001
+10
+On-hand
+VMFAAW-242
+A-50-8105B-001
+10
+On-hand
+VF-2
+A-50-8105B-001
+10
+On-hand
+VF-14
+A-50-8105B-001
+10
+On-hand
+VF-32
+A-50-8105B-001
+10
+On-hand
+VF-41
+A-50-8105B-001
+10
+On-hand
+VF-101 (R)
+A-50-8105B-001
+20
+On-hand
+VF-102
+A-50-8105B-001
+10
+On-hand
+VF-103
+A-50-8105B-001
+10
+On-hand
+VF-143
+A-50-8105B-001
+10
+On-hand
+VF-11
+A-50-8105B-001
+10
+On-hand
+VF-24
+A-50-8105B-001
+10
+On-hand
+VF-31
+A-50-8105B-001
+10
+On-hand
+VF-101 Det. (FRS)
+A-50-8105B-001
+20
+On-hand
+VF-154
+A-50-8105B-001
+10
+On-hand
+VF-211
+A-50-8105B-001
+10
+On-hand
+VF-213
+A-50-8105B-001
+10
+On-hand
+VF-201 (R)
+A-50-8105B-001
+10
+On-hand
+VMA-211
+A-50-8105B-001
+10
+On-hand
+VMA-214
+A-50-8105B-001
+10
+On-hand
+VMA-311
+A-50-8105B-001
+10
+On-hand
+VMA-513
+A-50-8105B-001
+10
+On-hand
+MAWTS-1
+A-50-8105B-001
+20
+On-hand
+VMAT-203
+A-50-8105B-001
+10
+On-hand
+
+
+[PAGE 75]
+IV-4
+IV.A.5.(a)  Training Device - CATM (Continued)
+COURSE/TYPE
+QTY.
+DATE
+OF TRAINING
+SQUADRON
+DEVICE
+REQ'D
+REQ'D
+VMA-223
+A-50-8105B-001
+10
+On-hand
+VMA-231
+A-50-8105B-001
+10
+On-hand
+VMA-542
+A-50-8105B-001
+10
+On-hand
+HMLA-169
+A-50-8105B-001
+ 4
+On-hand
+HMLA-267
+A-50-8105B-001
+ 4
+On-hand
+HMLA-367
+A-50-8105B-001
+ 4
+On-hand
+HMLA-369
+A-50-8105B-001
+ 4
+On-hand
+HMLA-775 (R)
+A-50-8105B-001
+ 4
+On-hand
+HMLA-167
+A-50-8105B-001
+ 4
+On-hand
+HMLA-269
+A-50-8105B-001
+ 4
+On-hand
+STRIKE Armament
+A-50-8105B-001
+ 10
+On-hand
+VX-1
+A-50-8105B-001
+ 10
+On-hand
+VX-9
+A-50-8105B-001
+ 10
+On-hand
+TOTAL QTY. REQ'D.:
+848
+NOTE:  The CATM-9M requirements (A-50-8105B-001) listed represent a mix of CATM-9M configurations (see Table I-2). 
+WGU-4E/B GCS are being procured through the AIM-9M-8 Retrofit Program.  Approximately 510 CATM-9Ms have been retro-
+fitted to the CATM-9M-12 configuration using the WGU-4E/B GCS.  The 848 CATM-9Ms represent an 86% readiness objective
+of 982 total CATM-9Ms needed to support the maintenance pipeline.
+
+
+[PAGE 76]
+IV-5
+IV.A.5.(b)  Training Device - Dummy Air Training Missile (DATM)
+Description of Device: DATMs will be used for hands-on training and practice for actual weapon capabilities.
+Manufacturer ......... N/A
+Contract Number....... N/A
+TDRD Status........... N/A
+TEE Status............ N/A
+COURSE/TYPE
+LOCATION/
+QTY.
+DATE
+OF TRAINING
+SCHOOL/UIC
+DEVICE
+REQ'D
+REQ'D
+C-646-2010/
+NATTC/
+A-50-8105B-002
+2
+On-hand
+AO Class A1
+NAS Memphis/
+30459
+C-646-3893/
+VMAT-203/
+A-50-8105B-002
+2
+On-hand
+AV-8B Conventional
+MCAS Cherry
+Weapons Loading
+Point/57080
+and
+None/
+F/A-18 Conventional
+Weapons Loading
+and
+C-646-4107/
+Aviation Ordnance
+Munitions Tech.
+D-646-0640/
+SFWSL/
+A-50-8105B-002
+2
+On-hand
+F/A-18 Conventional
+NAS Cecil
+Weapons Loading
+Field/47084
+E-646-0640/
+SFWSP/
+A-50-8105B-002
+2
+On-hand
+F/A-18 Conventional
+NAS Lemoore/
+Weapons Loading
+35185
+D-646-1642/
+VF-101/
+A-50-8105B-002
+2
+On-hand
+F-14 Conventional
+NAS Oceana/
+Weapons Loading
+09067
+
+
+[PAGE 77]
+IV-6
+IV.A.5.(b)  Training Device - DATM (Continued)
+COURSE/TYPE
+LOCATION/
+QTY.
+DATE
+OF TRAINING
+SCHOOL/UIC
+DEVICE
+REQ'D
+REQ'D
+C-646-2402
+HMT-303 FREST/
+A-50-8105B-002
+1
+On hand
+Helicopter Conv.
+MCAS Camp Pendleton/
+Weapons Loading
+66063
+and
+C-646-9361
+Rotary Wing Armament
+Repair Organizational
+Maintenance
+C-122-3111
+MTU-4030/
+A-50-8105B-002
+2
+On-hand
+Air Launched
+NAMTG Mayport/66069
+Missile IMA
+and
+C-646-4108
+Weapons Department
+General Aviation
+Ordnance Supervisor
+and
+C-646-4109
+Weapons Department
+General Aviation
+Ordnance
+C-122-3111
+MTU-4032/     
+A-50-8105B-002
+2
+On-hand
+Air Launched
+NAMTG Norfolk/66046
+Missile IMA
+and
+C-646-4108
+Weapons Department
+General Aviation
+Ordnance Supervisor
+and
+C-646-4109
+Weapons Department
+General Aviation
+Ordnance
+
+
+[PAGE 78]
+IV-7
+IV.A.5.(b)  Training Device - DATM (Continued)
+COURSE/TYPE
+LOCATION/
+QTY.
+DATE
+OF TRAINING
+SCHOOL/UIC
+DEVICE
+REQ'D
+REQ'D
+C-122-3111
+MTU-4033/
+A-50-8105B-002
+2
+On-hand
+Air Launched
+NAMTG North Island/
+Missile IMA
+66046
+and
+C-646-4108
+Weapons Department
+General Aviation
+Ordnance Supervisor
+and
+C-646-4109
+Weapons Department
+General Aviation
+Ordnance
+C-646-9962
+MTU-1007/
+A-50-1805B-002
+2
+On-hand
+F-14A/B Armament
+NAMTG Oceana/
+Systems OMA
+66045
+(Initial)
+and
+C-646-9963
+F-14A/B Armament
+Systems OMA
+(Career)
+F/A-18 Conventional
+NAS Willow Grove
+A-50-8105B-002
+1
+On-hand
+Weapons Loading
+PA/00158
+F/A-18 Conventional
+NAF Washington
+A-50-8105B-002
+1
+On-hand
+Weapons Loading
+DC/00166
+F/A-18 Conventional
+NAS New Orleans
+A-50-8105B-002
+1
+On-hand
+Weapons Loading
+LA/00206
+F/A-18 Conventional
+NAS Dallas
+A-50-8105B-002
+1
+On-hand
+Weapons Loading
+TX/00215
+NOTE:  Existing AIM-9L Dummy Air Training Missiles (DATM-9M-1&2) will be used to support the training of USN and USMC
+ground maintenance technicians for assembly, disassembly, loading, transportation, stowage procedures and techniques
+for the Sidewinder missiles.
+
+
+[PAGE 79]
+IV-8
+IV.A.5.(c)  Training Device - Practical Explosive Ordnance Disposal System Trainer (PEST)
+Description of Device:  The PEST will have easily replaceable parts that will be built into the missile
+where EOD procedures indicate destructive type work will be needed for EOD training.  Electrical parts
+not required for EOD procedures will be identical in external configuration, weight, and center of gravity, 
+but are not functional.
+Manufacturer ..... N/A
+Contract Number .. N/A
+TDRD Status ...... N/A
+TEE Status ....... N/A
+COURSE/TYPE
+LOCATION/
+QTY.
+DATE
+OF TRAINING
+SCHOOL/UIC
+DEVICE
+REQ'D
+REQ'D
+A-431-0011/
+NAVSCOLEOD
+A-50-8105B-003
+ 3
+On-hand
+EOD Phase II
+NSWC Indian
+Navy
+Head/30446
+G-431-0001/
+EODTEU ONE/
+A-50-8105B-003
+ 1
+On-hand
+EOD Pre-depl-     NAS Barbers
+oyment Training
+Point/30202
+G-431-0001/
+EODTEU TWO/
+A-50-8105B-003
+ 1
+On-hand
+EOD Pre-deplo-
+Fort Story/
+yment Training
+43505
+
+
+[PAGE 80]
+IV-9
+IV.A.5.(d)  Training Device - Classroom EOD Systems Trainer (CEST)
+Description of Device: CEST will be used for hands-on training and practice for actual weapons capabilities.
+Manufacturer.......... N/A
+Contract Number....... N/A
+TDRD Status........... N/A
+TEE Status............ N/A
+COURSE/TYPE
+LOCATION/
+QTY.
+DATE
+OF TRAINING
+SCHOOL/UIC
+DEVICE
+REQ'D
+REQ'D
+A-431-0011/
+NAVSCOLEOD/
+A-50-8105B-004
+1
+On-hand
+Explosive Ord-
+NSWC-IH/
+nance Disposal 
+42354
+   Phase II
+A-431-0012/
+NAVSCOLEOD/ 
+A-50-8105B-004
+1
+On-hand
+Explosive Ord-
+NSWC-IH/
+nance Disposal
+42354
+Phase II
+G-431-0001/
+NAS Barbers
+A-50-8105B-004
+1
+On-hand
+Navy Explosive
+Point/EODTEU ONE/
+Ordnance Team
+32059
+Readiness Impro-
+vement Training
+G-431-0001/
+Fort Story/
+A-50-8105B-004
+1
+On-hand
+Navy Explosive
+EODTEU TWO/
+Ordnance Team
+20015
+Readiness Impro-
+vement Training
+
+
+[PAGE 81]
+IV-10
+IV.B.
+INITIAL TRAINING REQUIREMENTS
+IV.B.2.
+Curricula Materials
+COURSE/TYPE
+SCHOOL/
+TYPE OF
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+MATERIAL
+REQ'D    
+REQ'D
+None/
+VMAT-203/
+Instructor Guides,
+1 Set
+Nov. 94  Onboard
+AV-8 Pilot Basic
+MCAS Cherry
+Lesson Plans,
+   and
+Point/45483
+Trainee Guide,
+None/
+On-the-Job Training
+AV-8 Pilot Transition
+Handbook
+   and
+None/
+AV-8 Pilot Conversion
+   and
+None/
+AV-8 Pilot Refresher
+D-2A-1601/
+VF-101/NAS
+Instructor Guides,
+1 Set
+Nov. 94  Onboard
+F-14 Pilot Cat. 1
+Oceana/
+Lesson Plans,
+   and
+09067
+Trainee Guides
+D-2A-1602/
+On-the-Job Training
+F-14 Pilot Cat. 2
+Handbook
+   and
+D-2A-1603/
+F-14 Pilot Cat. 3
+   and
+D-2A-1605/
+F-14 Pilot IUT
+Category 5
+   and
+D-2D-1601/
+F-14 NFO Cat. 1
+   and
+D-2D-1602/
+F-14 NFO Cat. 2
+   and
+D-2D-1603/
+F-14 NFO Cat. 3
+   and
+D-2D-1605/
+F-14 NFO IUT
+Category 5
+   and
+
+
+[PAGE 82]
+IV-11
+IV.B.2.  Curricula Materials (Continued)
+COURSE/TYPE
+SCHOOL/
+TYPE OF
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+MATERIAL
+REQ'D
+REQ'D          
+D-646-1642/
+F-14 Conventional
+Weapons Loading
+D-2A-0601/
+VFA-106/
+Instructor Guides,
+1 Set
+Nov. 94  Onboard
+F/A-18 Cat. 1
+NAS Cecil
+Lesson Plans,
+Fleet Replacement
+Field/
+Trainee Guide,
+Pilot
+09679
+On-the-Job Training
+   and
+Handbook
+D-2A-0602/
+F/A-18 Cat. 2A
+(Attack) Fleet
+Replacement Pilot
+   and
+D-2A-0604/
+F/A-18 Cat. 3A
+Fleet
+Replacement Pilot
+E-2A-0601/
+VFA-125/
+Instructor Guides,
+1 Set
+Nov. 94  Onboard
+F/A-18 Cat. 1
+NAS
+Lesson Plans,
+Fleet Replacement
+Lemoore/
+Trainee Guide
+Pilot
+65559
+On-the-Job Training
+   and
+Handbook
+E-2A-0602/
+F/A-18 Cat. 2A
+(Attack) Fleet
+Replacement Pilot
+   and
+E-2A-0604/
+F/A-18 Cat. 3A
+Fleet
+Replacement Pilot
+None/
+VMFAT-101/
+Instructor Guides,
+1 Set
+Nov. 94  Onboard
+F/A-18 Cat. 1
+MCAS El Toro/
+Lesson Plans
+Fleet Replacement
+45526
+Trainee Guide,
+Pilot
+On-the-Job Training
+   and
+Handbook
+
+
+[PAGE 83]
+IV-12
+IV.B.2.  Curricula Materials (Continued)
+COURSE/TYPE
+SCHOOL/
+TYPE OF
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+MATERIAL
+REQ'D
+REQ'D          
+None/
+F/A-18 Cat. 2A
+(Attack) Fleet
+Replacement Pilot
+   and
+None/
+F/A-18 Cat. 2F
+(Fighter) Fleet
+Replacement Pilot
+   and
+None/
+F/A-18 Cat. 3
+Fleet
+Replacement Pilot
+   and
+None/
+F/A-18D Fleet
+Replacement
+Pilot Cat. 1
+   and
+None/
+F/A-18D Fleet
+Replacement
+Pilot Cat. 2
+   and
+None/
+F/A-18D Fleet
+Replacement
+Pilot Cat. 3
+   and
+None/
+F/A-18D
+WSO Cat. 1
+   and
+None/
+F/A-18D
+WSO Cat. 2
+   and
+
+
+[PAGE 84]
+IV-13
+IV.B.2.  Curricula Materials (Continued)
+COURSE/TYPE
+SCHOOL/
+TYPE OF
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+MATERIAL
+REQ'D
+REQ'D          
+None/
+F/A-18D
+WSO Cat. 3
+None/
+HMT-303/MCAF
+Instructor Guides,
+1 Set
+Nov. 94  Onboard
+AH-1 Pilot Basic
+Camp Pendleton/
+Lesson Plans,
+   and
+55176
+Trainee Guide
+None/
+On-the-Job Training
+AH-1 Pilot Transition
+Handbook
+   and
+None/
+AH-1 Pilot Conversion
+   and
+None/
+AH-1 Pilot Refresher
+
+
+[PAGE 85]
+IV-14
+IV.B.3.  Training Aids
+IV.B.3.(a)  Operator (Air Crew) Training Aids
+COURSE/TYPE
+QTY.
+DATE
+OF TRAINING
+SQUADRON
+ITEM/TITLE
+REQ'D
+REQ'D
+TBD/SFWT
+VFA-22
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-25
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-27
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-94
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-97
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-113
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-116
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VFA-125 (FRS)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-147
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-151
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+SFWS/P
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-137
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-192
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-195
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-15
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-37
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-81
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-82
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-83
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+
+
+[PAGE 86]
+IV-15
+IV.B.3.(a)  Operator (Air Crew) Training Aids (Continued)
+COURSE/TYPE
+QTY.
+DATE
+OF TRAINING
+SQUADRON
+ITEM/TITLE
+REQ'D
+REQ'D
+TBD/SFWT
+VFA-86
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-87
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-105
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VFA-106 (FRS)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-131
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-136
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+SFWS/L
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-203 (R)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VFA-204 (R)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+STRIKE U
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-115
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-122
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-251
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-451
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-142 (R)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-321 (R)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFAT-101
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-212
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-232
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-314
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+
+
+[PAGE 87]
+IV-16
+IV.B.3.(a)  Operator (Air Crew) Training Aids (Continued)
+COURSE/TYPE
+QTY.
+DATE
+OF TRAINING
+SQUADRON
+ITEM/TITLE
+REQ'D
+REQ'D
+None/Proficiency
+VMFA-323
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-134 (R)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFA-112 (R)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFAAW-224
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFAAW-332
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFAAW-533
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFAAW-121
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFAAW-225
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMFAAW-242
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-2
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-14
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-32
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-41
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-101 (R)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-102
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-103
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-143
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-11
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-24
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-31
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+
+
+[PAGE 88]
+IV-17
+IV.B.3.(a)  Operator (Air Crew) Training Aids (Continued)
+COURSE/TYPE
+QTY.
+DATE
+OF TRAINING
+SQUADRON
+ITEM/TITLE
+REQ'D
+REQ'D
+None/Proficiency
+VF-101 Det. (FRS)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-154
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-211
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-213
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+TBD/SFWT
+VF-201 (R)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMA-211
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMA-214
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMA-311
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMA-513
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+MAWTS-1
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMAT-203
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMA-223
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMA-231
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+VMA-542
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+HMLA-169
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+HMLA-267
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+HMLA-367
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+HMLA-369
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+HMLA-775 (R)
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+
+
+[PAGE 89]
+IV-18
+IV.B.3.(a)  Operator (Air Crew) Training Aids (Continued)
+COURSE/TYPE
+QTY.
+DATE
+OF TRAINING
+SQUADRON
+ITEM/TITLE
+REQ'D
+REQ'D
+None/Proficiency
+HMLA-167
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+None/Proficiency
+HMLA-269
+AIM-9M-8 ICW
+1
+Mar. 97*
+AIM-9M-8/9 Video
+1
+on-hand
+* NOTE:  AIM-9M-8 Aircrew ICW will be provided on a single CD-ROM and distributed by NSAWC.
+
+
+[PAGE 90]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-19
+IV.B.4.  Technical Manuals
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+None/
+VMAT-203/
+A1-AV8BB-NFM-000, AV-8B NATOPS
+Hard copy
+8 each
+Nov. 1994
+AV-8 Pilot Basic
+MCAS Cherry
+A1-AV8BB-LWS-000, AV-8B Airborne Weapons
+and
+Point/45483
+Stores/Loading Manual                                               
+None/
+A1-AV8BB-TAC-010, Tactical Manual,
+AV-8 Pilot
+AV-8B Aircraft
+Transition
+A1-AV8BB-LWS-530, AV-8B Aircraft, AIM-9
+and
+Loading Manual AV-8B Aircraft
+None/
+AV-8 Pilot Conversion
+and
+None/
+AV-8 Pilot Refresher
+D-2A-1601/
+VF-101/NAS
+NA 01-F14AAA-1,F-14 NATOPS
+Hard copy
+6 each
+Nov. 1994
+F-14 Pilot Cat. 1
+Oceana/09067
+NA 01-F14AAA-1.1T, F-14 Tactical Manual
+and
+NA 01-F14AAA-75, F-14 Airborne
+D-2A-1602/
+Weapons Stores/Loading Manual
+F-14 Pilot Cat. 2
+NA 01-F14AAA-75-20, F-14 Aircraft, AIM-9
+and
+Missile, Conventional Weapons Checklist
+D-2A-1603/
+F-14 Pilot Cat. 3
+and
+D-2A-1605/
+F-14 Pilot IUT
+Category 5
+and
+D-2D-1601/
+F-14 NFO Cat. 1
+and
+D-2D-1602/
+F-14 NFO Cat. 2
+and
+D-2D-1603/
+F-14 NFO Cat. 3
+and
+
+
+[PAGE 91]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-20
+IV.B.4.  Technical Manuals (Continued)
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+D-2D-1605/
+F-14 NFO IUT
+Category 5
+and
+D-646-1642/
+F-14 Conventional
+Weapons Loading
+D-2A-0601/
+VFA-106/
+A1-F18AC-NFM-000, F/A-18 NATOPS
+Hard copy
+6 each
+Nov. 1994
+F/A-18 Cat. 1
+NAS Cecil
+A1-F18AC-TAC-000, Tactical Manual
+Fleet Replacement
+Field/09679
+A1-F18AE-LWS-000, Airborne Weapons
+Pilot
+Stores/Loading Manual
+and
+A1-F18AC-LWS-530, F-18 Aircraft, AIM-9
+D-2A-0602/
+Missile, Conventional Weapons Checklist
+F/A-18 Cat. 2A
+(Attack) Fleet
+Replacement Pilot
+and
+D-2A-0604/
+F/A-18 Cat. 3A
+Fleet
+Replacement Pilot
+E-2A-0601/
+VFA-125/
+A1-F18AC-NFM-000, F/A-18 NATOPS
+Hard copy
+6 each
+Nov. 1994
+F/A-18 Cat. 1
+NAS Lemoore/
+A1-F18AC-TAC-000, Tactical Manual
+Fleet Replacement
+65559
+A1-F18AE-LWS-000, Airborne Weapons
+Pilot
+Stores/Loading Manual
+and
+A1-F18AC-LWS-530, F-18 Aircraft, AIM-9
+E-2A-0602/
+Missile, Conventional Weapons Checklist
+F/A-18 Cat. 2A
+(Attack) Fleet
+Replacement Pilot
+and
+E-2A-0604/
+F/A-18 Cat. 3A
+Fleet
+Replacement Pilot
+
+
+[PAGE 92]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-21
+IV.B.4.  Technical Manuals (Continued)
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+None/
+VMFAT-101/
+A1-F18AC-NFM-000, F/A-18 NATOPS
+Hard copy
+6 each
+Nov. 1994
+F/A-18 Cat. 1
+MCAS El Toro/
+A1-F18AC-TAC-000, Tactical Manual
+Fleet Replacement
+45526
+A1-F18AE-LWS-000, Airborne Weapons
+Pilot
+Stores/Loading Manual
+and
+A1-F18AC-LWS-530, F-18 Aircraft, AIM-9
+None/
+Missile, Conventional Weapons Checklist
+F/A-18 Cat. 2A
+(Attack) Fleet
+Replacement Pilot
+and
+None/
+F/A-18 Cat. 2F
+(Fighter) Fleet
+Replacement Pilot
+and
+None/
+F/A-18 Cat. 3
+Fleet
+Replacement Pilot
+and
+None/
+F/A-18D Fleet
+Replacement
+Pilot Cat. 1
+and
+None/
+F/A-18D Fleet
+Replacement
+Pilot Cat. 2
+and
+None/
+F/A-18D Fleet
+Replacement
+Pilot Cat. 3
+and
+None/
+F/A-18D
+WSO Cat. 1
+and
+
+
+[PAGE 93]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-22
+IV.B.4.  Technical Manuals (Continued)
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+None/
+F/A-18D
+WSO Cat. 2
+and
+None/
+F/A-18D
+WSO Cat. 3
+None/
+HMT-303/MCAF
+NA 01-H1AAA-1, AH-1 NATOPS
+Hard copy
+8 each
+Nov. 1994
+AH-1 Pilot Basic
+Camp Pendleton/
+NA 01-H1AAA-75, AH-1 Airborne Weapons
+and
+55176
+Stores/Loading Manual
+None/
+NWP-55-3-AH1, AH-1 Tactical Manual
+AH-1 Pilot
+NA 01-H1AAA-75-20, Conventional Weapons
+Transition
+Checklist AH-1 Aircraft
+and
+None/
+AH-1 Pilot Conversion
+and
+None/
+AH-1 Pilot Refresher
+M-646-0147/
+VMAT-203/
+A1-AV8BB-LWS-000, Airborne Weapons/Stores
+Hard copy
+8 each
+Nov. 1994
+AV-8B Conventional
+MCAS Cherry
+Loading Manual AV-8B Aircraft
+Weapons Loading
+Point/57080
+A1-AV8BB-LWS-530, AV-8B Aircraft, AIM-9
+and
+Conventional Weapons Checklist
+None/
+A1-F18AC-LWS-000, Airborne Weapons/Stores
+F/A-18 Conventional
+Loading Manual, F-18 Aircraft
+Weapons Loading
+A1-F18AC-LWS-530, F-18 Aircraft, AIM-9
+ and
+Missile, Conventional Weapons Checklist
+None/
+NA 01-H1AAA-75, AH-1 Airborne Weapons/
+AH-1 Conventional
+Stores Loading Manual
+Weapons Loading
+NA 01H1AAA-75-20, Conventional Weapons
+ and
+Checklist AH-1 Aircraft
+C-646-4107/
+NA 01-AIM9-0, Technical Manual List,
+Aviation Ordnance
+Guided Missiles AIM-9 Series, and
+Munitions Tech
+Training Missiles Maintenance
+NA 01-AIM9-2, Organizational and Inter-
+ mediate Maintenance with Illustrated
+
+
+[PAGE 94]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-23
+IV.B.4.  Technical Manuals (Continued)
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+ Parts Breakdown (Fleet), Guided Missile
+ AIM-9 and Training Missiles
+ NA 11-75AIM9-1, Intermediate and Depot
+ Maintenance with Illustrated Parts Break-
+ down, Sidewinder Missile System, Shipping
+ and Storage Containers, all MKs and Mods
+D-646-0640/
+SFWSL/
+A1-F18AC-LWS-000, Airborne Weapons 
+Hard copy
+8 each
+Nov. 1994
+F/A-18 Conventional
+NAS Cecil
+Stores Loading Manual, F-18 Aircraft
+Weapons Loading
+Field/47084
+A1-F18AC-LWS-530, F-18 Aircraft, AIM-9
+Missile, Conventional Weapons Checklist                            
+E-646-0640/
+SFWSP/
+A1-F18AC-LWS-000, Airborne Weapons 
+Hard copy
+ 8 each Nov. 1994
+F/A-18 Conventional
+NAS Lemoore/
+Stores Loading Manual, F-18 Aircraft
+Weapons Loading
+35185
+A1-F18AC-LWS-530, F-18 Aircraft, AIM-9
+Missile, Conventional Weapons Checklist                              
+C-122-3111/
+NAMTG MTU 4030/
+NA 01-AIM9-0, Technical Manual List, 
+Hard copy
+ 8 each Nov. 1994
+Air Launched
+NAS Mayport/
+Guided Missile AIM-9 Series, and
+Guided Missile "I"
+66069
+Training Missiles Maintenance
+Maintenance
+NA 01-AIM9-2, Organizational and Inter-
+and
+mediate Maintenance with Illustrated
+C-646-4108
+Parts Breakdown (Fleet), Guided Mis-
+Weapons Department
+sile AIM-9 and Training Missiles
+General Aviation
+NA 11-75AIM9-1, Intermediate and Depot
+Ordnance Supervisor
+Maintenance with Illustrated Parts Break-
+and
+down, Sidewinder Missile System, Shipping
+C-646-4109
+and Storage Containers, all MKs and Mods
+Weapons Department
+NA 11-120-23, Ship Weapon Installation
+General Aviation
+Manual, Guided Missiles AIM-9D/G/H/L/M
+Ordnance
+Sidewinder
+                            
+NA 11-120A-1.2, Airborne Weapons Packaging/
+                            
+Handling/Storage Shipboard Vol. 2
+                            
+NA 19-95-1, Airborne Weapons/Stores
+                            
+Checklist Transporting and Loading
+                            
+Equipment Configuration (Shipboard)
+                            
+NA 19-95-3, Airborne Weapons/Stores
+                            
+Checklist Transporting and Loading
+                            
+Equipment Configuration (Shore Based)
+
+
+[PAGE 95]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-24
+IV.B.4.  Technical Manuals (Continued)
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+                            
+NA 19-100-2, USN Handling Equipment Afloat
+NAVSEA OP-4, Ammunition and Explosives
+Afloat
+NAVSEA OP-5, Ammunition and Explosives
+Ashore
+NAVSEA OP-2173, Approved Handling Equipment
+for Weapons and Explosives Vol. I,II
+C-122-3111/
+NAMTG MTU 4032/
+NA 01-AIM9-0, Technical Manual List, 
+Hard copy
+ 8 each Nov. 1994
+Air Launched
+NAS Norfolk/ 
+Guided Missile AIM-9 Series, and
+Guided Missile "I"
+66046
+Training Missiles Maintenance
+Maintenance
+NA 01-AIM9-2, Organizational and Inter-
+and
+mediate Maintenance with Illustrated
+C-646-4108
+Parts Breakdown (Fleet), Guided Mis-
+Weapons Department
+sile AIM-9 and Training Missiles
+General Aviation
+NA 11-75AIM9-1, Intermediate and Depot
+Ordnance Supervisor
+Maintenance with Illustrated Parts Break-
+and
+down, Sidewinder Missile System, Shipping
+C-646-4109
+and Storage Containers, all MKs and Mods
+Weapons Department
+NA 11-120-23, Ship Weapon Installation
+General Aviation
+Manual, Guided Missiles AIM-9D/G/H/L/M
+Ordnance
+Sidewinder
+NA 11-120A-1.2, Airborne Weapons Packaging/
+Handling/Storage Shipboard Vol. 2
+NA 19-95-1, Airborne Weapons/Stores
+Checklist Transporting and Loading
+Equipment Configuration (Shipboard)
+NA 19-95-3, Airborne Weapons/Stores
+Checklist Transporting and Loading
+Equipment Configuration (Shore Based)
+NA 19-100-2, USN Handling Equipment Afloat
+NAVSEA OP-4, Ammunition and Explosives
+Afloat
+NAVSEA OP-5, Ammunition and Explosives
+Ashore
+NAVSEA OP-2173, Approved Handling Equipment
+for Weapons and Explosives Vol. I,II
+
+
+[PAGE 96]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-25
+IV.B.4.  Technical Manuals (Continued)
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+C-122-3111/
+NAMTG MTU 4033/
+NA 01-AIM9-0, Technical Manual List, 
+Hard copy
+ 8 each Nov. 1994
+Air Launched
+NAS North 
+Guided Missile AIM-9 Series, and
+Guided Missile "I"
+Island/66065
+Training Missiles Maintenance
+Maintenance
+NA 01-AIM9-2, Organizational and Inter-
+and
+mediate Maintenance with Illustrated
+C-646-4108
+Parts Breakdown (Fleet), Guided Mis-
+Weapons Department
+sile AIM-9 and Training Missiles
+General Aviation
+NA 11-75AIM9-1, Intermediate and Depot
+Ordnance Supervisor
+Maintenance with Illustrated Parts Break-
+and
+down, Sidewinder Missile System, Shipping
+C-646-4109
+and Storage Containers, all MKs and Mods
+Weapons Department
+NA 11-120-23, Ship Weapon Installation
+ General Aviation
+Manual, Guided Missiles AIM-9D/G/H/L/M
+Ordnance
+Sidewinder
+NA 11-120A-1.2, Airborne Weapons Packaging/
+Handling/Storage Shipboard Vol. 2
+NA 19-95-1, Airborne Weapons/Stores
+Checklist Transporting and Loading
+Equipment Configuration (Shipboard)
+NA 19-95-3, Airborne Weapons/Stores
+Checklist Transporting and Loading
+Equipment Configuration (Shore Based)
+NA 19-100-2, USN Handling Equipment Afloat
+NAVSEA OP-4, Ammunition and Explosives
+Afloat
+NAVSEA OP-5, Ammunition and Explosives
+Ashore
+NAVSEA OP-2173, Approved Handling Equipment
+for Weapons and Explosives Vol. I,II          
+C-646-2010/
+AO "A"School/
+NA 01-AIM9-0, Technical Manual List, 
+Hard copy
+2 each
+Nov. 1994
+AO A1 School
+NATTC Memphis/
+Guided Missile AIM-9 Series, and
+30459
+Training Missiles Maintenance
+NA 01-AIM9-2, Organizational and Inter-
+mediate Maintenance with Illustrated
+Parts Breakdown for Guided Missile
+
+
+[PAGE 97]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-26
+IV.B.4.  Technical Manuals (Continued)
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+AIM-9 and Training Missiles
+NA 01-85AD-75, Airborne Weapons Stores/
+Loading Manual, EA-6 and KA-6 Systems
+AV8BB-LWS-000, Airborne Weapons Stores/
+Loading Manual, AV-8B Aircraft
+A1-AV8BB-LWS-530, AV-8B Aircraft, AIM-9
+Conventional Weapons Checklist
+NA 01-F14AAA-75, Airborne Weapons Stores/
+Loading Manual, F-14 Aircraft
+NA 01-F14AAA-75-20, F-14 Aircraft, AIM-9
+Missile, Conventional Weapons Checklist
+A1-F18AC-LWS-000, Airborne Weapons Stores
+Loading Manual, F-18 Aircraft
+A1-F18AC-LWS-530, F-18 Aircraft, AIM-9
+Missile, Conventional Weapons Checklist
+NA 01-H1AAA-75, AH-1 Airborne Weapons
+Stores/Loading Manual
+NA 01-H1AAA-75-20, Conventional Weapons
+Checklist AH-1 Aircraft
+NA 11-75AIM9-1, Intermediate and Depot
+Maintenance with Illustrated Parts Break-
+down, Sidewinder Missile System, Shipping
+and Storage Containers, all MKs and Mods
+NA 11-120-23, Ship Weapon Installation
+Manual, Guided Missiles AIM-9D/G/H/L/M
+Sidewinder
+NA 11-120A-1.2, Airborne Weapons Packaging/
+Handling/Storage Shipboard Vol. 2
+NA 19-95-1, Airborne Weapons/Stores
+Checklist Transporting and Loading
+Equipment Configuration (Shipboard)
+NA 19-95-3, Airborne Weapons/Stores
+Checklist Transporting and Loading
+Equipment Configuration (Shore Based)
+NA 19-100-2, USN Handling Equipment Afloat
+NAVSEA OP-4, Ammunition and Explosives
+Afloat
+
+
+[PAGE 98]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-27
+IV.B.4.  Technical Manuals (Continued)
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+NAVSEA OP-5, Ammunition and Explosives
+Ashore
+NAVSEA OP-2173, Approved Handling Equipment
+for Weapons and Explosives Vol. I, II
+A-431-0011/
+NAVSCOLEOD/
+NA 01-40AV/M-75, A-4 Airborne Weapons
+Hard copy
+8 each
+Sept 1994
+EOD Phase II
+NSWC Indian
+NA 01-40AV/M-75-20, AIM-9 Weapons Checklist
+(Navy)
+Head/30446
+NA 01-85AD-75, Airborne Weapons Stores/
+Loading Manual, EA-6 and KA-6 Systems
+NA 01-45AA-75, Airborne Weapons Stores/
+Loading Manual, A-7 Aircraft
+NA 01-45AA-75-20, A-7 Aircraft, AIM-9 Missile
+Conventional Weapons Checklist
+A1-AV8BB-LWS-000, Airborne Weapons Stores/
+Loading Manual, AV-8B Aircraft
+A1-AV8BB-LWS-530, AV-8B Aircraft, AIM-9
+Conventional Weapons Checklist                          
+NA 01-F14AAA-75, Airborne Weapons Stores/
+Loading Manual, F-14 Aircraft
+NA 01-F14AAA-75-20, F-14 Aircraft, AIM-9
+Missile, Conventional Weapons Checklist
+A1-F18AC-LWS-000, Airborne Weapons Stores
+Loading Manual, F-18 Aircraft
+A1-F18AC-LWS-530, F-18 Aircraft, AIM-9
+Missile, Conventional Weapons Checklist
+NA 01-H1AAA-75, AH-1 Airborne Weapons
+Stores/Loading Manual
+NA 01-H1AAA-75-20, Conventional Weapons
+Checklist AH-1 Aircraft
+G-431-0001/
+EODTEU ONE/
+NA 01-40AV/M-75, A-4 Airborne Weapons 
+Hard copy
+8 each
+Nov. 1994
+EOD Pre-deployment
+NAS Barbers
+Stores
+Training  
+Point/30202
+NA 01-40AV/M-75-20, AIM-9 Weapons Check List
+NA 01-85AD-75, Airborne Weapons Stores/
+Loading Manual, EA-6 and KA-6 Systems
+NA 01-45AA-75, Airborne Weapons Stores/
+Loading Manual, A-7 Aircraft
+NA 01-45AA-75-20, A-7 Aircraft, AIM-9 Missile
+Conventional Weapons Checklist
+
+
+[PAGE 99]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-28
+IV.B.4. Technical Manuals (Continued)
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+A1-AV8BB-LWS-000, Airborne Weapons Stores/
+Loading Manual, AV-8B Aircraft
+A1-AV8BB-LWS-530, AV-8B Aircraft, AIM-9
+Conventional Weapons Checklist
+NA 01-F14AAA-75, Airborne Weapons Stores/
+Loading Manual, F-14 Aircraft
+NA 01-F14AAA-75-20, F-14 Aircraft, AIM-9
+Missile, Conventional Weapons Checklist
+A1-F18AC-LWS-000, Airborne Weapons Stores
+Loading Manual, F-18 Aircraft
+A1-F18AC-LWS-530, F-18 Aircraft, AIM-9
+Missile, Conventional Weapons Checklist
+NA 01-H1AAA-75, AH-1 Airborne Weapons
+Stores/Loading Manual
+NA 01-H1AAA-75-20, Conventional Weapons
+Checklist AH-1 Aircraft                      
+G-431-0001/
+EODTEU TWO/
+NA 01-40AV/M-75, A-4 Airborne Weapons
+Hard copy
+8 each
+Nov. 1994
+EOD Pre-deployment
+Fort Story/
+Stores
+Training
+43505
+NA 01-40AV/M-75-20, AIM-9 Weapons Check List
+NA 01-85AD-75, Airborne Weapons Stores/
+Loading Manual, EA-6 and KA-6 Systems
+NA 01-45AA-75, Airborne Weapons Stores/
+Loading Manual, A-7 Aircraft
+NA 01-45AA-75-20, A-7 Aircraft, AIM-9 Missile
+Conventional Weapons Checklist
+A1-AV8BB-LWS-000, Airborne Weapons Stores/
+Loading Manual, AV-8B Aircraft
+A1-AV8BB-LWS-530, AV-8B Aircraft, AIM-9
+Conventional Weapons Checklist
+NA 01-F14AAA-75, Airborne Weapons Stores/
+Loading Manual, F-14 Aircraft
+NA 01-F14AAA-75-20, F-14 Aircraft, AIM-9
+Missile, Conventional Weapons Checklist
+A1-F18AC-LWS-000, Airborne Weapons Stores
+Loading Manual, F-18 Aircraft
+
+
+[PAGE 100]
+Note:  Technical Manuals listed are already on-site.  These manuals will be updated with AIM-9M-8 information.
+IV-29
+IV.B.4. Technical Manuals (Continued)
+COURSE/TYPE
+SCHOOL/
+QTY.
+DATE
+OF TRAINING
+LOCATION/UIC
+TECHNICAL MANUAL TITLE AND NUMBER
+MEDIUM
+REQ'D
+REQ'D
+A1-F18AC-LWS-530, F-18 Aircraft, AIM-9
+Missile, Conventional Weapons Checklist
+NA 01-H1AAA-75, AH-1 Airborne Weapons
+Stores/Loading Manual
+NA 01-H1AAA-75-20, Conventional Weapons
+Checklist AH-1 Aircraft                      
+D-646-0640         
+NAS Willow
+A1-F18AE-LWS-000, Airborne Weapons/Stores
+Hard copy
+2 each
+Nov. 1994
+F/A-18 Conventional
+Grove PA/
+Loading Manual, F/A-18A/B/C/D
+Weapons Loading
+00158
+A1-AIMAA-WUC-800, WUC Manual AIM Series
+     and   
+A1-F18AE-LWS-200, Conventional Weapons
+C-646-4107/      
+Basic Release and Control Checklist
+Aviation Ordnance
+A1-F18AE-LWS-210, Conventional Air to Air
+Munitions Tech.
+Missile Release and Control Checklist
+D-646-0640         
+NAF
+A1-F18AE-LWS-000, Airborne Weapons/Stores
+Hard copy
+2 each
+Nov. 1994
+F/A-18 Conventional
+Washington DC/
+Loading Manual, F/A-18A/B/C/D
+Weapons Loading
+00166
+A1-AIMAA-WUC-800, WUC Manual AIM Series
+  
+and
+A1-F18AE-LWS-200, Conventional Weapons
+C-646-4107/      
+Basic Release and Control Checklist
+Aviation Ordnance
+A1-F18AE-LWS-210, Conventional Air to Air
+Munitions Tech.
+Missile Release and Control Checklist
+D-646-0640/        
+NAS New Orleans/
+A1-F18AE-LWS-000, Airborne Weapons/Stores
+Hard copy
+2 each
+Nov. 1994
+F/A-18 Conventional
+LA/00206
+ Loading Manual, F/A-18A/B/C/D
+Weapons Loading   
+A1-AIMAA-WUC-800, WUC Manual AIM Series
+     and
+A1-F18AE-LWS-200, Conventional Weapons
+C-646-4107/
+ Basic Release and Control Checklist
+Aviation Ordnance
+A1-F18AE-LWS-210, Conventional Air to Air
+Munitions Tech.
+ Missile Release and Control Checklist
+C-646-0640/        
+NAS Dallas
+A1-F18AE-LWS-000, Airborne Weapons/Stores
+Hard copy
+2 each
+Nov. 1994
+F/A-18 Conventional
+TX/00215
+ Loading Manual, F/A-18A/B/C/D
+Weapons Loading
+A1-AIMAA-WUC-800, WUC Manual AIM Series
+    and
+A1-F18AE-LWS-200, Conventional Weapons
+C-646-4107       
+ Basic Release and Control Checklist
+Aviation Ordnance
+A1-F18AE-LWS-210, Conventional Air to Air
+Munitions Tech.
+ Missile Release and Control Checklist
+
+
+[PAGE 101]
+V-1
+PART V - MAJOR MILESTONES
+COG CODE                                  MANNING AND TRAINING MILESTONES                       DATE        REMARKS
+PDA  ..................
+Commence Analysis of Manpower Personnel and Training Requirements     May 86       Complete
+PDA  ..................
+Promulgate Draft NTP to ALCON for Review and Comment ............     Jan 87       Complete
+PDA  ..................
+Proposed NTP A-50-8105A Submitted to OPNAV ......................     May 87       Complete
+DCNO (MPT) ............
+Approve and Promulgate NTP A-50-8105A ...........................     Sep 89       Complete
+TSA ...................
+Factory Training & Curriculum Material Contract Awarded .........     N/A          Complete
+TSA ...................
+Commence NTP A-50-8105A Update to A-50-8105B ....................     May 93       Complete
+OPTEVFOR ..............
+Commence AIM-9M-8 OPEVAL ........................................     May 93       Complete
+PDA ...................
+AIM-9M-8 GCS Retrofit Kit Contract Awarded ......................     FY 94        Complete
+TSA ...................
+Curricula Materials Delivered ...................................     Jan 94       Complete
+TSA ...................
+Commence AIM-9M-8 Initial Training ..............................     Sep 94       Complete
+TA ....................
+Commence Follow-On/Replacement Training .........................     Oct 95       Complete
+PDA ...................
+Fleet Introduction ..............................................     May 95       Complete
+DCNO (MPT) ............
+Promulgate Update NTP A-50-8105B.................................     Nov 96
+
+
+[PAGE 102]
+VI-1
+PART VI- ACTIONS AND/OR DECISIONS
+A.    ACTION ITEM/ACTION REQUIRED             COMMAND ACTION          DUE DATE         STATUS
+B.    DECISIONS
+
+
+[PAGE 103]
+VII-1
+PART VII - POINTS OF CONTACT
+ORGANIZATION
+   TELEPHONE NUMBER
+     NAME          
+    CODE    
+         FUNCTION             
+  LOCATION  
+   (DSN/COMMERCIAL)  
+LCDR D. Gaddis
+N880C7 
+OPNAV Program Sponsor
+CNO 
+DSN 227/(703) 615-1841
+MSGT D. Anderson
+N889H2A
+OPNAV NTSP Coordinator
+CNO
+DSN 664/(301) 604-7722
+CAPT T. MacKenzie
+PMA259
+Program Manager AAMS
+NAVAIRSYSCOM
+DSN 757/(301) 757-7311
+COL J. Sutton 
+PMA259C
+Sidewinder Program Manager
+NAVAIRSYSCOM
+DSN 757/(301) 757-7313
+LTCOL R. Martin
+PMA259
+AIM-9M Program Manager
+NAVAIRSYSCOM
+DSN 757/(301) 757-7284
+Mr. W. Long
+PMA205-5
+Sidewinder Trng Sys Mgr
+NAVAIRSYSCOM
+DSN 757/(301) 757-8104
+LT J. Matheson
+TOPGUN
+Instructor/Sidewinder SME
+NSAWC
+DSN 830/(702) 426-3018
+Mr. M. Radonich
+486100E 
+Sidewinder S/E Prog Mgr
+NAWCWD PM
+DSN 351/(805) 484-6778
+Mr. C. Lewis
+341000D
+Technical Training Support
+NAWCWD CL
+DSN 469/(619) 939-4623
+AOCM W. Carroll
+2206 
+Missile Systems Training
+NAMTRAGRU
+DSN 922/(904) 452-9787
+LT Oliver
+Code N-42
+EOD Training
+NAVSCOLEOD
+DSN 354/(301) 743-4341
+Mr. P. Szczyglowski
+3.4.1
+Competency Manager
+NAVAIRSYSCOM
+DSN 757/(301) 757-9182
+AVCM R. Lovern
+3.4.1
+NTSP Manager
+NAVAIRSYSCOM
+DSn 757/(301) 757-9183
+ATCS D. Butler
+3.4.1
+Manpower Training Analyst
+NAVAIRSYSCOM
+DSN 757/(301) 757-9188
