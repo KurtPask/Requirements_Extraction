@@ -1,0 +1,1668 @@
+[PAGE 1]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAVY TRAINING SYSTEM PLAN 
+FOR THE 
+MORIAH PROGRAM 
+ 
+N78-NTSP-A-50-0001A/A 
+SEPTEMBER 2002 
+
+
+[PAGE 2]
+N88-NTSP-A-50-0001A/A 
+September 2002 
+MORIAH PROGRAM 
+i 
+EXECUTIVE SUMMARY 
+This Navy Training System Plan (NTSP) for the Moriah Program was developed by 
+NAVAIR.  This document provides the current manpower, personnel, and training concepts for 
+the United States Navy (USN) and United States Marine Corps (USMC) to introduce and sustain 
+the Moriah Program. 
+The Moriah Program consists of the Meteorology and Oceanography (METOC) and 
+Wind systems.  The METOC portion of Moriah is in the System Development and 
+Demonstration phase of the Defense Acquisition System (DAS) awaiting Milestone C approval, 
+projected for fourth quarter Fiscal Year (FY) 02.  After Milestone C approval, the METOC 
+portion of the Moriah Program will go into the Production and Deployment phase of the DAS.  
+The Wind portion of Moriah is awaiting the release of the Request for Proposal, which is 
+anticipated in late FY02. 
+The Moriah Program involves the integration of three emerging wind and meteorological 
+systems into a single environmental conditions monitoring program that will apply new sensors, 
+processors, and local area networks to provide a combined wind, meteorological, and 
+oceanographic measuring and indicating system.  Moriah will present airfield and battlegroup 
+decision-makers with a unified picture of the ever-changing atmospheric conditions around a 
+ship or shore station. 
+An operational and maintenance workload analysis indicates there will be no need to 
+increase end-strength or change force structure in order to implement and support the Moriah 
+Program.  Personnel in the existing USN ratings of Aerographer’s Mate (AG), Electronics 
+Technician (ET), Quartermaster (QM), and Fire Controlman (FC) will perform system operation, 
+and Interior Communications Electricians (IC) will perform maintenance.  An Information 
+System Technician (IT) will maintain network administration systems.  The USMC Military 
+Occupational Specialties (MOS) are MOS 6821 - Weather Observer and 6842 - Weather 
+Forecaster for operation, and 6493 - Aviation Meteorological Equipment Technician for 
+maintenance.  Existing fleet manpower is adequate for all operational and maintenance tasking 
+associated with the Moriah program. 
+The training concept to support Moriah provides for initial training during installation 
+and Computer-Based Training (CBT) for follow-on training.  A contractor, in conjunction with 
+NAVAIR (Naval Air Warfare Center Aircraft Division, Lakehurst, New Jersey) will create the 
+CBT that will be used on Navy ships and Navy and Marine Corps Air Stations.  This CBT is 
+planned to be available in FY04. 
+ 
+
+
+[PAGE 3]
+N88-NTSP-A-50-0001A/A 
+September 2002 
+MORIAH PROGRAM 
+ 
+ii
+TABLE OF CONTENTS 
+Page 
+Executive Summary............................................................................................................... 
+i 
+List of Acronyms ................................................................................................................... 
+iii 
+Preface.................................................................................................................................... 
+vi 
+PART I  -  TECHNICAL PROGRAM DATA 
+A. Nomenclature-Title-Program ............................................................................. 
+I-1 
+B. Security Classification........................................................................................ 
+I-1 
+C. Manpower, Personnel, and Training Principals ................................................. 
+I-1 
+D. System Description............................................................................................. 
+I-1 
+E. Developmental Test and Operational Test......................................................... 
+I-2 
+F. 
+Aircraft and/or Equipment/System/Subsystem Replaced .................................. 
+I-2 
+G. Description of New Development...................................................................... 
+I-2 
+H. Concepts ............................................................................................................. 
+I-5 
+1. 
+Operational.................................................................................................. 
+I-5 
+2. 
+Maintenance................................................................................................ 
+I-5 
+3. 
+Manning ...................................................................................................... 
+I-6 
+4. 
+Training....................................................................................................... 
+I-7 
+I. 
+Onboard (In-Service) Training........................................................................... 
+I-8
+J. 
+Logistics ............................................................................................................. 
+I-9 
+K. Schedules............................................................................................................ 
+I-10 
+L. Government-Furnished Equipment and Contractor-Furnished Equipment 
+ 
+Training Requirements....................................................................................... 
+I-14 
+M. Related NTSPs and Other Applicable Documents............................................. 
+I-14 
+PART II  - BILLET AND PERSONNEL REQUIREMENTS ..................................... 
+II-1 
+PART III  - TRAINING REQUIREMENTS................................................................... 
+III-1 
+PART IV  - TRAINING LOGISTICS SUPPORT REQUIREMENTS........................ 
+IV-1 
+PART V  - 
+MPT MILESTONES..................................................................................... 
+V-1 
+PART VI  - DECISION ITEMS/ACTION REQUIRED................................................ 
+VI-1 
+PART VII  - POINTS OF CONTACT............................................................................... VII-1 
+ 
+
+
+[PAGE 4]
+N88-NTSP-A-50-0001A/A 
+September 2002 
+MORIAH PROGRAM 
+ 
+iii
+LIST OF ACRONYMS 
+ACDS 
+Advanced Combat Direction System 
+ADMACS 
+Aviation Data Management and Control System 
+AFB 
+Air Force Base 
+AG 
+Aerographer’s Mate 
+AIT 
+Alteration Installation Team 
+ASOS 
+Automated Surface Observing System 
+ 
+ 
+BIT 
+Built-In Test 
+ 
+ 
+CBT 
+Computer-Based Training 
+CG 
+Guided Missile Cruiser 
+CINCLANTFLT 
+Commander in Chief Atlantic Fleet 
+CINCPACFLT 
+Commander in Chief Pacific Fleet 
+CNET 
+Chief of Naval Education and Training 
+CNO 
+Chief of Naval Operations 
+CV 
+Aircraft Carrier 
+CVN 
+Aircraft Carrier Nuclear 
+ 
+ 
+DDG 
+Guided Missile Destroyer 
+DT 
+Developmental Test 
+ 
+ 
+ET 
+Electronics Technician 
+ 
+ 
+FC 
+Fire Controlman 
+FMS 
+Foreign Military Sales 
+FY 
+Fiscal Year 
+ 
+ 
+GCCS 
+Global Command and Control System 
+GFE 
+Government Furnished Equipment 
+ 
+ 
+HSI 
+Human Systems Integration 
+ 
+ 
+IC 
+Interior Communications Electrician 
+ICAN 
+Integrated Communications and Advanced Networks 
+IOC 
+Input-Output Controller 
+ 
+ 
+JMCIS 
+Joint Maritime Command Information System 
+ 
+ 
+
+
+[PAGE 5]
+N88-NTSP-A-50-0001A/A 
+September 2002 
+MORIAH PROGRAM 
+ 
+iv
+LIST OF ACRONYMS 
+LAN 
+Local Area Network 
+LHA 
+Helicopter Landing and Amphibious Aviation Assault Ship 
+LHD 
+Amphibious Assault Ship (Special Purpose)  
+LPD 
+Amphibious Assault Ship (Dock)  
+ 
+ 
+MCCDC 
+Marine Corps Combat Development Command 
+MET 
+Meteorological 
+METOC 
+Meteorological and Oceanographic 
+MOS 
+Military Occupational Specialty 
+MSD 
+Material Support Date 
+ 
+ 
+NA 
+Not Applicable 
+NAVAIRSYSCOM 
+Naval Air Systems Command 
+NAVPERSCOM 
+Naval Personnel Command 
+NAWCADLKE 
+Naval Air Warfare Center Aircraft Division Lakehurst 
+NTSP 
+Navy Training System Plan 
+NTTU 
+Navy Technical Training Unit 
+ 
+ 
+OPEVAL 
+Operational Evaluation 
+OPNAV 
+Office of the Chief of Naval Operations 
+OPO 
+OPNAV Principal Official 
+OT 
+Operational Test 
+ 
+ 
+PDA 
+Principal Development Activity 
+PDR 
+Program Design Review 
+PMA 
+Program Manager, Air 
+PMW 
+Program Manager, Warfare 
+PQS 
+Personnel Qualification Standards 
+ 
+ 
+QM 
+Quartermaster 
+ 
+ 
+RFP 
+Request For Proposal 
+ 
+ 
+SERVSCOLCOM 
+Service Schools Command 
+SPAWARSYSCOM 
+Space and Warfare Systems Command 
+SST 
+Sea-Sky Temperature 
+SWIT 
+Sea Water Intake Temperature 
+ 
+ 
+
+
+[PAGE 6]
+N88-NTSP-A-50-0001A/A 
+September 2002 
+MORIAH PROGRAM 
+ 
+v
+LIST OF ACRONYMS 
+TBD 
+To Be Determined 
+TECHEVAL 
+Technical Evaluation 
+TMCR 
+Technical Manual Contract Requirement 
+TSA 
+Training Support Agency 
+TTE 
+Technical Training Equipment 
+ 
+ 
+USMC 
+United States Marine Corps 
+USN 
+United States Navy 
+ 
+ 
+VRT 
+Voyage Repair Team 
+ 
+ 
+WMIS 
+Wind Measuring and Indicating System 
+
+
+[PAGE 7]
+N88-NTSP-A-50-0001A/A 
+September 2002 
+MORIAH PROGRAM 
+ 
+vi
+PREFACE 
+This Approved Navy Training System Plan (NTSP) updates the Draft Moriah NTSP, 
+N88-NTSP-A-50-0001A/D, dated December 2001, and complies with guidelines set forth in the 
+Navy Training Requirements Documentation Manual, Office of the Chief of Naval Operations 
+(OPNAV) Publication P-751-1-9-97. 
+This iteration deletes all references to the Shipboard Meteorological and Oceanographic 
+Observation System Replacement (SMOOS(R)) in accordance with a comment received from 
+Space and Warfare Systems Command (SPAWARSYSCOM) Code 04H-4. 
+
+
+[PAGE 8]
+ 
+I-1 
+N88-NTSP-A-50-0001A/A 
+September 2002 
+PART I - TECHNICAL PROGRAM DATA 
+A.  NOMENCLATURE-TITLE-PROGRAM 
+1.  Nomenclature-Title-Acronym.  Moriah Program 
+2.  Program Element.  0604512N 
+B.  SECURITY CLASSIFICATION 
+1.  System Characteristics .................. Unclassified 
+2.  Capabilities..................................... Unclassified 
+3.  Functions......................................... Unclassified 
+C.  Manpower, Personnel, and Training Principals 
+OPNAV Principal Official (OPO) Program Sponsor .................................... CNO (N962) 
+OPO Resource Sponsor.................................................................................. CNO (N962) 
+Developing Agency .........................................................  NAVAIRSYSCOM (PMA251) 
+ 
+SPAWARSYSCOM (PMW155) 
+Training Agency .....................................................................................  CINCLANTFLT 
+ 
+CINCPACFLT 
+ 
+CNET 
+Training Support Agency.................................................  NAVAIRSYSCOM (PMA205) 
+Manpower and Personnel Mission Sponsor..................................................... CNO (N12) 
+ 
+NAVPERSCOM (PERS-4, PERS-404) 
+Director of Naval Training ............................................................................ CNO (N795) 
+Marine Corps Force Structure.................................................................... MCCDC (C53) 
+D.  SYSTEM DESCRIPTION 
+1.  Operational Uses.  The Moriah Program will replace the wind speed and direction 
+sensors and associated displays on all ships and United States Navy (USN) and United States 
+
+
+[PAGE 9]
+ 
+I-2 
+Marine Corps (USMC) Air Stations.  It will provide a single METOC sensor suite consistent 
+across all ship types, and will include all required METOC observations.  The sensor subsystem 
+of Moriah will measure all METOC conditions including wind speed and direction, barometric 
+pressure, air temperature, sea surface temperature, relative humidity, visibility, insolation 
+(incoming solar radiation), and cloud height.  These in situ (local) meteorological measurements 
+will be used for calculations of vertical profile and evaporation ducts.  The sensors will provide 
+data to the automated data acquisition, processing, and distribution subsystems.  The data 
+acquisition system will acquire data from its sensors and from interfaces with other data 
+acquisition systems such as ship navigation systems, and provide formatted data to shipboard 
+systems and off-board locations.  The capability to store data will be provided in both readily 
+accessible formats for a minimum of 24 hours and in an archived format for longer-term storage. 
+2.  Foreign Military Sales.  No Foreign Military Sales (FMS) are planned at this time. 
+E.  DEVELOPMENTAL TEST AND OPERATIONAL TEST.  Over the past several years, 
+individual demonstrations and validations were performed on Moriah systems and components 
+to reduce risk to the Moriah Program.  The three emerging systems that make up Moriah were 
+given individual demonstrations and validations of their systems and components.  
+Developmental Test (DT) and Operational Test (OT) for the Wind side of Moriah are not 
+scheduled since the Request For Proposal (RFP) has not been signed and released yet.  DT and 
+OT are expected to be accomplished in Fiscal Year (FY) 03 on a ship To Be Determined (TBD).  
+For the METOC side of Moriah, DT and OT will occur aboard the USS Coronado (AGF-11) 
+beginning in first quarter FY03.  After completion of DT and OT, Technical Evaluation 
+(TECHEVAL) and Operational Evaluation (OPEVAL) will follow.  TECHEVAL is expected to 
+require less than thirty days and OPEVAL is expected to take thirty days.  Additional 
+information on DT, OT, TECHEVAL, and OPEVAL will be included in updates to this NTSP. 
+F.  AIRCRAFT AND/OR EQUIPMENT/SYSTEM/SUBSYSTEM REPLACED.  The 
+Moriah Wind System will replace the AN/UMQ-5 Wind Speed and Direction System installed at 
+USN and USMC Air Stations.  The Wind Measuring and Indicating System (WMIS) installed on 
+ships and the Moriah METOC will replace the Shipboard Environmental Assessment/Weapon 
+System Performance (SEAWASP) system. 
+G.  DESCRIPTION OF NEW DEVELOPMENT 
+1.  Functional Description.  For all ship types, Moriah will provide a combined wind, 
+meteorological, and oceanographic measuring and indicating system of the environmental 
+conditions around the ship and in the battlegroup.  Moriah will provide continuous data for 
+display and direct digital or analog input to ship systems.  Moriah will provide continuous output 
+of the parameters measured by the sensors and processed by the Moriah central processor in 
+standard units of measure as required by the end users (systems and people).  These units of 
+measure and the algorithms or formulas used to convert base output data will be identified in 
+
+
+[PAGE 10]
+ 
+I-3 
+appropriate system specification documents.  Moriah will use open system architecture to reduce 
+the integration effort of additional sensors. 
+Moriah will have the capability to select valid data and process that data to provide 
+system performance parameters.  Moriah will be capable of providing data for storage on 
+multimedia mass storage devices.  These interfaces, including system nomenclature, location on 
+ship, required data format, and required sampling frequency to meet user-defined update rates 
+will be iterated in a separate interface specification document. 
+Moriah will provide multiple display types with different levels of capability to include 
+stand-alone continuous sensor information, aircraft launch and recovery decision aids, and 
+control functions and maintenance diagnostics.  Displays will be capable of displaying both 
+digital and analog graphics and will be usable both during daylight and during nighttime reduced 
+light conditions.  Moriah will be capable of outputting National Television Standard C for ship’s 
+closed circuit television systems. 
+In addition to the above shipboard requirement, the sensor suites procured by the Moriah 
+Program will also be used to satisfy shore-based installation requirements as a partial 
+replacement for augmentation to the Automated Surface Observing System (ASOS) and as a 
+replacement for the AN/UMQ-5 Wind Speed and Direction System.  The ASOS was a joint 
+program of the National Oceanographic and Atmospheric Agency, USN, Department of 
+Transportation, and Federal Aviation Administration, with the National Weather Service as the 
+lead procurement agency.  ASOS is installed at USN and USMC Air Stations in the continental 
+United States and abroad.  Certain sensors may require replacement in existing installations.  
+Other Air Stations that did not receive ASOS may have a current requirement that can be 
+satisfied by Moriah. 
+The wind speed and direction subsystem of Moriah will satisfy the requirements to 
+replace the AN/UMQ-5, as well as augmentation for end-of-runway requirements submitted by 
+the Type Commanders where installation costs are not prohibitive.  Replacing the AN/UMQ-5 
+with Moriah will be advantageous in that it will allow all USN wind systems to be uniform, 
+saving maintenance and procurement costs. 
+The Moriah system consists of five major components as subsystems: 
+° Wind sensing 
+° Data processing 
+° Data distribution 
+° Data display 
+The system is designed to be modular so that it may interface with various types of 
+displays and sensing equipment as well as with existing or legacy ship systems and wind system 
+components when required.  The following paragraphs contain a brief description of each 
+component or subsystem and its basic function. 
+
+
+[PAGE 11]
+ 
+I-4 
+                                                
+a.  Wind Sensors for Moriah Wind.  The Moriah Wind System has been 
+designed to use new sensor technology while maintaining backward compatibility with existing 
+WMIS detectors based on older synchro technology that have a long service history in the fleet.  
+The Moriah system also has the ability to interface with new solid state wind sensors such as 
+those based on sonic measurement technology.  These types of sensors require little or no 
+preventive maintenance and are capable of transmitting wind speed and direction data in a digital 
+format (such as RS-422).  The new wind sensors will be mounted in approximately the same 
+locations as the existing detectors (port, starboard, and forward) so that no revalidation of 
+aircraft launch and recovery envelopes will be required.  Wind data (either synchro or digital) 
+from all sensors will be routed to both Moriah processors. 
+b.  Data Processing for Moriah Wind.  The data processing component of the 
+Moriah Wind System acquires and processes all of the data critical to the launch and recovery 
+tasks.  Due to the safety of flight nature of these functions, it is planned that the core Moriah 
+processing function will be executed within two self-checking central processing units. 
+c.  Data Distribution.  The shipboard data distribution system is the Integrated 
+Communications and Advanced Networks (ICAN).  It will be used to transmit Moriah 
+information to various displays throughout the ship.  It is planned that each Moriah processor 
+will connect to a separate ICAN Input-Output Controller (IOC) via Ethernet.  However, only the 
+processor designated as primary will be transmitting information to its respective IOC for 
+distribution. 
+d.  Data Displays for Moriah Wind.  Multiple display types will be available to 
+support the differing requirements of individual watch-stations.  All high-end displays will be 
+connected to IOC local to their particular location via Ethernet.  Several high-end displays may 
+be connected to one IOC if necessary.  High-end displays will display information such as: true 
+wind speed and direction, relative wind speed and direction, crosswind and/or headwind, ship’s 
+speed and course, launch and recovery bulletins, fox corpen data1, limited meteorological data, 
+etc.  Low-end displays will also be connected to local IOCs or directly to the Moriah processors 
+via an RS-422 digital serial interface.  As with the high-end displays, several low-end displays 
+may be connected to one IOC if necessary.  Low-end displays will display either relative wind 
+speed and direction or crosswind and headwind information. 
+2.  Physical Description.  Physical descriptions are not available at this time.  As 
+descriptive information becomes available, it will be included in updates to this NTSP. 
+3.  New Development Introduction.  The Moriah Program equipment will be introduced 
+as new production equipment based upon the Moriah operational and support concepts, with 
+heavy reliance on Non-Developmental Item (NDI), Commercial Off-The-Shelf (COTS), and 
+ 
+1 Fox corpen data was previously calculated on a slide-rule.  It is data used while landing an aircraft.  It 
+would recommend a ship’s course to steer to get the correct wind speed and direction.  In the Moriah 
+system it will be calculated automatically and displayed.  However, it is only a recommendation for perfect 
+conditions. 
+
+
+[PAGE 12]
+ 
+I-5 
+Government Off-The-Shelf (GOTS) hardware, software, and firmware, repackaged for the 
+shipboard operating environment. 
+4.  Significant Interfaces.  Moriah will interface with other systems through designated 
+circuits or local networks for data acquisition and display, where applicable.  Examples of other 
+systems to be interfaced include the Joint Maritime Command Information System (JMCIS), 
+Global Command and Control System (GCCS), ICAN, Aviation Data Management and Control 
+System (ADMACS), Advanced Combat Direction System (ACDS), and Sonar Local Area 
+Network (LAN).  Data rates and formats will be compatible with network interface requirements.  
+The Interface Specification document will define the top-level interface requirements and will be 
+updated as interfaces are added, changed, or deleted. 
+5.  New Features, Configurations, or Material.  Not Applicable (NA) 
+H.  CONCEPTS 
+1.  Operational Concept.  Moriah will be activated during all underway periods for 24 
+hours per day.  Moriah will be fully mission capable in all weather conditions (tropical to arctic), 
+heavy seas with wave heights up to 20 feet, and wind speeds up to 125 knots.  Moriah will 
+continuously sample the environmental battle-space and will display this information, along with 
+direct digital and synchro input to weapons systems.  Additionally, the data will be archived and 
+disseminated in Naval message format.  Moriah Wind and METOC will both have a flexible 
+open architecture.  Both will be modular in design and capable of being deployed in a variety of 
+configurations that will address the specific requirements of each particular user community. 
+Personnel from the existing USN ratings Aerographer’s Mate (AG), Electronics 
+Technician (ET), Quartermaster (QM), and Fire Controlman (FC) will perform operation; 
+Interior Communications Electrician (IC) personnel will be the maintainers.  An Information 
+System Technician (IT) will be used to maintain the network. 
+2.  Maintenance Concept.  Moriah equipment will incorporate a self-contained 
+diagnostic and Built-In Test (BIT) system, continuity or systems degradation alarms, redundant 
+paths for continuous operations in a combat or damage control environment, and operator 
+reconfiguration capability without impacting system operations.  Ancillary equipment such as 
+wind direction and speed detectors, transmitters, and indicators are also being investigated for 
+upgrade.  At this time there is no indication that any change to these devices will significantly 
+affect the Moriah maintenance concept. 
+The USMC Military Occupational Specialties (MOS) are: 
+For operation........ MOS 6821, Weather Observer 
+MOS 6842, Weather Forecaster 
+For maintenance... MOS 6493, Aviation Meteorological Equipment Technician 
+
+
+[PAGE 13]
+ 
+I-6 
+a.  Organizational.  Organizational level maintenance will be performed by USN 
+IC and by USMC MOS 6493, Aviation Meteorological Equipment Technician personnel.  
+Organizational level maintenance will include self-contained diagnostic tests and BIT; if the unit 
+is not working properly, the unit under test will be removed and replaced. 
+(1) Preventive Maintenance.  Preventive maintenance will consist of 
+periodic checks, filter replacement, and corrosion control, and will be determined through 
+Reliability-Centered Maintenance (RCM) analysis. 
+(2) Corrective Maintenance.  Corrective maintenance will consist of 
+self-contained diagnostic tests and BIT as required, with removal and replacement of defective 
+units as necessary. 
+b.  Intermediate.  No intermediate level maintenance will be required.  All failed 
+units will be returned to the vendor for repair or disposed of by ship’s force. 
+c.  Depot.  The vendor will provide depot level maintenance. 
+d.  Interim Maintenance.  The vendor will provide interim maintenance. 
+e.  Life Cycle Maintenance Plan.  There will be no mandatory overhaul period 
+required for the Moriah systems. 
+3.  Manning Concept.  There will be no increase in end-strength or change in force 
+structure as a result of the Moriah Program.  Current fleet manpower is adequate to perform all 
+tasking required by the Moriah Program. 
+a.  Estimated Maintenance Man-Hours per Operating Hour.  The basic 
+architecture of the Moriah system is still undetermined.  Consequently, it is too early to predict 
+the estimated Maintenance Man-Hours per Operating Hour.  The requirement is for no 
+maintenance action to exceed two hours.  At this time, it appears that this is achievable.  
+Information listed below was extracted from the Draft Moriah System/Segment Specification. 
+PARAMETER 
+THRESHOLD 
+OBJECTIVE 
+Operational Availability 
+0.969 
+0.981 
+Mean Time Between Operational 
+Maintenance Failures 
+4,320 hours 
+7,000 hours 
+Mean Corrective Maintenance Time 
+per Operational Mission Failure 
+2 hours 
+1 hour 
+Preventive Maintenance 
+Less than 10 hours per quarter 
+ 
+
+
+[PAGE 14]
+ 
+I-7 
+b.  Proposed Utilization.  The Moriah system will be activated during all 
+underway periods for 24 hours per day.  The Moriah system will also be operated at USN and 
+USMC Air Stations for 24 hours per day. 
+c.  Recommended Qualitative and Quantitative Manpower Requirements.  
+Manpower currently exists in appropriate quantities in both the USN and USMC.  Operational 
+and maintenance functions will be assigned to existing USN and USMC personnel at the 
+activities receiving the Moriah system. 
+4.  Training Concept.  A contractor, in conjunction with NAVAIR [Naval Air Warfare 
+Center Aircraft Division, Lakehurst (NAWCADLKE), New Jersey] will create Computer-Based 
+Training (CBT) that will be used on Navy ships and USN and USMC Air Stations as Onboard 
+Training to develop the skills of personnel operating and maintaining Moriah equipment.  This 
+has been judged to be the most efficient and cost-effective scenario.  At this point in the 
+acquisition process, the contract for CBT development has not yet been awarded.  No formal 
+follow-on training is anticipated at this time.  The onboard CBT is planned to be available in 
+FY04. 
+There will also be an introduction to the Moriah system included in the AG “A” School, 
+USMC Weather Observer School, and USMC Weather Forecaster School by Navy Technical 
+Training Unit (NTTU), Keesler Air Force Base (AFB), Biloxi, Mississippi. 
+a.  Initial Training.  Alteration Installation Teams (AIT), Voyage Repair Teams 
+(VRT), and shipyard personnel will provide initial training during installation of the particular 
+Moriah system.  This training is considered adequate until FY04 (pending availability of the 
+onboard CBT). 
+(1) Operator.  Initial training for operators will be provided by AITs, 
+VRTs, and shipyard personnel during Moriah equipment installation and checkout. 
+(2) Maintenance.  Initial training for maintainers will be provided by 
+AITs, VRTs, and shipyard personnel during Moriah equipment installation and checkout.  Initial 
+training will include: 
+° Test and check of the Moriah system 
+° BIT procedures 
+° Cleaning 
+° Filter changing 
+° Corrosion control 
+° Removal and replacement of the failed unit 
+Initial training will be provided to USN IC personnel and USMC MOS 
+6493, Aviation Meteorological Equipment Technician. 
+
+
+[PAGE 15]
+ 
+I-8 
+b.  Follow-on Training.  There will be no operator or maintainer follow-on 
+training.  Fleet training requirements will be satisfied via onboard proficiency training as shown 
+in Paragraph I, Onboard (In-Service) Training. 
+c.  Student Profiles 
+SKILL 
+IDENTIFIER 
+PREREQUISITE 
+SKILL AND KNOWLEDGE REQUIREMENTS 
+IC 
+° A-623-0105, Interior Communications Electrician Class A 
+ET 
+° A-100-0138, Electronics Technician Core “A” School 
+° A-100-0140, Electronics Technician Strand “A” School 
+AG 
+° C-420-2010, Aerographer’s Mate “A” School 
+MOS 6493 
+° A-100-0138, Electronics Technician Core “A” School 
+° A-100-0140, Electronics Technician Strand “A” School 
+° C-198-3899, Meteorological Equipment Maintenance Class C1 USMC 
+MOS 6821 
+° E3AQR1W031, Basic Weather 
+MOS 6842 
+° E3AQR1W031, Basic Weather 
+° E3AAR1W071, Meteorological and Oceanographer Analyst/Forecaster 
+d.  Training Pipelines.  NA 
+I.  ONBOARD (IN-SERVICE) TRAINING 
+1.  Proficiency or Other Training Organic to the New Development.  Proficiency 
+training will be provided to operator and maintainer personnel as onboard training and beginning 
+in FY04, via contractor-developed CBT.  On-the-Job Training will also be provided as required 
+to enhance the skills and knowledge of individuals. 
+2.  Personnel Qualification Standards.  Pending a decision, if Personnel Qualification 
+Standards (PQS) will be required, it will be provided by the PQS Development Center.  PQS 
+requirement information will be updated in this NTSP, as it becomes available. 
+3.  Other Onboard or In-Service Training Packages.  NA 
+
+
+[PAGE 16]
+ 
+I-9 
+J.  LOGISTICS 
+1.  Manufacturer and Contract Numbers.  The Moriah Wind production systems 
+integration and manufacturing contract will be a competitively awarded firm fixed price contract 
+for the various production lots.  Using the systems performance specification, NAWCADLKE 
+will award a contract to one production system contractor who will integrate, manufacture, and 
+deliver Moriah production systems to the USN for shipboard installation.  Information on the 
+Moriah Wind contract will be included in updates of this NTSP. 
+The Moriah METOC production systems integration and manufacturing contract will be 
+a competitively awarded firm fixed price contract for the various production lots.  Using the 
+systems performance specification, SPAWARSYSCOM will award a contract to one production 
+system contractor who will integrate, manufacture, and deliver Moriah production systems to the 
+USN for shipboard installation.  Moriah METOC contract information will be included in future 
+editions of this NTSP. 
+Shipboard installation of the production systems will not be included in the production 
+contract, but will be contracted separately for various sources, including AITs, VRTs, and 
+shipyard personnel.  Interface Control Documents that identify the Moriah configuration and 
+data interfaces for each ship class will be used as the basis for all installations.  As more specific 
+information becomes available, it will be included in updates to this NTSP. 
+2.  Program Documentation.  Program documentation currently consists of: 
+° Moriah Operational Requirements Document 
+° Memorandum of Agreement for Moriah 
+° Acquisition Strategy for Moriah 
+° Minutes of the Moriah Preliminary Design Review (PDR) 
+° System Specification 
+As additional documentation becomes available, it will be included in updates to this 
+NTSP. 
+3.  Technical Data Plan.  Technical documentation, including Maintenance Instruction 
+Manuals, Maintenance Requirements Cards, User Logistic Support Summary, Integrated 
+Logistic Support Plan, etc., will be provided by the contractor upon system installation and 
+checkout.  Technical Manual Contract Requirement (TMCR) Number 56-99 has been issued by 
+Naval Air Technical Data and Engineering Service Command (NATEC).  The TMCR is 
+outdated and will be revised prior to contract award.  As additional technical data information 
+becomes available, it will be included in updates to this NTSP. 
+4.  Test Sets, Tools, and Test Equipment.  Only Technical Training Equipment (TTE) 
+will be required at the organizational maintenance level.  Special Purpose Electronic Test 
+Equipment (SPETE) may be required at the depot (if organic). 
+
+
+[PAGE 17]
+ 
+I-10 
+5.  Repair Parts.  An In-Service Engineering Agent will provide interim spare parts 
+support as Moriah is provisioned into the Navy Supply System.  The Moriah Wind Material 
+Support Date (MSD) is estimated to occur in FY07.  The MSD for METOC has not been 
+established. 
+6.  Human Systems Integration.  A Human Systems Integration (HSI) program will be 
+organized to achieve the effective integration of personnel factors into the design of the system.  
+The HSI effort will include, but not necessarily be limited to, active participation in the 
+following three major interrelated areas of system development: analysis, design and 
+development, and test and evaluation. 
+K.  SCHEDULES.  Office of the Chief of Naval Operations (N096) began funding the 
+procurement of the METOC portion of Moriah for all types of ships (approximately 218 ships) 
+and 35 USMC and USN Air Stations in FY01.  Separate acquisition strategies address N85, N86, 
+and N88 procurement of the Wind portion of Moriah for their respective ship types 
+(approximately 151 ships).  The RFP for Moriah Wind will be issued in FY02.  Within the 
+Moriah program, the two sub-components will be on slightly different timelines.  Since Moriah 
+Wind is advanced technology, it will be fielded first. 
+1.  Installation and Delivery Schedules.  Moriah consists of both METOC and Wind 
+components.  Since the contracts have not been signed, no delivery schedule exists at this time 
+for the Moriah Wind Systems.  The delivery schedule for Moriah Wind will be included in 
+updates to this NTSP.  There are four versions of the Moriah Wind System. 
+a.  Version 1.  Version 1 of the Moriah Wind System consists of up to three sensors, 
+22 low-end displays, three high-end displays, and one processor.  Version 1 will be installed in 
+Aircraft Carrier Nuclear (CVN), Helicopter Landing and Amphibious Aviation Assault Ship 
+(LHA), Amphibious Assault Ship (Special Purpose) (LHD), and Amphibious Assault Ship 
+(Dock) (LPD) ships. 
+TYPE SHIP 
+QTY 
+CVN 
+11 
+LHA and LHD 
+12 
+LPD 
+5 
+b.  Version 2.  Version 2 of the Moriah Wind System consists of up to two sensors, 
+10 low-end displays, one high-end display, and one processor.  Version 2 will be installed in 
+Guided Missile Cruiser (CG), and Guided Missile Destroyer (DDG) ships. 
+
+
+[PAGE 18]
+ 
+I-11 
+TYPE SHIP 
+QTY 
+CG 47 
+27 
+DDG 51 
+37 
+c.  Version 3.  Version 3 of the Moriah Wind System consists of one sensor, 10 low-
+end displays, zero high-end displays, and one processor.  Version 3 will be installed in many 
+types of ships as listed below: 
+TYPE SHIP 
+QTY 
+LSD 41 
+8 
+LSD 49 
+4 
+AGF 
+2 
+AOE 1 
+4 
+AOE 6 
+4 
+ARS 
+4 
+LCC 
+2 
+MCM 
+14 
+MCS 
+1 
+MHC 
+12 
+PC 
+8 
+T-AE 25 
+8 
+T-AFS 
+6 
+T-AGM 23 
+1 
+T-AGS 26 
+7 
+T-AH 19 
+2 
+T-AKR 287 
+12 
+T-AO 187 
+12 
+T-ARC 7 
+1 
+d.  Version 4.  Version 4 of the Moriah Wind System consists of one sensor, zero low-
+end displays, one high-end display, and one processor.  Version 4 will be installed at USN and 
+USMC shore activities. 
+
+
+[PAGE 19]
+ 
+I-12 
+e.  Moriah METOC System.  The Moriah METOC System consists of three 
+configurations. 
+1.  Configuration B.  Configuration B consists of: 
+° Meteorological (MET) Sensor Pole Function 
+° SST Sensor Box Function 
+° Sea Water Intake Temperature (SWIT) Sensor Box Function 
+° Junction Box Function 
+° METOC Processor Box Function 
+° Wind Data Converter Function 
+2.  Configuration C.  Configuration C consists of: 
+° MET Sensor Pole Function 
+° SST Sensor Box Function 
+° SWIT Sensor Box Function 
+° Junction Box Function 
+° METOC Processor Box Function 
+° Wind Interface Function 
+° Ceilometer Function 
+° Visibility-Precipitation Function 
+° Weather Data Repeater Function 
+3.  Configuration F.  Configuration F consists of: 
+° MET Sensor Pole Function 
+° SST Sensor Box Function 
+° Junction Box Function 
+° METOC Processor Box Function 
+The Moriah METOC System Installation Schedule as presented by Program 
+Manager, Warfare (PMW) 155 is listed below by FY.  One Moriah system will be installed per 
+ship. 
+
+
+[PAGE 20]
+ 
+I-13 
+MORIAH METOC SYSTEM INSTALLATION SCHEDULE 
+ 
+FY01 
+FY02 
+FY03 
+FY04 
+FY05 
+FY06 
+FY07 
+SHIPS: 
+AGF 11 
+CVN 71 
+LCC 19 
+LCC 20 
+LHA 5 
+LHD 5 
+LHD 6 
+MCS 12 
+ARS 50 
+CG 62 
+CG 71 
+CVN 72 
+CVN 73 
+CVN 75 
+DDG 83 
+LHA 2 
+LHA 4 
+LHD 7 
+AGF 3 
+AH 19 
+AH 20 
+AOE 6 
+CG 51 
+CG 64 
+CG 68 
+AGF 3 
+AH 19 
+AH 20 
+AOE 6 
+CG 51 
+CG 64 
+CG 68 
+CV 65 
+CVN 69 
+DDG 51 
+DDG 55 
+DDG 67 
+DDG 74 
+DDG 78 
+DDG 81 
+LHD 2 
+LHD 4 
+CG 47 
+CG 49 
+CG 52 
+CG 55 
+CG 56 
+CG 57 
+CG 70 
+CVN 74 
+DDG 52 
+DDG 54 
+DDG 56 
+DDG 57 
+DDG 58 
+DDG 60 
+DDG 64 
+DDG 65 
+DDG 70 
+DDG 72 
+DDG 76 
+DDG 79 
+DDG 82 
+DDG 87 
+DDG 88 
+LHA 3 
+AOE 10 
+ARC 7 
+AS 40 
+CG 63 
+CG 65 
+CG 73 
+DDG 53 
+DDG 75 
+DDG 86 
+DDG 91 
+DDG 92 
+DDG 93 
+DDG 96 
+LHA 1 
+LHD 3 
+AKR 300 
+AKR 310 
+AKR 311 
+AKR 312 
+ARS 51 
+AS 39 
+CG 66 
+CG 69 
+CG 72 
+DDG 61 
+DDG 62 
+DDG 63 
+DDG 68 
+DDG 71 
+DDG 84 
+DDG 90 
+DDG 94 
+LHD 5 
+LSD 48 
+LSD 50 
+2.  Ready For Operational Use Schedule.  All Moriah Program equipment will be 
+Ready For Operational Use upon completion of installation and checkout by the installation 
+team. 
+3.  Time Required to Install at Operational Sites.  It is expected to take eight to 10 
+weeks to install the Moriah Wind System on a CVN. 
+4.  Foreign Military Sales and Other Source Delivery Schedule.  No FMS are planned 
+at this time. 
+5.  Training Device and Technical Training Equipment Delivery Schedule.  It is 
+anticipated that TTE will be located at Keesler AFB and Great Lakes Naval Training Center, 
+Great Lakes, Illinois.  TTE will consist of one Moriah system.  A delivery date and the exact 
+
+
+[PAGE 21]
+ 
+I-14 
+equipment required will be determined at a later date.  Shipboard TTE (for initial training) will 
+be the actual equipment installed. 
+L.  GOVERNMENT-FURNISHED EQUIPMENT AND CONTRACTOR-FURNISHED 
+EQUIPMENT TRAINING REQUIREMENTS.  TBD 
+M.  RELATED NTSPs AND OTHER APPLICABLE DOCUMENTS 
+DOCUMENT 
+OR NTSP TITLE 
+DOCUMENT OR 
+NTSP NUMBER 
+PDA 
+CODE 
+ 
+STATUS 
+Minutes of the Moriah Program Pre-PDR 
+NA 
+PMA251 
+May 98 
+Acquisition Strategy for Moriah 
+NA 
+N096 
+Under review 
+Operational Requirements Document 
+512-96-99 
+N096 
+Draft 
+May 01 
+Moriah System Specification 
+NA 
+PMA251 
+Under Review 
+Moriah Need Statement 
+M067-096-95 
+PMA251 
+Aug 95 
+Memorandum Of Agreement For Moriah 
+NA 
+N096 
+Approved 
+Feb 98 
+ 
+
+
+[PAGE 22]
+PART II - BILLET AND PERSONNEL REQUIREMENTS 
+The following elements are not affected by the Moriah Program and, therefore, are not included in Part II of this NTSP: 
+II.A. Billet Requirements 
+II.A.1.a. Operational and Fleet Support Activity Activation Schedule 
+II.A.1.b. Billets Required for Operational and Fleet Support Activities 
+II.A.1.c. Total Billets Required for Operational and Fleet Support Activities 
+II.A.2.a. Operational and Fleet Support Activity Deactivation Schedule 
+II.A.2.b. Billets to be Deleted in Operational and Fleet Support Activities 
+II.A.2.c. Total Billets to be Deleted in Operational and Fleet Support Activities 
+II.A.3. 
+Training Activities Instructor and Support Billet Requirements 
+II.A.4. 
+Chargeable Student Billet Requirements 
+II.A.5. 
+Annual Incremental and Cumulative Billets 
+II.B. Personnel Requirements 
+II.B.1. 
+Annual Training Input Requirements 
+Note: Since there is no change to current manpower requirements and no formal classroom training required by the Moriah 
+Program, none of the elements in Part II are applicable. 
+ II - 1 
+ 
+ 
+
+
+[PAGE 23]
+PART II - BILLET AND PERSONNEL REQUIREMENTS 
+The following elements are not affected by the Moriah Program and, therefore, are not included in Part II of this NTSP: 
+II.A. Billet Requirements 
+II.A.1.a. Operational and Fleet Support Activity Activation Schedule 
+II.A.1.b. Billets Required for Operational and Fleet Support Activities 
+II.A.1.c. Total Billets Required for Operational and Fleet Support Activities 
+II.A.2.a. Operational and Fleet Support Activity Deactivation Schedule 
+II.A.2.b. Billets to be Deleted in Operational and Fleet Support Activities 
+II.A.2.c. Total Billets to be Deleted in Operational and Fleet Support Activities 
+II.A.3. 
+Training Activities Instructor and Support Billet Requirements 
+II.A.4. 
+Chargeable Student Billet Requirements 
+II.A.5. 
+Annual Incremental and Cumulative Billets 
+II.B. Personnel Requirements 
+II.B.1. 
+Annual Training Input Requirements 
+Note: Since there is no change to current manpower requirements and no formal classroom training required by the Moriah 
+Program, none of the elements in Part II are applicable. 
+ II - 1 
+ 
+ 
+
+
+[PAGE 24]
+PART III - TRAINING REQUIREMENTS 
+The following elements are not affected by the Moriah Program and, therefore, are not included in Part III of this NTSP: 
+III.A.2. Follow-on Training 
+III.A.2.c. Unique Courses 
+III.A.3. Existing Training Phased Out 
+III - 1 
+ 
+ 
+
+
+[PAGE 25]
+ 
+III.A.1.  INITIAL TRAINING REQUIREMENTS 
+a.  Initial Training.  AIT, VRT, and shipyard personnel will provide initial operator training during installation of the 
+Moriah system.  
+(1) Operator. Moriah operator Initial training will be provided during installation and check out by the 
+contractor.  Initial training will consist of test and check of the Moriah system and operating procedures to include: 
+° Real-time and archival data extraction and analysis 
+° Report generation and formatting for transmission in Navy Message format 
+° Cleaning 
+° Filter changing 
+Contractor training will be provided to USN AG, ET, QM, and FC  personnel, and USMC MOS 6821 - 
+Weather Observer and MOS 6842 - Weather Forecaster, upon installation.  
+(2) Maintenance. Moriah maintenance initial training will be provided during installation and check out by the 
+contractor.  Initial training will include: 
+° Test and check of the Moriah system 
+° BIT procedures 
+° Cleaning 
+° Filter changing 
+° Corrosion control 
+° Removal and replacement of the failed unit 
+Contractor training will be provided to IC personnel and USMC MOS 6493 - Aviation Meteorological 
+Equipment Technician, upon installation. 
+ 
+ 
+ 
+III - 2 
+ 
+ 
+
+
+[PAGE 26]
+III.A.2. FOLLOW-ON TRAINING 
+III.A.2.a.  EXISTING COURSES 
+Moriah operator training will be introduced in course C-420-2010, Aerographer’s Mate  Class A1 at Keesler AFB and in course A-
+623-0105, Interior Communications Electrician Class A at Service Schools Command (SERVSCOLCOM), Great Lakes.  
+Additionally Moriah operator training will be introduced in USMC Weather Observer and Weather Forecaster training courses. 
+III - 3 
+ 
+ 
+
+
+[PAGE 27]
+III - 4 
+ 
+ 
+III.A.2.b.  PLANNED COURSES 
+Moriah CBT will be developed and available for onboard training in FY04.  
+
+
+[PAGE 28]
+PART IV - TRAINING LOGISTICS SUPPORT REQUIREMENTS 
+The following elements are not affected by the Moriah Program and, therefore, are not included in Part IV of this NTSP: 
+IV.A. 
+Training Hardware 
+IV.A.2. 
+Training Devices 
+IV.B. 
+Courseware Requirements 
+IV.B.1. 
+Training Services 
+IV.C. 
+Facility Requirements 
+IV.C.1. 
+Facility Requirements Summary (Space/Support) by Activity 
+IV.C.2. 
+Facility Requirements Detailed by Activity and Course 
+IV.C.3. 
+Facility Project Summary by Program 
+ 
+IV - 1 
+
+
+[PAGE 29]
+PART IV - TRAINING LOGISTICS SUPPORT REQUIREMENTS 
+IV.A.  TRAINING HARDWARE 
+IV.A.1.  TTE / GPTE / SPTE / ST / GPETE / SPETE 
+CIN, COURSE TITLE: 
+C-420-2010, Aerographer's Mate Class A1 
+CIN, COURSE TITLE: 
+C-420-2021, Aerographer's Mate Basic for USMC 
+TRAINING ACTIVITY: 
+NTTU Keesler AFB 
+LOCATION, UIC: 
+Biloxi, Mississippi, 39534 
+ITEM 
+QTY 
+ 
+GFE 
+NUMBER 
+EQUIPMENT / TYPE OR RANGE OF REPAIR PARTS REQUIRED 
+DATE REQUIRED 
+CFE STATUS 
+TTE 
+ 
+001 
+Moriah System 
+*1 each 
+90 days prior to IOC 
+GFE Pending 
+ 
+ 
+ 
+ 
+  
+ 
+CIN, COURSE TITLE: 
+A-623-0105, Interior Communications Electrician Class A 
+TRAINING ACTIVITY: 
+SERVSCOLCOM 
+LOCATION, UIC: 
+Naval Training Center, Great Lakes, 30626 
+ITEM 
+QTY 
+ 
+GFE 
+NUMBER 
+EQUIPMENT / TYPE OR RANGE OF REPAIR PARTS REQUIRED 
+DATE REQUIRED 
+CFE STATUS 
+TTE 
+ 
+001 
+Moriah System 
+*1 each 
+90 days prior to IOC 
+GFE Pending 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+* Each school will receive a set of Moriah Wind and Moriah METOC.
+IV - 2 
+
+
+[PAGE 30]
+IV.B.2.  CURRICULA MATERIALS AND TRAINING AIDS 
+IV - 3 
+CIN, COURSE TITLE: 
+Moriah Operation and Maintenance CBT 
+TRAINING ACTIVITY: 
+NA 
+LOCATION, UIC: 
+All ships and shore activities where Moriah is installed 
+ 
+QTY 
+DATE 
+TYPES OF MATERIAL OR AID 
+REQD 
+REQD 
+STATUS 
+ 
+Moriah Operation and Maintenance CBT 
+*1 set 
+90 days prior to Initial 
+Pending 
+Operating Capability 
+ 
+ 
+ 
+ 
+* Each ship and shore station will receive a set of Moriah Wind or Moriah METOC as applicable.
+
+
+[PAGE 31]
+IV.B.3.  TECHNICAL MANUALS 
+CIN, COURSE TITLE: 
+C-420-2010, Aerographer's Mate Class A1 
+CIN, COURSE TITLE: 
+C-420-2021, Aerographer's Mate Basic for USMC 
+TRAINING ACTIVITY: 
+NTTU Keesler AFB 
+LOCATION, UIC: 
+Biloxi, Mississippi 39534 
+ 
+QTY 
+ 
+TECHNICAL MANUAL NUMBER, TITLE 
+MEDIUM 
+REQD 
+DATE REQD 
+STATUS 
+Moriah Maintenance Manual 
+Digital 
+1 set 
+90 days prior to IOC 
+Pending 
+(Portable Document Format) 
+ 
+CIN, COURSE TITLE: 
+A-623-0105, Interior Communications Electrician Class A1 
+TRAINING ACTIVITY: 
+SERVSCOLCOM 
+LOCATION, UIC: 
+Naval Training Center, Great Lakes, 30626 
+ 
+QTY 
+ 
+TECHNICAL MANUAL NUMBER, TITLE 
+MEDIUM 
+REQD 
+DATE REQD 
+STATUS 
+Moriah Maintenance Manual 
+Digital 
+1 set 
+90 days prior to IOC 
+Pending 
+(Portable Document Format) 
+IV - 4 
+
+
+[PAGE 32]
+ 
+PART V - MPT MILESTONES 
+COG CODE 
+MPT MILESTONES 
+DATE 
+STATUS 
+PDA 
+Conducted Analysis of Manpower Personnel and Training requirements 
+Feb 99 
+Completed 
+DA 
+Distributed Draft NTSP for Review 
+Mar 00 
+Completed 
+PDA 
+Promulgated Integrated Logistics Support Master Plan 
+Sep 00 
+Completed 
+PDA 
+Submitted Proposed NTSP to OPNAV 
+Sep 00 
+Completed 
+DCNO (MPT) 
+Approved NTSP 
+Dec 00 
+Completed 
+DA 
+Updated NTSP 
+Dec 01 
+Completed 
+DA 
+Distributed Draft NTSP for Fleet Review 
+Jan 02 
+Completed 
+PDA 
+Release Request For Proposal 
+FY02 
+Completed 
+PDA 
+Submitted Proposed NTSP to OPNAV 
+Jun 02 
+Completed 
+TSA 
+Begin Initial Training (concurrent with installations) 
+Mar 03 
+Pending 
+TSA 
+Deliver Curricula Materials (CBT) 
+FY04 
+Pending 
+PDA 
+Begin Fleet Introduction 
+FY05 
+Pending 
+PDA 
+Attain MSD for Moriah Wind 
+FY07 
+Pending 
+PDA 
+Attain Navy Support Date for Moriah Wind 
+FY08 
+Pending 
+ 
+ 
+V-1
+
+
+[PAGE 33]
+ 
+ 
+PART VI - DECISION ITEMS / ACTION REQUIRED 
+DECISION ITEM OR ACTION REQUIRED 
+COMMAND ACTION 
+DUE DATE 
+STATUS 
+Contract award for Moriah System CBT 
+PMA205 / NAWCADLKE 
+ 
+Pending 
+Replacement for Windbirds / Sensors 
+NAWCADLKE 
+ 
+Pending 
+ 
+ VI - 1 
+ 
+ 
+
+
+[PAGE 34]
+ 
+PART VII - POINTS OF CONTACT 
+NAME / FUNCTION / ACTIVITY, CODE / INTERNET EMAIL 
+TELEPHONE NUMBERS 
+CDR Cory Springer 
+COMM: (202) 762-0260 
+Program / Resource Sponsor 
+DSN: 
+762-0260 
+CNO, N962C2 
+FAX: 
+(202) 762-1025 
+springer.cory@hq.navy.mil 
+CDR Wanda Janus 
+COMM: (703) 602-6758 
+Program / Resource Sponsor 
+DSN: 
+227-6758 
+CNO, N785D1 
+FAX: 
+(703) 602-8523 
+janus.wanda@hq.navy.mil 
+CAPT Terry Merritt 
+COMM: (703) 604-7730 
+Head Aviation Technical Training Branch 
+DSN: 
+664-7730 
+CNO, N789H 
+FAX: 
+(703) 604-6939 
+merritt.terry@hq.navy.mil 
+AZCS Gary Greenlee 
+COMM: (703) 604-7709 
+NTSP Manager 
+DSN: 
+664-7709 
+CNO, N789H7 
+FAX: 
+(703) 604-6939 
+ greenlee.gary@hq.navy.mil  
+Mr. Robert Zweibel 
+COMM: (703) 602-5151 
+Training Technology Policy 
+DSN: 
+332-5151 
+CNO, N795K 
+FAX: 
+(703) 602-5175 
+zweibel.robert@hq.navy.mil 
+CDR Kevin Neary 
+COMM: (703) 695-3247 
+Aviation Manpower 
+DSN: 
+225-3247 
+CNO, N122C1 
+FAX: 
+(703) 614-5308 
+n122c1@bupers.navy.mil 
+Mr. Larry Joy 
+COMM: (301) 757-7006 
+Program Team Leader 
+DSN: 
+757-7006 
+NAVAIR, PMA251E 
+FAX: 
+(301) 757-6800 
+joylt@navair.navy.mil 
+Ms. Rochelle Allen 
+COMM: (301) 757-6813 
+Integrated Product Team Assistant 
+DSN: 
+757-6813 
+NAVAIR, PMA251EB 
+FAX: 
+(301) 757-6800 
+allenra2@navair.navy.mil 
+Mr. Jim Keelan 
+COMM: (732) 323-7898 
+NAWC Team Leader 
+DSN: 
+624-7898 
+NAVAIR (NAWCADLKE), PMA251E1 
+FAX: 
+(732) 323-2262 
+keelanja@navair.navy.mil 
+ACCM Michael Holder 
+COMM: (301) 757-8126 
+ATC Programs Training Systems Manager 
+DSN: 
+757-8126 
+NAVAIR, PMA205-3B1 
+FAX: 
+(301) 757-6945 
+holderma@navair.navy.mil 
+Ms. Teri Kostbar 
+COMM: (732) 323-1841 
+Training Requirements 
+DSN: 
+624-1841 
+NAVAIR (NAWCADLKE), AIR 3.4.5 
+FAX: 
+(732) 323-7402 
+kostbart@navair.navy.mil 
+ 
+VII - 1
+
+
+[PAGE 35]
+ 
+PART VII - POINTS OF CONTACT 
+NAME / FUNCTION / ACTIVITY, CODE / INTERNET EMAIL 
+TELEPHONE NUMBERS 
+Ms. Nancy McQuillan 
+COMM: (732) 323-7808 
+Wind Assistant Program Manager, Logistics 
+DSN: 
+624-7808 
+NAVAIR (NAWCADLKE), AIR 3.1.4.1 
+FAX: 
+(732) 323-4064 
+mcquillanna@navair.navy.mil 
+Mr. Vic Brown 
+COMM: (301) 757-6806 
+ALRE Assistant Program Manager, Logistics 
+DSN: 
+757-6806 
+NAVAIR, AIR 3.1.4C / PMA251L 
+FAX: 
+(301) 757-6800 
+brownvl@navair.navy.mil 
+Mr. Mike Eddowes 
+COMM: (732) 323-1915 
+Systems Engineer 
+DSN: 
+624-1915 
+NAVAIR (NAWCADLKE), AIR 4.8.1.2 
+FAX: 
+(732) 323-4917 
+eddowesmp@navair.navy.mil 
+Mr. Ken White 
+COMM: (732) 323-5262 
+Software Engineer 
+DSN: 
+624-5262 
+NAVAIR (NAWCADLKE), AIR 4.8.3.2 
+FAX: 
+(732) 323-7445 
+whitekg@navair.navy.mil 
+Ms. Denise Johnson 
+COMM: (619) 524-7911 
+Assistant Program Manager In-Situ Systems 
+DSN: 
+524-7911 
+SPAWARSYSCOM, PMW155 
+FAX: 
+(619) 524- 3034 
+johnsodd@spawar.navy.mil 
+Mr. Robby Robinson 
+COMM: (619) 524-7336 
+Assistant Program Manager, Logistics 
+DSN: 
+524-7336 
+SPAWARSYSCOM, PMW155L 
+FAX: 
+(619) 524-3034 
+robinsons@spawar.navy.mil 
+Mr. Robert Calland 
+COMM: (858) 537-0226 
+METOC Systems 
+DSN: 
+577-0226 
+SPAWARSYSCOM, PMW155-2A 
+FAX: 
+(619) 524-3034 
+metociss@spawar.navy.mil 
+CAPT Patricia Huiatt 
+COMM: (901) 874-3529 
+Deputy Assistant, Chief of Naval Personnel for Distribution 
+DSN: 
+882-3529 
+NAVPERSCOM, PERS-4B 
+FAX: 
+(901) 874-2606 
+p4b@persnet.navy.mil 
+CDR Timothy Ferree 
+COMM: (901) 874-3691 
+Branch Head, Aviation Enlisted Assignments 
+DSN: 
+882-3691 
+NAVPERSCOM, PERS-404 
+FAX: 
+(901) 874-2642 
+p404@persnet.navy.mil 
+MAJ Henry Domingue, USMC 
+COMM: (703) 784-6241 
+Head, ACE Branch, TFS Division 
+DSN: 
+278-6241 
+MCCDC, C5325A 
+FAX: 
+(703) 784-6072 
+dominguehj@mccdc.usmc.mil 
+CAPT Pat Salsman 
+COMM: (757) 836-6495 
+Branch Head, Training Requirements and Assessments 
+DSN: 
+836-6495 
+CINCLANTFLT, N-72 
+FAX: 
+(757) 836-6737 
+salsmancp@clf.navy.mil 
+ 
+VII - 2
+
+
+[PAGE 36]
+ 
+PART VII - POINTS OF CONTACT 
+NAME / FUNCTION / ACTIVITY, CODE / INTERNET EMAIL 
+TELEPHONE NUMBERS 
+ 
+VII - 3
+Mr. Bob Long 
+COMM: (808) 471-8513 
+Deputy Director for Training 
+DSN: 
+315-471-8513 
+CINCPACFLT, N70 
+FAX: 
+(808) 471-8596 
+longrh@cpf.navy.mil 
+CAPT Grant Ziebell 
+COMM: (850) 452-4330 
+CNET NTSP Coordination 
+DSN: 
+922-4330 
+CNET, ETS3 
+FAX: 
+(850) 452-4853 
+capt-grant.ziebell@cnet.navy.mil 
+CDR Erich Blunt 
+COMM: (850) 452-4915 
+Aviation Technical Training 
+DSN: 
+922-4915 
+CNET, ETE-32 
+FAX: 
+(850) 452-4901 
+cdr-erich.blunt@cnet.navy.mil 
+Mr. Phil Szczyglowski 
+COMM: (301) 757-8280 
+Competency Manager 
+DSN: 
+757-8280 
+NAVAIR, AIR 3.4.1 
+FAX: 
+(301) 342-7737 
+szczyglowspr@navair.navy.mil 
+Mr. Bob Kresge 
+COMM: (301) 757-1844 
+NTSP Manager 
+DSN: 
+757-1844 
+NAVAIR, AIR 3.4.1 
+FAX: 
+(301) 342-7737 
+kresgerj@navair.navy.mil 
+ADCS Steve Reed 
+COMM: (301) 757-3107 
+NTSP Coordinator 
+DSN: 
+757-3107 
+NAVAIR, AIR 3.4.1 
+FAX: 
+(301) 342-7737 
+reedps@navair.navy.mil 

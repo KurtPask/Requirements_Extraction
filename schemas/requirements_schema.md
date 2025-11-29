@@ -19,7 +19,7 @@ Each processed PDF produces a JSON object containing:
   "doc_number": "string|null",          
   "title": "string|null",               
   "issuing_organization": "string|null",
-  "publication_date": "string|null",    
+  "publication_date": "string|null",    ns
   "cancellation_date": "string|null",
 
   "classification": "string|null",      

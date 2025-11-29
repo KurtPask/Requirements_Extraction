@@ -1,0 +1,3172 @@
+[PAGE 1]
+NAVY TRAINING SYSTEM PLAN
+FOR THE
+STRIKE FIGHTER TRAINING PROGRAM
+N88 NTSP-A-50-9906/A
+MAY 2002
+
+
+[PAGE 2]
+N88-NTSP-A-50-9906/A
+May 2002
+STRIKE FIGHTER TRAINING PROGRAM
+i
+EXECUTIVE SUMMARY
+The Strike Fighter Training Program (SFTP) is a training concept designed to provide the
+infrastructure and support systems necessary for standardized and enhanced training at the fleet
+aircrew level.  The goal is to increase flight crew readiness and combat capabilities while
+achieving training economy and efficiency.
+The Strike Fighter Training System (SFTS) is designed to provide Navy F-14 and Navy
+and Marine Corps F/A-18 Strike Fighter aircrews with a comprehensive, web-based training
+management tool.  It is designed as a single source of Strike Fighter training information to
+deliver training (lectures, interactive courseware), provide access to Strike Fighter reference
+materials, allow interactive scheduling of squadron/unit events, generate reports of aircrew
+qualification standards and track aircrew certification and training via electronic training jackets.
+The SFTS is available to all Strike Fighter squadrons and weapons schools.  SFTS is an
+Abbreviated Acquisition program, currently in the Production and Deployment phase of the
+Defense Acquisition System.  Initial Operational Capability (IOC) was first quarter Fiscal Year
+(FY) 02 and ship installs will continue through FY03 based on availability.
+The SFTP is the initial model for the Aircrew Combat Training Continuum (ACTC) and
+consists of three pillars.
+• The Strike Fighter Tactics Instructor (SFTI) program provides a cadre of formally
+trained instructors tasked to implement and administer the SFTP at the squadron
+and Type Wing Weapons School (TWWS) levels.
+• The Strike Fighter Weapons and Tactics (SFWT) program is a comprehensive
+Weapons and Tactics syllabus that provide a framework for unit level training and
+sets standards of tactical proficiency and combat readiness.
+• The SFTS is a comprehensive web-based training management system with the
+architecture, equipment, and training tools required to provide real-time support to
+the SFTIs and fleet aircrew, whether ashore or afloat.
+A Software Database Administrator position staffed by Contractor personnel located at
+Naval Strike and Air Warfare Center (NSAWC) will perform data and courseware entry and
+afloat support.  SFTIs assigned to NSAWC will serving as Subject Matter Experts (SME) and
+will perform lecture and courseware review and integration functions.
+Analysis and Technology, Inc. delivered the initial set of hardware (and the associated
+software) in third quarter FY98 to NSAWC, Strike Fighter Weapons School Pacific, Strike
+Fighter Weapons School Atlantic, and the Strike Weapons and Tactics School Atlantic.  A
+follow-on contract to install SFTS servers on Aircraft Carriers and Aircraft Carriers, Nuclear
+(CV/CVN), upgrade existing hardware from server-based to web-based, install servers at selected
+
+
+[PAGE 3]
+N88-NTSP-A-50-9906/A
+May 2002
+STRIKE FIGHTER TRAINING PROGRAM
+ii
+Strike Fighter bases, and develop and implement a Training Management System (TMS) was
+awarded to Booz-Allen and Hamilton, Inc. (BAH) in February 1999.  BAH will perform
+maintenance on the hardware during the warranty period.  A third contract for development of the
+courseware that resides on the SFTS was awarded to Logistic Services International, Inc. (LSI) in
+February 1999.
+The SFTP had no impact on existing manpower requirements for F-14 and F/A-18 fleet
+squadrons or TWWSs.  Selected F-14 and F/A-18 aircrews are being trained as SFTIs, who in
+turn, administer the SFWT Program in fleet squadrons.  Their primary responsibilities are internal,
+unit-level training and external standardization and evaluation.  The goal is to provide one SFTI
+to each Fighter Attack Squadron (VFA) F/A-18A/C/E, two (one pilot, one Radar Intercept
+Officer (RIO)) to each Fighter Squadron (VF), and two (one pilot, one Weapons Sensor Officer
+(WSO)) to each VFA F/A-18F squadron.  In most instances, prior to an SFTI serving as a
+squadron Training Officer, he or she will serve a shore tour assignment as an NSAWC instructor,
+TWWS instructor, Fleet Replacement Squadron (FRS) instructor or weapons test instructor.
+Each SFTI is assigned an Additional Qualification Designator (AQD) of DB1 upon completion of
+the SFTI course at NSAWC.
+The Naval Research and Development Department of the Naval Air Systems Command
+was funded by the Chief of Naval Operations (N789), formerly N889, to produce an SFTS
+Interactive Courseware Style Guide and Power Point presentations.  Executive Steering
+Committee (ESC) and Program Advisory Group (PAG) guidance is provided in the SFTP Joint
+Type Commander (TYCOM)/NSAWC Instruction 1525.1B.  These guides provide initial training
+for the SFTS ESC and PAG.  Analysis and Technology, Inc. conducted initial SFTS training in
+May and June 1998 for System Administrators at all Strike Fighter Weapons Schools to include
+Windows NT 4.0, Workstation 4.0, and Cheyenne Server back-up software.  In addition to SFTS-
+related training, the Naval Strike and Air Warfare Center is responsible for follow-on training of
+SFTIs.
+
+
+[PAGE 4]
+N88-NTSP-A-50-9906/A
+May 2002
+STRIKE FIGHTER TRAINING PROGRAM
+iii
+TABLE OF CONTENTS
+Page
+Executive Summary........................................................................................................... 
+i
+List of Acronyms............................................................................................................... 
+iv
+Preface.............................................................................................................................. 
+vii
+PART I  -  TECHNICAL PROGRAM DATA
+A.
+Nomenclature-Title-Program.......................................................................... 
+I-1
+B.
+Security Classification .................................................................................... 
+I-1
+C.
+Manpower, Personnel, and Training Principals................................................ 
+I-1
+D.
+System Description......................................................................................... 
+I-2
+E. Developmental Test and Operational Test....................................................... 
+I-3
+F. 
+Aircraft and/or Equipment/System/Subsystem Replaced ................................. 
+I-3
+G.
+Description of New Development................................................................... 
+I-4
+H.
+Concepts ........................................................................................................ 
+I-10
+1. 
+Operational ............................................................................................. 
+I-10
+2. 
+Maintenance............................................................................................ 
+I-11
+3. 
+Manning.................................................................................................. 
+I-11
+4. 
+Training................................................................................................... 
+I-12
+I. 
+Onboard (In-Service) Training........................................................................ 
+I-15
+J. 
+Logistics Support ........................................................................................... 
+I-15
+K.
+Schedules ....................................................................................................... 
+I-17
+L. Government Furnished Equipment and Contractor Furnished Equipment
+Training Requirements.................................................................................... 
+I-19
+M. Related NTSPs and Other Applicable Documents ........................................... 
+I-19
+PART II  - BILLET AND PERSONNEL REQUIREMENTS ................................... 
+II-1
+PART III  - TRAINING REQUIREMENTS................................................................ 
+III-1
+PART IV  - TRAINING LOGISTICS SUPPORT REQUIREMENTS....................... 
+IV-1
+PART V  - 
+MPT MILESTONES................................................................................. 
+V-1
+PART VI  - DECISION ITEMS/ACTION REQUIRED ............................................. 
+VI-1
+PART VII  - POINTS OF CONTACT...........................................................................
+VII-1
+
+
+[PAGE 5]
+N88-NTSP-A-50-9906/A
+May 2002
+STRIKE FIGHTER TRAINING PROGRAM
+iv
+LIST OF ACRONYMS
+ACOL
+Air Combat On Line
+ACTC
+Aircrew Combat Training Continuum
+AOB
+Average Onboard
+AQD
+Additional Qualification Designator
+ATIR
+Annual Training Input Requirement
+ATRR
+Aircrew Training Requirements Review
+BAH
+Booz-Allen and Hamilton, Inc.
+CAI
+Computer-Aided Instruction
+CBT
+Computer-Based Training
+CIN
+Course Identification Number
+CINCLANTFLT
+Commander in Chief, United States Atlantic Fleet
+CINCPACFLT
+Commander in Chief, United States Pacific Fleet
+CINCUSNAVEUR
+Commander in Chief, United States Naval Forces Europe
+CNO
+Chief of Naval Operations
+COMNAVAIRLANT
+Commander Naval Air Force, U. S. Atlantic Fleet
+COMNAVAIRPAC
+Commander Naval Air Force, U. S. Pacific Fleet
+COMNAVAIRESFOR
+Commander Naval Air Reserve Force
+COTS
+Commercial Off-The-Shelf
+CPU
+Central Processing Unit
+CV
+Aircraft Carrier
+CVN
+Aircraft Carrier, Nuclear
+DAA
+Designated Approval Authority
+DIA
+Defense Intelligence Agency
+DITSCAP
+Defense Information Technology Security Certification and
+Accreditation Process
+ESC
+Executive Steering Committee
+ETJ
+Electronic Training Jacket
+FRD
+Functional Requirements Document
+FRS
+Fleet Replacement Squadron
+FY
+Fiscal Year
+GCI
+Ground Controlled Intercept
+GOTS
+Government Off The Shelf
+
+
+[PAGE 6]
+N88-NTSP-A-50-9906/A
+May 2002
+STRIKE FIGHTER TRAINING PROGRAM
+v
+LIST OF ACRONYMS
+HTML
+Hyper-Text Markup Language
+ICW
+Interactive Courseware
+IOC
+Initial Operational Capability
+IT
+Information Technology Specialist
+IT21
+Information Technology for the 21st Century
+JICPAC
+Joint Intelligence Center Pacific
+JMEM
+Joint Munitions Effectiveness Manual
+LAN
+Local Area Network
+LRU
+Lowest Replaceable Units
+LSI
+Logistics Services International
+MACE
+Missile Air Combat Evaluator
+MAWTS
+Marine Aviation Weapons and Tactics Squadron
+MCAS
+Marine Corps Air Station
+MNS
+Mission Needs Statement
+NA
+Not Applicable
+NAF
+Naval Air Facility
+NALCOMIS
+Naval Aviation Logistics Command Management Information System
+NAS
+Naval Air Station
+NATOPS
+Naval Air Training and Operating Procedures Standardization
+NATSAG
+Naval Aviation Training Strategic Advisory Group
+NAVAIRSYSCOM
+Naval Air System Command
+NAVPERSCOM
+Navy Personnel Command
+NAWCWD
+Naval Air Warfare Center Weapons Division
+NCCOSC
+Naval Command, Control, and Oceanographic System Center
+NMCI
+Navy Marine Corps Internet
+NRaD
+Naval Research and Development
+NSA
+National Security Agency
+NSAWC
+Naval Strike and Air Warfare Center
+NTSP
+Navy Training System Plan
+OPNAV
+Office of the Chief of Naval Operations
+OPO
+Office of the Chief of Naval Operations (OPNAV) Principal Official
+PAG
+Program Advisory Group
+
+
+[PAGE 7]
+N88-NTSP-A-50-9906/A
+May 2002
+STRIKE FIGHTER TRAINING PROGRAM
+vi
+LIST OF ACRONYMS
+PMA
+Program Manager, Air
+RDBMS
+Relational Database Management System
+RFT
+Ready For Training
+RIO
+Radar Intercept Officer
+SFOL
+Strike Fighter On Line
+SFTI
+Strike Fighter Tactics Instructor
+SFTP
+Strike Fighter Training Program
+SFTS
+Strike Fighter Training System
+SFTST
+Strike Fighter Training System Team
+SFWSL
+Strike Fighter Weapons School Atlantic
+SFWSP
+Strike Fighter Weapons School Pacific
+SFWT
+Strike Fighter Weapons and Tactics
+SHARP
+Sierra Hotel Aviation Readiness Program
+SIPRNET
+Secret Internet Protocol Router Network
+SME
+Subject Matter Expert
+SPAWAR
+Space and Naval Warfare Systems Command
+SSAA
+System Security Authorization Agreement
+SWATSLANT
+Strike Weapons and Tactics School Atlantic
+TACTS
+Tactical Air Combat Training System
+TAMPS
+Tactical Aircraft Mission Planning System
+TD
+Training Device
+TMS
+Training Management System
+T&RM
+Training and Readiness Matrix
+TTE
+Technical Training Equipment
+TWWS
+Type Wing Weapons School
+TYCOM
+Type Commander
+USS
+United States Ship
+VA
+Attack Squadron
+VFA
+Fighter Attack Squadron
+WAN
+Wide Area Network
+WSO
+Weapons Sensor Officer
+
+
+[PAGE 8]
+N88-NTSP-A-50-9906/A
+May 2002
+STRIKE FIGHTER TRAINING PROGRAM
+vii
+PREFACE
+This Approved Navy Training System Plan (NTSP) for the Strike Fighter Training
+Program (SFTP), hereafter referred to as SFTP, has been developed to update the SFTP Draft
+NTSP N88-NTSP-A-50-9906/D dated March 2001.  This document has been developed in
+accordance with guidelines set in Office of Chief of Naval Operations (OPNAV) publication P-
+751-1-9-97.  This document reflects current SFTP logistics support requirements for training
+activities that provide instruction on the maintenance and operational use of the SFTP and
+identifies training courses that are affected by the SFTP.  Comments from three reviewing
+activities are also incorporated.  These comments serve to clarify many points in the previous
+(Draft) version.
+
+
+[PAGE 9]
+I-1
+N88-NTSP-A-50-9906/A
+May 2002
+PART I - TECHNICAL PROGRAM DATA
+A.  NOMENCLATURE-TITLE-PROGRAM
+1.  Nomenclature-Title-Acronyms.  Strike Fighter Training Program (SFTP)
+2.  Program Element.  07500N
+B.  SECURITY CLASSIFICATION
+1.  System Characteristics .................
+Unclassified
+2.  Capabilities ...................................
+Unclassified
+3.  Functions.......................................
+Unclassified
+For information pertaining to all elements of program management contact the Developing
+Agency, Program Manager, Air (PMA) 205.
+C.  MANPOWER, PERSONNEL, AND TRAINING PRINCIPALS
+OPNAV Principal Official (OPO) Program Sponsor..................................  CNO (N789F)
+OPO Resource Sponsor............................................................................  CNO (N789F)
+Developing Agency.........................................................  NAVAIRSYSCOM (PMA205)
+Training Agency .............................................................................COMNAVAIRLANT
+COMNAVAIRPAC
+NSAWC
+Training Support Agency................................................  NAVAIRSYSCOM (PMA205)
+Manpower and Personnel Mission Sponsor...................................................  CNO (N12)
+NAVPERSCOM (PERS-433, PERS-4)
+Director of Naval Training .........................................................................  CNO (N795)
+
+
+[PAGE 10]
+I-2
+D.  SYSTEM DESCRIPTION
+1.  Operational Uses.  The SFTP provides a comprehensive web-based training
+management tool designed to provide Strike Fighter aircrew with a single source of training
+information.  SFTP is comprised of three components called “pillars”:
+• Strike Fighter Tactics Instructor (SFTI)
+• Strike Fighter Weapons and Tactics (SFWT) Syllabus
+• Strike Fighter Training System (SFTS)
+The goal of the SFTP is to increase aircrew readiness and combat capabilities while
+achieving training economies and efficiencies.  Specifically, the SFTP develops weapons
+employment and tactics development skills among Navy F/A-18 and F-14 squadrons and Marine
+Aviation Weapons and Tactics Squadron (MAWTS) 1.
+Prior to July 1995, a “training continuum” for F-14 and F/A-18 aircrew personnel did not
+exist, with formalized instruction residing at the Fleet Replacement Squadron (FRS), Strike U.,
+and TOPGUN.  Following FRS training, aircrew personnel received On-the-Job Training in their
+respective squadrons in order to fulfill the requisite training and readiness goals as directed by the
+Type Commanders (TYCOM).  Instruction varied by individual units and lacked standardization.
+This, in turn, affected the aircrew’s ability to maintain proficiency and provided no means to
+adequately determine a unit’s true readiness level.  Additionally, there was no mechanism in place
+to effectively distribute training materials, nor the ability to quickly update changes to weapons,
+sensors, and tactics employment doctrine.
+In November 1995, a Mission Need Statement (MNS) for the Fleet Aircrew Training
+Support System was jointly endorsed by the Commander in Chief, United States Naval Forces,
+Europe (CINCUSNAVEUR); Commander in Chief, United States Pacific Fleet (CINCPACFLT);
+and Commander in Chief, United States Atlantic Fleet (CINCLANTFLT).  From that document,
+the Aircrew Combat Training Continuum (ACTC) concept was established with the SFTP as the
+lead element.  The SFTP includes:
+• Strike Fighter Tactics Instructors.  Fully qualified instructors who administer
+internal squadron training and external standardization.
+• Strike Fighter Weapons and Tactics Syllabus.  Structured academic, simulator,
+and flight syllabi that ensures aircrews are fully trained in critical combat skills and
+thus achieving the highest degree of readiness.
+• Strike Fighter Training System.  A comprehensive secure networked web-based
+training tool designed to provide Strike Fighter aircrews with a single source of
+training information to deliver training, provide access to Strike Fighter reference
+materials, allow interactive scheduling of squadron and unit events, generate
+aircrew qualification status reports, and track aircrew certification and training via
+Electronic Training Jackets (ETJ).
+
+
+[PAGE 11]
+I-3
+The ACTC and SFTP were approved by the Naval Aviation Training Strategic Advisory
+Group (NATSAG) and retained a “Number One Priority” status through Calendar Year 2000.
+Subsequently, the Strike Fighter Training System Team (SFTST) was established through the
+collaboration of CINCPACFLT, CINCLANTFLT, CINCUSNAVEUR, and Naval Strike and Air
+Warfare Center (NSAWC).  It has since evolved into the SFTP Executive Steering Committee
+(ESC) and its subordinate structure, comprised of the Program Advisory Group (PAG) and
+component working groups.  Principal members of the ESC are:
+• Commander, NSAWC
+• Commander Naval Air Force, United States Pacific Fleet (COMNAVAIRPAC)
+• Commander Naval Air Force, United States Atlantic Fleet (COMNAVAIRLANT)
+• Commander Naval Air Reserve Force (COMNAVAIRRESFOR)
+Additional voting members of the ESC are:
+• Commanders, East and West Coast Type Wing
+• Commanding Officer, MAWTS 1
+• Commanding Officer, Strike Fighter Weapons School, Pacific (SFWSP)
+• Commanding Officer, Strike Fighter Weapons School, Atlantic (SFWSL)
+• Commanding Officer, Strike Weapons and Tactics School, Atlantic
+(SWATSLANT)
+Additionally, the ESC advisory members are N789F, PMA205, PMA241, and PMA265.
+The SFTP ESC determines and communicates actual operational training system
+requirements to support fleet combat readiness.  Additionally, the ESC identifies and plans for
+future training requirements, and generates standards for integration and interoperability of
+various training system components.  This is all part of the post-FRS training continuum concept
+as envisioned in the original MNS and communicated through the ACTC program.  The SFTP
+ESC/PAG process provides an annual review of the SFTP, including program recommendations
+to the Air Board, NATSAG, and NATSAG ESC.  The Chief of Naval Operations (CNO) N789,
+CNO N795, TYCOMs, Naval Air Warfare Center Weapons Division (NAWCWD), NAWCTSD,
+PMA205, PMA241, and PMA265 are supporting members of the ESC/PAG.  The supporting
+members provide funding, contractual, engineering, and strategic support for the F-14 and F/A-18
+communities.
+2.  Foreign Military Sales.  Not Applicable (NA)
+E.  DEVELOPMENTAL TEST AND OPERATIONAL TEST.  From April to June 2000,
+Booz-Allen and Hamilton, Inc. (BAH) and the Space and Naval Warfare Systems Command
+(SPAWAR) performed Technical Evaluation (TECHEVAL) integrated testing of the Strike
+Fighter On Line (SFOL) software.  BAH and SPAWAR performed Operational Evaluation
+(OPEVAL) of the SFTS hardware in July 2000.
+F.  AIRCRAFT AND/OR EQUIPMENT/SYSTEM/SUBSYSTEM REPLACED.  NA
+
+
+[PAGE 12]
+I-4
+G.  DESCRIPTION OF NEW DEVELOPMENT
+1.  Functional Description.  As mentioned in the preceding section, the SFTP is
+comprised of three distinct components.  Their specific functions and intents are:
+a.  Strike Fighter Tactics Instructor.  The SFTI course objective is to graduate
+officers who are fully qualified to execute the Strike Fighter Weapons and Tactics (SFWT)
+program and provide internal training and external evaluation at the fleet squadron level.  The
+SFTI course taught at TOPGUN includes flight instruction, command and control integration,
+strike planning, and academics.  The course is nine weeks, is conducted three times annually, and
+produces one replacement SFTI to satisfy fleet requirements every 18 months.  Fleet squadron
+SFTI manning requirements are as follows:
+• F/A-18A/C/E Squadrons - one SFTI each
+• F/A-18F Squadrons - two SFTIs each (one Pilot and one Weapons Sensor
+Officer (WSO))
+• F-14 Squadrons - two SFTIs each (one Pilot and one Radar Intercept
+Officer (RIO))
+NSAWC provides guidance regarding SFTI candidate prerequisites and
+implements and promulgates the SFTI course syllabus and class quota control.  Type Wing
+Commanders promulgate and oversee the SFTI applicant selection process.  NSAWC and Type
+Wing Commanders provide input to Navy Personnel Command (NAVPERSCOM) concerning
+SFTI career paths and distribution.
+b.  Strike Fighter Weapons and Tactics Syllabus.  The SFWT is a
+comprehensive training, qualification, and certification syllabus that includes academics,
+simulators, flights, and external evaluations.  The syllabus objective is to maximize tactical
+proficiency and increase combat effectiveness.  A five-tiered (Levels I-V) approach in designation
+of aircrew will be employed.  Level V is used to designate SFTI course graduates.  Current
+SFWT designations include:
+• Level I....... (FRS Complete)
+• Level II...... (Combat Wingman)
+• Level III .... (Combat Section Lead)
+• Level IV.... (Combat Division Lead)
+• Level V ..... (SFTI Designation)
+The SFWT syllabus and associated qualification and currency guidance will be
+promulgated via a joint Type Wing instruction.  Aviation Type Commander/NSAWC function in
+an advisory role to ensure concurrence with Training and Readiness directives and the SFTI
+training syllabus.
+c.  Strike Fighter Training System.  The SFTS is a critical element of the
+program as it encompasses the distribution network (hardware and software) for the Strike
+Fighter aircrews.  SFTS includes the technology, materials, organizational structure, and inherent
+
+
+[PAGE 13]
+I-5
+processes that are integrated to provide effective program management and oversight.  It enables
+courseware development processes, and produces a repository that delivers high quality training
+materials to fleet Aviators.  Furthermore, it provides a tracking system that quickly, easily, and
+accurately manages Flight Crew SFWT status.  Finally, it provides a web-based distributed
+network that allows classified connectivity between NSAWC, local weapon schools, CV/CVNs,
+and all VF and VFA squadrons.
+(1) Strike Fighter Training System Hardware.  SFTS servers, desktop
+computers, laptop computers and laptop web servers are composed of Commercial Off-The-Shelf
+(COTS) and Government Off-The-Shelf (GOTS) hardware and software.  All COTS hardware
+and software meets or exceed the minimum requirement in accordance with the Navy’s
+Information Technology for the 21st century (IT21) specifications and Navy Marine Corps
+Internet (NMCI) specifications (where operational) that support the delivery, training
+management, and administration requirements.  IT21 specifications were implemented and
+approved by Department of the Navy Chief of Information Office.  NMCI will periodically update
+the hardware, software, and networks to keep up with current technology.
+All SFTS computers are fully accessible to the classified Local Area
+Network (LAN), and Secret Internet Protocol Router Network (SIPRNET) Wide Area Network
+(WAN).  SFTS computers will be used by the Type Wing Weapons School (TWWS) and fleet
+aircrew to deliver training, deliver reference material, schedule squadron and unit events, generate
+reports of aircrew qualification status, and track aircrew certification and training via ETJs.
+SFTS, as a web-based management tool, is designed to deliver training at
+NSAWC, TWWSs, and in F-14 and F/A-18 squadrons.  Training materials include lectures
+(Computer Aided Instruction (CAI)), Interactive Courseware (ICW), and Tests.  CAI is provided
+in two forms:
+• Power Point, which can be downloaded to the desktop computer for modification
+• Hyper-Text Markup Language (HTML), for review without modification
+All training materials, including ICW and tests, can be used for self-paced
+learning or for group presentations.
+(2) Training Management System.  The Training Management System
+(TMS) portion of SFTS is called Strike Fighter On Line (SFOL), which will become Air Combat
+On Line (ACOL) in ACTC.  SFOL is a web-based training and learning management portal that
+permits aircrew to access and manage training materials, courseware, and training records in a
+secure, on-line environment.  A Relational Database Management System (RDBMS) supports
+SFTS, providing a variety of tools for aircrew and staffs to maintain and process training data to
+enhance community knowledge management and decision-making initiatives.  Capabilities include:
+• Facilitating training scheduling by automating training events.  The Training
+Management System manages resource scheduling and resolves scheduling
+conflicts, and then generates schedules for training.
+
+
+[PAGE 14]
+I-6
+• Administering and tracking aircrew training.  Provides a full spectrum management
+from ground-based training through the briefing for a training event, the event, and
+post-event debriefing process, including tools for reviewing aircrew progress and
+remediation.
+• Will be able to assess training system effectiveness, and provide tools for
+measuring and reporting squadron readiness via Sierra Hotel Aviation Readiness
+Program (SHARP).
+• Managing, measuring, and reporting all aircrew qualifications, proficiency, and
+currency, ensuring that access to squadron level data is controlled so that all data
+is available at the squadron level, but access by others is limited.
+(a) Information Management System.  The Information
+Management System’s purpose is to:
+• Disseminate data by generating aircrew qualification reports.
+• Track aircrew certification and training.
+• Provide access to reference materials.  All technical, tactical, and operational
+publications that support the SFTS are stored in the SFTS database as well as
+aircrew data in the electronic training jackets.
+(b) System Administration and Maintenance System.  The
+System Administration and Maintenance System provides SFTIs and network administrators
+the ability to perform system administration at their activity to include:
+• Controlling system access.
+• Monitoring aircrew performance.
+• Performing system operations tasks.
+• Administering the SFTS, the SIPRNET WAN, and LAN.
+• Ensuring system security.
+2.  Physical Description.  The SFTS has a database, file, print, and communication server
+at NSAWC, SFWSP, SFWSL, SWATSLANT, and 12 CV or CVNs.  All servers are in a secure
+location.  Each server will have two sets of duplicate hardware that will meet the requirements of
+IT21 and NMCI specifications at the time of delivery.  The hardware and software specifications
+listed below are:
+NOMENCLATURE
+DESKTOP WORKSTATION
+Central Processing Unit
+(CPU)
+Pentium III, 866MHz with 256K cache, 128MB/100MHz SDRAM,
+10GB HD, 16X DVD ROM, 3.5” Floppy, 10/100 Network Card
+
+
+[PAGE 15]
+I-7
+NOMENCLATURE
+DESKTOP WORKSTATION
+Monitor
+17” Color (16” Viewable)
+Keyboard-Mouse
+Standard
+Software
+Windows 2000, MS Office 2000 Professional, MS Exchange/
+Outlook, Internet Explorer 5.0, Smart Card Support, NetMeeting 3.0,
+Norton A/V, Quicktime 4.1, Shockwave 8.0, Flash 4.0, Adobe
+Acrobat Viewer, WinZip
+NOMENCLATURE
+PORTABLE SEAT (LAPTOP)
+CPU
+Pentium III, 750MHz, 128MB/100MHz SDRAM, 6GB HD, 3.5”
+Floppy, 24X/10X Variable CD, 56K Modem, Integrated 3Com NIC,
+Battery, Case
+Monitor
+14.1” XGA Active X / 17” Color (16” Viewable)
+Keyboard-Mouse
+Standard
+Software
+Windows 2000,  MS Office 2000 Professional, MS Exchange/
+Outlook, Smart Card Support, NetMeeting 3.0, Norton A/V, Internet
+Explorer 5.0, Quicktime 4.1, Shockwave 8.0, Flash 4.0, Adobe
+Acrobat Viewer, WinZip
+NOMENCLATURE
+LAPTOP WEB SERVER
+CPU
+Pentium III, 700MHz, 256MB/100MHz SDRAM, 18GB HD, 3.5”
+Floppy, 40X CD, 56K Modem, Integrated 3Com 10/100 NIC,
+Battery, AC/DC Power Adapter
+Monitor
+14.1” XGA Active X Color
+Keyboard-Mouse
+Standard
+Software
+Windows NT 4.0 Server with SP 6A,  MS Office 2000 Professional,
+Cold Fusion 4.0, Sybase ASA 6.0, Norton A/V, Internet Explorer 5.5,
+Quicktime 4.1, Shockwave 8.0, Flash 4.0, Adobe Acrobat Viewer,
+WinZip, Windows NT Option Pack, Unicenter TNG Framework
+
+
+[PAGE 16]
+I-8
+NOMENCLATURE
+WEB SERVER
+CPU
+Dual Pentium III, 550MHz with 512K Cache, 256MB/100MHz
+SDRAM, 6-18.2GB and 2-9.1GB HDs, 40XCD, 3.5” Floppy, 10/100
+Network Card; DLT Backup Tape Drive
+Monitor
+15” Color
+Keyboard-Mouse
+Standard
+Software
+Windows NT 4.0 Server with SP 6A, ArcServe for NT Working
+Group, Cold Fusion 4.0, PkWare, Sybase ASA 6.0, Norton A/V,
+Internet Explorer 5.0, Quicktime 4.1, Shockwave 8.0, Flash 4.0,
+Adobe Acrobat Viewer, WinZip, Windows NT Option Pack,
+Unicenter TNG Framework
+3.  New Development Introduction.  The SFTP is a new program designed to
+standardize the current fleet training requirements and qualification standards at NSAWC, fleet
+squadrons, and the TWWSs.  Introduction of SFTIs to the fleet began in third quarter Fiscal Year
+(FY) 95 and training of new SFTIs will continue indefinitely.  Introduction of the simulator and
+flight portions of the SFWT syllabus began in fourth quarter FY95.  The academic portion of the
+SFWT syllabus will be introduced to the fleet in second quarter FY02.  The SFWT syllabus
+consist of level II, III, and IV simulator and flight events, and level II academics (ICW, CAI, and
+tests).  Completion of the level II academics contract is expected sometime during the third
+quarter FY02.  Revision and Upgrades to the first delivered syllabi will begin at that time.  The
+first installation of SFTS equipment to NSAWC and the Strike Fighter Weapons Schools was
+completed by A&T in June 1998.  The original server-based equipment was replaced with web-
+based equipment by BAH in March 1999.  SIPERNET access has been installed at Naval Air
+Station (NAS) Oceana, Virginia, and NAS Fallon, Nevada, and is currently being installed at NAS
+Lemoore, California.
+4.  Significant Interfaces.  The SFTP is a new program that introduces SFTS, which is a
+comprehensive, web-based training management tool designed to provide Strike Fighter aircrew
+with a single source of training information.  SFTP will serve as the benchmark or prototype
+program for all other programs developed for the ACTC.  SFTP requires SFTS compliance with
+internet protocols, Intelligence Services, Maintenance Management Data, Weapon System
+Databases, Brief-Debrief Services, Aircraft and Mission Planning Services, and Joint United
+States Air Force/Multi-National Tactical Systems through use of the LAN and SIPERNET WAN
+to reach full operating potential.  This infrastructure is necessary if realistic F/A-18 and F-14
+mission planning and training functions are to be achieved.  The relationship of each interface to
+SFTS is illustrated below:
+
+
+[PAGE 17]
+I-9
+SFTS INTERFACE RELATIONSHIPS
+a.  Local Area Network.  The SFTS LAN uses a network encryption device for
+secure and unsecure modes to protect from external sources and features IT21 high-speed fiber
+optics technology.  A System LAN Administrator provided by NMCI, Government Service,
+Contractor, or Military Automated Information Specialist will be required at NSAWC, SFWSP,
+and SFWSL to maintain the government LAN.
+b.  Secret Internet Protocol Router Network Wide Area Network.  The
+SIPERNET WAN will be used for secure modes to protect from external sources. SIPERNET
+WAN will link to NSAWC, F-14 and F/A-18 squadrons, Strike Fighter Weapons Schools, and
+CV/CVNs as illustrated below:
+SIPRNET
+Strike Fighter Training System
+Maintenance
+Management
+Data
+Aircraft and
+Mission
+Data
+Intelligence
+Sources/
+Services
+Weapons
+System
+Database
+Brief-Debrief
+Services
+Missions
+Planning
+Services
+Joint USAF/
+Multi-National
+Tactical
+Systems
+TRAX
+NALCOMIS
+Range
+Schedules
+e-mail
+JICPAC
+NSA
+DIA
+MACE
+JMEM
+TACTS
+Weather
+GCI
+TAMPS
+Readiness
+Reporting
+System
+(SHARP)
+
+
+[PAGE 18]
+I-10
+SIPRNET WAN
+SIPRNET WAN LINK
+5.  New Features, Configurations, or Material.  NA
+H.  CONCEPTS
+1.  Operational Concept.  Funding for the SFTP is provided by CNO N789 and managed
+by NAVAIRSYSCOM PMA205 during program development.  In second quarter FY02, the
+TYCOMs and NSAWC will assume operation and support of the program.
+The ESC is responsible for SFTP oversight, providing executive level management and
+requirements/policy decision making for major SFTP issues.  The PAG advises the ESC in these
+matters.  NSAWC and the TYCOMs provide daily oversight and execution of the SFTP.
+The SFTIs at NSAWC, SFWSL, SFWSP, and fleet squadrons will have the ability to
+deliver training, schedule squadron and/or unit events, generate aircrew qualification reports, and
+track aircrew certification and training 24 hours a day, whether ashore or afloat.
+SFWSP
+Squadrons
+F/A-18
+NAS
+Lemoore
+Squadrons
+Ashore
+F/A-18
+F-14
+Atsugi
+SWATLANT
+SFWSL
+Squadrons
+Ashore
+F/A-18
+ F-14
+NAS Oceana
+Squadrons
+Ashore
+F/A-18
+MCAS
+Beaufort
+Strike
+Pax River
+NSAWC
+Navy
+Squadrons
+NAS
+Fallon
+MAWTS-1
+MCAS
+Yuma
+CV/CVN
+Carriers
+Deployed
+Squadrons
+Embarked
+VX-9
+NAWCWD
+China
+Lake
+CNAP
+NAS North
+Island
+VX-9
+NAS Pt
+Mugu
+
+
+[PAGE 19]
+I-11
+2.  Maintenance Concept
+a.  Organizational Maintenance.  NMCI, command, or base Automated
+Information Specialist personnel will perform organizational level maintenance on SFTS
+hardware.  Organizational level maintenance is defined as the removal and replacement of Lowest
+Replaceable Units (LRU) at the equipment level (i.e., CPU, monitor, keyboard, printer, etc.).
+BAH will assist or will perform organizational level maintenance during the
+warranty period (approximately two years).
+Government Service or contractor personnel will be located at all Strike Fighter
+locations to load courseware, assist SFTIs with account maintenance security, and monitor the
+overall status of the local server.  The Software Database Administrator will monitor the overall
+status of all SFTS servers, including those afloat and at forward-deployed stations, and perform
+preventive and corrective maintenance.  CVs and CVNs afloat will have an Information
+Technology Specialist (IT) that should be familiar with the SOP provided during the installation.
+Attention should be focused on familiarity with the database and replication configuration and
+routines.  An adequately trained IT with experience or training in System Administration skills for
+NT, IIS, and database administration will be able to handle most if not all discrepancies with the
+SFTS server.
+(1) Preventive Maintenance.  Preventive maintenance actions will consist
+of scheduled system backups, periodic defragmentation of disk drives, and general cleaning.
+(2) Corrective Maintenance.  Corrective maintenance will consist of
+replacing failed LRUs and rebuilding corrupted files.
+b.  Intermediate.  NA
+c.  Depot.  Depot level repair of SFTS will be conducted by NMCI or Automated
+Information Specialist personnel.
+d.  Interim Maintenance.  BAH will provide the interim maintenance for the
+SFTS hardware and associated SFOL during the warranty period (approximately two years),
+ending in fourth quarter FY02.
+e.  Life Cycle Maintenance Plan.  Components will be repaired or replaced as
+they fail.  Life cycle maintenance is not currently planned.
+3.  Manning Concept.  The SFTP has no impact on existing manpower requirements for
+F-14 and F/A-18 communities.  NSAWC, F-14 and F/A-18 squadrons, and Strike Fighter
+Weapons Schools have SFTIs for their activity.  “DB1” is the Additional Qualification Designator
+(AQD) for an SFTI.  The SFTIs will conduct training, schedule squadron and unit events,
+generate aircrew qualification status reports, and track aircrew certification and training.
+Additionally, SFTIs at NSAWC will continually monitor training materials for accuracy and
+currency.
+
+
+[PAGE 20]
+I-12
+NSAWC is responsible for training SFTIs. The following are requirements to attend the
+SFTI courses:
+• Endorsement by Commanding Officer, Air Wing Commander, or Type Wing
+Commander with emphasis on leadership, tactical ability, aviation skills, and
+instructing capability.
+• Selection by Type Wing selection board, which will convene prior to class
+convening dates.
+• Acknowledging acceptance to the SFTI course requires a 24-month active duty sea
+duty obligation after completion of a shore duty assignment at NSAWC, TWWS,
+FRS, or Air Test Squadron and after completion of the SFTI course.
+4.  Training Concept.  NSAWC provides follow-on training.  SFTIs serve as the
+cornerstone of the SFWT program and are responsible for conducting training, generating aircrew
+qualification reports, and tracking aircrew certification and training at their sites.  SFTIs develop
+and retain expert knowledge and core competencies and maintain program continuity.  SFTIs at
+NSAWC and the Type Wings are Subject Matter Experts (SME), who are the hub for weapons
+and tactical information flow to and from fleet SFTIs.
+The SFWT syllabus provides FRS, TWWS, and aircrews standardized, graduate level
+training and certification.  The SFWT syllabus includes formalized academics, simulators, and
+flights.  Simulator and flight events will be representative of those listed in the community
+Training and Readiness Matrix (T&RM), and are not additional events beyond those listed in the
+T&RM.  The SFWT syllabus also has external standardization evaluation within a five-tiered
+approach.
+• Level I .......FRS Complete
+• Level II......Combat Wingman
+• Level III.....Combat Section Lead
+• Level IV.....Combat Division Lead
+• Level V......SFTI Designation
+SFTIs will maintain training records for all aircrew members at their respective squadrons
+on SFTS.  These records are kept as part of the SFOL database and will be used to track the
+following information:
+• Qualification
+• Academic Completions
+• Open and Closed Book Examinations
+• Trainer and Flight Event Grade Sheets
+• Certifications
+• Unsatisfactory Events
+• External Standard Evaluations
+• Level 2, 3, and 4 Wing Recommendations
+
+
+[PAGE 21]
+I-13
+• Individual and Unit Level Training Readiness
+a.  Initial Hardware Training.  The Naval Research and Development (NRaD)
+Division of the Naval Command, Control and Oceanographic System Center (NCCOSC), was
+funded by PMA205 to produce an SFTS Courseware Style Guide.  This action ensured the
+standardization of courseware during the development process.  Analysis and Technology, Inc.
+provided initial server-based SFTS training for System Administrators at NSAWC and at all
+Strike Fighter Weapons Schools from May to June 1998.  The initial training length varied,
+depending on the level of experience of the System Administrators and was recorded as follows:
+NSAWC (three days), SFWSP (one and a one half days), SFWSL (one and one half days), and
+SWATSLANT (ten days).  BAH began initial web-server and TMS training at NSAWC during
+third quarter FY00.
+b. Follow on Training.  The SFTI course is an existing course with CNO
+approval.  A Course Identification Number (CIN) does not apply.
+(1) Operator
+Title ...................
+TOPGUN Strike Fighter Tactics Instructor (Navy)
+CIN ....................
+NA
+Model Manager ..
+NSAWC
+Description .........
+This course provides standardized training to Navy F-
+18A/C/E Pilots, F/A-18F Pilots and WSOs, and F-14
+Pilots and Naval Flight Officers in the knowledge and skills
+required to perform as a SFTI in the fleet and at the Strike
+Fighter Weapons Schools.
+Location .............
+NSAWC, NAS Fallon
+Length ................
+68 days
+Skill identifier ......
+Designator 1310 or 1320
+TTE/TD ..............
+Squadron supplied F-14 and F/A-18 aircraft as applicable
+Prerequisites .......
+Qualified F/A-18 Pilot/WSO or F-14 Pilot/RIO
+
+
+[PAGE 22]
+I-14
+c.  Student Profiles
+SKILL
+IDENTIFIER
+PREREQUISITE SKILL AND
+KNOWLEDGE REQUIREMENTS
+F-14 Pilot 1310
+° E-2D-0032, Survival, Evasion, Resistance, and Escape Training
+° J-495-0413, Shipboard Aircraft Firefighting
+° Q-2A-0010, Joint T-34C Intermediate Flight Training
+° Q-2A-0001, Primary Flight Training
+° Q-2A-0007, T45 Total System (TS) Strike Flight Training
+Curriculum
+° Q-2A-0006, Advanced Strike
+° D-2A-1601 F-14 Pilot Category 1
+F/A-18A/C/E Pilot 1310
+° E-2D-0032, Survival, Evasion, Resistance, and Escape Training
+° J-495-0413, Shipboard Aircraft Firefighting
+° Q-2A-0010, Joint T-34C Intermediate Flight Training
+° Q-2A-0001, Primary Flight Training
+° Q-2A-0007, T45 Total System (TS) Strike Flight Training
+Curriculum
+° Q-2A-0006, Advanced Strike
+° D/E-2A-0610, F/A-18 Fleet Replacement Pilot Category 1
+Pipeline
+F-14 RIO 1320
+° E-2D-0032, Survival, Evasion, Resistance, and Escape Training
+° J-495-0413, Shipboard Aircraft Firefighting
+° Q-9B-0020, Preflight
+° Q-2D-0012, Primary Student Naval Flight Officer and Navigator
+Training
+° Q-2D-0027, Intermediate Student Naval Flight Officer/Navigator
+Training
+° Q-2A-0006, Advanced Strike
+° D-2D-1601, F-14 Naval Flight Officer Category 1
+
+
+[PAGE 23]
+I-15
+SKILL
+IDENTIFIER
+PREREQUISITE SKILL AND
+KNOWLEDGE REQUIREMENTS
+F/A-18F WSO 1320
+° E-2D-0032, Survival, Evasion, Resistance, and Escape Training
+° J-495-0413, Shipboard Aircraft Firefighting
+° Q-9B-0020, Preflight
+° Q-2D-0012, Primary Student Naval Flight Officer and Navigator
+Training
+° Q-2D-0027, Intermediate Student Naval Flight Officer/Navigator
+Training
+° Q-2A-0006, Advanced Strike
+° E-2D-181X, F/A-18F Combat Capable Weapons Sensor Officer
+Training Category 1
+d.  Pipeline Training.  The F-14 and F/A-18 pipeline training tracks are not
+affected by this program.
+I.  ONBOARD (IN-SERVICE) TRAINING
+1.  Proficiency or Other Training Organic to the New Development.  SFTS is an
+onboard proficiency Computer Web Based system that utilizes various interface services
+accessible at each workstation and available at each site.  SFTIs will use the SFTS program at
+each site to manage the SFTP and ensure the development of highly trained aircrews.
+a.  Maintenance Training Improvement Program.  NA
+b.  Aviation Maintenance In-Service Training.  NA
+2.  Personnel Qualification Standards.  NA
+3.  Other Onboard or In-Service Training Packages.  NA
+J.  LOGISTICS SUPPORT
+1.  Manufacturer and Contract Numbers.  Analysis and Technology, Inc. was
+contracted in 1998 to install, maintain, and provide initial training on the SFTS file-based servers
+at NSAWC, SFWSP, SFWSL, and SWATSLANT.  In March 1999, Booz-Allen & Hamilton was
+awarded a contract to develop the SFTS TMS, procure and install web-servers at 14 shore sites
+and 12 CV/CVN sites, and provide initial training.  In March 1999, Logistic Services International
+was awarded a contract to develop approximately 80 hours of ICW and 120 hours of CAI, which
+was based upon the SFWT Level II syllabi for F/A-18 and F-14 aircrews.
+
+
+[PAGE 24]
+I-16
+CONTRACT NUMBER
+MANUFACTURER
+ADDRESS
+N66604-95-D-0047-0112
+Analysis and Technology,
+Inc.
+2650 Camino Del Rio North # 201
+San Diego, CA  92108
+N0001999RXBS88A
+Booz-Allen & Hamilton,
+Inc.
+1615 Murray Canyon Road
+Suite 800
+San Diego, CA  92108
+N0001999RXBS87A
+Logistics Services
+International
+6200 Lake Gray Boulevard
+Jacksonville, FL  32244-5896
+2.  Program Documentation.  Program documentation includes:
+• CINCUSNAVEUR, CINCPACFLT, and CINCLANTFLT Draft MNSs,
+November 1995
+• Strike Fighter Training Program Technical Report, N00421-95-D-1001, approved
+September 1997
+• Commander, Naval Air Force U.S. Pacific Fleet Functional Requirements
+Document (FRD) Version 2.0, April 1996
+• Commander, Naval Air Force U.S. Pacific Fleet Project Implementation Plan (PIP)
+Draft Version 1.1, May 1996
+• Joint COMNAVAIRPACINST/COMNAVAIRLANTINST1525.1B/
+COMNAVSTKAIRWARCENINST 1542.3B/COMNAVAIRESFORINST
+1542.3B, 10 February 1998
+• F-14 NTSP, N88-A-50-8511C/A, approved February 2002
+• F/A-18 Draft NTSP, N88-NTSP-A-50-7703H/A, approved January 2002
+• Strike Fighter Training System, Training Management System Functional
+Requirements Document (FRD), July 1999.
+3.  Technical Data Plan.  F-14 and F/A-18 aircrew use the F-14 and F/A-18 Naval Air
+Training and Operating Procedures Standardization (NATOPS) manual they are issued and the
+instructions listed in element IV.B.3.
+4.  Test Sets, Tools, and Test Equipment.  NA
+5.  Repair Parts.  SFTS is composed of COTS hardware and software that support
+delivery, training management, and administration requirements.  The maintenance and repair of
+the SFTS will be performed by BAH during the warranty period of one year, funded by PMA205.
+
+
+[PAGE 25]
+I-17
+After the expiration of the warranty period, maintenance and repair cost will be funded through
+the TYCOMs.
+6.  Human Systems Integration.  NA
+K.  SCHEDULES
+1.  Installation and Delivery Schedules.  Navy and Marine Corps commands listed
+below received hardware and software to support the SFTS.  MAWTS 1 has the SFTS hardware
+and software at this time, but the Marine Corp is not involved in the SFTP.  If this changes it will
+be included in updates to this document.
+DELIVERY AND INSTALLATION SCHEDULE (HARDWARE AND SOFTWARE)
+FY99
+FY00
+FY01
+FY02
+ACTIVITY                  QUARTER:
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+NSAWC NAS Fallon
+X
+SFWSL NAS Oceana, Attack
+Squadron (VA)
+X
+SFWSP NAS Lemoore
+X
+SWATSLANT NAS Oceana
+X
+NAS Patuxent River (STRIKE)
+X
+NAS North Island (CNAP)
+X
+NAS Pt. Mugu (VX-9) (TBD)
+NAWCWD China Lake
+X
+MAWTS-1, Yuma
+X
+Naval Air Facility (NAF) Atsugi,
+Japan
+X
+CV 63 USS Kitty Hawk
+X
+CV 64 USS Constellation
+X
+CVN 65 USS Enterprise
+X
+CV 67 USS John F. Kennedy
+X
+CVN 68 USS Nimitz
+X
+CVN 69 USS Dwight D. Eisenhower
+(TBD)
+
+
+[PAGE 26]
+I-18
+FY99
+FY00
+FY01
+FY02
+ACTIVITY                  QUARTER:
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+CVN 70 USS Carl Vinson
+X
+CVN 71 USS Theodore Roosevelt
+X
+CVN 72 USS Abraham Lincoln
+X
+CVN 73 USS George Washington
+X
+CVN 74 USS John C. Stennis
+X
+CVN 75 USS Harry S. Truman
+X
+CVN 76 USS Ronald Reagan (TBD)
+The courseware developed by Logistic Services International (LSI) is a mix of ICW and
+CAI.  As each lesson is completed, it is delivered to NSAWC for review.  Upon approval by
+PMA205 and NSAWC, each lesson is placed on the network and considered ready for training.
+The initial server file-based courseware development began in February 1999 with web-based
+courseware delivery completed by the end of first quarter FY02.
+DELIVERY AND INSTALLATION SCHEDULE (COURSEWARE)
+FY99
+FY00
+FY01
+FY02
+COURSEWARE         QUARTER:
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+Interactive Courseware
+X
+X X
+X X
+X X
+X X X
+X
+Computer Aided Instruction
+X
+X X
+X X
+X X
+X X X
+X
+2.  Ready For Operational Use Schedule.  Installation of hardware and software will be
+required at NSAWC, SFWSP, SFWSL, SWATSLANT, CVs, and CVNs.  SFTS will be ready for
+operational use upon completion of installation.
+3.  Time Required to Install at Operational Sites.  Hardware installation time varies,
+depending on currently existing hardware at each activity.
+4.  Foreign Military Sales and Other Source Delivery Schedule.  NA
+5.  Training Device and Technical Training Equipment Delivery Schedule.  Refer to
+Part IV, element IV.A.1 for applicable Technical Training Equipment (TTE).  There are no
+Training Devices (TD) associated with SFTS.
+
+
+[PAGE 27]
+I-19
+L.  GOVERNMENT FURNISHED EQUIPMENT AND CONTRACTOR FURNISHED
+EQUIPMENT TRAINING REQUIREMENTS.  NA
+M.  RELATED NTSPs AND OTHER APPLICABLE DOCUMENTS
+DOCUMENT
+OR NTSP TITLE
+DOCUMENT
+OR NTSP NUMBER
+PDA
+CODE
+STATUS
+Functional Requirements
+Document Version 2.0
+NA
+COMNAVAIRPAC
+Approved
+Apr 96
+Project Implementation Plan
+Draft Version 1.1
+NA
+COMNAVAIRPAC
+Approved
+May 96
+Strike Fighter Training
+System, Training
+Management System
+Functional Requirements
+Document
+NA
+PMA205
+Approved
+Jul 99
+Strike Fighter Training
+Program Instruction
+COMNAVAIRPAC INST
+1525.1B
+COMNAVAIRLANT
+INST 1525.1B
+COMNAVAIRESFOR
+INST 1542.3B
+COMNAVSTKAIRWAR
+CENINST 1542.3B
+COMNAVAIRPAC
+COMNAVAIRLANT
+COMNAVAIRESFOR
+NSAWC
+Signed
+Feb 98
+Strike Fighter Training
+Program Technical Report
+N00421-95-D-1001
+PMA205
+Approved
+Sep 97
+F-14A/B, Aircraft NTSP
+NTSP-A-50-8511C/D
+PMA241
+Approved
+Mar 00
+F/A-18 Weapon System
+NTSP
+NTSP-A-50-9201H/D
+PMA265
+Draft
+Nov 00
+Mission Need Statement
+NA
+CINCUSNAVEUR,
+CINCPACFLT, and
+CINCLANTFLT
+Draft
+Nov 95
+
+
+[PAGE 28]
+II - 1
+PART II - BILLET AND PERSONNEL REQUIREMENTS
+The following elements are not affected by the Strike Fighter Training Program and therefore, are not included in Part II of this
+NTSP.
+II.A.  Billet Requirements
+II.A.2.a.  Operational and Fleet Support Activity Deactivation Schedule
+II.A.2.b.  Billets to be Deleted in Operational and Fleet Support Activities
+II.A.2.c.  Total Billets to be Deleted in Operational and Fleet Support Activities
+Note 1: The billets listed in Part II are from the Top Gun curriculum to show throughput for the SFTP.  This is necessary to view
+impacted commands in Parts II and III of this NTSP.  These are existing billets.
+
+
+[PAGE 29]
+II - 2
+PART II - BILLET AND PERSONNEL REQUIREMENTS
+II.A.  BILLET REQUIREMENTS
+II.A.1.a.  OPERATIONAL AND FLEET SUPPORT ACTIVITY ACTIVATION SCHEDULE
+SOURCE: Total Force Manpower Management System Activity Manpower Documents
+DATE: 10/1/2001
+ACTIVITY, UIC
+PFYs
+CFY02
+FY03
+FY04
+FY05
+FY06
+OPERATIONAL ACTIVITIES - NAVY
+VF 101
+65552
+1
+0
+0
+0
+0
+0
+VF 101 Detachment
+47788
+1
+0
+0
+0
+0
+0
+VF 102
+09717
+1
+0
+0
+0
+0
+0
+VF 103
+09718
+1
+0
+0
+0
+0
+0
+VF 11
+09560
+1
+0
+0
+0
+0
+0
+VF 14
+09084
+1
+0
+0
+0
+0
+0
+VF 143
+09281
+1
+0
+0
+0
+0
+0
+VF 2
+09113
+1
+0
+0
+0
+0
+0
+VF 211
+09086
+1
+0
+0
+0
+0
+0
+VF 213
+09934
+1
+0
+0
+0
+0
+0
+VF 31
+09473
+1
+0
+0
+0
+0
+0
+VF 32
+09053
+1
+0
+0
+0
+0
+0
+VF 41
+09774
+1
+0
+0
+0
+0
+0
+VFA 105
+65183
+1
+0
+0
+0
+0
+0
+VFA 106
+65550
+1
+0
+0
+0
+0
+0
+VFA 131
+63934
+1
+0
+0
+0
+0
+0
+VFA 136
+55141
+1
+0
+0
+0
+0
+0
+VFA 15
+09015
+1
+0
+0
+0
+0
+0
+VFA 37
+09478
+1
+0
+0
+0
+0
+0
+VFA 81
+09221
+1
+0
+0
+0
+0
+0
+VFA 82
+09122
+1
+0
+0
+0
+0
+0
+VFA 83
+09223
+1
+0
+0
+0
+0
+0
+VFA 86
+09943
+1
+0
+0
+0
+0
+0
+VFA 87
+63922
+1
+0
+0
+0
+0
+0
+VFA-174
+00174
+0
+0
+0
+1
+0
+0
+VX 9
+55646
+1
+0
+0
+0
+0
+0
+VF 154
+09678
+1
+0
+0
+0
+0
+0
+VFA 113
+09092
+1
+0
+0
+0
+0
+0
+VFA 115
+09604
+1
+0
+0
+0
+0
+0
+VFA 122
+09355
+1
+0
+0
+0
+0
+0
+VFA 125
+65559
+1
+0
+0
+0
+0
+0
+VFA 137
+55142
+1
+0
+0
+0
+0
+0
+VFA 146
+09063
+1
+0
+0
+0
+0
+0
+VFA 147
+63925
+1
+0
+0
+0
+0
+0
+VFA 151
+09558
+1
+0
+0
+0
+0
+0
+VFA 192
+09076
+1
+0
+0
+0
+0
+0
+VFA 195
+09706
+1
+0
+0
+0
+0
+0
+VFA 22
+09561
+1
+0
+0
+0
+0
+0
+VFA 25
+09637
+1
+0
+0
+0
+0
+0
+VFA 27
+65185
+1
+0
+0
+0
+0
+0
+VFA 94
+09295
+1
+0
+0
+0
+0
+0
+VFA 97
+63923
+1
+0
+0
+0
+0
+0
+
+
+[PAGE 30]
+II - 3
+II.A.1.a.  OPERATIONAL AND FLEET SUPPORT ACTIVITY ACTIVATION SCHEDULE
+SOURCE: Total Force Manpower Management System Activity Manpower Documents
+DATE: 10/1/2001
+ACTIVITY, UIC
+PFYs
+CFY02
+FY03
+FY04
+FY05
+FY06
+TOTAL:
+41
+0
+0
+1
+0
+0
+OPERATIONAL ACTIVITIES - USMC
+MAWTS 1
+55167
+1
+0
+0
+0
+0
+0
+TOTAL:
+1
+0
+0
+0
+0
+0
+FLEET SUPPORT ACTIVITIES - NAVY
+Strike Fighter Weapons School Atlantic
+47084
+1
+0
+0
+0
+0
+0
+Strike Weapons and Tactics School Atlantic
+47157
+1
+0
+0
+0
+0
+0
+NSAWC
+69190
+1
+0
+0
+0
+0
+0
+Strike Fighter Weapons School Pacific
+35185
+1
+0
+0
+0
+0
+0
+TOTAL:
+4
+0
+0
+0
+0
+0
+Note:  The Commands listed in this element will have SFTS installed.
+
+
+[PAGE 31]
+II - 4
+II.A.1.b.  BILLETS REQUIRED FOR OPERATIONAL AND FLEET SUPPORT ACTIVITIES
+   BILLETS
+DESIG/
+PNEC/
+SNEC/
+ACTIVITY, UIC, PHASING INCREMENT
+ OFF
+ ENL
+RATING
+PMOS
+SMOS
+OPERATIONAL ACTIVITIES - NAVY
+VF 101, 65552
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VF 101 Detachment, 47788
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VF 102, 09717
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VF 103, 09718
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+
+
+[PAGE 32]
+II - 5
+II.A.1.b.  BILLETS REQUIRED FOR OPERATIONAL AND FLEET SUPPORT ACTIVITIES
+   BILLETS
+DESIG/
+PNEC/
+SNEC/
+ACTIVITY, UIC, PHASING INCREMENT
+ OFF
+ ENL
+RATING
+PMOS
+SMOS
+VF 11, 09560
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VF 14, 09084
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VF 143, 09281
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VF 2, 09113
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VF 211, 09086
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VF 213, 09934
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VF 31, 09473
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VF 32, 09053
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+
+
+[PAGE 33]
+II - 6
+
+
+[PAGE 34]
+II - 7
+II.A.1.b.  BILLETS REQUIRED FOR OPERATIONAL AND FLEET SUPPORT ACTIVITIES
+   BILLETS
+DESIG/
+PNEC/
+SNEC/
+ACTIVITY, UIC, PHASING INCREMENT
+ OFF
+ ENL
+RATING
+PMOS
+SMOS
+VF 41, 09774
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VFA 105, 65183
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 106, 65550
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 131, 63934
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 136, 55141
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 15, 09015
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 37, 09478
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 81, 09221
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 82, 09122
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+
+
+[PAGE 35]
+II - 8
+II.A.1.b.  BILLETS REQUIRED FOR OPERATIONAL AND FLEET SUPPORT ACTIVITIES
+   BILLETS
+DESIG/
+PNEC/
+SNEC/
+ACTIVITY, UIC, PHASING INCREMENT
+ OFF
+ ENL
+RATING
+PMOS
+SMOS
+VFA 83, 09223
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 86, 09943
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 87, 63922
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA-174, 00174, FY04 Increment
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VX 9, 55646
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VF 154, 09678
+ACDU
+1
+0
+1310
+1
+0
+1320
+ACTIVITY TOTAL:
+2
+0
+VFA 113, 09092
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 115, 09604
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 122, 09355
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+
+
+[PAGE 36]
+II - 9
+II.A.1.b.  BILLETS REQUIRED FOR OPERATIONAL AND FLEET SUPPORT ACTIVITIES
+   BILLETS
+DESIG/
+PNEC/
+SNEC/
+ACTIVITY, UIC, PHASING INCREMENT
+ OFF
+ ENL
+RATING
+PMOS
+SMOS
+VFA 125, 65559
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 137, 55142
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 146, 09063
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 147, 63925
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 151, 09558
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 192, 09076
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 195, 09706
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 22, 09561
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 25, 09637
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+
+
+[PAGE 37]
+II - 10
+II.A.1.b.  BILLETS REQUIRED FOR OPERATIONAL AND FLEET SUPPORT ACTIVITIES
+   BILLETS
+DESIG/
+PNEC/
+SNEC/
+ACTIVITY, UIC, PHASING INCREMENT
+ OFF
+ ENL
+RATING
+PMOS
+SMOS
+VFA 27, 65185
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 94, 09295
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+VFA 97, 63923
+ACDU
+1
+0
+1310
+ACTIVITY TOTAL:
+1
+0
+FLEET SUPPORT ACTIVITIES - NAVY
+Strike Fighter Weapons School Atlantic, 47084
+ACDU
+1
+0
+1310
+10
+0
+1312
+ACTIVITY TOTAL:
+11
+0
+Strike Weapons and Tactics School Atlantic, 47157
+ACDU
+13
+0
+1302
+5
+0
+1310
+1
+0
+1320
+11
+0
+1322
+ACTIVITY TOTAL:
+30
+0
+Strike Fighter Weapons School Pacific, 35185
+ACDU
+1
+0
+1310
+15
+0
+1312
+3
+0
+1322
+ACTIVITY TOTAL:
+19
+0
+Note:  The Commands listed in this element will have SFTIs assigned.
+
+
+[PAGE 38]
+II - 11
+II.A.1.c.  TOTAL BILLETS REQUIRED FOR OPERATIONAL AND FLEET SUPPORT ACTIVITIES
+DESIG/
+PNEC/SNEC
+PFYs
+CFY02
+FY03
+FY04
+FY05
+FY06
+RATING
+PMOS/SMOS
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+NAVY OPERATIONAL ACTIVITIES  -  ACDU
+1310
+41
+0
+0
+1
+0
+0
+1320
+14
+0
+0
+0
+0
+0
+NAVY FLEET SUPPORT ACTIVITIES  -  ACDU
+1302
+13
+0
+0
+0
+0
+0
+1310
+7
+0
+0
+0
+0
+0
+1312
+25
+0
+0
+0
+0
+0
+1320
+1
+0
+0
+0
+0
+0
+1322
+14
+0
+0
+0
+0
+0
+SUMMARY TOTALS:
+NAVY OPERATIONAL ACTIVITIES  -  ACDU
+55
+0
+0
+1
+0
+0
+NAVY FLEET SUPPORT ACTIVITIES  -  ACDU
+60
+0
+0
+0
+0
+0
+GRAND TOTALS:
+NAVY  -  ACDU
+115
+0
+0
+1
+0
+0
+
+
+[PAGE 39]
+II - 12
+II.A.3. TRAINING ACTIVITIES INSTRUCTOR AND SUPPORT BILLET REQUIREMENTS
+DESIG
+PNEC/SNEC
+PFYs
+CFY02
+FY03
+FY04
+FY05
+FY06
+RATING
+PMOS/SMOS
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+TRAINING ACTIVITY, LOCATION, UIC: Naval Strike and Air Warfare Center (TOPGUN), NAS Fallon, 69190
+INSTRUCTOR BILLETS
+ACDU
+1310
+23
+0
+23
+0
+23
+0
+23
+0
+23
+0
+23
+0
+TOTAL: 
+23
+0
+23
+0
+23
+0
+23
+0
+23
+0
+23
+0
+
+
+[PAGE 40]
+II - 13
+II.A.4.  CHARGEABLE STUDENT BILLET REQUIREMENTS
+ACTIVITY,     
+USN/
+PFYs
+CFY02
+FY03
+FY04
+FY05
+FY06
+LOCATION, UIC
+USMC
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+Naval Strike and Air Warfare Center (TOPGUN), NAS Fallon, 69190
+NAVY
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+SUMMARY TOTALS:
+NAVY
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+GRAND TOTALS:
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Note:  SFTIs will not be chargeable.
+
+
+[PAGE 41]
+II - 14
+II.A.5.  ANNUAL INCREMENTAL AND CUMULATIVE BILLETS
+DESIG/
+PNEC/
+SNEC/
+BILLET
+CFY02
+FY03
+FY04
+FY05
+FY06
+RATING
+PMOS
+SMOS
+BASE
++/-
+CUM
++/-
+CUM
++/-
+CUM
++/-
+CUM
++/-
+CUM
+a. OFFICER - USN
+Operational Billets ACDU and TAR
+1310
+41
+0
+41
+0
+41
+1
+42
+0
+42
+0
+42
+1320
+14
+0
+14
+0
+14
+0
+14
+0
+14
+0
+14
+Fleet Support Billets ACDU and TAR
+1302
+13
+0
+13
+0
+13
+0
+13
+0
+13
+0
+13
+1310
+7
+0
+7
+0
+7
+0
+7
+0
+7
+0
+7
+1312
+25
+0
+25
+0
+25
+0
+25
+0
+25
+0
+25
+1320
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1322
+14
+0
+14
+0
+14
+0
+14
+0
+14
+0
+14
+Staff Billets ACDU and TAR
+1310
+23
+0
+23
+0
+23
+0
+23
+0
+23
+0
+23
+TOTAL USN OFFICER BILLETS:
+Operational
+55
+0
+55
+0
+55
+1
+56
+0
+56
+0
+56
+Fleet Support
+60
+0
+60
+0
+60
+0
+60
+0
+60
+0
+60
+Staff
+23
+0
+23
+0
+23
+0
+23
+0
+23
+0
+23
+b. ENLISTED - USN
+Not Applicable
+c. OFFICER - USMC
+Not Applicable
+d. ENLISTED - USMC
+Not Applicable
+
+
+[PAGE 42]
+II - 15
+II.B.  PERSONNEL REQUIREMENTS
+II.B.1.  ANNUAL TRAINING INPUT REQUIREMENTS
+CIN, COURSE TITLE: (CIN is Not Applicable) TOPGUN Strike Fighter Tactics Instructor (Navy)
+COURSE LENGTH:
+10.0 Weeks
+NAVY TOUR LENGTH: 36 Months
+ATTRITION FACTOR: Navy: 0%     USMC: 0%
+BACKOUT FACTOR:
+0.20
+TRAINING 
+ACDU/TAR
+CFY02
+FY03
+FY04
+FY05
+FY06
+ACTIVITY
+SOURCE
+SELRES
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+Naval Strike and Air Warfare Center (TOPGUN), NAS Fallon
+NAVY
+ACDU
+38
+39
+39
+39
+39
+TOTAL:
+38
+39
+39
+39
+39
+
+
+[PAGE 43]
+III - 1
+PART III - TRAINING REQUIREMENTS
+The following elements are not affected by the Strike Fighter Training Program, and therefore, are not included in Part III of this
+NTSP:
+III.A.  Training Course Requirements
+III.A.1.  Initial Training Requirements
+III.A.2.  Follow-on Training
+III.A.2.b.  Planned Courses
+III.A.2.c.  Unique Courses
+III.A.3.  Existing Training Phased Out
+
+
+[PAGE 44]
+III - 2
+III.A.2.  FOLLOW-ON TRAINING
+III.A.2.a.  EXISTING COURSES
+CIN, COURSE TITLE:
+(CIN is NA) TOPGUN Strike Fighter Tactics Instructor (Navy)
+TRAINING ACTIVITY:
+Naval Strike and Air Warfare Center (TOPGUN)
+LOCATION, UIC:
+NAS Fallon, 69190
+SOURCE:
+NAVY
+STUDENT CATEGORY: ACDU - TAR
+CFY01
+FY02
+FY03
+FY04
+FY05
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+ OFF  ENL
+32
+32
+32
+32
+32
+ATIR
+32
+32
+32
+32
+32
+Output
+6.0
+6.0
+6.0
+6.0
+6.0
+AOB
+0.0
+0.0
+0.0
+0.0
+0.0
+Chargeable
+
+
+[PAGE 45]
+IV - 1
+PART IV - TRAINING LOGISTICS SUPPORT REQUIREMENTS
+The following elements are not affected by the Strike Fighter Training Program, and therefore, are not included in Part IV of this
+NTSP:
+IV.A.  Training Hardware
+IV.A.2.  Training Devices
+IV.B.  Courseware Requirements
+IV.B.1.  Training Services
+IV.C.  Facility Requirements
+IV.C.1.  Facility Requirements Summary (Space / Support) By Activity
+IV.C.2.  Facility Requirements Detailed By Activity and Course
+IV.C.3.  Facility Project Summary by Program
+
+
+[PAGE 46]
+IV - 2
+PART IV - TRAINING LOGISTICS SUPPORT REQUIREMENTS
+IV.A.  TRAINING HARDWARE
+IV.A.1.  TTE / GPTE / SPTE / ST / GPETE / SPETE
+CIN, COURSE TITLE: (CIN is NA) TOPGUN Strike Fighter Tactics Instructor (Navy)
+TRAINING ACTIVITY: Naval Strike and Air Warfare Center (TOPGUN)
+LOCATION, UIC:
+NAS Fallon, 69190
+ITEM
+EQUIPMENT /
+QTY
+DATE
+GFE
+NO.
+TYPE OR RANGE OF REPAIR PARTS
+REQD
+REQD
+CFE
+STATUS
+TTE
+001
+Desktop Workstation
+12
+May 98
+GFE
+Onboard
+002
+Development Station
+4
+May 98
+GFE
+Onboard
+003
+Laptop
+1
+May 98
+GFE
+Onboard
+004
+Projectors
+2
+May 98
+GFE
+Onboard
+
+
+[PAGE 47]
+IV - 3
+IV.B.2.  CURRICULA MATERIALS AND TRAINING AIDS
+CIN, COURSE TITLE: (CIN is NA) TOPGUN Strike Fighter Tactics Instructor (Navy)
+TRAINING ACTIVITY: Naval Strike and Air Warfare Center (TOPGUN)
+LOCATION, UIC:
+NAS Fallon, 69190
+QTY
+DATE
+TYPES OF MATERIAL OR AID
+REQD
+REQD
+STATUS
+Computer Aided Instructions
+1
+Sep 98
+Onboard
+Course Outline
+1
+Jul 95
+Onboard
+Instructor Guide
+1
+Jul 95
+Onboard
+Interactive Courseware Lectures
+1
+Sep 01
+Pending
+Student Guides
+1
+Jul 95
+Onboard
+Note: The Course Outline, Instructor Guide, and Student Guides are saved on a computer and printed as needed.
+
+
+[PAGE 48]
+IV - 4
+IV.B.3.  TECHNICAL MANUALS
+CIN, COURSE TITLE:
+(CIN is NA) TOPGUN Strike Fighter Tactics Instructor (Navy)
+TRAINING ACTIVITY:
+Naval Strike and Air Warfare Center (TOPGUN)
+LOCATION, UIC:     
+NAS Fallon, 69190
+QTY
+DATE
+TECHNICAL MANUAL NUMBER / TITLE     
+MEDIUM
+REQD
+REQD
+STATUS
+COMNAVAIRPACINST 1525.1A / COMNAVAIRLANTINST
+Hard copy
+1
+Jul 95
+Onboard
+1525.1A / COMNAVAIRRESFORINST 1542.3A, Strike Fighter
+Tactics Instructor and Strike Fighter Weapons and Tactics Program
+
+
+[PAGE 49]
+V-1
+PART V - MPT MILESTONES
+COG CODE
+MPT MILESTONES
+DATE
+STATUS
+TSA
+Began SFTI Follow-On Training
+Jul 95
+Complete
+d
+TSA
+Delivered Curricula Materials
+Jul 95
+Complete
+d
+PDA
+Conducted Analysis of MPT Requirements
+Apr 98
+Complete
+d
+TSA
+Developed Draft NTSP
+Apr 98
+Complete
+d
+TSA
+Began SFTS Initial Training
+Aug 98
+Complete
+d
+TSA
+Delivered TTE
+Aug 98
+Complete
+d
+TSA
+Installed TTE
+Aug 98
+Complete
+d
+OPTEVFOR
+Conducted TECHEVAL
+Apr 00
+Complete
+d
+OPTEVFOR
+Conducted OPEVAL
+Jul 00
+Complete
+d
+PDA
+Began Initial Fleet Introduction
+Mar 01
+Complete
+d
+TSA
+Deliver and Install Courseware
+Oct 01
+Ongoing
+TSA
+Developed Proposed NTSP
+Feb 02
+Complete
+d
+
+
+[PAGE 50]
+VI-1
+PART VI - ACTION ITEMS / ACTION REQUIRED
+ACTION ITEM OR
+ACTION REQUIRED
+COMMAND ACTION
+DUE DATE
+STATUS
+None
+
+
+[PAGE 51]
+PART VII - POINTS OF CONTACT
+NAME / FUNCTION / ACTIVITY, CODE / INTERNET EMAIL
+TELEPHONE NUMBERS
+VII-1
+CAPT William Kordis
+COMM: (703) 604-7763
+Head, Aviation Training Resources and Tactical Training Range
+DSN:
+664-7763
+CNO, N789F
+FAX:
+(703) 604-6969
+kordis.william@hq.navy.mil
+CAPT Terry Merritt
+COMM: (703) 604-7730
+Aviation Technical Training Branch
+DSN:
+664-7730
+CNO, N789H
+FAX:
+(703) 604-6939
+merritt.terry@hq.navy.mil
+AZCS Gary Greenlee
+COMM: (703) 604-7709
+NTSP Manager
+DSN:
+664-7709
+CNO, N789H7
+FAX:
+(703) 604-6939
+greenlee.gary@hq.navy.mil
+CDR Scott Stroble
+COMM: (703) 604-7721
+HSHC Training Requirements
+DSN:
+664-7721
+CNO, N789F3
+FAX:
+(703) 604-6939
+stroble.scott@hq.navy.mil
+CDR Kevin Neary
+COMM: (703) 695-3247
+Aviation Manpower
+DSN:
+225-3247
+CNO, N122C1
+FAX:
+(703) 614-5308
+n122c1@bupers.navy.mil
+Mr. Robert Zweibel
+COMM: (703) 602-5151
+Training Technology Policy
+DSN:
+602-5151
+CNO, N795K
+FAX:
+(703) 602-5175
+zweibel.robert@hq.navy.mil
+Ms. Gweneen Scruggs
+COMM: (301) 757-8163
+SFTP Program Manager
+DSN:
+757-8163
+NAVAIRSYSCOM, PMA205-3G
+FAX:
+(301) 757-6945
+scruggsgs@navair.navy.mil
+CAPT Pete Williams
+COMM: (301) 757-7355
+F-14 Program Manager
+DSN:
+757-7355
+NAVAIRSYSCOM, PMA241
+FAX:
+(301) 757-6577
+williamspj@navair.navy.mil
+Debbie Adams
+COMM: (301) 757-8106
+F-14 Training Systems Program Manager
+DSN:
+757-8108
+NAVAIRSYSCOM, PMA205-1B
+FAX: 
+(301) 757-6941
+adamsdl2@navair.navy.mil
+CAPT Jeff Wieringa
+COMM: (301) 757-7669
+F/A-18 Program Manager
+DSN:
+757-7669
+NAVAIRSYSCOM, PMA265
+FAX:
+(301) 757-7679
+wieringaja@navair.navy.mil
+
+
+[PAGE 52]
+PART VII - POINTS OF CONTACT
+NAME / FUNCTION / ACTIVITY, CODE / INTERNET EMAIL
+TELEPHONE NUMBERS
+VII-2
+CDR Mike Hohl
+COMM: (757) 836-0085
+Aviation NTSP Point of Contact
+DSN:
+836-0085
+CINCLANTFLT, N713
+FAX: 
+(757) 836-6737
+hohlmj@clf.navy.mil
+Mr. Bob Long
+COMM: (808) 471-8513
+Deputy Director of Training
+DSN:
+471-8513
+CINCPACFLT, N70
+FAX:
+(808) 471-8613
+u70@cpf.navy.mil
+CAPT Patricia Huiatt
+COMM: (901) 874-3929
+Deputy Assistant, Chief of Military Personnel for Distribution
+DSN:
+882-3529
+NAVPERSCOM, PERS-4B
+FAX:
+(901) 874-2606
+p4b@persnet.navy.mil
+LCDR Craig Yager
+COMM: (703) 693-4344
+Officer Placement, Aviation VFA
+DSN:
+224-4344
+NAVPERSCOM, PERS-433A
+FAX:
+(703) 693-1392
+p433a@persnet.navy.mil
+LCDR Steve Koehler
+COMM: (901) 874-3979
+Officer Placement, Aviation VF
+DSN:
+882-3979
+NAVPERSCOM, PERS-433B
+FAX:
+(901) 874-2756
+p433b@persnet.navy.mil
+Mr. Al Sargent
+COMM: (901) 874-6247
+NAVMAC NTSP Coordinator
+DSN:
+882-6247
+NAVMAC, 33
+FAX:
+(901) 874-6471
+al.sargent@navmac.navy.mil
+CAPT Grant Ziebell
+COMM: (850) 452-4330
+CNET NTSP Coordinator
+DSN:
+922-4330
+CNET, ETS-3
+FAX:
+(850) 452-4853
+capt-grant.ziebell@cnet.navy.mil
+CDR Eric Blunt
+COMM: (850) 452-4915
+Aviation Technical Training
+DSN:
+922-4915
+CNET, ETE-32
+FAX:
+(850) 452-4901
+cdr-eric.blunt@smtp.cnet.navy.mil
+LT John Freeman
+COMM: (702) 426-4070
+Assistant Training Officer, NSAWC
+DSN:
+890-4070
+NSAWC, N7
+FAX:
+(702) 426-4532
+freemanj@nsawc.navy.mil
+LCDR Nicholas Mongillo
+COMM: (775) 426-3768
+Assistant Department Head, NSAWC
+DSN:
+890-3768
+NSAWC, N7A
+FAX:
+(775) 426-2104
+mongilln@nsawc.navy.mil
+
+
+[PAGE 53]
+PART VII - POINTS OF CONTACT
+NAME / FUNCTION / ACTIVITY, CODE / INTERNET EMAIL
+TELEPHONE NUMBERS
+VII-3
+Mr. Phil Szczyglowski
+COMM: (301) 757-8280
+Competency Manager
+DSN:
+757-8280
+NAVAIRSYSCOM, AIR 3.4.1
+FAX:
+(301) 342-7737
+szczyglowspr@navair.navy.mil
+Mr. Bob Kresge
+COMM: (301) 757-1844
+NTSP Manager
+DSN:
+757-1844
+NAVAIRSYSCOM, AIR 3.4.1
+FAX:
+(301) 342-7737
+kresgerj@navair.navy.mil
+ADCS Steve Reed
+COMM: (301) 757-3107
+NTSP Coordinator
+DSN:
+757-3107
+NAVAIRSYSCOM, AIR 3.4.1
+FAX:
+(301) 342-7737
+reedps@navair.navy.mil
+AZC Ira Haraughty
+COMM: (301) 757-3087
+Training Analyst (NTSP Author)
+DSN:
+757-3087
+NAVAIRSYSCOM, AIR 3.4.1
+FAX:
+(301) 342-7737
+haraughtyif@navair.navy.mil
