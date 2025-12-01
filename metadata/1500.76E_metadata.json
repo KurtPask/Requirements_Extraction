@@ -1,19 +1,7 @@
 {
   "doc_id": "1500.76E",
-  "file_name": "1500.76E.txt",
-  "file_path": "parsed_text/1500.76E.txt",
-  "source_url": null,
   "doc_type": "OPNAVINST",
   "doc_number": "OPNAVINST 1500.76E",
   "title": "NAVY SYSTEMS, TRAINING REQUIREMENTS, AND MANAGEMENT",
-  "issuing_organization": "Chief of Naval Operations",
-  "publication_date": "14 May 2025",
-  "cancellation_date": null,
-  "classification": null,
-  "distribution_statement": null,
-  "references": [],
-  "summary": null,
-  "keywords": [],
-  "page_count": null,
-  "parsing_notes": null
+  "publication_date": "14 May 2025"
 }
