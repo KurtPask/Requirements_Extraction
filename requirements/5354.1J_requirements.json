@@ -1,0 +1,3927 @@
+[
+  {
+    "requirement_id": "5354.1J-R1",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 2,
+    "text": "Civilian employees who raise allegations of harassment or prohibited discrimination must be referred to the appropriate servicing Equal Employment Opportunity (EEO) office.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R2",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 2,
+    "text": "Records created as a result of this instruction, regardless of format or media, must be maintained and dispositioned per the records disposition schedules found on Directives and Records Management Division portal page at https://portal.secnav.navy.mil/orgs/DUSNM/DONAA/DRM/Records-and-lnfonnation- Management/ Approved%20Record%20Schedules/Fonns/ Allltems.aspx. b.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R3",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 2,
+    "text": "Per OPNA VIN ST 5215.17 A, the Office of the Chief of Naval Operations, Navy Culture and Force Resilience Office (OPNA V N 17), will review this instruction rumually of its issuance date to ensure applicability, currency, and consistency with Federal, DoD, Secretary of the Navy and Navy policy and statutory authority using OPNA V 5215/40 Review of Instruction.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R4",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 2,
+    "text": "This instruction will be in effect for 10 years, unless revised or cancelled in the interim and will be reissued by the 10-year anniversary date if it is still required, unless it meets one of the exceptions in OPNAVINST 5215.17 A, paragraph 9.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R5",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 2,
+    "text": "Otherwise, if the instruction is no longer required, it will be processed for cancellation as soon as the need for cancellation is known following the guidance in OPNAV Manual 5215.1 of May 2016.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R6",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 6,
+    "text": "Commanders, commanding officers, officers in charge and civilian equivalents (hereafter referred to as Commanders) must take action and be held accountable for implementation and enforcement of the provisions of this instruction.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R7",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 6,
+    "text": "Interpretation of this instruction must be governed by the definitions in appendix B.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R8",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 6,
+    "text": "Harassment and prohibited discrimination are fundamentally at odds with the obligation of Service Members to treat others with dignity and respect and must never be ignored or condoned. b.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R9",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 6,
+    "text": "The chain of command is responsible for creating and maintaining an environment that incorporates the policies set out in this instruction.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R10",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 6,
+    "text": "Leadership will strive to create a climate in which persons feel free to raise concerns about harassment or prohibited discrimination and are confident that those concerns will be addressed with safeguards against retaliation. c.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R11",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 6,
+    "text": "The objective of the Navy's MEO program is to promote an environment free from personal, social or institutional barriers that prevent Service Members from rising to the highest level of responsibility possible.",
+    "modal_triggers": [
+      "is to"
+    ],
+    "modality": "is to"
+  },
+  {
+    "requirement_id": "5354.1J-R12",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 6,
+    "text": "Commanders are responsible for ensuring MEO for all assigned personnel.",
+    "modal_triggers": [
+      "are responsible for"
+    ],
+    "modality": "are responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R13",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 6,
+    "text": "Service Members must be evaluated only on individual merit, fitness, capability and perfonnance.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R14",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 7,
+    "text": "(1) In line with reference (e), military personnel of the Navy must be processed for administrative separation following a substantiated incident of sexual harassment involving any of the circumstances listed in subparagraphs 2e(l)(a) and 2e(l)(b).",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R15",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 7,
+    "text": "Commanders and supervisors at every level must clearly communicate that harassment and prohibited discrimination will not be tolerated and must reinforce, through both words and actions, a climate that does not condone this behavior.",
+    "modal_triggers": [
+      "must",
+      "will"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R16",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 8,
+    "text": "All complaints must be treated sensitively.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R17",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 8,
+    "text": "Feedback will be provided to all affected individuals consistent with the requirements of the Privacy Act, Freedom of Infonnation Act and other pertinent laws, regulations and negotiated agreements. h.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R18",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 8,
+    "text": "Individuals must not: (1) Actively participate in criminal gangs and in other organizations that advocate supremacist, extremist or criminal gang doctrine, ideology or causes including those that attempt to create illegal discrimination based on race, color, religion, sex (including pregnancy), national origin or sexual orientation advocates the use of force or violence against the govennnent of the United States, the government of any State, territory, district or possession thereof or the govennnent of any subdivision therein or otherwise engages in efforts to deprive individuals of their civil rights.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R19",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 8,
+    "text": "Navy personnel must maintain sufficient proficiency in English to perform their official duties.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R20",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 8,
+    "text": "All operational communications must be understood by everyone who has a need to know their content and, therefore, must normally be in English.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R21",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 10,
+    "text": "(f) Direct or implied threats that indicate that submission to sexual advances will be a condition of employment, work status, promotion, grades or letters of recommendation.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R22",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 13,
+    "text": "(2) Carried out by someone who has knowledge or should have knowledge, that the specific person will be placed in reasonable fear of death or bodily harm, including sexual assault, to himself or herself, to a member of his or her immediate family or to his or her intimate partner; and (3) When the conduct induces reasonable fear in the specific person of death or bodily harm, including sexual assault, to himself or herself, to a member of his or her immediate family or to his or her intimate partner.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R23",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 14,
+    "text": "( 5) Stalking must be reported to the appropriate Military Criminal Investigative Organization.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R24",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 17,
+    "text": "This summit must be used to reinforce this instruction, provide programmatic and instruction updates, share best practices and leverage data analytics to illustrate trends, programmatic impacts and data driven recommendations.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R25",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 18,
+    "text": "Summary must include the total number of complaints and the data requirements outlined in appendix D for each complaint.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R26",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 18,
+    "text": "Summary must include the total number of complaints and the data requirements outlined in appendix D for each complaint. c.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R27",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 18,
+    "text": "Training must include instructions on understanding accountability and complaint processing responsibility, infonnal and formal resolution options, characteristics and prevention of harassment and prohibited discrimination and the relationship between leadership and a professional command climate. d.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R28",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 19,
+    "text": "(5) The methods for filing complaints, what must occur when a complaint is filed, an explanation of the complaint timelines and other external methods to seek redress.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R29",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 19,
+    "text": "All echelon 2 commands and echelon 3 commands that have subordinate commands, must establish a CCS billet to provide enhanced oversight of their command and subordinate command's harassment prevention and MEO programs and command climates.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R30",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 19,
+    "text": "The type of commander CCS will retain administrative responsibility for tracking and continuity of ships deployed with the carrier strike group or amphibious readiness group.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R31",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 19,
+    "text": "Note: Aircraft carriers must have two CCS billets and at least one of the CCSs assigned should be an E-7 or above.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R32",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 19,
+    "text": "CCSs assigned to aircraft carriers and amphibious assault ships must be used as the carrier strike group or amphibious readiness group subject matter expert on all matters relating to harassment prevention and MEO and command climate while the strike group or amphibious readiness group commander is embarked. d.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R33",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 19,
+    "text": "The CMEO program manager assignment must not create a conflict of interest with other duty assigmnents (i.e. member of the command triad, CCS, legal officer, etc.).",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R34",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 19,
+    "text": "The CMEO program manager must have a designation letter signed by the commander, sample letter provided in appendix E.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R35",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 19,
+    "text": "Note: All commands must be staffed with a minimum of one CMEO program manager.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R36",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 19,
+    "text": "The CMEO program manager must be an E-6 or above with at least 24 months 3-4",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R37",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 20,
+    "text": "CMEO program managers must serve in this position for a minimum of 24 months.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R38",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 20,
+    "text": "Develop, disseminate and enforce harassment prevention and MEO policy statement(s) which must include expectations regarding EO and procedural compliance. f.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R39",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 20,
+    "text": "A minimum of one climate assessment must be completed each fiscal year.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R40",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 20,
+    "text": "Note: Commands must include attached civilian personnel in the administration of the command climate assessment ( contractors and local foreign nationals are not authorized to take the survey).",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R41",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 20,
+    "text": "Supported commands must include their SELRES personnel in the administration of their command climate assessment.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R42",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 20,
+    "text": "SELRES personnel attached to voluntary training units and operational support units will be included in the Navy Operational Support Center (NAVOPSPTCEN) command climate assessment.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R43",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 20,
+    "text": "All SELRES attached to a commissioned unit must participate in the command climate assessment with their supported command.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R44",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 21,
+    "text": "Failure of a commander to conduct the required command climate assessment must be noted in the commander's performance evaluation or annual fitness report. n.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R45",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 21,
+    "text": "Command demographics must be reviewed by the CRT and maintained in the command continuity folder for 3 years.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R46",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 21,
+    "text": "Personnel in the command triad must not facilitate focus groups or interviews during the command climate assessment process. p.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R47",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 21,
+    "text": "Echelon 2 commands must submit to OPNA V Nl 70C, echelon 3 commands must submit to their respective echelon 2 command and echelon 4 and lower commands must submit to their respective echelon 3 command or ISIC.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R48",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 21,
+    "text": "The annual climate assessment will reflect the command climate assessments of all commands within the enterprise. r.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R49",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 21,
+    "text": "NA VPERS l 5600E Equal Opportunity Infonnation Poster, stock number 0500-LP-117-6471, must be displayed and include the name and telephone number of the command's points of contact (CCS, CMEO program manager and the appropriate servicing EEO office) for EO issues.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R50",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 22,
+    "text": "The frequency of periodic training will be no less than every 2 years.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R51",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 22,
+    "text": "CRT members must have a letter of designation signed by the commander and sign the CRT non-disclosure agreement document, appendix K. b.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R52",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 22,
+    "text": "The CRT must use the Command Resilience Team Guide when conducting a climate assessment.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R53",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 23,
+    "text": "When requested, the CCS will provide oversight and guidance to the CRT on the facilitation and interpretation of the Defense Organizational Climate Survey (DEOCS), conducting focus groups and interviews, data analysis throughout the command climate assessment process, use of primary prevention and human factors process resources by CRT and the development of the command climate assessment executive summary and Plan of Action and Milestones (POA&M). d.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R54",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 23,
+    "text": "To improve insight into command climate, the commander must leverage the CRT to facilitate and promote signature behaviors and an enviromnent of dignity and respect.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R55",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 23,
+    "text": "In doing so, the CRT will be a powerful tool to help preserve unit cohesion, good order and discipline and mission readiness. e.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R56",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 23,
+    "text": "The CRT must meet, at a minimum, quarterly.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R57",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 23,
+    "text": "CRTs will develop best practices and implement primary prevention measures.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R58",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 23,
+    "text": "These meetings must be documented via an MFR and the documentation maintained in the command continuity folder. f.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R59",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 24,
+    "text": "The data elements outlined in appendix D are required to be captured and forwarded to OPNAV NI 70C.",
+    "modal_triggers": [
+      "are required to"
+    ],
+    "modality": "are required to"
+  },
+  {
+    "requirement_id": "5354.1J-R60",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 25,
+    "text": "The data elements outlined in appendix D are required to be captured and forwarded to OPNA V Nl70C. p.",
+    "modal_triggers": [
+      "are required to"
+    ],
+    "modality": "are required to"
+  },
+  {
+    "requirement_id": "5354.1J-R61",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 25,
+    "text": "The judge advocate supporting the staff is responsible for following up on all legal sufficiency reviews. q.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R62",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 25,
+    "text": "CCSs are responsible for the sustainment training of their subordinate command CMEO program managers. s.",
+    "modal_triggers": [
+      "are responsible for"
+    ],
+    "modality": "are responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R63",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 25,
+    "text": "This folder will contain the information listed in subparagraphs Sd(l) through 8d(6).",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R64",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 26,
+    "text": "The data elements outlined in appendix D are required to be captured and forwarded to OPNA V NI 70C. j.",
+    "modal_triggers": [
+      "are required to"
+    ],
+    "modality": "are required to"
+  },
+  {
+    "requirement_id": "5354.1J-R65",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 26,
+    "text": "The data elements outlined in appendix D are required to be captured and forwarded to OPNA V Nl70C. k.",
+    "modal_triggers": [
+      "are required to"
+    ],
+    "modality": "are required to"
+  },
+  {
+    "requirement_id": "5354.1J-R66",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 28,
+    "text": "The chain of command must submit the informal complaint to the CCS or CMEO program manager for resolution without the command being required to conduct an investigation.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R67",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 28,
+    "text": "Any informal complaint that results in punitive disciplinary action by the chain of command intended to hold an alleged offender accountable must be processed in line with chapter 5. c.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R68",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 28,
+    "text": "The CCS or CMEO program manager must ensure proper documentation of all informal complaints using NAVPERS 5354/2. d.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R69",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 28,
+    "text": "Any complaint submitted to the commander directly by the complainant for resolution must be processed in line with chapter 5. e.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R70",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 28,
+    "text": "Complaints involving sexual assault allegations must be reported to a Sexual Assault Response Coordinator (SARC) for victim support services.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R71",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 28,
+    "text": "These complaints must also be reported for investigation to the appropriate military criminal investigative organization.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R72",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 28,
+    "text": "Complainants are encouraged to inform the alleged offender directly that the conduct is unwelcome and must stop; however, this is not required.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R73",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 29,
+    "text": "The member in a position of authority in the chain of command receiving the complaint must infonn the CCS or CMEO program manager within 24 hours. b.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R74",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 29,
+    "text": "The CCS or CMEO program manager will initiate infonnal resolution procedures, appendix M, within 3 duty days to resolve the informal complaint. c.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R75",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 29,
+    "text": "The informal complaint must be documented on the NAVPERS 5354/2. d.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R76",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 29,
+    "text": "The complaint must be resolved within 30 duty days.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R77",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 29,
+    "text": "The CCS or CMEO program manager must conduct a follow-up debrief with the complainant to ensure that retaliation has not occurred within 45 days after the complaint is closed.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R78",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 29,
+    "text": "This follow-up must be annotated on the NAVPERS 5354/2. f.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R79",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 29,
+    "text": "The data elements outlined in appendix D are required to be captured and forwarded to OPNA V NJ 70C. g.",
+    "modal_triggers": [
+      "are required to"
+    ],
+    "modality": "are required to"
+  },
+  {
+    "requirement_id": "5354.1J-R80",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 29,
+    "text": "All documents pertinent to an infonnal complaint must be maintained in the command continuity folder for 3 years.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R81",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 31,
+    "text": "They must ensure that the complaint resolution system is clearly communicated and well understood by all personnel. c.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R82",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 31,
+    "text": "Formal complaints submitted to a cognizant commander or supervisor or, inspector general's office will be referred to a CCS or CMEO program manager for processing. d.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R83",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 31,
+    "text": "Formal complaint investigations will be conducted at the local command in line with reference (j).",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R84",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 31,
+    "text": "In a joint military environment, when the complainant and alleged offender are assigned to different organizations and the commander of the joint military enviromnent does not have command or supervisory authority over the alleged offender, complaints will be processed in line with the procedures outlined in subparagraphs 2a(l) trough 2a(6).",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R85",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 31,
+    "text": "(1) Complaints must be processed by the organization that has administrative control over the complainant.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R86",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 31,
+    "text": "(2) Joint commanders must forward the complaint, with a detailed description of the facts and circumstances, to the next superior officer in the alleged offender's chain of command who is authorized to convene a general court martial.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R87",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 31,
+    "text": "(3) The complainant's commander or supervisor is responsible for providing notice and sending updates to the alleged offender's commander or supervisor, upon receipt and final resolution of a complaint.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R88",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "OPNAVINST 5354.IJ 5 Jun 2025 (4) The complainant's commander or supervisor is responsible for ensuring the completed complaint fonns are provided to the alleged offender's commander or supervisor.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R89",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "(5) When an administrative finding substantiates an allegation of harassment or prohibited discrimination, the alleged offender's commander or supervisor is responsible for administering appropriate corrective or disciplinary action.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R90",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "(6) If the complainant is assigned to the Navy the complainant's command is responsible for sending the initial and final Operational Report (OPREP) ii). line with reference (k). b.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R91",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "When the complainant and alleged offender are assigned to different services (when all parties are not assigned to a joint military enviromnent), the complaint must be processed in line with the procedures outlined in subparagraphs 2b(l) through 2b(5).",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R92",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "(1) Complaints must be processed by the organization that has administrative control over the complainant.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R93",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "(2) The complainant's commander or supervisor is responsible for providing notice and sending updates to the alleged offender's commander or supervisor, upon receipt and final resolution of a complaint.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R94",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "(3) The complainant's commander or supervisor is responsible for ensuring the completed complaint forms are provided to the alleged offender's commander or supervisor.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R95",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "(4) When an administrative finding substantiates an allegation of harassment or prohibited discrimination, the alleged offender's commander or supervisor is responsible for administering appropriate corrective or disciplinary action.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R96",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "(5) If the complainant is assigned to the Navy the complainant command is responsible for sending the initial and final OPREP in line with reference (k). c.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R97",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "When the complainant and alleged offender are assigned to different Navy commands the complaint must be processed in line with the procedures outlined in subparagraphs 2c(l) through 2c(3).",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R98",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "(1) Complaints must be processed by the organization that has administrative control over the alleged offender.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R99",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "(2) The complainant's command is responsible for ensuring parts I and II ofNAVPERS 5354/2 are complete and provided to the alleged offender's commander.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R100",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 32,
+    "text": "(3) The alleged offender's command is responsible for sending OPREPS, in line with reference (k), upon initial receipt through case resolution.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R101",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "OPNA VINST 5354. lJ 5 Jun 2025 requests an appeal, update OPREPS must be sent every 30 days; every 14 days for sexual harassment complaints, throughout the appeal process.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R102",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "The commanders of both the complainant and alleged offender must collaborate to resolve the complaint. d.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R103",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "When the complaint includes both military and civilian personnel, it must be processed in line with the procedures applicable to the complainant.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R104",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "The military member's command is responsible for sending OPREPS, in line with reference (k), upon initial receipt through case resolution. e.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R105",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "SELRES personnel attached to commissioned units must submit complaints via the operational chain of command.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R106",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "SELRES personnel attached to a voluntary training unit or an operational support unit must submit complaints via their NA VOPSPTCEN.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R107",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "SELRES personnel attached to non-commissioned units must submit complaints via the active duty supported command. f.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R108",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "When the complainant is a foreign military Service member, to include international military students and the alleged offender is assigned to a Navy command, the complaint must be processed in line with the procedures outlined in subparagraphs 2f(l) through 2f( 4).",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R109",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "(1) Complaints must be processed by the organization that has administrative control over the alleged offender.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R110",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "Notification of initiation of a processed complaint must be made to Navy International Programs Office and Naval Education and Training Security Assistance Field Activity given responsibility for Foreign Military Sales training and education participants under SECNAVINST 4950.4B.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R111",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "(2) When an administrative finding substantiates an allegation of harassment or prohibited discrimination, the alleged offender's commander or supervisor is responsible for administering appropriate corrective or disciplinary action.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R112",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "(3) The alleged offender's command is responsible for ensuring the NA VPERS 5354/2 is complete.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R113",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "(4) The alleged offender's command is responsible for sending the initial and final OPREP in line with reference (k). g.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R114",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 33,
+    "text": "A harassment or prohibited discrimination complaint filed via reference (i), article 1150 or reference (f), article 138, must be processed in line with reference G).",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R115",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 34,
+    "text": "Complaints involving sexual assault allegations must be reported to a SARC for victim support services.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R116",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 34,
+    "text": "These complaints must also be reported for investigation to the appropriate military criminal investigative organization. i.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R117",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 34,
+    "text": "Any allegations of harassment or prohibited discrimination made against a contract employee must be submitted to the contracting officer's representative in coordination with the Office of General Counsel for appropriate action. j.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R118",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 34,
+    "text": "If the complainant believes more than one alleged offender has committed a wrong, the complainant must submit a separate complaint against each alleged offender, not against a group such as \"the chain of command.\" 5-4",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R119",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 35,
+    "text": "Action taken regarding an anonymous complaint will depend upon the extent of information provided by the complainant.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R120",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 35,
+    "text": "If the content of the complaint includes allegations of sexual assault and if continued communication is possible, the CCS or CMEO program manager must refer the Service member to a SARC, Deployed Resiliency Counselor (DRC), sexual assault prevention and response (SAPR) Victim Advocate (VA), unit SAPR VA, Victim's Legal Counsel (VLC) or healthcare personnel. b.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R121",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 35,
+    "text": "The command CCS or CMEO program manager must be notified of anonymous complaints within 24 hours of receipt and must consult with the commander to determine further actions regarding the allegations. c.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R122",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 35,
+    "text": "If the complaint contains sufficient information to permit the initiation of an investigation, it must be processed as outlined in this chapter.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R123",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 35,
+    "text": "It must be documented on the NAVPERS 5354/2, and that form must be forwarded to OPNAV Nl 70C via the echelon 2 CCS within 72 hours after complaint resolution. d.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R124",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 35,
+    "text": "If the anonymous complaint does not contain sufficient infonnation to pennit the initiation of an investigation the infonnation must be documented on the NA VPERS 5354/2 and maintained in the command continuity folder for 3 years.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R125",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 35,
+    "text": "The NA VPERS 5354/2 must contain the date and time the information was received, a detailed description of the facts and circumstances included in the complaint, date the complaint was closed and by whom and other pertinent information.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R126",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 35,
+    "text": "Personnel receiving a formal complaint must notify the commander or other designated authority within 3 duty days of receipt. b.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R127",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 36,
+    "text": "OPNAVINST 5354.IJ 5 Jun 2025 dismisses a complaint, a justification for the commander's decision will be documented on an MFR and a copy provided to the complainant.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R128",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 36,
+    "text": "The original NAVPERS 5354/2 and the MFR will be retained in the command continuity folder for 3 years.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R129",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 36,
+    "text": "The commander must assess if the infonnal complaint was appropriately resolved before rendering decision to accept, refer or dismiss complaints submitted in such cases.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R130",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 36,
+    "text": "Complaints submitted by persons not covered by this instruction or of which neither the command nor the Navy has jurisdiction or the authority to remedy, will be referred to the relevant agency or agencies with personnel and subject matter jurisdiction to adjudicate the case, if applicable.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R131",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 36,
+    "text": "A justification for the commander's decision to refer the complaint and the organization to which it is referred will be documented on an MFR and a copy provided to the complainant.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R132",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 36,
+    "text": "The original NAVPERS 5354/2 and the MFR will be retained in the command continuity folder for 3 years.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R133",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 36,
+    "text": "If the commander accepts a fonnal complaint, it must be processed in line with this chapter.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R134",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "In such cases, if an investigation is initiated, the commander will process and report the violation and subsequent outcomes in line with this chapter.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R135",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "Commanders will use the NA VPERS 5354/2 to document the issue and actions taken.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R136",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "No signature from a complainant is required; however, the data elements outlined in appendix D are required to be captured and forwarded to OPNA V Nl70C. g.",
+    "modal_triggers": [
+      "are required to"
+    ],
+    "modality": "are required to"
+  },
+  {
+    "requirement_id": "5354.1J-R137",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "The commander must initiate a preliminary inquiry or command investigation, as appropriate in line with reference (j).",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R138",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "The CCS or CMEO prograin manager must not be the preliminary inquiry or command investigation officer.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R139",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "Note: If the complaint is against the commander it must be forwarded to the officer exercising general court-martial jurisdiction over the commander.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R140",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "(1) To the extent practicable the inquiry or investigation must commence within 72 hours of the commander accepting the complaint.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R141",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "Whenever practical, the inquiry or investigating officer must be senior to the complainant and the alleged offender and a CCS must serve as a resource to the investigator.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R142",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "The complainant and alleged offender will be notified by the investigating officer that the investigation has begun and will acknowledge this notification on the original NA VPERS 5354/2.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R143",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "Commands that do not have a CCS assigned within their reporting chain of command or when the CCS is unavailable or conflicted, must contact OPNA V NI 70C for a list of CCSs.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R144",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "Before making a final determination the commander who convenes the investigation into the complaint, in line with this instruction and reference (1), will submit the investigating officer's completed report to a staff judge advocate in the chain of command or assigned to support the command and the CCS.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R145",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 37,
+    "text": "The judge advocate and CCS will provide the commander with a written legal sufficiency review and CCS sufficiency review, respectively and 5-7",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R146",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 38,
+    "text": "The CCS sufficiency review will be conducted using OPNAV 5354/3 Command Climate Specialist Formal Harassment or Unlawful Discrimination Report Sufficiency Review.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R147",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 38,
+    "text": "Note: When other formal complaint options are used to report allegations of harassment or prohibited discrimination, the CCS or CMEO program manager will use the NAVPERS 5354/2 to document the issue and actions taken.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R148",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 38,
+    "text": "No signature from a complainant is required; however, the data elements outlined in appendix D are required to be captured and forwarded to OPNAV Nl 70C.",
+    "modal_triggers": [
+      "are required to"
+    ],
+    "modality": "are required to"
+  },
+  {
+    "requirement_id": "5354.1J-R149",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 38,
+    "text": "(2) Voice reports must be made as outlined in reference (k).",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R150",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 38,
+    "text": "(3) An OPREP describing the situation must be sent in line with reference (k), no later than 72 hours after receipt and acceptance of the complaint.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R151",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 38,
+    "text": "The data elements outlined in appendix D are required to be captured and forwarded to OPNA V NI 70C.",
+    "modal_triggers": [
+      "are required to"
+    ],
+    "modality": "are required to"
+  },
+  {
+    "requirement_id": "5354.1J-R152",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 38,
+    "text": "(6) To the extent practicable, the inquiry or investigation of a fonnal sexual harassment complaint must be completed no later than 14 days from the date the investigation commenced.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R153",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 38,
+    "text": "The commander receiving the complaint must submit an initial OPREP upon receipt of the complaint and a final OPREP, in line with reference(]), section 1561 (Complaints of Sexual Harassment: Investigation by Commanding Officers), of the results of the investigation, including any action taken as a result of the investigation, to the ISIC within 20 days after the date the investigation commenced.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R154",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 38,
+    "text": "The alleged offender's command is responsible for sending OPREPS upon initial complaint receipt through complaint resolution, including any subsequent appeal( s ).",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R155",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 38,
+    "text": "If the alleged offender belongs to another service, the complainant's command is responsible for sending the OPREPS upon initial complaint receipt through complaint resolution, including any subsequent appeal(s).",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R156",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "OPNAVINST 5354.lJ 5 Jun 2025 (7) For harassment (not to include sexual harassment) and prohibited discrimination complaints, the alleged offender's command is responsible for sending the initial and final OPREP upon initial complaint receipt and final resolution, including any subsequent appeals.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R157",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "If the alleged offender belongs to another service, the complainant's command is responsible for sending the initial and final OPREP upon initial complaint receipt and final resolution, including any subsequent appeal(s).",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R158",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "(8) To the extent practicable, the investigation of a formal harassment (not to include sexual harassment) and prohibited discrimination complaint must be completed no later than 30 days from the date the investigation commenced.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R159",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "Upon receipt of an approved extension, the commander must inform the complainant and alleged offender of the extension, its duration and the reasons for which it was requested.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R160",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "The commander must provide progress reports every 14 calendar days thereafter until the investigation is completed and a determination has been made.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R161",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "The investigating officer must update the commander and CCS or CMEO program manager on the status of the investigation every 14 days.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R162",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "(9) The CCS or CMEO program manager must ensure that the complainant and alleged offender are updated every 14 days on the status of the complaint through resolution.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R163",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "(10) After final determination, the commander must debrief the complainant and alleged offender consistent with the requirements of the Privacy Act, Freedom oflnformation Act and other applicable laws, regulations and negotiated agreements.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R164",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "The complainant and the alleged offender must be notified of the results once the complaint has been resolved and informed of their right to appeal the decision.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R165",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "This must be documented on part IV of the NAVPERS 5354/2.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R166",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "The complainant and the alleged offender must be informed that the appeal must be selected and submitted within 30 duty days of notification.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R167",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "Every effort must be made to notify SELRES personnel within 30 calendar days of complaint determination.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R168",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "If notification in person has not occurred, member notification and signature must be obtained via certified mail.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R169",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "SELRES personnel will have one drill cycle from the date ofreceipt of the certified mail to appeal the decision.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R170",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 39,
+    "text": "( 11) When requested, the command must provide a redacted copy of the inquiry or investigating officer's final report (as directed by the Privacy Act of 1974 and other applicable laws and regulations) to the individual that requested the redacted copy within 14 days after the request.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R171",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "(12) Commanders must conduct a follow-up debrief with the complainant within 45 days following the final determination of the complaint.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R172",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "For complaints involving a SELRES complainant, follow-up debriefs must continue for a period of I year following resolution.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R173",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "Command follow-up will include a determination of level of satisfaction with the resolution of the complaint, satisfaction with the effectiveness of corrective action, timeliness, present command climate and a review to ensure retaliation did not occur.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R174",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "This debrief must be documented on the NA VPERS 5354/2 or an MFR.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R175",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "All command investigations and all documents pertinent to the formal complaint, must be retained by the convening authority, General Court-Martial Convening Authority (GCMCA) or by the last commander to whom they are routed for a period of 2 years from the time that they are received.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R176",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "An electronic copy of the entire command investigation must be sent to OPNA V NI 70C. h.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R177",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "If the complaint alleges a hostile work environment determination, commanders will, when possible, temporarily relocate the complainant or alleged offender, without prejudice, during the course of the investigation.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R178",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "Transfer of the complainant or alleged offender involved must not be considered by the commander to be a resolution of the complaint. i.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R179",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "Regardless of the outcome of the investigation (substantiated or unsubstantiated), leaders at all levels must not tolerate acts of retaliation, intimidation or discrimination in response to the filing of a harassment or prohibited discrimination complaint and will take immediate action to identify, prevent and stop all fonns of retaliation within their command.",
+    "modal_triggers": [
+      "must",
+      "will"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R180",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "Monitor for potential retaliation by checking on work center climate and ensuring perfonnance appraisals document job performance accurately (i.e., downgrades must be supported by written counseling and not related to the complaint). j.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R181",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 40,
+    "text": "In the event a complaint is initially reported as a sexual assault incident and is later re- characterized as a sexual harassment incident, the reporting and processing requirements of handling a sexual harassment complaint will begin once the incident is so re-characterized.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R182",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "Part IV of the NAVPERS 5354/2 must be used to document actions taken by the commander to resolve the complaint and notification of involved parties.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R183",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "Commanders will determine whether a climate assessment is warranted or additional unit training is required.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R184",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "Each appeal must be affirmatively requested by either the complainant or the alleged offender.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R185",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "The appellant must submit a statement detailing the reason for the appeal.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R186",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "Both parties must initial the NA VPERS 5354/2, as applicable, to declare or decline the request for a review.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R187",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "Note: The appeal must be requested and all documentation submitted within 30 duty days after receiving the notice of finding. d.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R188",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "The first level of appeal will be at least two organizational levels above the level at which the appellant is assigned, when practicable.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R189",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "For SELRES personnel, the request for an appeal must be made within one drill cycle or the complaint will be considered closed.",
+    "modal_triggers": [
+      "must",
+      "will"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R190",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "The echelon 2 CCS must collaborate on the appeal review using OPNAV 5354/4 Command Climate Specialist Formal Harassment or Unlawful Discrimination Report Higher Level Review.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R191",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "Commands that do not have a CCS assigned within their reporting chain of command or where the CCS is unavailable or conflicted, must contact OPNA V NI 70C for a list of CCSs.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R192",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 41,
+    "text": "The review of the initial appeal must be completed within 60 calendar days of receipt.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R193",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 42,
+    "text": "OPNAVINST 5354.IJ 5 Jun 2025 Note: The CCS that conducted the sufficiency review must not conduct the appeal review when a member exercises his or her right to appeal the decision on a fonnal complaint. e.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R194",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 42,
+    "text": "If a further appeal is requested, the final resolution will rest with SECNA V or his or her designee.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R195",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 42,
+    "text": "Once requested, the appellant's commander will forward the complaint and all documents pertinent to the complaint to SECNAV, via OJAG Administrative Law (Code 13), for final review.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R196",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 42,
+    "text": "The final appeal to SECNA V must be requested within 30 days of receipt of the GCMCA's decision on the initial appeal.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R197",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 42,
+    "text": "For SELRES personnel the request for the final appeal must be made within one drill cycle from the receipt of the decision on the first appeal or the complaint will be considered closed.",
+    "modal_triggers": [
+      "must",
+      "will"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R198",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 42,
+    "text": "Commands, not designated as appeal authority, must forward the appeal up their respective chain of cmmnand within 14 days of receipt. f.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R199",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 43,
+    "text": "The first will be at least two organizational levels above the level at which the appellant is assigned, when practicable.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R200",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 43,
+    "text": "The final will be to SECNAV.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R201",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 44,
+    "text": "Retaliation may be reported to a supervisor, CCS, CMEO program manager, the commander or an IG, who must act upon the report.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R202",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 44,
+    "text": "While the response process is not complete until case disposition is final, the purpose is to understand the full process; to include the retaliation report intake process, the commencement of the investigation or other command action.",
+    "modal_triggers": [
+      "is to"
+    ],
+    "modality": "is to"
+  },
+  {
+    "requirement_id": "5354.1J-R203",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 45,
+    "text": "The Service member must be provided adequate protection and care and informed about available support resources, to include those outlined in subparagraphs 3b(4)(a) through 3b(4)(c).",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R204",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 45,
+    "text": "The information in subparagraphs 3b(8)(a) through 3b(8)(o) will be documented for each retaliation report and must be provided to OPNAV Nl 70C.",
+    "modal_triggers": [
+      "must",
+      "will"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R205",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 45,
+    "text": "The command of the Service member submitting the retaliation report is responsible for sending an OPREP upon initial receipt and final resolution of the report.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "5354.1J-R206",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 45,
+    "text": "Note: An OPREP must not contain personally identifiable information.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R207",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 46,
+    "text": "( 1) The CCS or CMEO program manager will inform the retaliation reporter's commander if the reporter wishes to pursue action relating to reported conduct that does not fall under the jurisdiction of the IG or MCIO.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R208",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 46,
+    "text": "Allegations of restriction or reprisal fall within the jurisdiction of the IG in line with reference (1) section 1034 (Protected Communications; Prohibition of Retaliatory Personnel Actions) and as such, an investigative detennination will be made by the IG.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R209",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 46,
+    "text": "(a) The commander will then decide whether to refer the report for investigation by law enforcement or address it through other appropriate investigative means.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R210",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 47,
+    "text": "IJ 5 Jun 2025 (b) When referred to command for investigation, an individual independent of the originating unit or organization of the alleged retaliation will investigate the retaliation reports.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R211",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 47,
+    "text": "(c) The chain of command will ensure that the SARC, CCS or CMEO program manager and retaliation reporter all remain informed throughout the process.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R212",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 47,
+    "text": "This will include any delays of the process and the date when the investigation is complete.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R213",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 47,
+    "text": "(2) The CCS or CMEO program manager will notify the appropriate level of command of the retaliation report unless the retaliation report is against the immediate commander; then the next level of command will be notified and assume responsibility for the case.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R214",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 47,
+    "text": "(3) The CCS or CMEO program manager, in coordination with the SARC, will make every effort to provide updates to commanders whose personnel are involved in a retaliation report, retaliation investigation or both.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R215",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 47,
+    "text": "( 4) Commander(s) of the Service member(s), who is a subject of a retaliation report, will provide in writing a case status and all disposition data, to include any administrative or judicial action taken, stemming from a retaliation investigation to the SARC. d.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R216",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 47,
+    "text": "The CCS or CMEO program manager will notify Service members who allege retaliation associated with a harassment or prohibited discrimination complaint, that they have the opportunity to communicate with a flag officer in their chain of command regarding career- related impacts and administrative separation actions they perceive to be associated with the report or involvement in the incident.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R217",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 48,
+    "text": "The training facilitator must promote the chain of command as the primary channel for addressing complaints, while providing information regarding reporting options, procedures and applicable timelines to submit harassment and prohibited discrimination complaints (including anonymous complaints and complaints involving a Service member's commander or supervisor) to the appropriate commander or supervisor, inspector general's office, CCS or CMEO program manager.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R218",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 48,
+    "text": "The training content will be appropriate to the Service member's grade and commensurate with their level of responsibility.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R219",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 48,
+    "text": "Harassment and MEO training must be provided to all newly assigned Service members.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R220",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 48,
+    "text": "The training will encompass the entire cycle of harassment and prohibited discrimination prevention, reporting, response, accountability procedures and processes through which Service members may report harassment, prohibited discrimination or retaliation.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R221",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 48,
+    "text": "Training must be administered within 60 calendar days.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R222",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 48,
+    "text": "Training will include leadership roles and responsibilities for MEO programs, complaints processing, retaliation prevention and detection, methodologies, options for obtaining assistance when the alleged offender is the commander or in the complainant's chain of command and witnesses and bystander intervention protection.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R223",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 48,
+    "text": "In line with reference (f), all DON personnel, military and civilian, must be educated and trained upon accession and periodically thereafter (including throughout professional military education systems) in the areas of identification, prevention, resolution and elimination of sexual harassment.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R224",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 48,
+    "text": "The frequency of periodic training will be no less than every 2 years.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R225",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 48,
+    "text": "Periodic training will include the application of pertinent, anonymous reporting as well as informal and formal resolution procedures.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R226",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 49,
+    "text": "The training will be tailored to the responsibilities and leadership requirements of Service members as they are assigned to command positions.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R227",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 49,
+    "text": "The training will address fostering a climate that does not tolerate harassment or prohibited discrimination, encourages Service member intervention to prevent potential incidents of harassment and prohibited discrimination and encourage reporting incidents of harassment and prohibited discrimination. f.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R228",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 49,
+    "text": "A CCS or CMEO program manager will provide initial training and annually thereafter.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R229",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 49,
+    "text": "The training will include, at minimum: a.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R230",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 50,
+    "text": "All assigned CMEO program managers must attend the CMEO Manager course (A-500-0009) delivered by NETC.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R231",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 50,
+    "text": "All CCSs and CMEO program managers must receive semi-annual sustaimnent training conducted by a CCS.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R232",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 50,
+    "text": "Echelon 2 CCSs will provide semi-annual training to echelon 3 and 4 CCSs.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R233",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 50,
+    "text": "This training will be used to reinforce this instruction, provide MEO objectives updates and examine command trends.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R234",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 50,
+    "text": "All CCSs will attend annual training conducted face-to-face by OPNA V NI 70C.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R235",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 50,
+    "text": "This training must be used to reinforce this instruction, provide programmatic and instruction updates, share best practices and, leverage data analytics to illustrate trends, programmatic impacts and data driven recommendations.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R236",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 52,
+    "text": "To qualify for protection under reference (h), a protected communication must be made to: a. a member of Congress; b. an IG, as defined in reference (h); c. a member of a DoD audit, inspection, investigation or law enforcement organization; d. any person or organization in the chain of command; e. a court-martial proceeding; f. any other person or organization designated following regulations or other established administrative procedures for such communications; or g. any person conducting an investigation or proceeding related to a protected communication.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R237",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 53,
+    "text": "Command member (must be an E6 or above with at least 8 years of service) appointed in writing by the commander, who functions as the single point of contact when a CCS is not assigned to the command for MEO matters within the command.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R238",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 54,
+    "text": "These programs and activities must be free from social, personal or institutional barriers that prevent people from rising to the highest level ofresponsibility possible.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R239",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 54,
+    "text": "Persons will be evaluated on individual merit, fitness, capability and performance, regardless of race, color, religion, sex (including pregnancy), national origin or sexual orientation.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R240",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 54,
+    "text": "The initial review will be conducted by echelon 2 commander of the command where the complaint was investigated and adjudicated.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R241",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 55,
+    "text": "Commanders will direct the investigating officer to obtain additional information if the finding is not supported. d.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R242",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 57,
+    "text": "A protected communication will not be excluded from the protections provided in references (h); (I), sections 1034, 1552 and 1553; and (n) because: (I) The communication was made to a person who participated in an activity that the member reasonably believed to be covered by subparagraph 28a of this enclosure.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R243",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 59,
+    "text": "The workplace or any other place that is work-connected, as well as the conditions or atmosphere under which people are required to work.",
+    "modal_triggers": [
+      "are required to"
+    ],
+    "modality": "are required to"
+  },
+  {
+    "requirement_id": "5354.1J-R244",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 62,
+    "text": "OPNA V NI 70C will collect and maintain data concerning harassment and prohibited discrimination complaints.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R245",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 62,
+    "text": "This data will include information pertaining to informal, formal and anonymous complaints.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R246",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 62,
+    "text": "Such data will be reported annually (and as needed) to the Director, Office of Civil Rights and Equal Opportunity Policy, through a DoD-approved automated data collection interface.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R247",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 62,
+    "text": "These must be provided to NI 70C via the echelon 2 CCS. a.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R248",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 64,
+    "text": "To ensure mission readiness, every member of the Department of the Navy must be afforded an equal opportunity to become a productive and valued member of the Navy team.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R249",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 64,
+    "text": "In the execution of these duties you will report directly to the commanding officer and provide program efficiency reviews as required to the chief of staff, executive officer, command master chief and any other designated personnel.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R250",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 70,
+    "text": "Commanders must not collect infonnation from the public without first obtaining approval from the Office of Management and budget and may not seek to enforce or request compliance with disapproved or expired collections of infonnation. a.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R251",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 70,
+    "text": "Both active and reserve commanders, commanding officers, officers in charge and directors (hereafter referred to as commanders) will complete a command climate assessment within 120 days after assumption of command and annually as follow-up assessments during their command tenure.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R252",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 70,
+    "text": "Note: Navy reserve units not listed on the Standard Navy Distribution List will be included in the supported command's command climate assessment.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R253",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 70,
+    "text": "Voluntary training units and operational support units will be included in the NA VOPSPTCEN command climate assessment. b.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R254",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 70,
+    "text": "Each unit, with a commander, commanding officer, officer-in-charge billet or civilian equivalent, regardless of size, is required to complete a command climate assessment. c.",
+    "modal_triggers": [
+      "is required to"
+    ],
+    "modality": "is required to"
+  },
+  {
+    "requirement_id": "5354.1J-R255",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 70,
+    "text": "Units with fewer than 50 survey participants must be surveyed with a larger unit in the command to ensure anonymity and to provide the opportunity for all military personnel to participate in the climate assessment process.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R256",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 70,
+    "text": "The command climate assessment must be completed using the DEOCS, focus groups, interviews, observations and reviewing command records and reports.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R257",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 70,
+    "text": "The command climate assessment must not take longer than 60 days, 110 days for NRA, from the start of the DEOCS to the commander's debrief of the command.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R258",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "( 6) Commanders must debrief their commands no later than 5 days after receipt of the executive summary from the CRT. e.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R259",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "Records and reports must be maintained and reviewed quarterly. f.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R260",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "The CCSs and CMEO program managers in the absence of a CCS will track and provide oversight of the command climate assessment process for subordinate commands. g.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R261",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "The !SIC must include a statement in the commander's performance evaluation or annual fitness report annotating if the commander has conducted the required command climate assessment.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R262",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "Failure of a commander to conduct the required command climate assessment must be noted in the commander's performance evaluation or annual fitness report.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R263",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "Commanders must conduct a face-to-face debrief of their command climate assessment executive summary using the DEOCS to include a POA&M, with their !SIC.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R264",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "Commanders must provide their !SIC with a face-to-face debrief at the first opportunity either in person or virtually.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R265",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "This process will provide the !SIC an opportunity to mentor the commander and will happen within 60 days of completion of the command climate assessment, unless otherwise approved by the echelon 2 commander.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R266",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "The POA&M and executive summary must be forwarded to the !SIC no later than 30 days after completion of the command climate assessment. b.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R267",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "Commanders must include the !SIC commander contact information in their initial DEOCS request to enable automatic !SIC visibility of the command climate survey process.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R268",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "Commanders must also validate the !SIC contact information when closing the DEOCS and requesting the DEOCS report to enable the !SIC to receive automatic notification and directly access the DEOCS results and report. c.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R269",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 71,
+    "text": "ISi Cs at each level must issue guidance to their respective commanders on scheduling the face-to-face debriefs and provide the !SIC contact infonnation for ordering the DEOCS.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R270",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 72,
+    "text": "Debriefs must cover significant findings, areas of strength, areas of concern, an explanation of the validation process, actions taken and plans developed to improve command climate.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R271",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 72,
+    "text": "Brief format will be determined by the echelon 2 commander.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R272",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 77,
+    "text": "I understand that by serving on the (cmmnand name) Command Resilience Team (CRT) I am expected to participate in the analysis of the DEOCS, focus groups, interviews, observations and the review of command records and reports in support of the command climate assessment and that I will incur certain obligations enumerated in paragraphs 2 through 6.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R273",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 77,
+    "text": "The purpose ofmy participation is to assist in clarifying and validating infonnation brought forward during the command climate assessment.",
+    "modal_triggers": [
+      "is to"
+    ],
+    "modality": "is to"
+  },
+  {
+    "requirement_id": "5354.1J-R274",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 77,
+    "text": "I agree that I will not divulge any information gained from my involvement with the (command name) CRT outside this command unless I have the specific written approval from the commander, commanding officer, officer in charge or director.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "5354.1J-R275",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 77,
+    "text": "Note: Service members must be free to make a protected communication in line with Military Whistleblower Protection, SECNA VINST 53 70.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R276",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 78,
+    "text": "Note: Commanders, commanding officers, officers in charge and civilian equivalents (hereafter referred to as commanders) must be infonned immediately, within 24 hours, of any formal harassment or prohibited discrimination complaint in their command 2.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R277",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 83,
+    "text": "The chain of command of the complainant, the chain of command of the alleged offender, the complainant, the alleged offender and any witnesses must be made aware of this retaliation awareness document.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R278",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 83,
+    "text": "All Service members and Department of the Navy personnel who make a protected communication must be free from retaliation as defined in appendix B of OPNA VINST 5354. lJ.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R279",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 83,
+    "text": "The CCS or CMEO program manager must ensure Service members understand the types of retaliatory defined in OPNA VINST 5354. lJ.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "5354.1J-R280",
+    "doc_id": "5354.1J",
+    "doc_type": "OPNAVINST",
+    "doc_number": "OPNAVINST 5354",
+    "title": "NAVY HARASSMENT PREVENTION AND MILITARY EQUAL OPPORTUNITY",
+    "publication_date": "5 Jun 2025",
+    "page": 83,
+    "text": "The chain of command of the complainant and the chain of command of the alleged offender will not: a.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  }
+]

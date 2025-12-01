@@ -1,0 +1,226 @@
+[
+  {
+    "requirement_id": "NAV25210-R1",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 1,
+    "text": "The Department of Defense (DoD) policy is the GTCC will be used by all eligible DoD travelers to pay for costs related to official government travel.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "NAV25210-R2",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Commanders must ensure GTCC training is conducted at the following website utilizing Microsoft Edge browser: https://secure.defensetravel.dod.mil/neowbtraining/Travel_Card/lessons/index. php.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "NAV25210-R3",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Additionally, in coordination with the Supply officer and Command Pay and Personnel Administrator (CPPA), Sailors must be counseled by the Command Financial Specialist or Agency Program Coordinator (APC) on proper GTCC use prior to detaching for a PCS.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "NAV25210-R4",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "The command must document the training with a signed Page 13 during the command check-in/checkout process.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "NAV25210-R5",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "This counseling must also include a signed DD Form 3120 Statement of Understanding and be retained on file.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "NAV25210-R6",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Dislocation Allowance is an unauthorized use for the GTCC and will be provided as an advance.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "NAV25210-R7",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Sailors must check-out with their detaching APC to confirm a zero dollar balance on the GTCC, provide updated contact information, and verify their GTCC is ready for use.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "NAV25210-R8",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Detaching APCs must review CitiManager to ensure the traveler's GTCC account is in PCS mission critical status 5 days prior to the approved detachment date and ensure it remains in PCS mission critical status for the duration of the travel period.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "NAV25210-R9",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Sailors must work with their detaching APC during the travel period for credit limit increases.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "NAV25210-R10",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Sailors will check-in with the gaining CPPA to submit their travel voucher to Transaction Service Center (TSC) Memphis via Enterprise Customer Relationship Management (eCRM) within 5 working days and before executing any permissive TDY.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "NAV25210-R11",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Commands not supported by TSC Memphis, such as carriers and sub- tenders and who have their own Accounting and Disbursing Station Number (ADSN), will submit PCS travel claims to their respective PCS travel office for processing.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "NAV25210-R12",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Cardholders must ensure all required receipts are submitted with their travel claim and review their GTCC account for accuracy.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "NAV25210-R13",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "GTCC must be paid in full upon travel claim liquidation.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "NAV25210-R14",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Sailors will be reimbursed for PCS expenses up to their maximum entitlement and all available funds due will be used to pay off GTCC balance.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "NAV25210-R15",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 2,
+    "text": "Service Members must each use their own GTCC for respective PCS expenses (meals, fuel, etc.) and file separate travel vouchers for individual travel. b.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  },
+  {
+    "requirement_id": "NAV25210-R16",
+    "doc_id": "NAV25210",
+    "doc_type": "NAVADMIN",
+    "doc_number": "NAVADMIN 210/25",
+    "title": "MANDATORY USE OF THE GOVERNMENT TRAVEL CHARGE CARD (GTCC) DURING PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+    "publication_date": "OCT 25",
+    "page": 3,
+    "text": "Sailors must pay CitiBank directly for TLA expenses. c.",
+    "modal_triggers": [
+      "must"
+    ],
+    "modality": "must"
+  }
+]
