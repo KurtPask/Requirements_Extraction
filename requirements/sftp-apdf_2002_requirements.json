@@ -1,0 +1,814 @@
+[
+  {
+    "requirement_id": "A-50-9906/A-R1",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 2,
+    "text": "The goal is to increase flight crew readiness and combat capabilities while achieving training economy and efficiency.",
+    "modal_triggers": [
+      "is to"
+    ],
+    "modality": "is to"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R2",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 2,
+    "text": "Initial Operational Capability (IOC) was first quarter Fiscal Year (FY) 02 and ship installs will continue through FY03 based on availability.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R3",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 2,
+    "text": "A Software Database Administrator position staffed by Contractor personnel located at Naval Strike and Air Warfare Center (NSAWC) will perform data and courseware entry and afloat support.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R4",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 2,
+    "text": "SFTIs assigned to NSAWC will serving as Subject Matter Experts (SME) and will perform lecture and courseware review and integration functions.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R5",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 3,
+    "text": "BAH will perform maintenance on the hardware during the warranty period.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R6",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 3,
+    "text": "The goal is to provide one SFTI to each Fighter Attack Squadron (VFA) F/A-18A/C/E, two (one pilot, one Radar Intercept Officer (RIO)) to each Fighter Squadron (VF), and two (one pilot, one Weapons Sensor Officer (WSO)) to each VFA F/A-18F squadron.",
+    "modal_triggers": [
+      "is to"
+    ],
+    "modality": "is to"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R7",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 3,
+    "text": "In most instances, prior to an SFTI serving as a squadron Training Officer, he or she will serve a shore tour assignment as an NSAWC instructor, TWWS instructor, Fleet Replacement Squadron (FRS) instructor or weapons test instructor.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R8",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 3,
+    "text": "In addition to SFTS- related training, the Naval Strike and Air Warfare Center is responsible for follow-on training of SFTIs.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R9",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 10,
+    "text": "SFTP is comprised of three components called \u201cpillars\u201d: \u2022 Strike Fighter Tactics Instructor (SFTI) \u2022 Strike Fighter Weapons and Tactics (SFWT) Syllabus \u2022 Strike Fighter Training System (SFTS) The goal of the SFTP is to increase aircrew readiness and combat capabilities while achieving training economies and efficiencies.",
+    "modal_triggers": [
+      "is to"
+    ],
+    "modality": "is to"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R10",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 12,
+    "text": "The SFTI course objective is to graduate officers who are fully qualified to execute the Strike Fighter Weapons and Tactics (SFWT) program and provide internal training and external evaluation at the fleet squadron level.",
+    "modal_triggers": [
+      "is to"
+    ],
+    "modality": "is to"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R11",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 12,
+    "text": "The syllabus objective is to maximize tactical proficiency and increase combat effectiveness.",
+    "modal_triggers": [
+      "is to"
+    ],
+    "modality": "is to"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R12",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 12,
+    "text": "A five-tiered (Levels I-V) approach in designation of aircrew will be employed.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R13",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 12,
+    "text": "(SFTI Designation) The SFWT syllabus and associated qualification and currency guidance will be promulgated via a joint Type Wing instruction.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R14",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 13,
+    "text": "NMCI will periodically update the hardware, software, and networks to keep up with current technology.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R15",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 13,
+    "text": "SFTS computers will be used by the Type Wing Weapons School (TWWS) and fleet aircrew to deliver training, deliver reference material, schedule squadron and unit events, generate reports of aircrew qualification status, and track aircrew certification and training via ETJs.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R16",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 13,
+    "text": "The Training Management System (TMS) portion of SFTS is called Strike Fighter On Line (SFOL), which will become Air Combat On Line (ACOL) in ACTC.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R17",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 14,
+    "text": "Provides a full spectrum management from ground-based training through the briefing for a training event, the event, and post-event debriefing process, including tools for reviewing aircrew progress and remediation. \u2022 Will be able to assess training system effectiveness, and provide tools for measuring and reporting squadron readiness via Sierra Hotel Aviation Readiness Program (SHARP). \u2022 Managing, measuring, and reporting all aircrew qualifications, proficiency, and currency, ensuring that access to squadron level data is controlled so that all data is available at the squadron level, but access by others is limited.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R18",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 14,
+    "text": "The Information Management System\u2019s purpose is to: \u2022 Disseminate data by generating aircrew qualification reports. \u2022 Track aircrew certification and training. \u2022 Provide access to reference materials.",
+    "modal_triggers": [
+      "is to"
+    ],
+    "modality": "is to"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R19",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 14,
+    "text": "Each server will have two sets of duplicate hardware that will meet the requirements of IT21 and NMCI specifications at the time of delivery.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R20",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 16,
+    "text": "Introduction of SFTIs to the fleet began in third quarter Fiscal Year (FY) 95 and training of new SFTIs will continue indefinitely.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R21",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 16,
+    "text": "The academic portion of the SFWT syllabus will be introduced to the fleet in second quarter FY02.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R22",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 16,
+    "text": "Revision and Upgrades to the first delivered syllabi will begin at that time.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R23",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 16,
+    "text": "SFTP will serve as the benchmark or prototype program for all other programs developed for the ACTC.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R24",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 16,
+    "text": "This infrastructure is necessary if realistic F/A-18 and F-14 mission planning and training functions are to be achieved.",
+    "modal_triggers": [
+      "are to"
+    ],
+    "modality": "are to"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R25",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 17,
+    "text": "A System LAN Administrator provided by NMCI, Government Service, Contractor, or Military Automated Information Specialist will be required at NSAWC, SFWSP, and SFWSL to maintain the government LAN. b.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R26",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 17,
+    "text": "The SIPERNET WAN will be used for secure modes to protect from external sources.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R27",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 17,
+    "text": "SIPERNET WAN will link to NSAWC, F-14 and F/A-18 squadrons, Strike Fighter Weapons Schools, and CV/CVNs as illustrated below: SIPRNET Strike Fighter Training System Maintenance Management Data Aircraft and Mission Data Intelligence Sources/ Services Weapons System Database Brief-Debrief Services Missions Planning Services Joint USAF/ Multi-National Tactical Systems TRAX NALCOMIS Range Schedules e-mail JICPAC NSA DIA MACE JMEM TACTS Weather GCI TAMPS Readiness Reporting System (SHARP)",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R28",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 18,
+    "text": "In second quarter FY02, the TYCOMs and NSAWC will assume operation and support of the program.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R29",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 18,
+    "text": "The ESC is responsible for SFTP oversight, providing executive level management and requirements/policy decision making for major SFTP issues.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R30",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 18,
+    "text": "The SFTIs at NSAWC, SFWSL, SFWSP, and fleet squadrons will have the ability to deliver training, schedule squadron and/or unit events, generate aircrew qualification reports, and track aircrew certification and training 24 hours a day, whether ashore or afloat.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R31",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "NMCI, command, or base Automated Information Specialist personnel will perform organizational level maintenance on SFTS hardware.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R32",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "BAH will assist or will perform organizational level maintenance during the warranty period (approximately two years).",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R33",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "Government Service or contractor personnel will be located at all Strike Fighter locations to load courseware, assist SFTIs with account maintenance security, and monitor the overall status of the local server.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R34",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "The Software Database Administrator will monitor the overall status of all SFTS servers, including those afloat and at forward-deployed stations, and perform preventive and corrective maintenance.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R35",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "CVs and CVNs afloat will have an Information Technology Specialist (IT) that should be familiar with the SOP provided during the installation.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R36",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "An adequately trained IT with experience or training in System Administration skills for NT, IIS, and database administration will be able to handle most if not all discrepancies with the SFTS server.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R37",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "Preventive maintenance actions will consist of scheduled system backups, periodic defragmentation of disk drives, and general cleaning.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R38",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "Corrective maintenance will consist of replacing failed LRUs and rebuilding corrupted files. b.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R39",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "Depot level repair of SFTS will be conducted by NMCI or Automated Information Specialist personnel. d.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R40",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "BAH will provide the interim maintenance for the SFTS hardware and associated SFOL during the warranty period (approximately two years), ending in fourth quarter FY02. e.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R41",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "Components will be repaired or replaced as they fail.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R42",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "The SFTIs will conduct training, schedule squadron and unit events, generate aircrew qualification status reports, and track aircrew certification and training.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R43",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 19,
+    "text": "Additionally, SFTIs at NSAWC will continually monitor training materials for accuracy and currency.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R44",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 20,
+    "text": "I-12 NSAWC is responsible for training SFTIs.",
+    "modal_triggers": [
+      "is responsible for"
+    ],
+    "modality": "is responsible for"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R45",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 20,
+    "text": "The following are requirements to attend the SFTI courses: \u2022 Endorsement by Commanding Officer, Air Wing Commander, or Type Wing Commander with emphasis on leadership, tactical ability, aviation skills, and instructing capability. \u2022 Selection by Type Wing selection board, which will convene prior to class convening dates. \u2022 Acknowledging acceptance to the SFTI course requires a 24-month active duty sea duty obligation after completion of a shore duty assignment at NSAWC, TWWS, FRS, or Air Test Squadron and after completion of the SFTI course.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R46",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 20,
+    "text": "SFTIs serve as the cornerstone of the SFWT program and are responsible for conducting training, generating aircrew qualification reports, and tracking aircrew certification and training at their sites.",
+    "modal_triggers": [
+      "are responsible for"
+    ],
+    "modality": "are responsible for"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R47",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 20,
+    "text": "Simulator and flight events will be representative of those listed in the community Training and Readiness Matrix (T&RM), and are not additional events beyond those listed in the T&RM.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R48",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 20,
+    "text": "The SFWT syllabus also has external standardization evaluation within a five-tiered approach. \u2022 Level I .......FRS Complete \u2022 Level II......Combat Wingman \u2022 Level III.....Combat Section Lead \u2022 Level IV.....Combat Division Lead \u2022 Level V......SFTI Designation SFTIs will maintain training records for all aircrew members at their respective squadrons on SFTS.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R49",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 20,
+    "text": "These records are kept as part of the SFOL database and will be used to track the following information: \u2022 Qualification \u2022 Academic Completions \u2022 Open and Closed Book Examinations \u2022 Trainer and Flight Event Grade Sheets \u2022 Certifications \u2022 Unsatisfactory Events \u2022 External Standard Evaluations \u2022 Level 2, 3, and 4 Wing Recommendations",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R50",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 23,
+    "text": "SFTIs will use the SFTS program at each site to manage the SFTP and ensure the development of highly trained aircrews. a.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R51",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 24,
+    "text": "The maintenance and repair of the SFTS will be performed by BAH during the warranty period of one year, funded by PMA205.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R52",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 25,
+    "text": "I-17 After the expiration of the warranty period, maintenance and repair cost will be funded through the TYCOMs.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R53",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 25,
+    "text": "If this changes it will be included in updates to this document.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R54",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 26,
+    "text": "Installation of hardware and software will be required at NSAWC, SFWSP, SFWSL, SWATSLANT, CVs, and CVNs.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R55",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 26,
+    "text": "SFTS will be ready for operational use upon completion of installation.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R56",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 30,
+    "text": "OPERATIONAL AND FLEET SUPPORT ACTIVITY ACTIVATION SCHEDULE SOURCE: Total Force Manpower Management System Activity Manpower Documents DATE: 10/1/2001 ACTIVITY, UIC PFYs CFY02 FY03 FY04 FY05 FY06 TOTAL: 41 0 0 1 0 0 OPERATIONAL ACTIVITIES - USMC MAWTS 1 55167 1 0 0 0 0 0 TOTAL: 1 0 0 0 0 0 FLEET SUPPORT ACTIVITIES - NAVY Strike Fighter Weapons School Atlantic 47084 1 0 0 0 0 0 Strike Weapons and Tactics School Atlantic 47157 1 0 0 0 0 0 NSAWC 69190 1 0 0 0 0 0 Strike Fighter Weapons School Pacific 35185 1 0 0 0 0 0 TOTAL: 4 0 0 0 0 0 Note: The Commands listed in this element will have SFTS installed.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R57",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 37,
+    "text": "BILLETS REQUIRED FOR OPERATIONAL AND FLEET SUPPORT ACTIVITIES BILLETS DESIG/ PNEC/ SNEC/ ACTIVITY, UIC, PHASING INCREMENT OFF ENL RATING PMOS SMOS VFA 27, 65185 ACDU 1 0 1310 ACTIVITY TOTAL: 1 0 VFA 94, 09295 ACDU 1 0 1310 ACTIVITY TOTAL: 1 0 VFA 97, 63923 ACDU 1 0 1310 ACTIVITY TOTAL: 1 0 FLEET SUPPORT ACTIVITIES - NAVY Strike Fighter Weapons School Atlantic, 47084 ACDU 1 0 1310 10 0 1312 ACTIVITY TOTAL: 11 0 Strike Weapons and Tactics School Atlantic, 47157 ACDU 13 0 1302 5 0 1310 1 0 1320 11 0 1322 ACTIVITY TOTAL: 30 0 Strike Fighter Weapons School Pacific, 35185 ACDU 1 0 1310 15 0 1312 3 0 1322 ACTIVITY TOTAL: 19 0 Note: The Commands listed in this element will have SFTIs assigned.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  },
+  {
+    "requirement_id": "A-50-9906/A-R58",
+    "doc_id": "A-50-9906/A",
+    "doc_type": "NTSP",
+    "doc_number": "A-50-9906/A",
+    "title": "NAVY TRAINING SYSTEM PLAN FOR THE STRIKE FIGHTER TRAINING PROGRAM",
+    "publication_date": "MAY 2002",
+    "page": 40,
+    "text": "CHARGEABLE STUDENT BILLET REQUIREMENTS ACTIVITY, USN/ PFYs CFY02 FY03 FY04 FY05 FY06 LOCATION, UIC USMC OFF ENL OFF ENL OFF ENL OFF ENL OFF ENL OFF ENL Naval Strike and Air Warfare Center (TOPGUN), NAS Fallon, 69190 NAVY 0.0 0.0 0.0 0.0 0.0 0.0 SUMMARY TOTALS: NAVY 0.0 0.0 0.0 0.0 0.0 0.0 GRAND TOTALS: 0.0 0.0 0.0 0.0 0.0 0.0 Note: SFTIs will not be chargeable.",
+    "modal_triggers": [
+      "will"
+    ],
+    "modality": "will"
+  }
+]
