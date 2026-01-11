@@ -2,7 +2,7 @@
 
 import json
 from pathlib import Path
-from typing import Dict, List, Any
+from typing import Dict, List, Any, Optional
 
 from .requirements_schema import Requirement, requirement_to_dict
 from .requirements_candidates import sentences_to_candidates, SentenceSpan
@@ -10,9 +10,6 @@ from .requirements_llm import requirements_from_span
 
 
 def load_metadata_dir(metadata_dir: str) -> Dict[str, Dict[str, Any]]:
-    """
-    Load all *_metadata.json files and index by document stem (e.g. '1500.76E').
-    """
     metadata_dir_path = Path(metadata_dir)
     meta_index: Dict[str, Dict[str, Any]] = {}
 
@@ -20,10 +17,8 @@ def load_metadata_dir(metadata_dir: str) -> Dict[str, Dict[str, Any]]:
         with path.open("r", encoding="utf-8") as f:
             data = json.load(f)
 
-        # Support single-object files or list-wrapped files
-        if isinstance(data, list):
-            if len(data) == 0:
-                continue
+        # Support list-wrapped files
+        if isinstance(data, list) and data:
             data = data[0]
 
         if not isinstance(data, dict):
@@ -42,27 +37,32 @@ def load_metadata_dir(metadata_dir: str) -> Dict[str, Dict[str, Any]]:
 def extract_requirements_for_text_file(
     text_path: str,
     metadata_by_stem: Dict[str, Dict[str, Any]],
+    max_candidates: Optional[int] = None,
 ) -> List[Requirement]:
     """
     Extract requirements from a single parsed text file.
+    Demo-friendly: cap candidate sentences to keep runtime/cost predictable.
     """
     text_path_obj = Path(text_path)
-    file_stem = text_path_obj.stem  # e.g. "1500.76E"
+    file_stem = text_path_obj.stem
 
-    meta = metadata_by_stem.get(file_stem, {"file_name": file_stem + ".pdf"})
+    meta = metadata_by_stem.get(file_stem)
+    if not meta:
+        raise FileNotFoundError(f"No metadata found for doc stem '{file_stem}'")
+
     file_name = meta.get("file_name", file_stem + ".pdf")
 
-    # Load the text
     with text_path_obj.open("r", encoding="utf-8", errors="ignore") as f:
         text = f.read()
 
-    # Base metadata that will be passed into each SentenceSpan
     base_meta_for_span = {
         "doc_type": meta.get("doc_type"),
         "title": meta.get("title"),
+        "publication_date": meta.get("publication_date"),
+        "doc_number": meta.get("doc_number"),
     }
 
-    # --- STEP 1: Find requirement-like sentences -------------------------
+    # STEP 1: candidate sentences
     candidate_spans: List[SentenceSpan] = sentences_to_candidates(
         doc_id=file_stem,
         file_name=file_name,
@@ -72,63 +72,66 @@ def extract_requirements_for_text_file(
         base_metadata=base_meta_for_span,
     )
 
-    # TEMP CAP for debugging + cost control
-    #MAX_CANDIDATES = 25  # <--- change to None or remove when ready
-    #candidate_spans = candidate_spans[:MAX_CANDIDATES]
+    total_found = len(candidate_spans)
 
-    total = len(candidate_spans)
-    print(f"[INFO] {file_name}: found {total} candidate requirement sentences.")
+    if max_candidates is not None:
+        candidate_spans = candidate_spans[:max_candidates]
 
-    # --- STEP 2: Extract structured requirements --------------------------
+    print(
+        f"[INFO] {file_name}: found {total_found} candidate sentences "
+        f"(running {len(candidate_spans)})."
+    )
+
+    # STEP 2: LLM extraction
     all_requirements: List[Requirement] = []
+    total = len(candidate_spans)
 
     for i, span in enumerate(candidate_spans, start=1):
         print(f"[INFO] {file_name}: extracting sentence {i}/{total}...")
-
         try:
             reqs = requirements_from_span(span)
             all_requirements.extend(reqs)
         except Exception as e:
-            print(
-                f"[WARN] LLM extraction failed for {file_name} "
-                f"(sentence index {span.sentence_index}): {e}"
-            )
+            print(f"[WARN] LLM extraction failed for {file_name} (s={span.sentence_index}): {e}")
 
     return all_requirements
 
 
-def batch_extract_requirements(
+def extract_one_file_to_jsonl(
+    doc_stem: str,
     parsed_text_dir: str,
     metadata_dir: str,
     output_path: str,
-) -> None:
+    max_candidates: Optional[int] = None,
+    max_requirements: Optional[int] = None,
+) -> int:
     """
-    Main batch entrypoint.
+    Extract requirements from EXACTLY ONE document and write JSONL.
+    Returns number of requirements written.
+    """
+    parsed_path = Path(parsed_text_dir) / f"{doc_stem}.txt"
+    if not parsed_path.exists():
+        raise FileNotFoundError(f"Parsed text not found: {parsed_path}")
 
-    Processes ALL .txt files in parsed_text_dir and writes all requirements
-    into a single JSONL file (one requirement per line).
-    """
     metadata_by_stem = load_metadata_dir(metadata_dir)
+    if doc_stem not in metadata_by_stem:
+        raise FileNotFoundError(f"Metadata not found: {Path(metadata_dir) / (doc_stem + '_metadata.json')}")
 
-    parsed_text_dir_path = Path(parsed_text_dir)
+    reqs = extract_requirements_for_text_file(
+        text_path=str(parsed_path),
+        metadata_by_stem=metadata_by_stem,
+        max_candidates=max_candidates,
+    )
+
+    if max_requirements is not None:
+        reqs = reqs[:max_requirements]
+
     out_path = Path(output_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
 
-    text_files = sorted(parsed_text_dir_path.glob("*.txt"))
-    print(f"[INFO] Found {len(text_files)} parsed text files.")
-
-    # Overwrite any existing requirements.jsonl
     with out_path.open("w", encoding="utf-8") as out_f:
-        for text_path in text_files:
-            print(f"[INFO] Processing {text_path} ...")
+        for req in reqs:
+            out_f.write(json.dumps(requirement_to_dict(req)) + "\n")
 
-            reqs = extract_requirements_for_text_file(
-                text_path=str(text_path),
-                metadata_by_stem=metadata_by_stem,
-            )
-
-            for req in reqs:
-                out_f.write(json.dumps(requirement_to_dict(req)) + "\n")
-
-    print(f"[INFO] Done. Wrote requirements to {out_path}")
-
+    print(f"[INFO] Wrote {len(reqs)} requirements to {out_path}")
+    return len(reqs)

@@ -122,7 +122,7 @@ def call_llm(prompt: str) -> str:
                 "content": prompt,
             },
         ],
-        temperature=0.1,
+        temperature=0,
     )
     return response.choices[0].message.content
 
