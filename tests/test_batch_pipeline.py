@@ -55,3 +55,37 @@ def test_batch_extract_requirements_writes_output(tmp_path, monkeypatch):
     assert count == 2
     lines = output.read_text(encoding="utf-8").strip().splitlines()
     assert len(lines) == 2
+
+
+def test_load_metadata_dir_skips_invalid_and_non_object_files(tmp_path, capsys):
+    metadata = tmp_path / "metadata"
+    metadata.mkdir()
+
+    (metadata / "bad_metadata.json").write_text("{not json}", encoding="utf-8")
+    (metadata / "list_metadata.json").write_text(json.dumps(["invalid"]), encoding="utf-8")
+    (metadata / "good_metadata.json").write_text(
+        json.dumps({"file_name": "good.pdf", "doc_type": "INST"}), encoding="utf-8"
+    )
+
+    from requirements_extraction.requirements_pipeline import load_metadata_dir
+
+    loaded = load_metadata_dir(str(metadata))
+
+    assert "good" in loaded
+    assert "bad" not in loaded
+    assert "list" not in loaded
+
+    captured = capsys.readouterr()
+    assert "Skipping invalid metadata file bad_metadata.json" in captured.out
+    assert "Skipping metadata file list_metadata.json" in captured.out
+
+
+def test_load_metadata_dir_raises_for_missing_directory(tmp_path):
+    from requirements_extraction.requirements_pipeline import load_metadata_dir
+
+    missing_dir = tmp_path / "missing"
+    try:
+        load_metadata_dir(str(missing_dir))
+        assert False, "expected FileNotFoundError"
+    except FileNotFoundError as exc:
+        assert "Metadata directory not found" in str(exc)
