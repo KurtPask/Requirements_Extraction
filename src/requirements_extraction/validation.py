@@ -65,6 +65,7 @@ def validate_jsonl(path: str | Path) -> list[str]:
     """Validate a JSONL file and return error messages with line numbers."""
     path = Path(path)
     errors: list[str] = []
+    requirement_id_lines: dict[str, int] = {}
 
     with path.open("r", encoding="utf-8") as handle:
         for line_no, line in enumerate(handle, start=1):
@@ -79,6 +80,17 @@ def validate_jsonl(path: str | Path) -> list[str]:
             if not isinstance(record, dict):
                 errors.append(f"line {line_no}: record must be a JSON object")
                 continue
+
+            requirement_id = record.get("requirement_id")
+            if isinstance(requirement_id, str) and requirement_id.strip():
+                first_seen_line = requirement_id_lines.get(requirement_id)
+                if first_seen_line is not None:
+                    errors.append(
+                        f"line {line_no}: duplicate requirement_id '{requirement_id}' "
+                        f"(first seen on line {first_seen_line})"
+                    )
+                else:
+                    requirement_id_lines[requirement_id] = line_no
 
             record_errors = validate_requirement_record(record)
             errors.extend([f"line {line_no}: {msg}" for msg in record_errors])

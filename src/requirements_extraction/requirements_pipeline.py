@@ -10,17 +10,25 @@ from .requirements_candidates import sentences_to_candidates, SentenceSpan
 
 def load_metadata_dir(metadata_dir: str) -> Dict[str, Dict[str, Any]]:
     metadata_dir_path = Path(metadata_dir)
+    if not metadata_dir_path.exists():
+        raise FileNotFoundError(f"Metadata directory not found: {metadata_dir_path}")
+
     meta_index: Dict[str, Dict[str, Any]] = {}
 
     for path in metadata_dir_path.glob("*_metadata.json"):
-        with path.open("r", encoding="utf-8") as f:
-            data = json.load(f)
+        try:
+            with path.open("r", encoding="utf-8") as f:
+                data = json.load(f)
+        except json.JSONDecodeError as exc:
+            print(f"[WARN] Skipping invalid metadata file {path.name}: {exc}")
+            continue
 
         # Support list-wrapped files
         if isinstance(data, list) and data:
             data = data[0]
 
         if not isinstance(data, dict):
+            print(f"[WARN] Skipping metadata file {path.name}: expected an object.")
             continue
 
         stem = path.name.replace("_metadata.json", "")

@@ -35,3 +35,22 @@ def test_validate_jsonl_reports_errors(tmp_path):
     assert any("source.file_name" in err for err in errors)
     assert any("subject.raw_text" in err for err in errors)
     assert any("action.verb" in err for err in errors)
+
+
+def test_validate_jsonl_reports_duplicate_requirement_id(tmp_path):
+    record = {
+        "requirement_id": "dup-1",
+        "source": {"file_name": "doc1.pdf"},
+        "subject": {"raw_text": "Commanding officers"},
+        "modality_raw": "shall",
+        "modality_normalized": "mandatory",
+        "action": {"verb": "maintain"},
+    }
+
+    path = tmp_path / "dups.jsonl"
+    with path.open("w", encoding="utf-8") as handle:
+        handle.write(json.dumps(record) + "\n")
+        handle.write(json.dumps(record) + "\n")
+
+    errors = validate_jsonl(path)
+    assert any("duplicate requirement_id 'dup-1'" in err for err in errors)
